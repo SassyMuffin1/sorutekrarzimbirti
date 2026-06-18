@@ -1,0 +1,36 @@
+# Intermediate and temporary folders
+.tmp/
+
+# Environment configurations and API keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Google OAuth Credentials
+credentials.json
+token.json
+
+# Python virtual environment and dependencies
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Databases
+questions.db
+action_logs.db
+
