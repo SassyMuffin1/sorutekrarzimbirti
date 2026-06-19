@@ -100,18 +100,71 @@ def get_due_questions():
             elif difficulty_filter == "easy":
                 query += " AND ease_factor > 2.4"
                 
-        if sort_filter == "oldest":
-            query += " ORDER BY next_review ASC"
-        elif sort_filter == "hardest":
-            query += " ORDER BY ease_factor ASC"
-        else:
-            query += " ORDER BY created_at DESC"
-            
         cursor.execute(query, params)
         rows = cursor.fetchall()
         conn.close()
         
         questions = [dict(row) for row in rows]
+        
+        # Apply sorting logic in Python
+        if sort_filter == "oldest":
+            questions.sort(key=lambda x: x.get("next_review") or "")
+        elif sort_filter == "hybrid_due":
+            from datetime import datetime
+            import random
+            now = datetime.now()
+            offset = 315360000  # 10 years in seconds
+            for q in questions:
+                nr_str = q.get("next_review")
+                try:
+                    nr_dt = datetime.strptime(nr_str, "%Y-%m-%d %H:%M:%S")
+                except:
+                    nr_dt = now
+                diff_seconds = (now - nr_dt).total_seconds()
+                
+                # Apply Jitter (Idea A) to ease_factor in the formula
+                ef = (q.get("ease_factor") or 2.5) + random.uniform(-0.15, 0.15)
+                q["_hybrid_score"] = (diff_seconds + offset) / max(1.0, ef)
+                
+            questions.sort(key=lambda x: x["_hybrid_score"], reverse=True)
+            
+            # Apply Interleaving (Idea B)
+            groups = {}
+            for q in questions:
+                k = q.get("kurul_adi") or "genel"
+                groups.setdefault(k, []).append(q)
+            
+            interleaved = []
+            group_keys = sorted(list(groups.keys()))
+            while any(len(groups[k]) > 0 for k in group_keys):
+                for k in group_keys:
+                    if len(groups[k]) > 0:
+                        interleaved.append(groups[k].pop(0))
+            questions = interleaved
+
+        elif sort_filter == "hardest":
+            import random
+            for q in questions:
+                # Apply Jitter (Idea A)
+                q["_sort_score"] = (q.get("ease_factor") or 2.5) + random.uniform(-0.15, 0.15)
+            questions.sort(key=lambda x: x["_sort_score"])
+            
+            # Apply Interleaving (Idea B)
+            groups = {}
+            for q in questions:
+                k = q.get("kurul_adi") or "genel"
+                groups.setdefault(k, []).append(q)
+                
+            interleaved = []
+            group_keys = sorted(list(groups.keys()))
+            while any(len(groups[k]) > 0 for k in group_keys):
+                for k in group_keys:
+                    if len(groups[k]) > 0:
+                        interleaved.append(groups[k].pop(0))
+            questions = interleaved
+            
+        else: # newest
+            questions.sort(key=lambda x: x.get("created_at") or "", reverse=True)
         return jsonify(questions)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -918,6 +971,23 @@ def get_advanced_stats():
         db_cursor.execute("SELECT COUNT(*) FROM questions WHERE ease_factor > 2.4 AND is_archived = 0")
         easy_count = db_cursor.fetchone()[0]
         
+        # Detailed difficulty distribution (bins of ease_factor in steps of 0.05)
+        db_cursor.execute("SELECT ease_factor FROM questions WHERE is_archived = 0")
+        ease_factors = [row[0] for row in db_cursor.fetchall()]
+        
+        bin_size = 0.05
+        num_bins = int(round((3.0 - 1.3) / bin_size)) + 1
+        bins = [round(1.3 + i * bin_size, 2) for i in range(num_bins)]
+        
+        detailed_breakdown = {f"{b:.2f}": 0 for b in bins}
+        for ef in ease_factors:
+            if ef is not None:
+                ef_clamped = max(1.3, min(3.0, ef))
+                bin_idx = int(round((ef_clamped - 1.3) / bin_size))
+                if 0 <= bin_idx < len(bins):
+                    label = f"{bins[bin_idx]:.2f}"
+                    detailed_breakdown[label] += 1
+        
         db_cursor.execute("SELECT kurul_adi, COUNT(*) FROM questions WHERE kurul_adi IS NOT NULL AND is_archived = 0 GROUP BY kurul_adi")
         kurul_counts = {row[0]: row[1] for row in db_cursor.fetchall()}
         
@@ -961,6 +1031,7 @@ def get_advanced_stats():
                 "medium": medium_count,
                 "easy": easy_count
             },
+            "detailed_difficulty": detailed_breakdown,
             "kurul_breakdown": kurul_counts,
             "today": {
                 "total_reviews": total_reviews_today,
@@ -1058,6 +1129,40 @@ def bulk_update_answer_key():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
-    # Run on all interfaces to allow access from local network
-    print("Starting Spaced Repetition App on local network...")
+    import socket
+    import subprocess
+    
+    def get_tailscale_ip():
+        try:
+            # Try running tailscale CLI
+            result = subprocess.run(["tailscale", "ip", "-4"], capture_output=True, text=True, timeout=2)
+            if result.returncode == 0 and result.stdout.strip():
+                return result.stdout.strip()
+        except Exception:
+            pass
+            
+        try:
+            # Fallback: scan local interface IPs in 100.64.x.x - 100.127.x.x range
+            hostname = socket.gethostname()
+            for ip in socket.gethostbyname_ex(hostname)[2]:
+                parts = ip.split('.')
+                if len(parts) == 4 and parts[0] == '100':
+                    if 64 <= int(parts[1]) <= 127:
+                        return ip
+        except Exception:
+            pass
+        return None
+
+    print("\n" + "="*70)
+    print("  🩺 TIPTA SORU TEKRAR ARACI BAŞLATILIYOR...")
+    print(f"  Yerel Erişim Adresi:   http://localhost:5000")
+    
+    ts_ip = get_tailscale_ip()
+    if ts_ip:
+        print(f"  Tailscale Uzaktan Erişim Adresi: http://{ts_ip}:5000")
+    else:
+        print("  Tailscale aktif değil veya IP tespit edilemedi.")
+        print("  Güvenli uzaktan erişim için bilgisayarınızda Tailscale uygulamasını açın.")
+    print("="*70 + "\n")
+    
     app.run(host="0.0.0.0", port=5000, debug=True)

@@ -71,6 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupStudyFilters();
     setupSimilaritySlider();
     setupBulkAnswerKeyPanel();
+    setupSidebarToggle();
     
     // Load dashboard stats on start
     refreshDashboardStats();
@@ -90,6 +91,27 @@ function setupNavigation() {
 
     document.getElementById('btn-empty-go-dashboard').addEventListener('click', () => {
         switchPanel('dashboard');
+    });
+}
+
+function setupSidebarToggle() {
+    const toggleBtn = document.getElementById('btn-sidebar-toggle');
+    const sidebar = document.querySelector('.sidebar');
+    const appContainer = document.querySelector('.app-container');
+    
+    if (!toggleBtn || !sidebar || !appContainer) return;
+    
+    // Read state from localStorage
+    const isCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
+    if (isCollapsed) {
+        sidebar.classList.add('collapsed');
+        appContainer.classList.add('sidebar-collapsed');
+    }
+    
+    toggleBtn.addEventListener('click', () => {
+        const collapsed = sidebar.classList.toggle('collapsed');
+        appContainer.classList.toggle('sidebar-collapsed', collapsed);
+        localStorage.setItem('sidebarCollapsed', collapsed);
     });
 }
 
@@ -135,6 +157,7 @@ function switchPanel(panelKey) {
 
 // 2. Dashboard Loader
 let difficultyChartInstance = null;
+let detailedChartInstance = null;
 
 async function refreshDashboardStats() {
     try {
@@ -179,6 +202,7 @@ async function refreshDashboardStats() {
             document.getElementById('stat-today-success').textContent = `%${advStats.today.success_rate}`;
             
             renderDifficultyChart(advStats.difficulty_breakdown);
+            renderDetailedDifficultyChart(advStats.detailed_difficulty);
         }
     } catch (error) {
         console.error("Stats fetch error:", error);
@@ -223,6 +247,90 @@ function renderDifficultyChart(breakdown) {
                         font: {
                             family: 'Inter',
                             size: 11
+                        }
+                    }
+                }
+            }
+        }
+    });
+}
+
+function renderDetailedDifficultyChart(breakdown) {
+    const ctx = document.getElementById('chart-difficulty-detailed').getContext('2d');
+    
+    if (detailedChartInstance) {
+        detailedChartInstance.destroy();
+    }
+    
+    const labels = Object.keys(breakdown);
+    const data = Object.values(breakdown);
+    
+    // Create modern linear gradient for line fill
+    const gradient = ctx.createLinearGradient(0, 0, 0, 280);
+    gradient.addColorStop(0, 'rgba(139, 92, 246, 0.45)');
+    gradient.addColorStop(1, 'rgba(139, 92, 246, 0.01)');
+    
+    detailedChartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: 'Soru Sayısı',
+                data: data,
+                fill: true,
+                backgroundColor: gradient,
+                borderColor: '#a78bfa',
+                borderWidth: 2.5,
+                pointBackgroundColor: '#8b5cf6',
+                pointBorderColor: 'rgba(255, 255, 255, 0.7)',
+                pointRadius: 2,
+                pointHoverRadius: 5,
+                pointHitRadius: 10,
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `Soru Sayısı: ${context.parsed.y}`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        color: 'rgba(255, 255, 255, 0.05)'
+                    },
+                    ticks: {
+                        color: '#9ca3af',
+                        precision: 0,
+                        font: {
+                            family: 'Inter',
+                            size: 10
+                        }
+                    }
+                },
+                x: {
+                    grid: {
+                        display: false
+                    },
+                    ticks: {
+                        color: '#9ca3af',
+                        autoSkip: true,
+                        maxTicksLimit: 10,
+                        maxRotation: 0,
+                        font: {
+                            family: 'Inter',
+                            size: 10
                         }
                     }
                 }

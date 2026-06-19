@@ -17,6 +17,11 @@
     <div class="app-container">
         <!-- Sidebar Navigation -->
         <aside class="sidebar">
+            <button class="sidebar-toggle" id="btn-sidebar-toggle" title="Menüyü daralt/genişlet">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                </svg>
+            </button>
             <div class="brand">
                 <div class="brand-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
@@ -170,11 +175,17 @@
                         </div>
                     </div>
 
-                    <div style="display: grid; grid-template-columns: 1fr; gap: 2rem;">
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;">
                         <div class="card" style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; border-color: rgba(139, 92, 246, 0.15);">
-                            <h3 style="margin-bottom: 1rem;">Zorluk Derecesine Göre Soru Dağılımı</h3>
-                            <div style="width: 100%; max-width: 300px; height: 300px; margin-top: 1rem; position: relative;">
+                            <h3 style="margin-bottom: 1rem;">Zorluk Dağılımı (Genel)</h3>
+                            <div style="width: 100%; max-width: 280px; height: 280px; margin-top: 1rem; position: relative;">
                                 <canvas id="chart-difficulty"></canvas>
+                            </div>
+                        </div>
+                        <div class="card" style="display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; border-color: rgba(16, 185, 129, 0.15);">
+                            <h3 style="margin-bottom: 1rem;">Kolaylık Çarpanı Dağılımı (Detaylı)</h3>
+                            <div style="width: 100%; height: 280px; margin-top: 1rem; position: relative;">
+                                <canvas id="chart-difficulty-detailed"></canvas>
                             </div>
                         </div>
                     </div>
@@ -559,6 +570,7 @@
                                 <option value="newest">En Son Eklenenler</option>
                                 <option value="oldest">En Uzun Süredir Tekrar Edilmeyenler</option>
                                 <option value="hardest">En Zor Sorular (Önce)</option>
+                                <option value="hybrid_due">Öncelikli Tekrarlar (Zorluk + Gecikme)</option>
                             </select>
                         </div>
                     </div>
