@@ -34,14 +34,14 @@
       "B": "Çocuğa tıbbi süreci ebeveyn üzerinden aktarmak",
       "C": "Çocuğa doğrudan, yaşına uygun bir dil kullanarak hitap etmek",
       "D": "Çocuğun sorularını kısa tutarak süreci hızlandırmak",
-      "E": "Çocuğun duygusal tepkilerini göz ardı ederek"
+      "E": "Çocuğun duygusal tepkilerini göz ardı ederek fizik muayeneye odaklanmak"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 4,
-    "soru_koku": "fizik muayeneye odaklanmak Aşağıdakilerden hangisi infertil çift tedavisinde yer alır?",
+    "soru_koku": "Aşağıdakilerden hangisi infertil çift tedavisinde yer alır?",
     "secenekler": {
       "A": "Ovulasyon indüksiyonu",
       "B": "Ovulasyon indüksiyonu+IUI",
@@ -268,14 +268,14 @@
       "B": "İlk 5 yaşına kadar fimozis, fizyolojik olarak kabul edilir",
       "C": "Testisin tunika vaginalis yaprakları arasında periton sıvısınınbirikmesine hidrosel denir",
       "D": "Üretral meatusun penisin dorsal kısmına açılmasına hipospadias denir",
-      "E": "Prosessus vaginalisin açık kalması sonucu"
+      "E": "Prosessus vaginalisin açık kalması sonucu karın içi organların kanal içine herniye olmasına kordon kisti denir."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 22,
-    "soru_koku": "karın içi organların kanal içine herniye olmasına kordon kisti denir. 38 yaşında akciğer kanseri tanısıyla takipli olan kadın hasta bilinç bulanıklığı ve nöbet geçirme ile acil servise geliyor. Fizik muayenede tansiyonu 110/70 mmHg, solunum ve kardiyovasküler sistem muayenesi olagan, pretibial ödemi yok. Serum Na: 115 mEq/L. Bu hastada tanınız nedir tedavide ne yaparsınız?",
+    "soru_koku": "38 yaşında akciğer kanseri tanısıyla takipli olan kadın hasta bilinç bulanıklığı ve nöbet geçirme ile acil servise geliyor. Fizik muayenede tansiyonu 110/70 mmHg, solunum ve kardiyovasküler sistem muayenesi olagan, pretibial ödemi yok. Serum Na: 115 mEq/L. Bu hastada tanınız nedir tedavide ne yaparsınız?",
     "secenekler": {
       "A": "Övolemik hiponatremi- su kısıtlaması",
       "B": "Hipovolemik hiponatremi- % 3 NaCl tedavisi",
@@ -372,27 +372,27 @@
       "B": "Toplumsal cinsiyet eşitliği, kadın ve erkeklerin farklı ihtiyaçları dikkate alınarak farklı desteklenmesini ifade eder.",
       "C": "Toplumsal cinsiyet hakkaniyeti, kadın ve erkeklere her durumda eşit kaynakların verilmesini ifade eder.",
       "D": "Toplumsal cinsiyet, toplum tarafından belirlenen roller, davranışlar ve beklentilerle şekillenen bir kavramdır.",
-      "E": "Toplumsal cinsiyet ayrımcılığı yalnızca"
+      "E": "Toplumsal cinsiyet ayrımcılığı yalnızca ekonomik alanda ortaya çıkar."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 30,
-    "soru_koku": "ekonomik alanda ortaya çıkar. Aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Ülkemizde 1960 öncesinde pronatalist nüfus politikaları yürütülmüştür.",
       "B": "557 sayılı Nüfus Planlaması Kanunu (1965) 10 haftaya kadar olan gebeliklerin istek üzerine sonlandırılmasına izin vermiştir.",
       "C": "Ülkemizde en sık kullanılan aile planlaması yöntemi geri çekmedir.",
       "D": "2827 sayılı Nüfus Planlaması Kanunu (1983) sertifikalandırılmış pratisyen hekimlerin MR yöntemi ile gebelik sonlandırmasına izin vermiştir.",
-      "E": "2827 sayılı Nüfus Planlaması Kanunu (1983)"
+      "E": "2827 sayılı Nüfus Planlaması Kanunu (1983) kadın ve erkekte cerrahi sterilizasyon yöntemini serbest bırakmıştır."
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 31,
-    "soru_koku": "kadın ve erkekte cerrahi sterilizasyon yöntemini serbest bırakmıştır. Potasyum metabolizmasına ilişkin önermelerden kaçı doğrudur? 1)Plazma potasyum düzeyi vücut total potasyum içeriği hakkında bilgi vermez. 2)Asidoz hipokalemiyi hücresel shift-translokasyon yolu ile derinleştirir. 3)Acil hiperkalemi tedavisinde ilk seçenek IV (intra-venöz) magnezyumdur. 4)İnsülin verilmeden yapılan hipertonik dekstroz- glükoz infüzyonu diyabetiklerdeki hiperkalemi tedavisinin vazgeçilmez koşuludur. 5)Metabolik ve respiratuar alkaloz hiperkalemiyi derinleştirir.",
+    "soru_koku": "Potasyum metabolizmasına ilişkin önermelerden kaçı doğrudur? 1)Plazma potasyum düzeyi vücut total potasyum içeriği hakkında bilgi vermez. 2)Asidoz hipokalemiyi hücresel shift-translokasyon yolu ile derinleştirir. 3)Acil hiperkalemi tedavisinde ilk seçenek IV (intra-venöz) magnezyumdur. 4)İnsülin verilmeden yapılan hipertonik dekstroz- glükoz infüzyonu diyabetiklerdeki hiperkalemi tedavisinin vazgeçilmez koşuludur. 5)Metabolik ve respiratuar alkaloz hiperkalemiyi derinleştirir.",
     "secenekler": {
       "A": "1",
       "B": "2",
@@ -437,14 +437,14 @@
       "B": "Üreme sağlığı ile ilgili bilgi ve hizmetlere erişim hakkı",
       "C": "Güvenli ve tatmin edici bir cinsel yaşam hakkı",
       "D": "Devletin nüfus artışını sağlamak amacıyla bireylerin doğurganlık kararlarını yönlendirmesi",
-      "E": "Şiddet ve baskı olmaksızın üreme ile ilgili karar"
+      "E": "Şiddet ve baskı olmaksızın üreme ile ilgili karar verebilme hakkı"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 35,
-    "soru_koku": "verebilme hakkı Aşağıdaki fizik muayene yöntemlerinden hangisi prostatın değerlendirilmesinde en temel yöntemdir?",
+    "soru_koku": "Aşağıdaki fizik muayene yöntemlerinden hangisi prostatın değerlendirilmesinde en temel yöntemdir?",
     "secenekler": {
       "A": "Suprapubik palpasyon",
       "B": "Rektal tuşe",
@@ -463,40 +463,40 @@
       "B": "Primer ve sekonder nedenlere bağlı VÜR görülebilir",
       "C": "Uluslararası Reflü Derecelendirme Sistemine göre toplam 3 derecedir. Üçüncü derece reflüde üreter uzamış kıvrımlı ve tortuoze, böbreklerde aşırı hidronefroz ve parankim incelmesi bulunur",
       "D": "VÜR renal skar oluşumuna; hipertansiyon ve böbrek fonksiyon bozukluğu ile birlikte giden 'reflü nefropatisine' neden olabilir",
-      "E": "Tanıda en değerli yöntem radyolojik bir tanı"
+      "E": "Tanıda en değerli yöntem radyolojik bir tanı aracı olan 'işeme sistoüretrografisidir'"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 37,
-    "soru_koku": "aracı olan 'işeme sistoüretrografisidir' Aşağıdaki seçeneklerden hangisi bir böbrek anomalisi lan 'çapraz renal ektopi' açısından yanlış seçenektir?",
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi bir böbrek anomalisi lan 'çapraz renal ektopi' açısından yanlış seçenektir?",
     "secenekler": {
       "A": "Böbrek kendi üreterinin çıktığı tarafın karşı tarafına yerleşmiştir",
       "B": "Füzyonlu, füzyonsuz, soliter veya bilateral olabilir",
       "C": "Kız çocuklarında erkeklere oranla 4-5 kez fazladır",
       "D": "Embryolojisi net değildir; böbreğin yükselişi veya rotasyonu sırasında bir engel söz konusudur",
-      "E": "Vezikoüreteral reflü, imperfore anüs, vertebra"
+      "E": "Vezikoüreteral reflü, imperfore anüs, vertebra anomalileri eşlik edebilir."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 38,
-    "soru_koku": "anomalileri eşlik edebilir. Anormal uterin kanamalar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Anormal uterin kanamalar ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "%70'i disfonksiyonel uterin kanamalardır.",
       "B": "%30'u organik nedenlere bağlıdır.",
       "C": "KOK kullanan kadınlarda görülen anormal uterin kanamalar östrojen kırılma kanamasıdır.",
       "D": "Disfonksiyonel uterin kanamaların %90'ı anovulatuar sikluslarda görülür.",
-      "E": "Anormal uterin kanamalar 20 yaş altı ve 40"
+      "E": "Anormal uterin kanamalar 20 yaş altı ve 40 yaş üzerinde daha sık görülür."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 39,
-    "soru_koku": "yaş üzerinde daha sık görülür. Hangisi anyon açığı normal metabolik aisdoz nedenlerinden değildir?",
+    "soru_koku": "Hangisi anyon açığı normal metabolik aisdoz nedenlerinden değildir?",
     "secenekler": {
       "A": "Proksimal renal tübüler asidoz",
       "B": "Distal renal tübüler asidoz",
@@ -528,27 +528,27 @@
       "B": "Postpartum dönemde emzirmeyen kadınlarda ovulasyon 4. haftadan itibaren başlar.",
       "C": "Laktasyon döneminde öncelikle tercik edilmesi gerek kontrasepsiyon yöntemi kombine oral kontraseptiflerdir.",
       "D": "Bariyer yöntemler servikal mukusta kalınlaşma yapmadıkları için cinsel yolla bulaşan hastalıklara karşı koruyuculuk sağlamazlar.",
-      "E": "RIA ile gebe kalan kadınların fetuslarında"
+      "E": "RIA ile gebe kalan kadınların fetuslarında konjenital anomali riski artmaz."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 42,
-    "soru_koku": "konjenital anomali riski artmaz. Servikal kanser taraması Türkiye'de hangi yaş aralığına ve ne sıklıkta yapılmaktadır?",
+    "soru_koku": "Servikal kanser taraması Türkiye'de hangi yaş aralığına ve ne sıklıkta yapılmaktadır?",
     "secenekler": {
       "A": "21 ile 48 yaş arasında 3 yılda bir HPV PCR ile",
       "B": "28-60 yaş aralığında her yıl smear ve HPV PCR testi ile",
       "C": "30-65 yaş aralığında 5 yılda bir HPV PCR testi ve gereğinde smear ile",
       "D": "40 yaşından sonra 2 yıl ara ile smear testi ile",
-      "E": "Vajinal akıntı ve kanama varlığında semptoma"
+      "E": "Vajinal akıntı ve kanama varlığında semptoma göre HPV PCR testi ile"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 43,
-    "soru_koku": "göre HPV PCR testi ile Aşağıdakilerden hangisi perimenopozal döneme özgü yakınmalar arasında yer alır?",
+    "soru_koku": "Aşağıdakilerden hangisi perimenopozal döneme özgü yakınmalar arasında yer alır?",
     "secenekler": {
       "A": "Ateş basması",
       "B": "Uyku bozukluğu",
@@ -593,14 +593,14 @@
       "B": "LH artışından 24-36 saat sonra ovulasyon gerçekleşir.",
       "C": "Her kadında luteal faz süresi sabit ve 14 gündür.",
       "D": "Kronik yüksek androjen düzeyi hipotalamik uyarılma yaparak polimenoreye sebep olur.",
-      "E": "Tubal motilitenin en fazla olduğu dönem"
+      "E": "Tubal motilitenin en fazla olduğu dönem ovulasyon dönemidir."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 47,
-    "soru_koku": "ovulasyon dönemidir. Aşağıdaki radyofarmasötik çiftlerinden hangi ikisi dinamik böbrek sintigrafisinde (renografi) kullanılır?",
+    "soru_koku": "Aşağıdaki radyofarmasötik çiftlerinden hangi ikisi dinamik böbrek sintigrafisinde (renografi) kullanılır?",
     "secenekler": {
       "A": "Tc-99m DTPA – Tc-99m MAG3",
       "B": "Tc-99m DTPA – Tc-99m MIBI",
@@ -645,27 +645,27 @@
       "B": "Primer polisemptomatik enürezis",
       "C": "Sekonder monosemptomatik enürezis",
       "D": "Sekonder polisemptomatik enürezis",
-      "E": "Hasta 6 yaşında olduğu için normal kabul"
+      "E": "Hasta 6 yaşında olduğu için normal kabul edilir."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 51,
-    "soru_koku": "edilir. Aşağıdakilerden hangisi monokoryonik ikiz gebelikler için yanlış bir bilgidir?",
+    "soru_koku": "Aşağıdakilerden hangisi monokoryonik ikiz gebelikler için yanlış bir bilgidir?",
     "secenekler": {
       "A": "TTTS de alıcı fetus daha iri ve polihidramniosludur.",
       "B": "TTTS de verici fetusun amniyon sıvısının bitmesi durumuna \"stuck twin\" adı verilir.",
       "C": "İkizlerden birinin ölümü durumunda diğer fetusun sağlığı etkilenmemesi için acil doğum yaptırılır.",
       "D": "Antenatal takipler 16-18 haftadan itibaren 2 hafta ara ile yapılır.",
-      "E": "Kordon dolanması tipik olarak monoamniyotik"
+      "E": "Kordon dolanması tipik olarak monoamniyotik ikizlerde görülmektedir"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 52,
-    "soru_koku": "ikizlerde görülmektedir Aşağıdakilerden hangisi böbreğin görevleri arasında yer almaz?",
+    "soru_koku": "Aşağıdakilerden hangisi böbreğin görevleri arasında yer almaz?",
     "secenekler": {
       "A": "Metabolizma sonucu açığa çıkan atık ürünleri uzaklaştırır",
       "B": "Diyetle alınan fazla sıvı ve solütleri uzaklaştırır",
@@ -684,27 +684,27 @@
       "B": "Distal tübülde yer alan sodyum-potasyum-2 klor kotransporter mutasyonu sonucu oluşur",
       "C": "Serum magnezyum ve potasyum seviyeleri düşüktür.",
       "D": "Erken çocukluk döneminde ağır dehidratasyon ile ortaya çıkar",
-      "E": "Tedavide primer olarak ACE inhibitörleri"
+      "E": "Tedavide primer olarak ACE inhibitörleri kullanılır."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 54,
-    "soru_koku": "kullanılır. Çoğul gebelikler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "soru_koku": "Çoğul gebelikler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "secenekler": {
       "A": "Ultrasonda görülen twin peak bulgusu dikoryonik plasenta lehinedir",
       "B": "Yardımcı üreme teknikleri sayesinde çoğul gebelik sıklığı azalmıştır.",
       "C": "Monozigotik ikizler daima monokoryoniktirler.",
       "D": "Her trimesterde koryonisite tespit oranı en benzer orandadır.",
-      "E": "Monozigotikik ikiz gebeliklerde en sık"
+      "E": "Monozigotikik ikiz gebeliklerde en sık plasentasyon şekli monokoryonik diamniotiktir."
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 55,
-    "soru_koku": "plasentasyon şekli monokoryonik diamniotiktir. Sağlık Bakanlığı Doğum Öncesi ve Doğum Sonrası Bakım Rehberlerine göre sırasıyla gebe ve lohusa izlemi en az kaç kez olmalıdır?",
+    "soru_koku": "Sağlık Bakanlığı Doğum Öncesi ve Doğum Sonrası Bakım Rehberlerine göre sırasıyla gebe ve lohusa izlemi en az kaç kez olmalıdır?",
     "secenekler": {
       "A": "3-6",
       "B": "4-3",
@@ -749,14 +749,14 @@
       "B": "pH normal sınırların altına düşerse CO2'yi uzaklaştırmak için solunum hızı ve derinliği artar.",
       "C": "pH normal sınırların altına düşerse CO2'yi uzaklaştırmak için solunum hızı ve derinliği artmaz, pH korunur.",
       "D": "Asidoz durumunda Hidrojen iyonu atılır ve bikarbonat tutulur.",
-      "E": "Asit-baz dengesizliğinde böbreklerin"
+      "E": "Asit-baz dengesizliğinde böbreklerin kompanzasyonu diğer kompanzasyonlara göre daha yavaştır."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 59,
-    "soru_koku": "kompanzasyonu diğer kompanzasyonlara göre daha yavaştır. Kalsiyum metabolizmasına ilişkin önermelerden kaçı doğrudur? 1)Primer hiperparatiroidi en sık hiperkalsemi nedenidir. 2)En sık hipokalsemi nedeni kronik böbrek yetersizliğidir. 3)Yüksek serum kalsiyum ve fosfor değerleri D vitamini entoksikasyonu ile uyumludur. 4)Düşük serum kalsiyum ve yüksek serum fosfor düzeyleri psödohipoparatirioidi ile uyumludur. 5)Düşük serum kalsiyumu ve yüksek serum fosforu hipoparatirioidi ile uyumludur.",
+    "soru_koku": "Kalsiyum metabolizmasına ilişkin önermelerden kaçı doğrudur? 1)Primer hiperparatiroidi en sık hiperkalsemi nedenidir. 2)En sık hipokalsemi nedeni kronik böbrek yetersizliğidir. 3)Yüksek serum kalsiyum ve fosfor değerleri D vitamini entoksikasyonu ile uyumludur. 4)Düşük serum kalsiyum ve yüksek serum fosfor düzeyleri psödohipoparatirioidi ile uyumludur. 5)Düşük serum kalsiyumu ve yüksek serum fosforu hipoparatirioidi ile uyumludur.",
     "secenekler": {
       "A": "1",
       "B": "2",
@@ -775,27 +775,27 @@
       "B": "Hastanın en az üç aydır böbrek yetmezliği olduğunu gösteren dökümente edilmiş bir kan, idrar veya radyolojik tetkiki olması",
       "C": "Hastada anemi gözlenmemesi akut böbrek yetmezliği lehinedir",
       "D": "Kronik böbrek yetmezliğinde subperiostal kemik resorbsiyonu gözlenebilir.",
-      "E": "Hiperkalemi ve metabolik asidoz akut böbrek"
+      "E": "Hiperkalemi ve metabolik asidoz akut böbrek yetmezliğinde görülmez."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 61,
-    "soru_koku": "yetmezliğinde görülmez. Kontrasepsiyon yöntemleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "soru_koku": "Kontrasepsiyon yöntemleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "secenekler": {
       "A": "En sık kullanılan cerrahi tüp ligasyonu yöntemi pomeroy yöntemidir.",
       "B": "Diyafram kullanmayı tercih eden hastalar için toksik şok sendromu riski konusunda bilgilendirme yapılmalıdır.",
       "C": "Transdermal yamaların en önemli dezavantajı yapıştığı yerden ayrılmalarıdır.",
       "D": "Kısa dönem kontrasepsiyon isteyen ve yöntem sonrası fertilitenin hızlıca geri dönmesini isteyen hastalar için başlıca seçenk enjektabl yöntemlerdir.",
-      "E": "Minipill laktasyon sürecinde olan kadınlar için"
+      "E": "Minipill laktasyon sürecinde olan kadınlar için uygun bir kontrasepsiyon yöntemidir."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 62,
-    "soru_koku": "uygun bir kontrasepsiyon yöntemidir. Ani başlangıçlı, şiddetli yan ağrısı ve kasığa ağrı tarifleyen bir hastada en olası tanı aşağıdakilerden hangisidir?",
+    "soru_koku": "Ani başlangıçlı, şiddetli yan ağrısı ve kasığa ağrı tarifleyen bir hastada en olası tanı aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Akut sistit",
       "B": "Üreter taşı (renal kolik)",
@@ -840,14 +840,14 @@
       "B": "Farklı bir yöntem ile test tekrarlanır",
       "C": "Avidite testi önerilir",
       "D": "Coombs testi önerilir",
-      "E": "Akut enfeksiyon tanısı konur, yeni bir teste"
+      "E": "Akut enfeksiyon tanısı konur, yeni bir teste gerek duyulmaz"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 66,
-    "soru_koku": "gerek duyulmaz Aşağıdaki durumlardan hangisi kongenital enfeksiyon riskini artırmaz?",
+    "soru_koku": "Aşağıdaki durumlardan hangisi kongenital enfeksiyon riskini artırmaz?",
     "secenekler": {
       "A": "Annede latent enfeksiyonun reaktive olması",
       "B": "Annenin etken ile ilk kez karşılaşması",
@@ -983,14 +983,14 @@
       "B": "Papiller yapılar ve köpüksü makrofajlar tipiktir",
       "C": "MET gen mutasyonu ile ilişkilidir",
       "D": "Eozinofilik sitoplazma ve perinükleer halo karakteristiktir",
-      "E": "Eozinofilik sitoplazma ve perinükleer halo"
+      "E": "Eozinofilik sitoplazma ve perinükleer halo karakteristiktir"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 77,
-    "soru_koku": "karakteristiktir İmmun kompleks oluşumuyla karakterli olmayan, podositlerin ayaksı çıkıntılarının füzyonu ile karakterli, steroid tedavisine iyi yanıt veren glomerülonefrit tipi aşağıdakilerden hangisidir?",
+    "soru_koku": "İmmun kompleks oluşumuyla karakterli olmayan, podositlerin ayaksı çıkıntılarının füzyonu ile karakterli, steroid tedavisine iyi yanıt veren glomerülonefrit tipi aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "mebranöz nefropati",
       "B": "fokal segmental glomerüloskleroz",
@@ -1035,27 +1035,27 @@
       "B": "Atipik endometrial hiperplazi + Granüloza hücreli tümör",
       "C": "Endometrium adenokarsinomu + Teratom",
       "D": "Endometrium adenokarsinomu + Granüloza hücreli tümör",
-      "E": "Tip 2 endometrium adenokarsinomu +"
+      "E": "Tip 2 endometrium adenokarsinomu + Teratom"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 81,
-    "soru_koku": "Teratom Prostat hastalıkları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "soru_koku": "Prostat hastalıkları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "secenekler": {
       "A": "Benign prostat hiperplazisi en sık periferik zondan köken alır",
       "B": "Prostat adenokarsinomu en sık transizyonel zondan gelişir",
       "C": "Prostat adenokarsinomunda en sık görülen histolojik tip skuamöz hücreli karsinomdur",
       "D": "Benign prostat hiperplazisi genellikle periüretral zondan gelişir",
-      "E": "Prostat kanserinde PSA düzeyi her zaman"
+      "E": "Prostat kanserinde PSA düzeyi her zaman normaldir"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 82,
-    "soru_koku": "normaldir Tip I endometrium patogenezinde aşağıdakilerden hangisi bulunmaz?",
+    "soru_koku": "Tip I endometrium patogenezinde aşağıdakilerden hangisi bulunmaz?",
     "secenekler": {
       "A": "Obesite",
       "B": "Çok çocuk doğurma",
@@ -1113,14 +1113,14 @@
       "B": "Böbrek biyopsisinde diffüz global kalınlaşma izlenir",
       "C": "Hızlı ilerleyen böbrek fonksiyon kaybı mevcuttur",
       "D": "Akciğerlerde de tutuluma sekonder semptomlar olabilir",
-      "E": "Histopatolojik ayırıcı tanısında Wegener"
+      "E": "Histopatolojik ayırıcı tanısında Wegener granulomatozu yer alır"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 87,
-    "soru_koku": "granulomatozu yer alır Aşağıdakilerden hangisi vulvada lökoplakiye yol açmaz?",
+    "soru_koku": "Aşağıdakilerden hangisi vulvada lökoplakiye yol açmaz?",
     "secenekler": {
       "A": "Meme dışı Paget hastalığı",
       "B": "Trikonomiazis",
@@ -1204,14 +1204,14 @@
       "B": "İnaktivasyonda XIST DNA molekülü etkin rol alır.",
       "C": "X inaktivasyonu XIC (X inactivation center) dan başlar.",
       "D": "Erişkin bir erkekte hücre çekirdeğinde bir adet barr body gözlenir.",
-      "E": "47 XXX karyotipte sahip olan bireyde"
+      "E": "47 XXX karyotipte sahip olan bireyde inaktivasyon 1 (bir) X kromozomunda yapılır."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 94,
-    "soru_koku": "inaktivasyon 1 (bir) X kromozomunda yapılır. Aşağıdakilerden hangisi genetik danışma prensiplerinden değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi genetik danışma prensiplerinden değildir?",
     "secenekler": {
       "A": "Yönlendirici olmak",
       "B": "Otonomi",
@@ -1256,27 +1256,27 @@
       "B": "Embriyogenez döneminde inaktivasyon paternal veya maternal kaynağa bakılmaksızın rastgele (random) olur.",
       "C": "Sitozin metilasyonu X-kromozomundaki spesifik genlerin inaktivasyonundan sorumludur.",
       "D": "X inaktivasyonu XIC (X inactivation center) dan başlar.",
-      "E": "İnaktivasyon fertilizasyondan sonra"
+      "E": "İnaktivasyon fertilizasyondan sonra yaşamın geç dönemlerinde meydana gelir."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 98,
-    "soru_koku": "yaşamın geç dönemlerinde meydana gelir. Aşağıdakilerden hangisi X inaktivasyon mekanizması için söylenemez?",
+    "soru_koku": "Aşağıdakilerden hangisi X inaktivasyon mekanizması için söylenemez?",
     "secenekler": {
       "A": "İnaktivasyon rastgele olduğu için heterozigot dişilerin dokularında mozaiklik gözlenmez.",
       "B": "İnaktivasyon fertilizasyonun hemen sonrasında görülür.",
       "C": "İnaktive X hücre çekirdeğinde Barr cisimciği olarak gözlenir.",
       "D": "İnaktif X kromozomu ekspresyona neredeyse hiç katılmaz, X geninde pseudootozomal bölgeler inaktifleşmez, çünkü Y kromozomu ile crossing over gerçekleştirilir.",
-      "E": "Anneden ve babadan gelen X'in inaktifleşmesi"
+      "E": "Anneden ve babadan gelen X'in inaktifleşmesi rastgele gerçekleşmektedir"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 99,
-    "soru_koku": "rastgele gerçekleşmektedir Aralarında I. kuzen evliliği olan eşlerin sürmekte olan gebeliğinin 22. gebelik haftasında yapılan obstetrik ultrasonografide “korpus kallozum agenezisi, polidaktili, anhidroamnios, böbreklerde kist” saptanmıştır. Bu gebelikte genetik inceleme için ilk olarak hangi yöntemi uygularsınız?",
+    "soru_koku": "Aralarında I. kuzen evliliği olan eşlerin sürmekte olan gebeliğinin 22. gebelik haftasında yapılan obstetrik ultrasonografide “korpus kallozum agenezisi, polidaktili, anhidroamnios, böbreklerde kist” saptanmıştır. Bu gebelikte genetik inceleme için ilk olarak hangi yöntemi uygularsınız?",
     "secenekler": {
       "A": "Torakosentez",
       "B": "Sister Chromatid Exchange Analizi",
@@ -1334,14 +1334,14 @@
       "B": "Çocuk yanlış davranışlar yapmış olsa bile önce olumlu yönler vurgulanmalıdır.",
       "C": "3-6 yaş çocuklar ile iletişimde oyun kullanılabilir.",
       "D": "Görüşmede güleryüzlü ve hoşgörülü olmak önemlidir.",
-      "E": "Çocuklar ile konuşurken çocuksu bebeksi"
+      "E": "Çocuklar ile konuşurken çocuksu bebeksi bir şekilde konuşulmalıdır."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 4,
-    "soru_koku": "bir şekilde konuşulmalıdır. Aşağdakilerden hangisi infertil hastaya ilk yaklaşım sürecinde yer almaz?",
+    "soru_koku": "Aşağdakilerden hangisi infertil hastaya ilk yaklaşım sürecinde yer almaz?",
     "secenekler": {
       "A": "Ultrasonografi",
       "B": "Tanısal histeroskopi",
@@ -1490,14 +1490,14 @@
       "B": "Kendi kendine muayenede saptanan ağrısız kitle hasta için en önemli ön tanı aracıdır",
       "C": "AFP, hCG ve LDH esas olmak üzere kanda bakılan tümör markerları mevcuttur",
       "D": "Yaygın metastaz ile yaşamı tehdit eden nadir durumlar dışında, teşhisten sonra ivedilikle yapılacak radikal orşiektomi cerrahisi şarttır",
-      "E": "Leydig ve Sertoli hücreli tümörler sık"
+      "E": "Leydig ve Sertoli hücreli tümörler sık görülen germ hücreli tümörlerdir"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 16,
-    "soru_koku": "görülen germ hücreli tümörlerdir Ürogenital tümörler ile ilgili hangisi doğrudur?",
+    "soru_koku": "Ürogenital tümörler ile ilgili hangisi doğrudur?",
     "secenekler": {
       "A": "Mesane tümörleri mesanenin dış yüzünden iç mukozasına doğru gelişirler",
       "B": "Prostat kanseri ağrısız, pıhtılı hematüride ilk akla gelecek tanıdır",
@@ -1555,14 +1555,14 @@
       "B": "Primordiyal folikülden preovulatuar foliküle kadar geçen süre ortalama 95 gündür.",
       "C": "Dolaşımdaki anti mulleryan hormon düzeyi regrese olan folikül miktarı ile orantılıdır.",
       "D": "Menstruasyon sırasında endometriyumun dökülen tabakaları st. kompakta ve st. spongiosa'dır.",
-      "E": "Menstrüel siklusta foliküler faz süresi sabit"
+      "E": "Menstrüel siklusta foliküler faz süresi sabit olup 14 gündür."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 21,
-    "soru_koku": "olup 14 gündür. Oosit sayısı hangi dönemde en fazla olarak tespit edilir?",
+    "soru_koku": "Oosit sayısı hangi dönemde en fazla olarak tespit edilir?",
     "secenekler": {
       "A": "Puberte",
       "B": "Doğum",
@@ -1620,14 +1620,14 @@
       "B": "Primer polisemptomatik enürezis",
       "C": "Sekonder monosemptomatik enürezis",
       "D": "Sekonder polisemptomatik enürezis",
-      "E": "Hasta 6 yaşında olduğu için normal kabul"
+      "E": "Hasta 6 yaşında olduğu için normal kabul edilir."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 26,
-    "soru_koku": "edilir. Sağlık Bakanlığı Doğum Sonrası Bakım Rehberine göre lohusa izlemi en az kaç kez olmalıdır?",
+    "soru_koku": "Sağlık Bakanlığı Doğum Sonrası Bakım Rehberine göre lohusa izlemi en az kaç kez olmalıdır?",
     "secenekler": {
       "A": "3",
       "B": "4",
@@ -1646,27 +1646,27 @@
       "B": "Türkiye 2011 yılında kabul edilen İstanbul Sözleşmesi'ni ilk imzalayan ve onaylayan ülkedir.",
       "C": "Toplumsal cinsiyet ayrımcılığının en çarpıcı olumsuz sonucu sağlık hizmetlerinden yararlanmada ortaya çıkmaktadır.",
       "D": "Dünya toplumsal cinsiyet eşitliği raporuna göre Avrupa ve merkez Asya kategorisinde bulunan Türkiye, ekonomik katılım ve fırsat eşitliği açısından bölgede son sıradaki ülkedir.",
-      "E": "Doğumda beklenen yaşam süresi"
+      "E": "Doğumda beklenen yaşam süresi erkeklerde kadınlara göre daha fazladır."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 28,
-    "soru_koku": "erkeklerde kadınlara göre daha fazladır. Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "soru_koku": "Aşağıdaki ifadelerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Sperm konsantrasyonu >15 milyon/ml olmalıdır",
       "B": "Normal sperm morfolojisi % 4 üzerinde olmalıdır",
       "C": "Hızlı ileri hareket >%30 olmalıdır",
       "D": "Teratospermi sperm morfoloji bozukluğunun adıdır.",
-      "E": "Nekrospermi sperm sayısının 0"
+      "E": "Nekrospermi sperm sayısının 0 olmasıdır."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 29,
-    "soru_koku": "olmasıdır. Aşağıdaki fosfor bağlayıcılardan hangisi, toksisite riski nedeni ile 7-10 günden fazla kullanılmaz?",
+    "soru_koku": "Aşağıdaki fosfor bağlayıcılardan hangisi, toksisite riski nedeni ile 7-10 günden fazla kullanılmaz?",
     "secenekler": {
       "A": "Kalsiyum karbonat",
       "B": "Lantanum",
@@ -1685,14 +1685,14 @@
       "B": "pH>7.4 ve HCO3 < 24meq/L olması metabolik alkolozisi gösterir.",
       "C": "Metabolizmaya bağlı asidozis böbrekler tarafından düzeltilir.",
       "D": "Solunuma bağlı asidozis akciğerler tarafından kompanse edilir.",
-      "E": "Aşırı diyare sonucu sindirim yolu ile HCO3"
+      "E": "Aşırı diyare sonucu sindirim yolu ile HCO3 kaybı solunumsal alkoloza neden olur"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 31,
-    "soru_koku": "kaybı solunumsal alkoloza neden olur Aşağıdaki hangisi endometrium kanseri için risk faktörü değildir?",
+    "soru_koku": "Aşağıdaki hangisi endometrium kanseri için risk faktörü değildir?",
     "secenekler": {
       "A": "Granüloza hücreli over tümörü",
       "B": "PCOS",
@@ -1737,14 +1737,14 @@
       "B": "Distal tübülde yer alan sodyum-potasyum-2 klor kotransporter mutasyonu sonucu oluşur",
       "C": "Serum magnezyum ve potasyum seviyeleri düşüktür.",
       "D": "Erken çocukluk döneminde ağır dehidratasyon ile ortaya çıkar",
-      "E": "Tedavide primer olarak ACE inhibitörleri"
+      "E": "Tedavide primer olarak ACE inhibitörleri kullanılır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 35,
-    "soru_koku": "kullanılır. Aşağıdakilerden hangisi diüretikli renogram kullanım amaçlarından biridir?",
+    "soru_koku": "Aşağıdakilerden hangisi diüretikli renogram kullanım amaçlarından biridir?",
     "secenekler": {
       "A": "Tiroid nodülünün sıcak-soğuk ayrımının yapılması",
       "B": "Kalp duvar hareketlerinin değerlendirilmesi",
@@ -1815,14 +1815,14 @@
       "B": "Düzenli egzersiz kemik sağlığı açısından önerilir",
       "C": "Kalsiyum ve D vitamini desteği önemlidir",
       "D": "Mamografik inceleme gereklidir",
-      "E": "50 yaş sonrası olursa her hastaya"
+      "E": "50 yaş sonrası olursa her hastaya hormon replasman tedavisi gerekir"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 41,
-    "soru_koku": "hormon replasman tedavisi gerekir Servikal kanser taramasında hangi test daha sensitifdir?",
+    "soru_koku": "Servikal kanser taramasında hangi test daha sensitifdir?",
     "secenekler": {
       "A": "Pap testi",
       "B": "Servikal smear",
@@ -1854,53 +1854,53 @@
       "B": "557 sayılı Nüfus Planlaması Kanunu (1965) 10 haftaya kadar olan gebeliklerin istek üzerine sonlandırılmasına izin vermiştir.",
       "C": "Ülkemizde en sık kullanılan aile planlaması yöntemi geri çekmedir.",
       "D": "2827 sayılı Nüfus Planlaması Kanunu (1983) sertifikalandırılmış pratisyen hekimlerin MR yöntemi ile gebelik sonlandırmasına izin vermiştir.",
-      "E": "2827 sayılı Nüfus Planlaması Kanunu (1983)"
+      "E": "2827 sayılı Nüfus Planlaması Kanunu (1983) kadın ve erkekte cerrahi sterilizasyon yöntemini serbest bırakmıştır."
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 44,
-    "soru_koku": "kadın ve erkekte cerrahi sterilizasyon yöntemini serbest bırakmıştır. Aile planlaması ve kontrasepsiyon yöntemleri konusunda aşağıdakilerden hangisi doğrudur?",
+    "soru_koku": "Aile planlaması ve kontrasepsiyon yöntemleri konusunda aşağıdakilerden hangisi doğrudur?",
     "secenekler": {
       "A": "Koitus interruptus bariyer kontrasepsiyon yöntemi kategorisine girmektedir.",
       "B": "Postpartum dönemde emzirmeyen kadınlarda ovulasyon 4. haftadan itibaren başlar.",
       "C": "Laktasyon döneminde öncelikle tercik edilmesi gerek kontrasepsiyon yöntemi kombine oral kontraseptiflerdir.",
       "D": "Bariyer yöntemler servikal mukusta kalınlaşma yapmadıkları için cinsel yolla bulaşan hastalıklara karşı koruyuculuk sağlamazlar.",
-      "E": "RIA ile gebe kalan kadınların"
+      "E": "RIA ile gebe kalan kadınların fetuslarında konjenital anomali riski artmaz."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 45,
-    "soru_koku": "fetuslarında konjenital anomali riski artmaz. Böbrek tümörleri için hangisi yanlıştır?",
+    "soru_koku": "Böbrek tümörleri için hangisi yanlıştır?",
     "secenekler": {
       "A": "Böbrek kanserinin sigara ve obezite ile risk ilişkisi kanıtlanmıştır",
       "B": "Böbrek kanserinin hipertansiyon ile risk ilişkisi kanıtlanmıştır",
       "C": "Anjiomyolipom ve onkositom iyi huylu böbrek tümörleridir",
       "D": "Bosniak sınıflamasına göre tüm böbrek kistleri benigndir",
-      "E": "Ağrı, hematüri ve palpabl kitle triadı hastaların"
+      "E": "Ağrı, hematüri ve palpabl kitle triadı hastaların küçük bir kısmında net olarak saptanır"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 46,
-    "soru_koku": "küçük bir kısmında net olarak saptanır Kontrasepsiyon yöntemleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "soru_koku": "Kontrasepsiyon yöntemleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "secenekler": {
       "A": "En sık kullanılan cerrahi tüp ligasyonu yöntemi pomeroy yöntemidir.",
       "B": "En etkili postkoital kontrasepsiyon yöntemi bakırlı ria kullanılmasıdır.",
       "C": "Transdermal yamaların en önemli dezavantajı yapıştığı yerden ayrılmalarıdır.",
       "D": "Kısa dönem kontrasepsiyon isteyen ve yöntem sonrası fertilitenin hızlıca geri dönmesini isteyen hastalar için başlıca seçenk enjektabl yöntemlerdir.",
-      "E": "Minipill laktasyon sürecinde olan kadınlar için"
+      "E": "Minipill laktasyon sürecinde olan kadınlar için uygun bir kontrasepsiyon yöntemidir."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 47,
-    "soru_koku": "uygun bir kontrasepsiyon yöntemidir. Ülkemizde en sık kullanılan aile planlaması yöntemi hangisidir?",
+    "soru_koku": "Ülkemizde en sık kullanılan aile planlaması yöntemi hangisidir?",
     "secenekler": {
       "A": "Kondom",
       "B": "Geri çekme (Coitus interruptus)",
@@ -1919,40 +1919,40 @@
       "B": "NST değerlendirmesi, 32. gestasyonel haftanın üzerinde daha sağlıklı sonuç verir.",
       "C": "15 saniyeden daha uzun süren 15 atımın üzerinde bazal kalp hızı artışları 'akselerasyon' olarak adlandırılır.",
       "D": "Variabilite, kalp hızındaki fluktuasyonları tarif eder.",
-      "E": "NST, oksitosin ile uterin kontraksiyonlar"
+      "E": "NST, oksitosin ile uterin kontraksiyonlar indüklenerek yapılması mümkün olan bir testtir."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 49,
-    "soru_koku": "indüklenerek yapılması mümkün olan bir testtir. Çoğul gebelikler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "soru_koku": "Çoğul gebelikler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "secenekler": {
       "A": "İkiz gebeliklerin %80'i dizigotiktir.",
       "B": "Yardımcı üreme teknikleri sayesinde çoğul gebelik sıklığı azalmıştır.",
       "C": "Monozigotik ikizler daima monokoryoniktirler.",
       "D": "Birinci trimesterde koryonisite tespit oranı en düşüktür.",
-      "E": "Ultrasonda görülen lambda bulgusu"
+      "E": "Ultrasonda görülen lambda bulgusu monokoryonik plasentalarda görülür."
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 50,
-    "soru_koku": "monokoryonik plasentalarda görülür. Benign prostat hiperplazisi için hangisi söylenemez?",
+    "soru_koku": "Benign prostat hiperplazisi için hangisi söylenemez?",
     "secenekler": {
       "A": "Periüretral alanda transizyonel zondan adenomlar oluşması şeklinde gelişir",
       "B": "Yaşlanan erkek hastalığıdır",
       "C": "Puberte öncesi kastre edilmiş erkekte gelişmez",
       "D": "Mesanede trabekül ve divertikül oluşumlarına sebep olacak şekilde obstrüksiyon yaratabilir",
-      "E": "Sadece alt üriner sistem semptomları"
+      "E": "Sadece alt üriner sistem semptomları yapan, üreter ve böbrek fizyo- anatomisini tehdit etmeyen bir hastalıktır"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 51,
-    "soru_koku": "yapan, üreter ve böbrek fizyo- anatomisini tehdit etmeyen bir hastalıktır Aşağıdakilerden hangisi böbreğin fonksiyonlarından değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi böbreğin fonksiyonlarından değildir?",
     "secenekler": {
       "A": "Vücut kan basıncının düzenlenmesi",
       "B": "Kan yapımının uyarılması",
@@ -1971,27 +1971,27 @@
       "B": "pH normal sınırların altına düşerse CO2'yi uzaklaştırmak için solunum hızı ve derinliği artar.",
       "C": "pH normal sınırların altına düşerse CO2'yi uzaklaştırmak için solunum hızı ve derinliği artmaz, pH korunur.",
       "D": "Asidoz durumunda Hidrojen iyonu atılır ve bikarbonat tutulur.",
-      "E": "Asit-baz dengesizliğinde böbreklerin"
+      "E": "Asit-baz dengesizliğinde böbreklerin kompanzasyonu diğer kompanzasyonlara göre daha yavaştır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 53,
-    "soru_koku": "kompanzasyonu diğer kompanzasyonlara göre daha yavaştır. Vezikoüreteral reflü (VÜR) ile ilgili olarak aşağıdaki seçeneklerden yanlış olanı işaretleyiniz",
+    "soru_koku": "Vezikoüreteral reflü (VÜR) ile ilgili olarak aşağıdaki seçeneklerden yanlış olanı işaretleyiniz",
     "secenekler": {
       "A": "VÜR mesanenin dolumu ve/veya boşalımı sırasında idrarın patolojik bir şekilde üreter ve böbreklere doğru geriye kaçışıdır",
       "B": "Primer VÜR ve sekonder VÜR olarak ikiye ayrılır",
       "C": "Üreterosel (üreterin alt ucunun anormal genişlemesi) gibi patolojiler üreterovezikal bileşkeyi bozarak VÜR nedeni olabilirler",
       "D": "Uluslararası reflü derecelendirme sistemine göre VÜR 3 derecedir. Üçüncü derecede üreterler aşırı kıvrimlı ve tortiyoze ayrıca böbrek parankimi aşırı incelmiş ve pelvis ve böbrekler genişlemişdir",
-      "E": "VÜR kendiliğinden düzelmez veya tedavi"
+      "E": "VÜR kendiliğinden düzelmez veya tedavi edilmez ise hipertansiyon, böbrekde nedbeleşme ve hasar oluşturma, son dönem böbrek yetmezliği gibi çok önemli sağlık sorunlarına neden olabilir"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 54,
-    "soru_koku": "edilmez ise hipertansiyon, böbrekde nedbeleşme ve hasar oluşturma, son dönem böbrek yetmezliği gibi çok önemli sağlık sorunlarına neden olabilir Aşağıdakilerden hangisi bir germ hücreli testis tümörü değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi bir germ hücreli testis tümörü değildir?",
     "secenekler": {
       "A": "Seminom",
       "B": "Embriyonel Karsinom",
@@ -2010,27 +2010,27 @@
       "B": "Mezonefroz ikinci gelişen boşaltım organıdır, kısa bir süre görev alır",
       "C": "Metanefroz üçüncü gelişen boşaltım organıdır, kalıcı böbrekleri oluşturur",
       "D": "Metanefroz, 'metanefrik mezoderm (metanefrojenik blastem)' ve 'metanefrik divertikül (üreterik tomurcuk)' olmak üzere iki kökenden gelişir",
-      "E": "Böbrekler başlangıçta toraks"
+      "E": "Böbrekler başlangıçta toraks hizasındadır sonra embryo geliştikçe aşamalı olarak aşağıya abdomen ve pelvise doğru inerler"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 56,
-    "soru_koku": "hizasındadır sonra embryo geliştikçe aşamalı olarak aşağıya abdomen ve pelvise doğru inerler Jinekolojik muayene ve öykü alımı için aşağıdakilerden hangisi söylenemez?",
+    "soru_koku": "Jinekolojik muayene ve öykü alımı için aşağıdakilerden hangisi söylenemez?",
     "secenekler": {
       "A": "Reproduktif yaşamın hangi aşamasında olunduğuna göre ayırıcı tanılar farklılık gösterir.",
       "B": "Muayeneyi hasta ile başbaşa kalacak şekilde yapmak gereklidir.",
       "C": "Reproduktif dönemde tanı ve tedavi öncesinde gebelik mutlaka ekarte edilmelidir.",
       "D": "Muayene önce spekulum bakısı ve gerekiyorsa smear alınımı, sonra vajinal tuşe şeklinde gerçekleştirilmelidir.",
-      "E": "Jinekolojik muayene pozisyonu dorsolitotomi"
+      "E": "Jinekolojik muayene pozisyonu dorsolitotomi olarak isimlendirilir."
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 57,
-    "soru_koku": "olarak isimlendirilir. Pediatrik yaş grubunda böbrek taşı tanısında aşağıdakilerden hangisi tercih edilmelidir?",
+    "soru_koku": "Pediatrik yaş grubunda böbrek taşı tanısında aşağıdakilerden hangisi tercih edilmelidir?",
     "secenekler": {
       "A": "Bilgisayarlı Tomografi",
       "B": "Manyetik Rezonans Görüntüleme",
@@ -2062,14 +2062,14 @@
       "B": "Genital bölgenin fizik muayenesi sırasında kasık fıtığı, inmemiş testis, anorektal malformasyon gibi diğer patolojiler de saptanabilir.",
       "C": "Üretral meatusun, penisin ventral kısma açılmasına epispadias denir.",
       "D": "İlk 2 yaş içinde fizyolojik fimozis normal kabul edilir.",
-      "E": "Testisi çevreleyen tunika vaginalis yaprakları"
+      "E": "Testisi çevreleyen tunika vaginalis yaprakları arasında periton sıvısının olması, hidrosel olarak tanımlanır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 60,
-    "soru_koku": "arasında periton sıvısının olması, hidrosel olarak tanımlanır. Aşağıdaki Aile Planlaması yöntemlerinden hangisinin koruyuculuğu (etkinliği) önerilen şekilde kullanıldığında en yüksektir?",
+    "soru_koku": "Aşağıdaki Aile Planlaması yöntemlerinden hangisinin koruyuculuğu (etkinliği) önerilen şekilde kullanıldığında en yüksektir?",
     "secenekler": {
       "A": "Rahim içi araç",
       "B": "Kondom",
@@ -2166,14 +2166,14 @@
       "B": "CIN'de genellikle Ki-67 immunohistokimyasal boyası ile epitelin üst tabakalarında boyanma saptanır.",
       "C": "LSIL CIN I ve CIN II'yi kapsar",
       "D": "HPV daha çok skuamokolumnar bileşkedeki çoğalan hücreleri hedef alır.",
-      "E": "HSIL'de serviks epitelinde p16"
+      "E": "HSIL'de serviks epitelinde p16 immunohistokimyasal boyası ile blok tip boyanma gözlenir."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 68,
-    "soru_koku": "immunohistokimyasal boyası ile blok tip boyanma gözlenir. Renal hücreli karsinomlarda izlenen aşağıdaki hangi bulgu hastanın prognozunu etkilemez?",
+    "soru_koku": "Renal hücreli karsinomlarda izlenen aşağıdaki hangi bulgu hastanın prognozunu etkilemez?",
     "secenekler": {
       "A": "Hiler yağ doku tutulumu",
       "B": "Nükleol varlığı",
@@ -2335,14 +2335,14 @@
       "B": "Tümör p16 immunohistokimysal boyası ile diffüz, güçlü (blok tip) boyanmıştır.",
       "C": "Prognozu skuamöz hücreli karsinom HPV bağımsıza göre daha kötüdür.",
       "D": "Liken skleroz ile ilişkilidir.",
-      "E": "Vulvanın skuamöz hücreli karsinomlarının çoğu"
+      "E": "Vulvanın skuamöz hücreli karsinomlarının çoğu HPV ilişkilidir."
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 81,
-    "soru_koku": "HPV ilişkilidir. Podositlerin ayaksı çıkıntılarının etkilendiği ve steroide yanıtın iyi olduğu glomerülonefrit tipi hangisidir?",
+    "soru_koku": "Podositlerin ayaksı çıkıntılarının etkilendiği ve steroide yanıtın iyi olduğu glomerülonefrit tipi hangisidir?",
     "secenekler": {
       "A": "Membranöz glomerülonefrit",
       "B": "Minimal Lezyon Hastalığı",
@@ -2387,27 +2387,27 @@
       "B": "Atipik endometrial hiperplazi + Teratom",
       "C": "Atipik endometrial hiperplazi + Granüloza hücreli tümör",
       "D": "Tip 1 endometrium adenokarsinomu + Granüloza hücreli tümör",
-      "E": "Tip I endometrium adenokarsinomu +"
+      "E": "Tip I endometrium adenokarsinomu + Krukenberg tümörü"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 85,
-    "soru_koku": "Krukenberg tümörü Pelvik yangısal hastalığın en olası bulgusu aşağıdakilerden hangisidir?",
+    "soru_koku": "Pelvik yangısal hastalığın en olası bulgusu aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Vajen biyopsisinde epitelde koilositoz",
       "B": "Vulvada kaşıntı ve kızarıklık",
       "C": "Endometrium küretaj materyalinde plazma hücresi görülmesi",
       "D": "Serviks biyopsisinde epitelde displazi ve koilositoz",
-      "E": "Myometrium içinde endometriumun epitel ve"
+      "E": "Myometrium içinde endometriumun epitel ve stromasının izlenmesi"
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 86,
-    "soru_koku": "stromasının izlenmesi Ürotelyal karsinom aşağıdaki hangi lokalizasyondan köken almaz?",
+    "soru_koku": "Ürotelyal karsinom aşağıdaki hangi lokalizasyondan köken almaz?",
     "secenekler": {
       "A": "Böbrek kaliksi",
       "B": "Mesane",
@@ -2569,33 +2569,33 @@
       "B": "Embriyogenez döneminde inaktivasyon paternal veya maternal kaynağa bakılmaksızın rastgele (random) olur.",
       "C": "Sitozin metilasyonu X-kromozomundaki spesifik genlerin inaktivasyonundan sorumludur.",
       "D": "X inaktivasyonu XIC (X inactivation center) dan başlar.",
-      "E": "İnaktivasyon fertilizasyondan sonra"
+      "E": "İnaktivasyon fertilizasyondan sonra embriyonal yaşamın geç dönemlerinde meydana gelir."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 99,
-    "soru_koku": "embriyonal yaşamın geç dönemlerinde meydana gelir. Dozaj kompenzasyonu ve X inaktivasyonu ile ilgili olarak aşağıdakilerden hangisi doğrudur.",
+    "soru_koku": "Dozaj kompenzasyonu ve X inaktivasyonu ile ilgili olarak aşağıdakilerden hangisi doğrudur.",
     "secenekler": {
       "A": "Embriyogenez döneminde inaktivasyon nonrandom olur.",
       "B": "İnaktivasyonda XIST DNA molekülü etkin rol alır.",
       "C": "X inaktivasyonu XIC (X inactivation center) dan başlar.",
       "D": "Erişkin bir erkekte hücre çekirdeğinde bir adet barr body gözlenir.",
-      "E": "47 XXX karyotipte sahip olan bireyde"
+      "E": "47 XXX karyotipte sahip olan bireyde inaktivasyon 1 (bir) X kromozomunda yapılır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 100,
-    "soru_koku": "inaktivasyon 1 (bir) X kromozomunda yapılır. Aşağıdakilerden hangisi X inaktivasyon mekanizması için söylenemez?",
+    "soru_koku": "Aşağıdakilerden hangisi X inaktivasyon mekanizması için söylenemez?",
     "secenekler": {
       "A": "İnaktivasyon rastgele olduğu için heterozigot dişilerin dokularında mozaiklik gözlenmez.",
       "B": "İnaktivasyon fertilizasyonun hemen sonrasında görülür.",
       "C": "İnaktive X hücre çekirdeğinde Barr cisimciği olarak gözlenir.",
       "D": "İnaktif X kromozomu ekspresyona neredeyse hiç katılmaz, X geninde pseudootozomal bölgeler inaktifleşmez, çünkü Y kromozomu ile crossing over gerçekleştirilir.",
-      "E": "Anneden ve babadan gelen X'in inaktifleşmesi"
+      "E": "Anneden ve babadan gelen X'in inaktifleşmesi rastgele gerçekleşmektedir"
     },
     "cevap": "A"
   }

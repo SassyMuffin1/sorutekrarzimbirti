@@ -47,27 +47,27 @@
       "B": "Kan alma bölgesini temizleme amacı ile povidon iyot kullanılmamalıdır.",
       "C": "Kan alma sırasında, kan alma tüplerinin üzerinde yer alan çizgiyi aşmayacak ve eksik kalmayacak şekilde, vakum bitene kadar tüplere kan alınması gereklidir.",
       "D": "Antikoagulan içeren tüplere kan alındığında, tüpler 6-7 kez kibarca alt üst edilmelidir.",
-      "E": "Antekubital bölgeden kan alımını"
+      "E": "Antekubital bölgeden kan alımını kolaylaştırmak için vene girilmeden önce yumruk açıp kapattırmak, kan alınacak bölgeye vurmak önerilir."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 5,
-    "soru_koku": "kolaylaştırmak için vene girilmeden önce yumruk açıp kapattırmak, kan alınacak bölgeye vurmak önerilir. Bir hastadan analiz için birden fazla tüpe kan örneği alınması gerektiğinde ilk sırada hangi örnek için hangi tüp tercih edilmelidir?",
+    "soru_koku": "Bir hastadan analiz için birden fazla tüpe kan örneği alınması gerektiğinde ilk sırada hangi örnek için hangi tüp tercih edilmelidir?",
     "secenekler": {
       "A": "Koagulasyon testleri için sitratlı mavi kapaklı tüp",
       "B": "Koagulasyon testleri için EDTA'lı mor kapaklı tüp",
       "C": "Kan kültürü için katkısız sarı kapaklı tüp",
       "D": "Glikoz analizi için florürlü siyah kapaklı tüp",
-      "E": "Kan gazı analizleri için heparinli yeşil kapaklı"
+      "E": "Kan gazı analizleri için heparinli yeşil kapaklı tüp"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 6,
-    "soru_koku": "tüp Laboratuvar iş akışı kapsamında aşağıdakilerden hangisi analiz sonuçlarını etkileyen preanalitik faktörler arasında yer almaz?",
+    "soru_koku": "Laboratuvar iş akışı kapsamında aşağıdakilerden hangisi analiz sonuçlarını etkileyen preanalitik faktörler arasında yer almaz?",
     "secenekler": {
       "A": "Hastadan örnek alınması",
       "B": "Test istemi ve hastanın hazırlanması",
@@ -86,14 +86,14 @@
       "B": "Meckel divertikülü insidansı %20'dir",
       "C": "Apandisit en sık infantlarda görülür",
       "D": "İnvajinasyon en sık ileoçekal bölgede görülür",
-      "E": "Adolesan dönemde en sık görülen cerrahi"
+      "E": "Adolesan dönemde en sık görülen cerrahi ağrısı inkarsere inguinal hernidir"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 8,
-    "soru_koku": "ağrısı inkarsere inguinal hernidir Aşağıdakilerden hangisi sekretuar ishal nedenlerinden değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi sekretuar ishal nedenlerinden değildir?",
     "secenekler": {
       "A": "İnflamatuar barsak hastalığı",
       "B": "İntestinal lenfoma",
@@ -268,14 +268,14 @@
       "B": "Hücre proliferasyonunu arttırarak onkogen gibi davranırlar.",
       "C": "He iki allelin inaktivasyonu gereklidir.",
       "D": "Sadece herediter kanserlerde rol oynarlar.",
-      "E": "Sadece hücre siklusunun G2 fazını kontrol"
+      "E": "Sadece hücre siklusunun G2 fazını kontrol ederler."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 22,
-    "soru_koku": "ederler. Gastrointestinal sistem kanamalarını aşağıdakilerden hangisi ile tespit ederiz?",
+    "soru_koku": "Gastrointestinal sistem kanamalarını aşağıdakilerden hangisi ile tespit ederiz?",
     "secenekler": {
       "A": "I-131",
       "B": "Tc-99m MDP (metilendifosfonat)",
@@ -593,14 +593,14 @@
       "B": "Kuş gagası görünümü",
       "C": "Elma yeniyi manzarası",
       "D": "Tirbuşon özofagus görünümü",
-      "E": "Gastroözefageal bileşkenin kraniale doğru yer"
+      "E": "Gastroözefageal bileşkenin kraniale doğru yer değiştirmesi"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 47,
-    "soru_koku": "değiştirmesi Batın muayenesinde en doğru sıralama hangisidir?",
+    "soru_koku": "Batın muayenesinde en doğru sıralama hangisidir?",
     "secenekler": {
       "A": "inspeksiyon-palpasyon-oskültasyon-perküsyon",
       "B": "inspeksiyon-palpasyon-perküsyon-oskültasyon",
@@ -762,14 +762,14 @@
       "B": "Genetik değişiklikler, hücre çoğalmasından bağımsızdır.",
       "C": "Ardışık genetik ve epigenetik değişikliklerin birikimi ve etkileşimi gereklidir.",
       "D": "Sadece çevresel faktörlerin rol aldığı bir süreçtir.",
-      "E": "Metastaz, tümör hücresinin oluşumundan önce"
+      "E": "Metastaz, tümör hücresinin oluşumundan önce gelişir."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 60,
-    "soru_koku": "gelişir. Aşağıdakilerden hangisi vücuttaki en büyük sıvı kompartmanıdır?",
+    "soru_koku": "Aşağıdakilerden hangisi vücuttaki en büyük sıvı kompartmanıdır?",
     "secenekler": {
       "A": "Plazma",
       "B": "Ekstraselüler sıvı",
@@ -784,11 +784,11 @@
     "soru_numarasi": 61,
     "soru_koku": "Aşağıdaki etkenlerden hangisi kolon mukozasında invazyon, inflamasyon ve ülserasyonla seyreden gastroenterite neden olur?",
     "secenekler": {
-      "A": "Enteropatojenik",
-      "E": "coli",
+      "A": "Enteropatojenik E. coli",
       "B": "Enterotoksijenik E. coli",
       "C": "Vibrio cholerae",
-      "D": "Campylobacter jejuni E) Clostridium difficile"
+      "D": "Campylobacter jejuni",
+      "E": "Clostridium difficile"
     },
     "cevap": "D"
   },
@@ -866,14 +866,14 @@
       "B": "Özofagusta Barrett mukozasından alınan örneklerde skuamöz epitel görülmesi ile tanı koyulur.",
       "C": "Displazi ve kanser gelişim riski nedeniyle hasta izlemi yapılmalıdır.",
       "D": "Endoskopik olarak soluk renkli özofagus mukozasının mideye doğru uzanması tipik bulgudur.",
-      "E": "Helikobakter pilori en önemli etyolojik"
+      "E": "Helikobakter pilori en önemli etyolojik etkendir."
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 68,
-    "soru_koku": "etkendir. Gastrointestinal kanalda gelişen nöroendokrin tümörlerde aşağıdakilerden hangisi prognozu öngörmede kullanılan bir parametre değildir?",
+    "soru_koku": "Gastrointestinal kanalda gelişen nöroendokrin tümörlerde aşağıdakilerden hangisi prognozu öngörmede kullanılan bir parametre değildir?",
     "secenekler": {
       "A": "Tümörün yerleşim yeri",
       "B": "Tümörün histolojik derecesi",
@@ -905,27 +905,27 @@
       "B": "Steatohepatitte balon hücreleri, Mallory-Denk cisimcikleri ve lobüler yangı izlenir.",
       "C": "Son dönem sirozlu karaciğer, yağlanma ve diğer tipik özelliklerden yoksun bir görünüm alabilir (\"burned-out\").",
       "D": "Alkol alımı kesilirse steatoz geri dönebilir.",
-      "E": "Non-alkolik yağlı karaciğer hastalığı metabolik"
+      "E": "Non-alkolik yağlı karaciğer hastalığı metabolik sendromun karaciğer tutulumu olarak değerlendirilir."
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 71,
-    "soru_koku": "sendromun karaciğer tutulumu olarak değerlendirilir. Özofajitler ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Özofajitler ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "En sık özofajit nedeni mide içeriğinin reflüsüdür.",
       "B": "Epitelde nötrofillere eşlik eden eozinofillerin varlığı, bazal tabakada hiperplazi ve submukozal papillaların yüzeye uzanması reflü özofajit için tipik bulgulardır.",
       "C": "Eozinofilik özofajitlerde, intraepiteliyal eozinofiller çok sayıdadır ve özellikle epitel yüzeyinde kümelenmeler oluştururlar.",
       "D": "Kandida özofajitinde mantar sporları PAS pozitiftir.",
-      "E": "Özofajitlerde alt özofagial sfinkter tonusu"
+      "E": "Özofajitlerde alt özofagial sfinkter tonusu artmıştır."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 72,
-    "soru_koku": "artmıştır. Aşağıda karaciğerin mikroanatomik yapısında yer alan oluşumlar sıralanmıştır. Bu oluşumlardan hangisi ışık mikroskopik incelemede görülemez?",
+    "soru_koku": "Aşağıda karaciğerin mikroanatomik yapısında yer alan oluşumlar sıralanmıştır. Bu oluşumlardan hangisi ışık mikroskopik incelemede görülemez?",
     "secenekler": {
       "A": "Safra kanalikülleri",
       "B": "Portal triad",
@@ -944,14 +944,14 @@
       "B": "Shigella – Distal kolonda aftöz ülserler ve pürülan eksuda",
       "C": "Clostridium difficile – Kolon mukozal yüzeyinde pseudomembranlar",
       "D": "Yersinia – Peyer plaklarında nekrotizan granülomlar",
-      "E": "Giardia lamblia – Kolonda kriptlerin lümeninde"
+      "E": "Giardia lamblia – Kolonda kriptlerin lümeninde kümelenmiş trofozoitler"
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 74,
-    "soru_koku": "kümelenmiş trofozoitler Aşağıda bazı hastalık ve bu hastalık ile ilişkili etiyolojik faktör ikilileri verilmiştir. Hangi ikili doğrudur?",
+    "soru_koku": "Aşağıda bazı hastalık ve bu hastalık ile ilişkili etiyolojik faktör ikilileri verilmiştir. Hangi ikili doğrudur?",
     "secenekler": {
       "A": "Hiperplastik polip / APC gen mutasyonu",
       "B": "Zollinger Ellison / EGFR hiperaktivayonu",
@@ -983,14 +983,14 @@
       "B": "Portal hipertansiyon ve buna sekonder olarak santral sinir sisteminde gelişen vazodilatasyon",
       "C": "Hipoalbuminemiye bağlı bazı amino asitlerin kanda taşınamaması",
       "D": "Hepatositlerde direkt toksik etki veya toksisite eşliğindeki immun aracılı yangısal reaksiyonlar",
-      "E": "Hepatosellüler disfonksiyon nedeniyle beyinde"
+      "E": "Hepatosellüler disfonksiyon nedeniyle beyinde ankonjuge bilirubin birikmesi"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 77,
-    "soru_koku": "ankonjuge bilirubin birikmesi Aşağıdaki tablolardan hangisinde midede akut stres ülseri oluşmaz?",
+    "soru_koku": "Aşağıdaki tablolardan hangisinde midede akut stres ülseri oluşmaz?",
     "secenekler": {
       "A": "Beyin absesinin boşaltılması",
       "B": "İntihar amaçlı kostik madde alımı",
@@ -1009,14 +1009,14 @@
       "B": "Familyal adenomatöz polipozis sendromunda kolon kanseri gelişme riski %100 olduğu için profilaktik kolektomi uygulanır.",
       "C": "Lynch sendromunda \"mismatch repair genler\"de mutasyon vardır.",
       "D": "Lynch sendromunda tanı için en az 100 kadar adenom olması gereklidir.",
-      "E": "Lynch sendromunda kolon kanserleri tipik"
+      "E": "Lynch sendromunda kolon kanserleri tipik olarak splenik fleksuranın proksimalinde, sağ kolonda ortaya çıkar."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 79,
-    "soru_koku": "olarak splenik fleksuranın proksimalinde, sağ kolonda ortaya çıkar. Aşağıdakilerden hangisi ülseratif kolitte Crohn hastalığına göre daha sık görülür?",
+    "soru_koku": "Aşağıdakilerden hangisi ülseratif kolitte Crohn hastalığına göre daha sık görülür?",
     "secenekler": {
       "A": "Fistüller ve fissürler",
       "B": "Granülomlar",
@@ -1087,14 +1087,14 @@
       "B": "Prostoglandinler sayesinde mukozal kan akımının korunması",
       "C": "Mide mukozasındaki lenfoid folliküllerin aktive olması",
       "D": "Mide foveolar epitel hücrelerinin hızlı rejenerasyon kapasitesi",
-      "E": "Mide foveolar epitel hücrelerinin mukus içine"
+      "E": "Mide foveolar epitel hücrelerinin mukus içine bikarbonat salgılaması"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 85,
-    "soru_koku": "bikarbonat salgılaması Üst GİS mukozasında aşağıdaki histolojik bulgulardan hangisinin görülmesi heterotopidir?",
+    "soru_koku": "Üst GİS mukozasında aşağıdaki histolojik bulgulardan hangisinin görülmesi heterotopidir?",
     "secenekler": {
       "A": "Distal özofagusta gastrik epitel görülmesi",
       "B": "Distal özofagusta intestinal epitel görülmesi",
@@ -1165,53 +1165,53 @@
       "B": "Bulgular gluten içeren besinlerin yenmesiyle tetiklenip, diyetten gluten ve gliadinin çıkarılması ile düzelir.",
       "C": "Malignite gelişim riski artmıştır.",
       "D": "Mikroskopik bulgular ince barsak proksimalinde daha belirgindir.",
-      "E": "Sınıf II HLA-DQ2 ve HLA-DQ8 allellerini taşıyan"
+      "E": "Sınıf II HLA-DQ2 ve HLA-DQ8 allellerini taşıyan kişiler Çölyak hastalığı için adaydır."
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 91,
-    "soru_koku": "kişiler Çölyak hastalığı için adaydır. Aşağıdakilerden hangisi H. Pilori gastriti ve Otoimmun gastritin ayırıcı tanısını sağlar?",
+    "soru_koku": "Aşağıdakilerden hangisi H. Pilori gastriti ve Otoimmun gastritin ayırıcı tanısını sağlar?",
     "secenekler": {
       "A": "H. Pilori gastritinde kronik yangısal reaksiyonun daha şiddetli olması",
       "B": "Otoimmun gastritte intestinal metaplazinin daha yaygın olması",
       "C": "H. pilori gastritinin antrumda, otoimmun gastritin korpusta baskın olması",
       "D": "H. pilori gastritinde mide parietal hücrelerine karşı antikor gelişmiş olması",
-      "E": "Otoimmun gastritte yüzeyel mukozada"
+      "E": "Otoimmun gastritte yüzeyel mukozada yangısal infiltrasyonun daha fazla olması"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 92,
-    "soru_koku": "yangısal infiltrasyonun daha fazla olması Kalıtsal metabolik karaciğer hastalıkları ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "soru_koku": "Kalıtsal metabolik karaciğer hastalıkları ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Herediter hemokromatoziste Hepsidin proteinini kodlayan ve düzenleyen genlerde mutasyonlar vardır.",
       "B": "Hemokromatozisin klasik triadı; pigmente mikronodüler siroz, diabetes mellitus ve anormal deri pigmentasyonudur.",
       "C": "Wilson hastalığında transmembran bakır- taşıyıcı-ATPaz'ı kodlayan ATP7B geninde mutasyon vardır.",
       "D": "Karaciğer biyopsisinde Rodanin boyası ile bakır birikimi saptanması Wilson hastalığı için kesin tanı koydurucudur.",
-      "E": "a1-antitripsin eksikliğinde, hepatosit"
+      "E": "a1-antitripsin eksikliğinde, hepatosit sitoplazmasında görülen globuler inklüzyonlar PAS ve D-PAS pozitiftir."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 93,
-    "soru_koku": "sitoplazmasında görülen globuler inklüzyonlar PAS ve",
+    "soru_koku": "Kolorektal polipler ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
-      "D": "PAS pozitiftir. Kolorektal polipler ile ilgili aşağıdakilerden hangisi yanlıştır?",
       "A": "Adenomlarda çap arttıkça kanser gelişme riski artar.",
       "B": "Adenomlarda villöz komponent arttıkça kanser gelişme riski azalır.",
-      "C": "Tüm adenomlar malignite potansiyali taşırlar ve saptandıklarında eksize edilmeleri gerekir. D) Peutz-Jeghers Polibi; normal görünümlü intestinal epitel ile örtülü olup tipik olarak dallanan bir ağaç görüntüsü oluşturur.",
-      "E": "Hiperplastik poliplerde epitelde serrasyon"
+      "C": "Tüm adenomlar malignite potansiyali taşırlar ve saptandıklarında eksize edilmeleri gerekir.",
+      "D": "Peutz-Jeghers Polibi; normal görünümlü intestinal epitel ile örtülü olup tipik olarak dallanan bir ağaç görüntüsü oluşturur.",
+      "E": "Hiperplastik poliplerde epitelde serrasyon izlenir."
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 94,
-    "soru_koku": "izlenir. Non-alkolik yağlı karaciğer hastalığı olan bir kişiye aşağıdaki klinik bulgu/hastalıklardan hangisinin eşlik etmesi beklenmez?",
+    "soru_koku": "Non-alkolik yağlı karaciğer hastalığı olan bir kişiye aşağıdaki klinik bulgu/hastalıklardan hangisinin eşlik etmesi beklenmez?",
     "secenekler": {
       "A": "Tip 2 Diabet",
       "B": "İnsülin direnci",
@@ -1308,14 +1308,14 @@
       "B": "Kan alma bölgesini temizleme amacı ile povidon iyot kullanılmamalıdır.",
       "C": "Kan alma sırasında, kan alma tüplerinin üzerinde yer alan çizgiyi aşmayacak ve eksik kalmayacak şekilde, vakum bitene kadar tüplere kan alınması gereklidir.",
       "D": "Antikoagulan içeren tüplere kan alındığında, tüpler 6-7 kez kibarca alt üst edilmelidir.",
-      "E": "Antekubital bölgeden kan alımını"
+      "E": "Antekubital bölgeden kan alımını kolaylaştırmak için vene girilmeden önce yumruk açıp kapattırmak, kan alınacak bölgeye vurmak önerilir."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 2,
-    "soru_koku": "kolaylaştırmak için vene girilmeden önce yumruk açıp kapattırmak, kan alınacak bölgeye vurmak önerilir. Tek bir kan test sonucunun normal veya düşük olması ile akut kronik durum ayrımı yapmanız istenirse aşağıdakilerden hangi testi istersiniz?",
+    "soru_koku": "Tek bir kan test sonucunun normal veya düşük olması ile akut kronik durum ayrımı yapmanız istenirse aşağıdakilerden hangi testi istersiniz?",
     "secenekler": {
       "A": "Kreatinin",
       "B": "ALT",
@@ -1334,27 +1334,27 @@
       "B": "Hasta kan alma koltuğuna oturur oturmaz koluna turnike bağlanmalı, sonra hasta 20 dakika dinlendirilmeli, tüpler hazırlanmalı ve kan alınmalıdır",
       "C": "IV sıvı giden koldan kan alınmamalıdır.",
       "D": "Kan alımı sırasında damar ve iğne arasındaki bağlantıyı kaybetmek ve tekrar tekrar vene girmeye çalışmak hemoliz ve hematoma yol açar.",
-      "E": "Kan sarı kapaklı düz tüplere alındığında,"
+      "E": "Kan sarı kapaklı düz tüplere alındığında, pıhtılaşma olması için santrifüj öncesi 20 dakika beklenmelidir."
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 4,
-    "soru_koku": "pıhtılaşma olması için santrifüj öncesi 20 dakika beklenmelidir. Kan alma zamanı ve kan alma teknikleri ile ilgili olarak aşağıdaki bilgilerden yanlış olanı seçiniz",
+    "soru_koku": "Kan alma zamanı ve kan alma teknikleri ile ilgili olarak aşağıdaki bilgilerden yanlış olanı seçiniz",
     "secenekler": {
       "A": "Kan alma zamanı olarak en uygun saatler sabah 07.00-09.00 arasıdır.",
       "B": "Kan alınmasından önce, en son akşam yemeğinden sonra en az 12 saat aç kalınması önerilmektedir.",
       "C": "Tanı konmadan ve tedavi başlamadan önce kan alınması tercih edilir.",
       "D": "Hasta kan alma merkezine geldiğinde bekletilmeden kan alınmalıdır.",
-      "E": "Hastalar otururur ya da sırt üstü pozisyonda"
+      "E": "Hastalar otururur ya da sırt üstü pozisyonda iken kanları alınmalıdır."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 5,
-    "soru_koku": "iken kanları alınmalıdır. Laboratuvar iş akışı kapsamında aşağıdakilerden hangisi analiz sonuçlarını etkileyen preanalitik faktörler arasında yer almaz?",
+    "soru_koku": "Laboratuvar iş akışı kapsamında aşağıdakilerden hangisi analiz sonuçlarını etkileyen preanalitik faktörler arasında yer almaz?",
     "secenekler": {
       "A": "Hastadan örnek alınması",
       "B": "Test istemi ve hastanın hazırlanması",
@@ -1789,14 +1789,14 @@
       "B": "Tc 99m DMSA ve Tc 99m işaretli lökosit",
       "C": "Tc 99m MDP ve Tc 99m işaretli eritrosit",
       "D": "Tc 99m perteknetat ve Tc 99m DTPA",
-      "E": "Tc 99m sülfür kolloid ve Tc 99m işaretli"
+      "E": "Tc 99m sülfür kolloid ve Tc 99m işaretli eritrosit"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 39,
-    "soru_koku": "eritrosit Mekanik biliyer obstrüksiyon sonrası görülen en sık komplikasyon aşağıdakilerden hangisidir?",
+    "soru_koku": "Mekanik biliyer obstrüksiyon sonrası görülen en sık komplikasyon aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Kolanjit",
       "B": "Sepsis",
@@ -1841,27 +1841,27 @@
       "B": "Sadece Mukoza ve submukoza etkilenir",
       "C": "Tenezm sıktır",
       "D": "Demir eksikliği anemisi görülür",
-      "E": "Ağızdan anüse kadar tüm"
+      "E": "Ağızdan anüse kadar tüm gastrointestinal sistemi tutabilir"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 43,
-    "soru_koku": "gastrointestinal sistemi tutabilir Aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Tümör yükünü azaltıcı cerrahi, sınırlı tümörlerde kemoterapi veya radyoterapi için daha etkin olmak amacıyla uygulanmaktadır.",
       "B": "Tümör yükünü azaltıcı cerrahi, tümör kitlesini azaltmak için uygulanan cerrahi yöntemdir.",
       "C": "Tekrarlayan hastalıkta primer tümör cerrahisinde sonra uzak metastaz yoksa lenf nod diseksiyonu uygulanması önerilmez.",
       "D": "Palyatif cerrahi özellikle GİS' de kanayan ve tıkanmaya neden olan lezyonların çıkartılması için uygulanır.",
-      "E": "Palyatif cerrahi, semptomların ortadan"
+      "E": "Palyatif cerrahi, semptomların ortadan kaldırılması ya da azaltılmasını sağlamayı amaçlayan cerrahi girişimler"
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 44,
-    "soru_koku": "kaldırılması ya da azaltılmasını sağlamayı amaçlayan cerrahi girişimler Pepsinojen salgılayan mide salgı bezi hangisidir?",
+    "soru_koku": "Pepsinojen salgılayan mide salgı bezi hangisidir?",
     "secenekler": {
       "A": "Paryetel hücre",
       "B": "Mukus boyun hücresi",
@@ -2062,14 +2062,14 @@
       "B": "Hiperkloremik - hiperpotasemik metabolik alkaloz",
       "C": "hipokloremik - hipopotasemik metabolik asidoz",
       "D": "Hiperkloremik - hipopotasemik metabolik alkaloz",
-      "E": "Hipokloremik - hipopotasemik metabolik"
+      "E": "Hipokloremik - hipopotasemik metabolik alkaloz"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 60,
-    "soru_koku": "alkaloz Aşağıdakilerden hangisi kronik hepatit nedenlerinden değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi kronik hepatit nedenlerinden değildir?",
     "secenekler": {
       "A": "Alkole bağlı karaciğer hastalığı",
       "B": "Otoimmün hepatit",
@@ -2140,14 +2140,14 @@
       "B": "Malign transformasyon riski yüksek β-katenin aktive tipte hepatosellüler adenomdur",
       "C": "Perihiler bölgede gelişen ekstrahepatik biliyer adenokarsinomdur",
       "D": "Karaciğerin kötü prognozlu, malignitesi yüksek mezenkimal tümörüdür",
-      "E": "Hepatosellüler karsinomun genç yaşta görülen,"
+      "E": "Hepatosellüler karsinomun genç yaşta görülen, daha iyi prognozlu varyantıdır"
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 66,
-    "soru_koku": "daha iyi prognozlu varyantıdır Aşağıdaki karaciğer hastalıklarından hangisinde günümüz koşullarında medikal tedavi yoktur?",
+    "soru_koku": "Aşağıdaki karaciğer hastalıklarından hangisinde günümüz koşullarında medikal tedavi yoktur?",
     "secenekler": {
       "A": "Otoimmun hepatit",
       "B": "Viral hepatit B",
@@ -2179,27 +2179,27 @@
       "B": "İntraduktal papiller müsinöz neoplazm erkeklerde daha sık görülür.",
       "C": "Müsinöz kistik tümör hemen daima büyük duktuslarla ilişkilidir.",
       "D": "Solid-pseudopapiller tümör gövde / kuyruk kitlesi şeklinde, değişken miktarda solid ve kistik alanlarla karakterizedir.",
-      "E": "Pankreas adenokarsinomunda en sık"
+      "E": "Pankreas adenokarsinomunda en sık yerleşim yeri pankreas başıdır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 69,
-    "soru_koku": "yerleşim yeri pankreas başıdır. Sirozun gelişimi ve morfolojik bulguları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Sirozun gelişimi ve morfolojik bulguları ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Sirozda görülen temel morfolojik bulgu ilerleyici fibrozistir.",
       "B": "Sirozda, ince ya da kalın fibröz septumlar oluşturarak nodülariteye yol açan şey; tip I ve tip III kollagen birikimidir.",
       "C": "Sirozda, kollagen sentezini yapan hücreler, Disse aralığındaki perisinüzoidal stellat hücrelerdir (İto hücreleri).",
       "D": "TGF-β, myofibroblastik dönüşümde rol oynar.",
-      "E": "Sirozda hepatosellüler karsinom"
+      "E": "Sirozda hepatosellüler karsinom gelişme riski yoktur."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 70,
-    "soru_koku": "gelişme riski yoktur. Tüm gastrointestinal kanalda, nöroendokrin tümörlerin en sık yerleşim yeri neresidir?",
+    "soru_koku": "Tüm gastrointestinal kanalda, nöroendokrin tümörlerin en sık yerleşim yeri neresidir?",
     "secenekler": {
       "A": "Özofagus",
       "B": "Mide",
@@ -2218,14 +2218,14 @@
       "B": "SOX2 geninde amplifikasyonlar saptanır",
       "C": "Çok sıcak içecekler tüketilmesi önemli bir predipozan faktördür",
       "D": "Tümör hücreleri immunohistokimyasal olarak p40 ve p63 pozitifliği gösterir",
-      "E": "Tanı konduğunda çoğunlukla özofagus"
+      "E": "Tanı konduğunda çoğunlukla özofagus duvarını invaze etmişlerdir"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 72,
-    "soru_koku": "duvarını invaze etmişlerdir İleum, apendiks ve sağ kolonu etkileyen, peyer plaklarında nekrotizan granülomlar oluşturan enterokolit etkeni aşağıdakilerden hangisidir?",
+    "soru_koku": "İleum, apendiks ve sağ kolonu etkileyen, peyer plaklarında nekrotizan granülomlar oluşturan enterokolit etkeni aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Shigella",
       "B": "E. coli",
@@ -2244,14 +2244,14 @@
       "B": "Hipertrofik gastropatide mide kıvrımlar azalır ve rugalar düzleşir.",
       "C": "Menetrier hastalığında midenin en çok etkilenen bölümü antrumdur.",
       "D": "Menetrier hastalığında oksintik bezlerdeki atrofiye bağlı hipoklorhidri vardı.",
-      "E": "Menetrier hastalığında midede"
+      "E": "Menetrier hastalığında midede gelişme riski yoktur."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 74,
-    "soru_koku": "gelişme riski yoktur. Hepatik ensefalopatinin nedeni aşağıdakilerden hangisidir?",
+    "soru_koku": "Hepatik ensefalopatinin nedeni aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Portal hipertansiyon ve buna sekonder olarak gelişen varis kanaması",
       "B": "Yüksek kan amonyak düzeylerine bağlı anormal nöromusküler iletim",
@@ -2335,14 +2335,14 @@
       "B": "HBeAg yalnızca hepatositlerin nükleusunda bulunur",
       "C": "HBeAg'nin serumda bulunması virüsün aktif replikasyonunu gösterir",
       "D": "HBeAg pozitifliği hastanın taşıyıcı olduğu anlamına gelir",
-      "E": "Dokuda immunohistokimyasal olarak"
+      "E": "Dokuda immunohistokimyasal olarak gösterilmesi spesifik ve tanı koydurucudur"
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 81,
-    "soru_koku": "gösterilmesi spesifik ve tanı koydurucudur Mide adenomatöz polipleri aşağıdaki özelliklerden hangisini taşırlar?",
+    "soru_koku": "Mide adenomatöz polipleri aşağıdaki özelliklerden hangisini taşırlar?",
     "secenekler": {
       "A": "Midede en sık görülen epiteliyal poliplerdir",
       "B": "Genellikle 0,5 cm'den küçük çaptadırlar",
@@ -2374,14 +2374,14 @@
       "B": "Portal hipertansiyon sonucunda gelişir",
       "C": "Subkapsüler alanda gelişenler ruptüre olma riski taşır",
       "D": "Hücrelerin müsin üretmesi ayırıcı tanıda çok yardımcıdır",
-      "E": "Benign bir nodül olmakla birlikte"
+      "E": "Benign bir nodül olmakla birlikte neoplastik bir lezyon değildir"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 84,
-    "soru_koku": "neoplastik bir lezyon değildir Akut karaciğer yetmezliği (masif hepatik nekroz) aşağıdaki nedenlerden hangisi ile ortaya çıkabilir?",
+    "soru_koku": "Akut karaciğer yetmezliği (masif hepatik nekroz) aşağıdaki nedenlerden hangisi ile ortaya çıkabilir?",
     "secenekler": {
       "A": "Viral hepatit B",
       "B": "Alkol toksisitesi",
@@ -2413,14 +2413,14 @@
       "B": "Gastrik epitele tropizm gösterir, intestinal epitelde bulunmaz.",
       "C": "Mide yüzey epitel hücrelerine yapışmasını sağlayan adezinlere sahiptir.",
       "D": "Üreaz enzimi ile üreyi parçalayıp amonyak üretir.",
-      "E": "Mukusun glikoproteinlerini parçalayan"
+      "E": "Mukusun glikoproteinlerini parçalayan proteaz salgılar."
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 87,
-    "soru_koku": "proteaz salgılar. Hepatit B virüsü ile ortaya çıkan akut hepatit tablosunda aşağıdaki bulgulardan hangisi görülmez?",
+    "soru_koku": "Hepatit B virüsü ile ortaya çıkan akut hepatit tablosunda aşağıdaki bulgulardan hangisi görülmez?",
     "secenekler": {
       "A": "Köprüleşme fibrozisi",
       "B": "Kolestaz",
@@ -2439,14 +2439,14 @@
       "B": "Enterositlerin MIC-A eksprese ederek sitotoksik hasara aracılık etmesi",
       "C": "Gliadin peptidlerinin enterositlerde immünolojik reaksiyonu uyarması",
       "D": "İntestinal mikrobiyatanın mukozal immuniteyi değiştirmesi",
-      "E": "Gliadin peptidlerinin doku transglutaminazı ile"
+      "E": "Gliadin peptidlerinin doku transglutaminazı ile deamidasyonu"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 89,
-    "soru_koku": "deamidasyonu Aşağıdaki durumlardan hangisi reflü özofajit gelişmesine yol açmaz?",
+    "soru_koku": "Aşağıdaki durumlardan hangisi reflü özofajit gelişmesine yol açmaz?",
     "secenekler": {
       "A": "Sliding tipi hiatus hernisi",
       "B": "Ağır alkol tüketimi",
@@ -2465,14 +2465,14 @@
       "B": "Demirin ana atılım yolu olan safra akımı bozulmuştur",
       "C": "Demirin kullanıldığı metabolik reaksiyonlar bozulduğu için hepatositlerde birikir",
       "D": "Demir immun aracılı reaksiyonlarla hepatositlere hasar verir",
-      "E": "Demir metabolik sendrom sonucunda lipid"
+      "E": "Demir metabolik sendrom sonucunda lipid peroksidasyonu yapar"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 91,
-    "soru_koku": "peroksidasyonu yapar Crohn hastalığı ve Ülseratif kolitin ayrımında aşağıdakilerden hangileri yardımcıdır? I-Perianal hastalık IV-Kript abseleri II-Mukozada şiddetli yangı V-Kriptlerde distorsiyon III-Granülom yapıları VI-Lezyonların dağılımı",
+    "soru_koku": "Crohn hastalığı ve Ülseratif kolitin ayrımında aşağıdakilerden hangileri yardımcıdır? I-Perianal hastalık IV-Kript abseleri II-Mukozada şiddetli yangı V-Kriptlerde distorsiyon III-Granülom yapıları VI-Lezyonların dağılımı",
     "secenekler": {
       "A": "I,IV ve V",
       "B": "I, II ve III",
@@ -2491,27 +2491,27 @@
       "B": "Özofajit bulgularının çok şiddetli olması",
       "C": "Şiddetli yangısal infiltrasyon zemininde çok sayıda intranükleer inklüzyon içeren hücre bulunması",
       "D": "Skuamöz epitel yüzeyinde yaygın nötrofilik mikroabseler bulunması",
-      "E": "Kolumnar epitelde kalabalıklaşma,"
+      "E": "Kolumnar epitelde kalabalıklaşma, disorganizasyon, nükleer hiperkromazi ve nükleuslarda şekil bozukluğu olması"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 93,
-    "soru_koku": "disorganizasyon, nükleer hiperkromazi ve nükleuslarda şekil bozukluğu olması Aşağıdakilerden hangisi hasarlayıcı faktörlere karşı normal mide mukozasındaki korunma mekanizmalarından biri değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi hasarlayıcı faktörlere karşı normal mide mukozasındaki korunma mekanizmalarından biri değildir?",
     "secenekler": {
       "A": "Yüzeydeki epitel hücrelerinin salgıladığı mukus ile mukozanın örtülü olması",
       "B": "Yüzey epitel hücreleri tarafından mukus içine bikarbonat salgılanması",
       "C": "Mukozal kan akımını sağlamaya yardımcı olan mukozal prostoglandinler",
       "D": "Asid ve pepsin salgısının, gastrik pitlerden fışkırır tarzda lümen içine salgılanması",
-      "E": "Foveolar epitel hücrelerinin lümendeki"
+      "E": "Foveolar epitel hücrelerinin lümendeki mide asidini geri emmesi"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 94,
-    "soru_koku": "mide asidini geri emmesi Aşağıdaki kolon hastalıklarından/lezyonlarından hangisinde malign transformasyon gelişme olasılığı en düşüktür?",
+    "soru_koku": "Aşağıdaki kolon hastalıklarından/lezyonlarından hangisinde malign transformasyon gelişme olasılığı en düşüktür?",
     "secenekler": {
       "A": "Juvenil polip",
       "B": "Ülseratif kolit",
@@ -2569,14 +2569,14 @@
       "B": "Kese mukozasında diffüz kolesterolozis olması",
       "C": "Safra kesesinin hipomotilitesi",
       "D": "Biriken kolesterol kristallerinin nükleasyonu",
-      "E": ""
+      "E": "Mukus hipersekresyonu"
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 99,
-    "soru_koku": "Mukus hipersekresyonu Hepatit C virüsü aşağıdaki klinikopatolojik tablolardan hangisini oluşturmaz?",
+    "soru_koku": "Hepatit C virüsü aşağıdaki klinikopatolojik tablolardan hangisini oluşturmaz?",
     "secenekler": {
       "A": "Akut hepatit",
       "B": "Kronik hepatit",
@@ -2595,7 +2595,7 @@
       "B": "Curling ülserleri",
       "C": "Anüs imperforatus",
       "D": "Duodenal atrezi",
-      "E": ""
+      "E": "Omfalosel"
     },
     "cevap": "B"
   }

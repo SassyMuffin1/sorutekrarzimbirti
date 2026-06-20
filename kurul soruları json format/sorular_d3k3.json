@@ -34,14 +34,14 @@
       "B": "Yüksek duyarlılıklı CRP bazal düzeyleri ; MI, inme, Kardiyovasküler ölüm olaylarının öngörüsünde, tedavi hedefi olarak ve tedavi seçiminde büyük öneme sahiptir.",
       "C": "Non-HDL kolesterol düzeyleri, hipertrigliseridemi varlığında tüm aterojenik Lipoproteinleri'i LDL-K'den daha iyi temsil eder",
       "D": "Non-HDL Kolesterol; Klinik uygulamada total apoB göstergesi olarak kabul edilir",
-      "E": "LDL-K, oksidasyon sonucu Modifiye LDL-"
+      "E": "LDL-K, oksidasyon sonucu Modifiye LDL-Kolesterole dönüşür ve kendi reseptörlerince tanınarak hücre içine alınır"
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 4,
-    "soru_koku": "Kolesterole dönüşür ve kendi reseptörlerince tanınarak hücre içine alınır IDL yüksekliği ile beraber Apo E2 reseptör bozukluğu da görülebilen ve \"Disbetalipoproteinemi\" olarak adlandırılan Lipoprotein metabolizma bozukluğu aşağıdaki tipllerden hangisine aittir?",
+    "soru_koku": "IDL yüksekliği ile beraber Apo E2 reseptör bozukluğu da görülebilen ve \"Disbetalipoproteinemi\" olarak adlandırılan Lipoprotein metabolizma bozukluğu aşağıdaki tipllerden hangisine aittir?",
     "secenekler": {
       "A": "Tip I",
       "B": "Tip II",
@@ -112,14 +112,14 @@
       "B": "Sağlık çalışanları bir yaş altında brakial nabzı değerlendirebilir",
       "C": "Sağlık çalışanları bir yaş üstünde radial nabzı değerlendirebilir",
       "D": "Sağlık çalışanları bir yaş üstünde karotis nabzını değerlendirebilir",
-      "E": "Sağlık çalışanları bir yaş üstünde femoral nabzı"
+      "E": "Sağlık çalışanları bir yaş üstünde femoral nabzı değerlendirebilir"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 10,
-    "soru_koku": "değerlendirebilir Beden Kitle İndeksi (BKİ) ölçümünün aşırı kaslı bireylerde yanıltıcı olmasının temel bilimsel nedeni nedir?",
+    "soru_koku": "Beden Kitle İndeksi (BKİ) ölçümünün aşırı kaslı bireylerde yanıltıcı olmasının temel bilimsel nedeni nedir?",
     "secenekler": {
       "A": "BKİ vücuttaki su miktarını hesaba katmaz.",
       "B": "BKİ formülünün karesi alındığı için kas kütlesini otomatik olarak yükseltir.",
@@ -190,14 +190,14 @@
       "B": "Presinaptik nörona kolşn alımını inhibe eder",
       "C": "Asetilkolinesterazı inhibe eder",
       "D": "Asetilkolinin vezikülden salınımını inhibe eder",
-      "E": "iskelet kasında nikotinik reseptörleri inhibe"
+      "E": "iskelet kasında nikotinik reseptörleri inhibe eder"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 16,
-    "soru_koku": "eder Lupus eritematozusa benzeyen geçici bir sendroma neden olan antiaritmik ilaç hangisidir?",
+    "soru_koku": "Lupus eritematozusa benzeyen geçici bir sendroma neden olan antiaritmik ilaç hangisidir?",
     "secenekler": {
       "A": "Amiodaron",
       "B": "Adenozin",
@@ -554,14 +554,14 @@
       "B": "Teknesyum 99m makroagregat albumin (Tc- 99m MAA)",
       "C": "Teknesyum 99m Metoksiizobütilizonitril (Tc- 99m MIBI)",
       "D": "Teknesyum 99m Dietilentriaminpentaasetik asit (Tc-99m DTPA)",
-      "E": "Teknesyum 99m Dimerkaptosüksinik Asit"
+      "E": "Teknesyum 99m Dimerkaptosüksinik Asit (Tc99m DMSA)"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 44,
-    "soru_koku": "(Tc99m DMSA) Aşağıdaki yaşam tarzı değişikliklerinden hangisi kardiyovasküler hastalığı olan hastalar için yaşamı en fazla uzatır?",
+    "soru_koku": "Aşağıdaki yaşam tarzı değişikliklerinden hangisi kardiyovasküler hastalığı olan hastalar için yaşamı en fazla uzatır?",
     "secenekler": {
       "A": "Sigarayı bırakması",
       "B": "Düzenli egzersiz ve diyet yapması",
@@ -736,14 +736,14 @@
       "B": "Pürülan perikardit nadirdir",
       "C": "Kollajen doku hastalıkları perikardite sebep olabilir",
       "D": "Perikarditte solunum hareketleriyle ağrı azalır",
-      "E": "M. tuberculosis konstriktif perikardite sebep"
+      "E": "M. tuberculosis konstriktif perikardite sebep olabilir"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 58,
-    "soru_koku": "olabilir Akciğer tüberkülozu tedavisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "soru_koku": "Akciğer tüberkülozu tedavisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "secenekler": {
       "A": "İlaçlar sabah aç karnına, tek defada verilmelidir.",
       "B": "Tedavi süresi 9 aydır.",
@@ -944,14 +944,14 @@
       "B": "Eş zamanlı olarak periferik venden ve kateter lümeninden kan alınması",
       "C": "Kateterin giriş yerinden sürüntü örneği alınması",
       "D": "Kateter ucunun kesilerek aerop+anaerop kültürünün yapılması",
-      "E": "Kateter lümeninden kan alınarak aerop ve"
+      "E": "Kateter lümeninden kan alınarak aerop ve anaerop kültür yapılması"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 74,
-    "soru_koku": "anaerop kültür yapılması Uzun süredir hastanede yatan ve bakteriyel pnömoni gelişen hastada fermentatif, oksidaz negatif, gram negatif basil morfolojisinde ve karbapenemlere dirençli bakteri üremesi saptanıyor? Aşağıdaki etkenlerden hangisi öncelikli olarak düşünülmelidir?",
+    "soru_koku": "Uzun süredir hastanede yatan ve bakteriyel pnömoni gelişen hastada fermentatif, oksidaz negatif, gram negatif basil morfolojisinde ve karbapenemlere dirençli bakteri üremesi saptanıyor? Aşağıdaki etkenlerden hangisi öncelikli olarak düşünülmelidir?",
     "secenekler": {
       "A": "Peudomonas aeruginosa",
       "B": "Legionella pneumophilla",
@@ -970,27 +970,27 @@
       "B": "Hipertansiyona bağlı anevrizmalar abdominal aortada en sık görülür",
       "C": "Sifilize bağlı anevrizmalar en sık beyin damarlarında görülür",
       "D": "Berry anevrizmaları kongenitaldir",
-      "E": "Torasik aort anevrizmalarının en sık nedeni"
+      "E": "Torasik aort anevrizmalarının en sık nedeni aterosklerozdur"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 76,
-    "soru_koku": "aterosklerozdur İskemik kalp hastalığı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "İskemik kalp hastalığı ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "secenekler": {
       "A": "Hastaların büyük bölümünde en az bir koroner arterde ateroskleroz vardır.",
       "B": "Ateromatöz plakların yeri, yapısı, sayısı ve neden olduğu darlığın derecesine bağlı olarak risk değişir.",
       "C": "Darlığa neden olan ateromatöz plaktaki akut plak değişiklikleri nedeniyle akut koroner sendrom tablosu ortaya çıkar.",
       "D": "Yavaş gelişen daralmalarda kollateral damarların gelişimi iskemi riskini arttırır.",
-      "E": "Koroner arterin sol ön inen dalının (LAD) ilk 2"
+      "E": "Koroner arterin sol ön inen dalının (LAD) ilk 2 cm'lik bölümü en sık etkilenen bölgelerden biridir."
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 77,
-    "soru_koku": "cm'lik bölümü en sık etkilenen bölgelerden biridir. 35 yaşında erkek hastadan yapılan kitle eksizyonunda 2.7 cm çaplı kitle saptanıyor ve alınan örneklerde tüm alveollerin yüzeylerinin iri hiperkromatik nükleuslu hücrelerle döşeli olduğu görülüyor. Sadece 0,4 cm çaplı bir alanda alveol lümenlerinde atipik hücrelerden oluşan papiller yapılar görülmüştür. Bu hastada tanınız nedir?",
+    "soru_koku": "35 yaşında erkek hastadan yapılan kitle eksizyonunda 2.7 cm çaplı kitle saptanıyor ve alınan örneklerde tüm alveollerin yüzeylerinin iri hiperkromatik nükleuslu hücrelerle döşeli olduğu görülüyor. Sadece 0,4 cm çaplı bir alanda alveol lümenlerinde atipik hücrelerden oluşan papiller yapılar görülmüştür. Bu hastada tanınız nedir?",
     "secenekler": {
       "A": "Atipik adenomatöz hiperplazi",
       "B": "Adenokarsinoma insitu",
@@ -1035,14 +1035,14 @@
       "B": "Hipertrofik kardiyomyopati 'asimetrik septal hipertrofi' olarak da adlandırılır.",
       "C": "Hipertrofik kardiyomyopatide görülen en sık mutasyonlardan biri ß-myozin ağır zincirindeki mutasyondur.",
       "D": "Restriktif kardiyomyopatide temel fizyolojik sorun; gergin ve elastik olmayan ventrikülün yalnızca büyük bir güç harcayarak dolabilmesidir.",
-      "E": "Amiloidoz ve sarkoidoz gibi hastalıklar dilate"
+      "E": "Amiloidoz ve sarkoidoz gibi hastalıklar dilate kardiyopati nedenlerinden bazılarıdır."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 81,
-    "soru_koku": "kardiyopati nedenlerinden bazılarıdır. Aşağıdakilerden hangisi izole sağ kalp yetmezliğinde beklenen bulgulardan değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi izole sağ kalp yetmezliğinde beklenen bulgulardan değildir?",
     "secenekler": {
       "A": "Karaciğerde makroskopik olarak \"nutmeg\" (muskat cevizi) karaciğeri görünümü",
       "B": "Karaciğerde santral hemorajik nekroz",
@@ -1152,14 +1152,14 @@
       "B": "Akciğer genelinde oluşan fibrozis sonucu oluşan atelektazi kontraksiyon atelektazisidir",
       "C": "Obstrüksiyon atelektazisinin nedenlerden biri de bronşektazidir",
       "D": "Kompresyon atelektazisinde mediasten tutulan akciğere doğru kayar",
-      "E": "Hava yolunun tıkanması sonucu gelişen"
+      "E": "Hava yolunun tıkanması sonucu gelişen atelektazi rezorbsiyon atelektazisidir"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 90,
-    "soru_koku": "atelektazi rezorbsiyon atelektazisidir Aşağıdaki tükürük bezlerinden hangisinde benign tümör görülme olasılığı en fazladır?",
+    "soru_koku": "Aşağıdaki tükürük bezlerinden hangisinde benign tümör görülme olasılığı en fazladır?",
     "secenekler": {
       "A": "Major tükürük bezleri",
       "B": "Minör tükürük bezleri",
@@ -1204,14 +1204,14 @@
       "B": "Ağır sigara içenlerin %11'inde akciğer kanseri gelişir çünkü predispozan başka faktörler var",
       "C": "Aktif sigara içenlerde 60 kat daha fazla görülür",
       "D": "Pasif içicilerde 100 kat daha fazla görülür",
-      "E": "Akciğer kanserinin %80'i aktif içicilerde ya da"
+      "E": "Akciğer kanserinin %80'i aktif içicilerde ya da sigarayı yeni bırakanlarda görülür"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 94,
-    "soru_koku": "sigarayı yeni bırakanlarda görülür Kronik hipertansiyona bağlı nefrosklerozda karakteristik olarak görülen bulgu nedir?",
+    "soru_koku": "Kronik hipertansiyona bağlı nefrosklerozda karakteristik olarak görülen bulgu nedir?",
     "secenekler": {
       "A": "Monckeberg'in medial kalsifikasyonu",
       "B": "Hiperplastik arterioloskleroz",
@@ -1256,14 +1256,14 @@
       "B": "Enfektif endokarditte sistemik emboli, mikotik anevrizmalar gibi komplikasyonlar görülebilir.",
       "C": "Nonbakteriyal trombotik endokarditte lezyonlar sterildir.",
       "D": "Libman-Sacks endokarditi immun kompleks birikimi sonucunda oluşur.",
-      "E": "Nonbakteriyal trombotik endokardit, kronik"
+      "E": "Nonbakteriyal trombotik endokardit, kronik dönemde fibrozis gelişimi nedeniyle sekel bırakabilir."
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 98,
-    "soru_koku": "dönemde fibrozis gelişimi nedeniyle sekel bırakabilir. Akciğer adenokarsinomlarında rutin olarak bakılan hedefe yönelik tedavi belirteçlerinden olmayan aşağıdakilerden hangisidir?",
+    "soru_koku": "Akciğer adenokarsinomlarında rutin olarak bakılan hedefe yönelik tedavi belirteçlerinden olmayan aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "EGFR",
       "B": "RET",
@@ -1373,27 +1373,27 @@
       "B": "Myokard infarktı başladıktan 2 saat içinde Yükselir.",
       "C": "Esas değerli olan veri: myoglobinin (-) olmasıdır",
       "D": "Myoglobini (+) olan hastalarda Troponin ve CK MB gibi daha spesifik markerler ile devam etmelidir",
-      "E": "Böbrek fonksiyon bozuklukları ve iskelet kası hasarında"
+      "E": "Böbrek fonksiyon bozuklukları ve iskelet kası hasarında değeri değişmez"
     },
     "cevap": "E"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 7,
-    "soru_koku": "değeri değişmez Öksürük ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "soru_koku": "Öksürük ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "secenekler": {
       "A": "Subakut öksüruk yanan nedenlerin başında postenfeksiyoz öksürük gelir",
       "B": "Dokuz haftada olan öksürük subakut öksürüktür.",
       "C": "Dört haftadır devam eden öksürük akut öksürük olarak kabul edilir.",
       "D": "Öksürük varyant astımda solunum fonksiyonları patolojiktir",
-      "E": "Ost havayolu öksürük sendromu tans brons"
+      "E": "Ost havayolu öksürük sendromu tans brons provokasyon testi ile konur"
     },
     "cevap": "A"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 8,
-    "soru_koku": "provokasyon testi ile konur İki aydır öksürük yakınması olan 30 yaşındaki kadın hastanın atopisi mevcuttur. AC grafisi ve solunum fonksiyon testi normal olan hastanın bronş provakasyon testi pozitif olarak yorumlanmıştır. Ön taniniz nedir?",
+    "soru_koku": "İki aydır öksürük yakınması olan 30 yaşındaki kadın hastanın atopisi mevcuttur. AC grafisi ve solunum fonksiyon testi normal olan hastanın bronş provakasyon testi pozitif olarak yorumlanmıştır. Ön taniniz nedir?",
     "secenekler": {
       "A": "Allerjik rinit",
       "B": "Antihipertansif kullanımına bağlı öksürük",
@@ -1451,14 +1451,14 @@
       "B": "Sağlık çalışanlan bir yaş altında brakial nabzı değerlendirebilir",
       "C": "Sağlık çalışanları bir yaş üstünde radial nabzı değerlendirebilir",
       "D": "Sağlık çalışanlan bir yaş üstünde karotis nabzını değerlendirebilir",
-      "E": "Sağlık çalışanları bir yaş üstünde femoral nabzı"
+      "E": "Sağlık çalışanları bir yaş üstünde femoral nabzı değerlendirebilir"
     },
     "cevap": "C"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 13,
-    "soru_koku": "değerlendirebilir Statinlerle ilgili olarak aşağıdakilerden hangisi doğru değildir?",
+    "soru_koku": "Statinlerle ilgili olarak aşağıdakilerden hangisi doğru değildir?",
     "secenekler": {
       "A": "Hmg CoA redüktaz enzimini inhibe ederler",
       "B": "HDL düzeyini düşürürler",
@@ -1737,14 +1737,14 @@
       "B": "Sitoplazma içindeki asetilkolinin veziküllere geri emilimini Hemikolinium-3 bloke eder.",
       "C": "Batilinum toksini, sinaptobrevinleri parçalayarak asetilkolin salıverilmesini irreversibl bloke eder",
       "D": "P tipi kalsiyum kanal blokörleri veziküllerden parsiyel ekzositoz ile asetilkolin salıverilmesini artırır.",
-      "E": "Asetilkolin biyosentezinde hız kısıtlayıcı basamak"
+      "E": "Asetilkolin biyosentezinde hız kısıtlayıcı basamak asetilkolin uptakedir"
     },
     "cevap": "C"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 35,
-    "soru_koku": "asetilkolin uptakedir Kalp yetmezliğinde en düşük etkinliğe sahip olan ilaçlar hangileridir?",
+    "soru_koku": "Kalp yetmezliğinde en düşük etkinliğe sahip olan ilaçlar hangileridir?",
     "secenekler": {
       "A": "Na+/K+ ATPaz inhibitorieri",
       "B": "ACE inhibitörleri",
@@ -2244,14 +2244,14 @@
       "B": "Ekokardiyografi",
       "C": "Miyokard blyopsi örneğinden PCR ve patolojik inceleme",
       "D": "Kanda özgül antikorların aranması",
-      "E": "Üst solunum yolu sekresyonlarından multipleks PCR"
+      "E": "Üst solunum yolu sekresyonlarından multipleks PCR incelemesi"
     },
     "cevap": "C"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 74,
-    "soru_koku": "incelemesi Boğmaca tanısında aşağıdakı yöntemlerden hangisi en yüksek duyarlılık ve özgüllüğe sahiptir",
+    "soru_koku": "Boğmaca tanısında aşağıdakı yöntemlerden hangisi en yüksek duyarlılık ve özgüllüğe sahiptir",
     "secenekler": {
       "A": "Direkt floresan antikor testi",
       "B": "Kültür",
@@ -2491,14 +2491,14 @@
       "B": "Aldosteron salgılayan sürrenal adenom primer hipertansiyon nedenidir",
       "C": "Dışarıdan verilen kortikosteroidler sekonder hipertansiyona yol açar",
       "D": "Renal arter stenozu primer nedenidir hipertansiyon",
-      "E": "idiopatik hipertansiyon daima malign hipertansiyon"
+      "E": "idiopatik hipertansiyon daima malign hipertansiyon şeklinde görülür"
     },
     "cevap": "C"
   },
   {
     "yil": "2023-2024",
     "soru_numarasi": 93,
-    "soru_koku": "şeklinde görülür Karın ağrısı şikayetiyle hastaneye başvuran 60 yaşında erkek hastanın 20 yıldır sigara içicisi olduğu biliniyor. Fizik muayenede pulsatil kitie palpe ediliyor, Görüntüleme yöntemleri ile batın içi kitle saptanıyor. En olası tanı nedir?",
+    "soru_koku": "Karın ağrısı şikayetiyle hastaneye başvuran 60 yaşında erkek hastanın 20 yıldır sigara içicisi olduğu biliniyor. Fizik muayenede pulsatil kitie palpe ediliyor, Görüntüleme yöntemleri ile batın içi kitle saptanıyor. En olası tanı nedir?",
     "secenekler": {
       "A": "Aterosklerotik vasküler stenoz",
       "B": "Aort diseksiyonu",

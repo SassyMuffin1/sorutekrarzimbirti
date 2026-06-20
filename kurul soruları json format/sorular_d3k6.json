@@ -372,14 +372,14 @@
       "B": "Ayda 1 kez subkutan enjeksiyon olarak uygulanır",
       "C": "Ağrıyı önlemede etkilidir",
       "D": "Uygulama yerine kızarıklık, kaşıntı ve hafif alerjik reaksiyon oluşturabilir",
-      "E": "Vücutta CGRP molekülüne bağlanır ve etkisiz"
+      "E": "Vücutta CGRP molekülüne bağlanır ve etkisiz hale getirir"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 30,
-    "soru_koku": "hale getirir Aşağıdaki nöromediyatörlerden hangisinin (hangilerinin) SSS'deki düzeyinin artması antikonvülsan ve anksiyolitik etki gösterir? 1. GABA 2. Glutamat 3. Adenozin 4. Dopamin",
+    "soru_koku": "Aşağıdaki nöromediyatörlerden hangisinin (hangilerinin) SSS'deki düzeyinin artması antikonvülsan ve anksiyolitik etki gösterir? 1. GABA 2. Glutamat 3. Adenozin 4. Dopamin",
     "secenekler": {
       "A": "Sadece 1",
       "B": "Sadece 2",
@@ -671,14 +671,14 @@
       "B": "Hastanın pitozunun 2dk yorma ile artması",
       "C": "Hastanın derin tendon reflekslerinin azalması",
       "D": "Hastanın güçsüzlüğünün aşağıdan yukarı ilerlemesi",
-      "E": "Hastanın şikayetlerinin kaslarının ısıtılması ile"
+      "E": "Hastanın şikayetlerinin kaslarının ısıtılması ile azalması"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 53,
-    "soru_koku": "azalması Epilepsi tanısıyla izlenen olgu, aşağıdaki radyolojik görüntüleme modalitelerinden hangisi ile takip edilir?",
+    "soru_koku": "Epilepsi tanısıyla izlenen olgu, aşağıdaki radyolojik görüntüleme modalitelerinden hangisi ile takip edilir?",
     "secenekler": {
       "A": "Ultrasonografi",
       "B": "Karotis Vertebral Doppler Ultaranografi",
@@ -801,14 +801,14 @@
       "B": "Hastanın sağ tarafında göbek hizasından bacağına kadar uyuşma olması",
       "C": "Hastanın sağ bacağında uyuşma sol bacağında pozisyon duyu kaybı olması",
       "D": "Hastanın şal tarzında omuzlarında duyu kaybı olması",
-      "E": "Hastanın göbek seviyesinden aşağısında iki"
+      "E": "Hastanın göbek seviyesinden aşağısında iki bacağında parestezi olması"
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 63,
-    "soru_koku": "bacağında parestezi olması 2,5 yaşındaki bir çocuk gelişim değerlendirmesi için getiriliyor. Ailesi çocuğun tuvalet eğitimine başladığını, kaka tutma davranışı gösterdiğini, zaman zaman dışkısını sakladığını ve kontrol etme ile ilgili belirgin bir uğraşı olduğunu ifade ediyor. Çocuk oyuncaklarını sahipleniyor ve “benim” vurgusu yapıyor. Gelişim basamakları yaşına uygun. Bu davranış örüntüsü Freud'un psikoseksüel gelişim dönemlerinden hangisi ile en uyumludur?",
+    "soru_koku": "2,5 yaşındaki bir çocuk gelişim değerlendirmesi için getiriliyor. Ailesi çocuğun tuvalet eğitimine başladığını, kaka tutma davranışı gösterdiğini, zaman zaman dışkısını sakladığını ve kontrol etme ile ilgili belirgin bir uğraşı olduğunu ifade ediyor. Çocuk oyuncaklarını sahipleniyor ve “benim” vurgusu yapıyor. Gelişim basamakları yaşına uygun. Bu davranış örüntüsü Freud'un psikoseksüel gelişim dönemlerinden hangisi ile en uyumludur?",
     "secenekler": {
       "A": "Oral Dönem",
       "B": "Anal Dönem",
@@ -840,14 +840,14 @@
       "B": "Bell paralizisi; göz koruma + erken dönemde sistemik kortikosteroid tedavisi",
       "C": "Ramsay Hunt sendromu; topikal antibiyotik damla",
       "D": "Parotis tümörü; acil parotidektomi",
-      "E": "Myasthenia gravis; asetilkolinesteraz inhibitörü"
+      "E": "Myasthenia gravis; asetilkolinesteraz inhibitörü başlanması"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 66,
-    "soru_koku": "başlanması Aşağıdakilerden hangisi psikojenik non epileptik nöbetlerin bir özelliğidir?",
+    "soru_koku": "Aşağıdakilerden hangisi psikojenik non epileptik nöbetlerin bir özelliğidir?",
     "secenekler": {
       "A": "Nöbetlerin stereotipik olması",
       "B": "nöbetlerin 2-3 dk sürmesi",
@@ -1022,14 +1022,14 @@
       "B": "Fasiyal sinir EMG/ENoG gibi elektrofizyolojik testler planlanabilir; mutlaka göz koruma uygulanır",
       "C": "Yalnız antibiyotik başlanır; steroid kontrendikedir",
       "D": "Santral fasiyal paralizi düşünülür; alın tutulumu santral lezyon lehinedir",
-      "E": "Akut dönemde (ilk 24 saat) steroid"
+      "E": "Akut dönemde (ilk 24 saat) steroid başlanmazsa tedavinin hiç faydası olmaz; göz önlemi gereksizdir"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 80,
-    "soru_koku": "başlanmazsa tedavinin hiç faydası olmaz; göz önlemi gereksizdir 28 yaşında erkek hasta, yaklaşık 2 haftadır her gün tekrarlayan şiddetli baş ağrısı şikâyeti ile polikliniğe başvuruyor. Ağrının sol göz çevresinde başladığını ve göz arkasına yayıldığını, delici ve yanıcı karakterde olduğunu ifade ediyor. Ağrının şiddetini 10 üzerinden 10 olarak tanımlıyor. Atakların genellikle gece saatlerinde aniden başladığını ve yaklaşık 45–60 dakika sürdüğünü belirtiyor. Ağrı sırasında sol gözünde kızarıklık ve yaşarma, aynı tarafta burun akıntısı ve burun tıkanıklığı olduğunu söylüyor. Atak esnasında yerinde duramadığını, sürekli dolaşma ihtiyacı hissettiğini ifade ediyor. Son 2 haftadır her gün 1– 2 kez benzer ataklar yaşadığını, daha önce de geçen yıl benzer şekilde yaklaşık 1 ay süren bir dönem geçirdiğini belirtiyor. Özgeçmişinde bilinen kronik hastalık yok. Sigara kullanımı mevcut. Fizik muayenede vital bulgular normal, nörolojik muayenede patoloji saptanmıyor. Bu hastada ön tanı olarak hangi baş ağrısı tipini düşünürsünüz?",
+    "soru_koku": "28 yaşında erkek hasta, yaklaşık 2 haftadır her gün tekrarlayan şiddetli baş ağrısı şikâyeti ile polikliniğe başvuruyor. Ağrının sol göz çevresinde başladığını ve göz arkasına yayıldığını, delici ve yanıcı karakterde olduğunu ifade ediyor. Ağrının şiddetini 10 üzerinden 10 olarak tanımlıyor. Atakların genellikle gece saatlerinde aniden başladığını ve yaklaşık 45–60 dakika sürdüğünü belirtiyor. Ağrı sırasında sol gözünde kızarıklık ve yaşarma, aynı tarafta burun akıntısı ve burun tıkanıklığı olduğunu söylüyor. Atak esnasında yerinde duramadığını, sürekli dolaşma ihtiyacı hissettiğini ifade ediyor. Son 2 haftadır her gün 1– 2 kez benzer ataklar yaşadığını, daha önce de geçen yıl benzer şekilde yaklaşık 1 ay süren bir dönem geçirdiğini belirtiyor. Özgeçmişinde bilinen kronik hastalık yok. Sigara kullanımı mevcut. Fizik muayenede vital bulgular normal, nörolojik muayenede patoloji saptanmıyor. Bu hastada ön tanı olarak hangi baş ağrısı tipini düşünürsünüz?",
     "secenekler": {
       "A": "Auralı Migren",
       "B": "Aurasız Migren",
@@ -1282,14 +1282,14 @@
       "B": "Nörofibriler yumaklar, Lafora cisimciği, Lewy cisimciği, Negri cisimciği",
       "C": "Lipofuscin, Lafora cisimciği, Sfingomyelin, Rosenthal lifleri",
       "D": "Rosenthal lifleri, Lafora cisimciği, Lewy cisimciği, nörofibriler yumaklar",
-      "E": "Nörofibriler yumaklar, lipofuscin, Lewy"
+      "E": "Nörofibriler yumaklar, lipofuscin, Lewy cisimciği, Negri cisimciği"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 100,
-    "soru_koku": "cisimciği, Negri cisimciği Aşağıdakilerden hangisi perinatal beyin hasarı sonucu ortaya çıkan patolojilerden biridir?",
+    "soru_koku": "Aşağıdakilerden hangisi perinatal beyin hasarı sonucu ortaya çıkan patolojilerden biridir?",
     "secenekler": {
       "A": "Hidransefali",
       "B": "Periventriküler lökomalazi",
@@ -1373,14 +1373,14 @@
       "B": "Şahit numune almamak",
       "C": "Hastanın elini yumruk yapıp açmasını ard arda tekrarlamasını istemek",
       "D": "Manşonu uzun süre bağlı tutarak staza sebep olmak",
-      "E": "Alkol örnek alma formlarını doldurmadan ve"
+      "E": "Alkol örnek alma formlarını doldurmadan ve örneği kilitli çantada göndermemek"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 7,
-    "soru_koku": "örneği kilitli çantada göndermemek Epileptik nöbet tanısında en önemli tetkik aşağıdakilerden hangisidir?",
+    "soru_koku": "Epileptik nöbet tanısında en önemli tetkik aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Kranial BT/MR",
       "B": "Hemogram",
@@ -1477,14 +1477,14 @@
       "B": "Ayda 1 kez subkutan enjeksiyon olarak uygulanır",
       "C": "Ağrıyı önlemede etkilidir",
       "D": "Uygulama yerine kızarıklık, kaşıntı ve hafif alerjik reaksiyon oluşturabilir",
-      "E": "Vücutta CGRP molekülüne bağlanır ve etkisiz"
+      "E": "Vücutta CGRP molekülüne bağlanır ve etkisiz hale getirir"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 15,
-    "soru_koku": "hale getirir Nörotransmiter olması yanısıra nörohormon olarak da görev yapabilen; nigrostriatal, mezolimbik ve tuberoinfundibular yolaklarda bulunan ana nöromediyatör hangisidir?",
+    "soru_koku": "Nörotransmiter olması yanısıra nörohormon olarak da görev yapabilen; nigrostriatal, mezolimbik ve tuberoinfundibular yolaklarda bulunan ana nöromediyatör hangisidir?",
     "secenekler": {
       "A": "Asetilkolin",
       "B": "Dopamin",
@@ -1529,14 +1529,14 @@
       "B": "İdrarın asitleştirilmesi fenobarbitalin eliminasyonunu hızlandırır",
       "C": "Barbitüratların yüksek dozlarına bağlı solunum depresyonu flumazenil ile geri çevrilebilir",
       "D": "Fenobarbitalin kesilmesine bağlı gelişen yoksunluk sendromu bulguları, daha kısa etkili sekobarbitale göre daha hafiftir",
-      "E": "Barbitüratlar karaciğerde metabolize edilen"
+      "E": "Barbitüratlar karaciğerde metabolize edilen ilaçların yarılanma ömürlerini artırabilirler"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 19,
-    "soru_koku": "ilaçların yarılanma ömürlerini artırabilirler 32 yaşında fıtık ameliyatı planlanan kadın hastaya anestezi için halotan ve nitroz oksid uygulanmış, adele gevşemesi tubokürarin ile sağlanmıştır. Hastada aniden taşikardi oluşmuş ve hipertansiyon gelişmiştir. Yaygın iskelet adelesi rijiditesine, belirgin hipertermi eşlik etmiştir. Laboratuvar değerleri hiperkalemi ve asidoz göstermektedir. Bu hastanın acilen aşağıdaki ilaçlardan hangisi ile tedavi edilmesi gereklidir?",
+    "soru_koku": "32 yaşında fıtık ameliyatı planlanan kadın hastaya anestezi için halotan ve nitroz oksid uygulanmış, adele gevşemesi tubokürarin ile sağlanmıştır. Hastada aniden taşikardi oluşmuş ve hipertansiyon gelişmiştir. Yaygın iskelet adelesi rijiditesine, belirgin hipertermi eşlik etmiştir. Laboratuvar değerleri hiperkalemi ve asidoz göstermektedir. Bu hastanın acilen aşağıdaki ilaçlardan hangisi ile tedavi edilmesi gereklidir?",
     "secenekler": {
       "A": "Atropin",
       "B": "Baklofen",
@@ -1633,14 +1633,14 @@
       "B": "İlacın aniden bırakılmasına bağlı yoksunluk sendromu bulguları gözlenebilir",
       "C": "Alkolle birlikte alındığında santral depresyona bağlı bulgular şiddetlenebilir",
       "D": "İlacın etkisinin ortaya çıkması bir hafta ya da daha uzun süre alabilir",
-      "E": "İlacın hafıza üzerine belirgin olumsuz etkileri"
+      "E": "İlacın hafıza üzerine belirgin olumsuz etkileri olabilir"
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 27,
-    "soru_koku": "olabilir Aşağıdakilerden hangisi bir agonist-antagonist opioid değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi bir agonist-antagonist opioid değildir?",
     "secenekler": {
       "A": "Buprenorfin",
       "B": "Naltrekson",
@@ -1698,14 +1698,14 @@
       "B": "İntragastrik basıncın artması",
       "C": "Blokajın erken safhasında piridostigmin antagonizması",
       "D": "Mide içeriğinin boşalma hızında artma",
-      "E": "Nöromüsküler kavşakta asetilkolinesteraz ile"
+      "E": "Nöromüsküler kavşakta asetilkolinesteraz ile metabolizma"
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 32,
-    "soru_koku": "metabolizma GABAA reseptör kompleksinde aşağıdaki ilaçlardan hangisi veya hangilerinin kendine has bağlanma yeri vardır? 1- Benzodiazepinler 2- Etanol 3- GABA 4- Barbitürat",
+    "soru_koku": "GABAA reseptör kompleksinde aşağıdaki ilaçlardan hangisi veya hangilerinin kendine has bağlanma yeri vardır? 1- Benzodiazepinler 2- Etanol 3- GABA 4- Barbitürat",
     "secenekler": {
       "A": "1 ve 3",
       "B": "2 ve 4",
@@ -2192,14 +2192,14 @@
       "B": "Bedensel Belirti Bozukluğu",
       "C": "Hastalık Kaygısı Bozukluğu",
       "D": "Dönüştürme (conversion) bozukluğu",
-      "E": "Temaruz (simülasyon, hekimi"
+      "E": "Temaruz (simülasyon, hekimi yönelik davranış)"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 70,
-    "soru_koku": "yönelik davranış) Aşağıdakilerden hangisi timpanik membran ladnmarklarından birisidir?",
+    "soru_koku": "Aşağıdakilerden hangisi timpanik membran ladnmarklarından birisidir?",
     "secenekler": {
       "A": "umbo",
       "B": "tragus",
@@ -2413,14 +2413,14 @@
       "B": "Tetanus immunglobulin 1 doz verilir.",
       "C": "Tetanus aşısı 1 doz verilir.",
       "D": "Aşı ve immunglobulin ayrı kollardan aynı anda verilir.",
-      "E": "0,3,7 ve 14. günlerde 1 doz tetanus aşısı"
+      "E": "0,3,7 ve 14. günlerde 1 doz tetanus aşısı yapılır."
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 87,
-    "soru_koku": "yapılır. Aşağıdaki meningiom tiplerinden hangisinin nüks etme olasılığı diğerlerinden azdır?",
+    "soru_koku": "Aşağıdaki meningiom tiplerinden hangisinin nüks etme olasılığı diğerlerinden azdır?",
     "secenekler": {
       "A": "Papiller meningiom",
       "B": "Berrak hücreli meningiom",
@@ -2504,14 +2504,14 @@
       "B": "Klasik tip, WNT ve SHH yolakları aktif olmayan, Grup 4",
       "C": "Klasik tip, WNT yolağı aktif",
       "D": "Klasik tip, SHH yolağı aktif-p53 doğal tip",
-      "E": "Klasik tip, WNT ve SHH yolakları aktif"
+      "E": "Klasik tip, WNT ve SHH yolakları aktif olmayan, Grup 3"
     },
     "cevap": "C"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 94,
-    "soru_koku": "olmayan, Grup 3 Periferik nöropatiye yol açan aşağıdaki hastalıkların hangisinde primer aksonal dejenerasyon gelişmesi daha çok beklenir?",
+    "soru_koku": "Periferik nöropatiye yol açan aşağıdaki hastalıkların hangisinde primer aksonal dejenerasyon gelişmesi daha çok beklenir?",
     "secenekler": {
       "A": "Guillain-Barré Sendromu",
       "B": "Lökodistrofiler",
@@ -2569,14 +2569,14 @@
       "B": "Bir erişkin için günlük BOS üretim miktarı yaklaşık 500cc kadardır",
       "C": "BOS'un üretim yeri koroid pleksustur",
       "D": "Hidrosefali, dolaşımdaki BOS'un çeşitli nedenlerle artması sonucu ortaya çıkar",
-      "E": "BOS, lateral ventriküllerden III. ventriküle"
+      "E": "BOS, lateral ventriküllerden III. ventriküle Foramen Monroe aracılığı ile geçer"
     },
     "cevap": "A"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 99,
-    "soru_koku": "Foramen Monroe aracılığı ile geçer IDH-1 mutasyonu (+), 1p-19q koledesyonu (-) ve ATRX kaybı gözlenen (ATRX-), mitoz, nekroz ve mikrovasküler proliferasyon gözlenmeyen bir diffüz gliomun morfolojik tanısı aşağıdakilerden hangisi olmalıdır?",
+    "soru_koku": "IDH-1 mutasyonu (+), 1p-19q koledesyonu (-) ve ATRX kaybı gözlenen (ATRX-), mitoz, nekroz ve mikrovasküler proliferasyon gözlenmeyen bir diffüz gliomun morfolojik tanısı aşağıdakilerden hangisi olmalıdır?",
     "secenekler": {
       "A": "Diffüz astrositom",
       "B": "Diffüz hemisferik gliom",

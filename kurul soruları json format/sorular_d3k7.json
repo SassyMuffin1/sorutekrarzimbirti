@@ -177,7 +177,7 @@
       "B": "Sodyum florür",
       "C": "Strontium ranelate",
       "D": "Denosumab",
-      "E": "Galyum n"
+      "E": "Galyum nitrat"
     },
     "cevap": "C"
   },
@@ -229,7 +229,7 @@
       "B": "Gliburid",
       "C": "İnsülin glarjin",
       "D": "NPH insülin",
-      "E": "Tolbutamiditratostat"
+      "E": "Tolbutamid"
     },
     "cevap": "A"
   },
@@ -307,14 +307,14 @@
       "B": "Yüksek dozlarda gastrik asit sekresyonunu uyarırlar",
       "C": "Kas protein katabolizmasına neden olurlar",
       "D": "Lökositlerin migrasyonunu inhibe ederler",
-      "E": "Glukokortikoidler, glukoneogenezi inhibe"
+      "E": "Glukokortikoidler, glukoneogenezi inhibe ederler"
     },
     "cevap": "E"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 25,
-    "soru_koku": "ederler Squalen epoksidazı selektif bir şekilde inhibe ederek ergosterol sentezini erken bir basamakta bloke eden fungisidal etkili antifungal ilaç hangisidir?",
+    "soru_koku": "Squalen epoksidazı selektif bir şekilde inhibe ederek ergosterol sentezini erken bir basamakta bloke eden fungisidal etkili antifungal ilaç hangisidir?",
     "secenekler": {
       "A": "Itrakonazol",
       "B": "Amfoterisin B",
@@ -359,14 +359,14 @@
       "B": "İnsülin glarjinin sabah enjeksiyonları ve yemek zamanları insülin lispronun küçük miktarlarda enjeksiyonları ile desteklenmesi",
       "C": "Regüler insülinin sabah-akşam injeksiyonları ve yemek zamanları küçük miktarlarda NPH insülin ile desteklenmesi",
       "D": "Regüler insülin ve insülin glarjinin karışımının akşam injeksiyonları",
-      "E": "NPH insülinin sabah ve regüler insülinin"
+      "E": "NPH insülinin sabah ve regüler insülinin akşam injeksiyonları"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 29,
-    "soru_koku": "akşam injeksiyonları Aşağıdaki Glukokortikoidlerden hangisi uzun etkilidir?",
+    "soru_koku": "Aşağıdaki Glukokortikoidlerden hangisi uzun etkilidir?",
     "secenekler": {
       "A": "Kortizol (hidrokortizon)",
       "B": "Kortizon",
@@ -489,14 +489,14 @@
       "B": "Başlangıçta hiperosmolar koma görülme oranı Tip 2 diyabette yüksektir",
       "C": "Doğum ağırlığının Tip 2 diyabet etiyopatogenezinde rolü yoktur",
       "D": "Tip 2 diyabette ketonürisiz glukozüri vardır",
-      "E": "Hastalığın asemptomatik döneminde de"
+      "E": "Hastalığın asemptomatik döneminde de vasküler komplikasyonlar gelişir"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 39,
-    "soru_koku": "vasküler komplikasyonlar gelişir Aşağıdakilerden hangisi NCEP-ATP III' e göre metabolik sendrom tanısı koyabilmek için kullanılan parametrelerden biri değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi NCEP-ATP III' e göre metabolik sendrom tanısı koyabilmek için kullanılan parametrelerden biri değildir?",
     "secenekler": {
       "A": "bel çevresi ölçümü",
       "B": "trigliserid ölçümü",
@@ -671,14 +671,14 @@
       "B": "Serum düzeyi 14 mg/dl'yi aşarsa akut böbrek yetmezliği yapabilir",
       "C": "Serum düzeyleri semptomların varlığını belirler",
       "D": "Bebeklerde gelişme geriliğine neden olur",
-      "E": "Büyük çocuklarda uzun süren hiperkalsemi"
+      "E": "Büyük çocuklarda uzun süren hiperkalsemi nefrokalsinozise neden olur"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 53,
-    "soru_koku": "nefrokalsinozise neden olur Aşağıdaki durumların hangisinde sekonder hipotiroidi gelişir?",
+    "soru_koku": "Aşağıdaki durumların hangisinde sekonder hipotiroidi gelişir?",
     "secenekler": {
       "A": "Hashimoto tiroiditi",
       "B": "İyot eksikliği",
@@ -749,14 +749,14 @@
       "B": "Antitiroid peroksidaz antikorlarının çok yüksek olması hipotiroidiye ilerleme riskini arttırır",
       "C": "Triiyodo tironin düzeylerinin değerlendirilmesi hipotiroidi tanısına nadiren yardımcı olur",
       "D": "Hipotiroidili hastaların tümünde guatr vardır",
-      "E": "santral hipotiroidide TSH düzeyleri normal"
+      "E": "santral hipotiroidide TSH düzeyleri normal olabilir"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 59,
-    "soru_koku": "olabilir Hipofiz adenomu tanısıyla tedavi edilen olgunun takip görüntülemelerinde aşağıdaki modalitelerden hangisi kullanılır?",
+    "soru_koku": "Hipofiz adenomu tanısıyla tedavi edilen olgunun takip görüntülemelerinde aşağıdaki modalitelerden hangisi kullanılır?",
     "secenekler": {
       "A": "Ultrasonografi",
       "B": "Sintigrafi",
@@ -788,14 +788,14 @@
       "B": "Kemik yaşı kronolojik yaştan iki yıl fazla ise erken puberte başlama riski artar",
       "C": "Erken puberte tanısı koymak için meme ultrasonu mutlaka yapılmalıdır",
       "D": "Ultrasonda over volümü 1.5 cc'yi aştığında erken puberte tanısı konur",
-      "E": "Overlerde folikül kistlerinin görülmesi erken"
+      "E": "Overlerde folikül kistlerinin görülmesi erken puberte tanısı için önemlidir"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 62,
-    "soru_koku": "puberte tanısı için önemlidir BIRADS sınıflamasında kategori 6 için doğru olan tanımlama hangisidir?",
+    "soru_koku": "BIRADS sınıflamasında kategori 6 için doğru olan tanımlama hangisidir?",
     "secenekler": {
       "A": "Histopatolojik tanısı olan malign meme kitlesi",
       "B": "Yüksek olasılıkla malign meme kitlesi",
@@ -853,14 +853,14 @@
       "B": "Hipokalsemi, PTH yüksekliği, 25(OH)D düşüklüğü",
       "C": "Hipokalsemi, hiperfosfatemi, 25(OH)D düşüklüğü",
       "D": "Hipokalsemi, PTH normal, 1,25(OH)D düşüklüğü",
-      "E": "Hipokalsemi, PTH normal, 25(OH) D"
+      "E": "Hipokalsemi, PTH normal, 25(OH) D düşüklüğü"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 67,
-    "soru_koku": "düşüklüğü Tiroid cerrahisi sonrası Hipoparatiroidi gelişen hastada aşağıdakilerden hangisi görülmez?",
+    "soru_koku": "Tiroid cerrahisi sonrası Hipoparatiroidi gelişen hastada aşağıdakilerden hangisi görülmez?",
     "secenekler": {
       "A": "hipokalsemi",
       "B": "hiperfosfatemi",
@@ -892,14 +892,14 @@
       "B": "Ultrasonografi radyasyon içermeyen tarama için uygun bir yöntemdir",
       "C": "40 yaş sonrası her kadına mamografik taramanın başlanması önerilir.",
       "D": "Tarama programına başlayan ve beklenen yaşam süresi 10 yılın üzerinde olan her kadına yapılmalıdır",
-      "E": "Ulusal tarama programında 40-69 yaş arası"
+      "E": "Ulusal tarama programında 40-69 yaş arası kadınların taranması önerilmektedir."
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 70,
-    "soru_koku": "kadınların taranması önerilmektedir. Aşağıdakilerden hangisi kandidaların yerleştiği alanları içermez?",
+    "soru_koku": "Aşağıdakilerden hangisi kandidaların yerleştiği alanları içermez?",
     "secenekler": {
       "A": "Oral mukoza",
       "B": "Saçlı deri",
@@ -1061,40 +1061,40 @@
       "B": "Klinik gidişi kötü, multipl organda multifokal lezyon oluşumu",
       "C": "Klinik gidişi iyi, multipl organda lezyon, tek organda multifokal lezyon varlığı",
       "D": "Prognozu orta seyirli, soliter, rekürensi nadir",
-      "E": "Klinik gidişi kötü, tek organda multip ve"
+      "E": "Klinik gidişi kötü, tek organda multip ve multifokal lezyon"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 83,
-    "soru_koku": "multifokal lezyon 42 yaşında kadın hastanın sol lobunda izlenen 3,5 cm çaplı hipoekoik nodüle yapılan aspirasyon sonucu 'folliküler neoplazi kuşkulu sitoloji' olarak raporlanmış. Bunun üzerine yapılan tiroidektomi kesitlerinde hücrelerin yer yer yuvarlak hiperkromatik nükleuslu hücrelerle yer yer ise irileşmiş, membranları düzensiz, üstüste binen hücrelerle karakterize olduğu ve lezyonun tüm alanlarında follikül paterni oluşturduğu görüldü. Nodülün çoğu alanda kapsüllü olduğu, sadece küçük bir odakta lezyonun kapsüle doğru hafif kabarıklık yaptığı ancak kapsül boyunca tam kat tutmadığı ve başka hiç bir alanda da kapsülde düzensizlik olmadığı saptandı. Bu hastada ön tanınız nedir?",
+    "soru_koku": "42 yaşında kadın hastanın sol lobunda izlenen 3,5 cm çaplı hipoekoik nodüle yapılan aspirasyon sonucu 'folliküler neoplazi kuşkulu sitoloji' olarak raporlanmış. Bunun üzerine yapılan tiroidektomi kesitlerinde hücrelerin yer yer yuvarlak hiperkromatik nükleuslu hücrelerle yer yer ise irileşmiş, membranları düzensiz, üstüste binen hücrelerle karakterize olduğu ve lezyonun tüm alanlarında follikül paterni oluşturduğu görüldü. Nodülün çoğu alanda kapsüllü olduğu, sadece küçük bir odakta lezyonun kapsüle doğru hafif kabarıklık yaptığı ancak kapsül boyunca tam kat tutmadığı ve başka hiç bir alanda da kapsülde düzensizlik olmadığı saptandı. Bu hastada ön tanınız nedir?",
     "secenekler": {
       "A": "Malignite potansiyeli belirsiz folliküler tümör",
       "B": "Folliküler karsinom",
       "C": "Papiller tiroid karsinomu folliküler varyant",
       "D": "Malignite potansiyeli belirsiz iyi diferansiye tümör",
-      "E": "Papiller benzeri nükleer özellikler gösteren"
+      "E": "Papiller benzeri nükleer özellikler gösteren noninvaziv folliküler tiroid neoplazisi"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 84,
-    "soru_koku": "noninvaziv folliküler tiroid neoplazisi Aşağıdaki özelliklerden hangisi malign melanomda kötü prognoza işaret eden bir bulgu değildir?",
+    "soru_koku": "Aşağıdaki özelliklerden hangisi malign melanomda kötü prognoza işaret eden bir bulgu değildir?",
     "secenekler": {
       "A": "Tümörde yaygın regresyon görülmesi",
       "B": "Tümörde ülser görülmesi",
       "C": "Tümör kalınlığının 1 cm olması",
       "D": "Tümör çevresinde yoğun lenfosit infiltrasyonu bulunması",
-      "E": "Tümörün milimetrekarede çok sayıda mitoz"
+      "E": "Tümörün milimetrekarede çok sayıda mitoz içermesi"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 85,
-    "soru_koku": "içermesi 0,9 cm çaplı 115 gr ağırlığında paratiroid lezyonunun kesitlerinde, kalın kapsüllü olduğu ve neredeyse tamamına yakınının oksifilik hücrelerden, çok az bir kısmının şef hücrelerden oluştuğu görülmüştür. Yapılan seri kesitlerde bir odakta tümörün kapsülü tam kat invaze ettiği saptanmıştır. Bu hastada en olası tanınız nedir?",
+    "soru_koku": "0,9 cm çaplı 115 gr ağırlığında paratiroid lezyonunun kesitlerinde, kalın kapsüllü olduğu ve neredeyse tamamına yakınının oksifilik hücrelerden, çok az bir kısmının şef hücrelerden oluştuğu görülmüştür. Yapılan seri kesitlerde bir odakta tümörün kapsülü tam kat invaze ettiği saptanmıştır. Bu hastada en olası tanınız nedir?",
     "secenekler": {
       "A": "Paratiroid hiperplazisi",
       "B": "Paratiroid adenomu",
@@ -1113,14 +1113,14 @@
       "B": "İnlamatuar karsinom histopatolojik bir tip olmayıp klinikopatolojik bir antitedir ve prognozu kötüdür",
       "C": "Erkekte görülen meme karsinomu kadında görülene göre daha iyi prognozludur",
       "D": "Meme karsinomunda en önemli prognostik faktör tümördeki mitoz sayısıdır",
-      "E": "Meme kanseri sıklıkla kanlı meme başı"
+      "E": "Meme kanseri sıklıkla kanlı meme başı akıntısı yapar"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 87,
-    "soru_koku": "akıntısı yapar Meme karsinomun gelişim yolakları bakımından en sık görülen tip aşağıdakilerden hangisidir?",
+    "soru_koku": "Meme karsinomun gelişim yolakları bakımından en sık görülen tip aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Luminal A",
       "B": "Luminal B",
@@ -1165,14 +1165,14 @@
       "B": "ADH ve oksitosin, hipotalamustan salgılanır",
       "C": "GH, PRL ve ACTH salgılayan hücreler yalnızca asidofilik karakterdedir",
       "D": "Mammosomatotrop adenomlar, hem laktotrop hem de somatotrop adenomların salgıladıkları hormonları salgılarlar",
-      "E": "Anterior hipofiz epitelyal orijinli olup bezin"
+      "E": "Anterior hipofiz epitelyal orijinli olup bezin büyük kısmını oluşturur"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 91,
-    "soru_koku": "büyük kısmını oluşturur Adrenal medullada gelişen, kromafin hücreler ve bunu destekleyen sustentakular hücrelerden oluşan tümörde aşağıdaki immunohistokimyasal boyalardan hangisi kromafin hücreleri göstermek için kullanılmaz?",
+    "soru_koku": "Adrenal medullada gelişen, kromafin hücreler ve bunu destekleyen sustentakular hücrelerden oluşan tümörde aşağıdaki immunohistokimyasal boyalardan hangisi kromafin hücreleri göstermek için kullanılmaz?",
     "secenekler": {
       "A": "Sinaptofizin",
       "B": "Kromogranin",
