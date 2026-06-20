@@ -149,12 +149,20 @@
                         <h2>Çalışmaya Başlamaya Hazır mısın?</h2>
                         <p id="dashboard-action-text">Bugün tekrar etmen gereken sorular seni bekliyor.</p>
                     </div>
-                    <button class="btn btn-primary btn-large" id="btn-start-study">
-                        <span>Tekrara Başla</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 20px; height: 20px;">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-                        </svg>
-                    </button>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <button class="btn btn-primary btn-large" id="btn-start-study">
+                            <span>Tekrara Başla</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 20px; height: 20px;">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                            </svg>
+                        </button>
+                        <button class="btn btn-secondary btn-large hidden" id="btn-start-free-study-dashboard">
+                            <span>Serbest Çalışma</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 20px; height: 20px;">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" />
+                            </svg>
+                        </button>
+                    </div>
                 </div>
 
                 <div class="advanced-stats-container" style="margin-top: 3rem; display: grid; grid-template-columns: 1fr; gap: 2rem;">

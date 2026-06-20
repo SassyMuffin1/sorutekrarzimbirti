@@ -89,6 +89,14 @@ function setupNavigation() {
         switchPanel('study');
     });
 
+    const freeStudyDashBtn = document.getElementById('btn-start-free-study-dashboard');
+    if (freeStudyDashBtn) {
+        freeStudyDashBtn.addEventListener('click', () => {
+            studyMode = 'all';
+            switchPanel('study');
+        });
+    }
+
     document.getElementById('btn-empty-go-dashboard').addEventListener('click', () => {
         switchPanel('dashboard');
     });
@@ -171,6 +179,7 @@ async function refreshDashboardStats() {
             
             const badge = document.getElementById('badge-due-count');
             const studyBtn = document.getElementById('btn-start-study');
+            const freeStudyBtn = document.getElementById('btn-start-free-study-dashboard');
             const btnSpan = studyBtn.querySelector('span');
             
             if (stats.due_questions > 0) {
@@ -180,8 +189,14 @@ async function refreshDashboardStats() {
                 studyBtn.classList.remove('hidden');
                 btnSpan.textContent = "Tekrara Başla";
                 studyMode = 'due';
+                if (freeStudyBtn) {
+                    freeStudyBtn.classList.remove('hidden');
+                }
             } else {
                 badge.classList.add('hidden');
+                if (freeStudyBtn) {
+                    freeStudyBtn.classList.add('hidden');
+                }
                 if (stats.total_questions > 0) {
                     document.getElementById('dashboard-action-text').textContent = "Bugünlük zorunlu tekrarlar bitti. Ancak istersen tüm soruları kapsayan serbest çalışmaya başlayabilirsin.";
                     studyBtn.classList.remove('hidden');
