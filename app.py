@@ -30,6 +30,9 @@ def turkish_lower(text):
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
 
+from execution.similarity_cache import SimilarityCache
+similarity_cache = SimilarityCache(app.root_path, turkish_lower)
+
 
 # Optional HTTP Basic Authentication
 def check_auth(username, password):
@@ -197,6 +200,7 @@ def add_question():
             soru_numarasi=data.get("soru_numarasi"),
             kurul_adi=data.get("kurul_adi")
         )
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "id": question_id}), 201
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -270,6 +274,7 @@ def update_question(question_id):
         if not success:
             return jsonify({"error": "Question not found"}), 404
             
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "message": "Question updated successfully"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -280,6 +285,7 @@ def delete_question(question_id):
         success = database.delete_question(question_id)
         if not success:
             return jsonify({"error": "Question not found"}), 404
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "message": "Question deleted successfully"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -302,6 +308,7 @@ def restore_database():
             return jsonify({"error": "Data must be a JSON array of questions"}), 400
             
         database.restore_backup_data(data)
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "message": "Database restored successfully"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -339,6 +346,7 @@ def add_questions_bulk():
             )
             saved_count += 1
             
+        similarity_cache.invalidate()
         return jsonify({
             "status": "success",
             "saved_count": saved_count,
@@ -355,6 +363,7 @@ def delete_questions_bulk():
             return jsonify({"error": "List of ids is required"}), 400
             
         database.delete_questions_bulk(data["ids"])
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "message": "Questions deleted successfully"})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -587,7 +596,6 @@ def review_kurul_question():
 def check_similarity():
     try:
         from difflib import SequenceMatcher
-        import json
         import re
         
         data = request.json
@@ -610,91 +618,105 @@ def check_similarity():
         current_yil = data.get("yil")
         current_num = int(data.get("soru_numarasi")) if data.get("soru_numarasi") is not None else None
         
-        def extract_keywords(text):
-            text_cleaned = re.sub(r'[^\w\s]', ' ', turkish_lower(text))
-            words = text_cleaned.split()
-            stop_words = {
-                "aşağıdaki", "aşağıdakilerden", "hangisi", "hangisidir", "yanlıştır", "doğrudur",
-                "ile", "ve", "veya", "bir", "en", "olarak", "için", "olan", "de", "da", "bu",
-                "ilgili", "hakkında", "tanımlardan", "ifadelerden", "söylenebilir", "söylenemez",
-                "ise", "ki", "daha", "çok", "göre", "tanı", "tanısı", "olası", "neden", "olur",
-                "yol", "açar", "analiz", "edilmelidir", "edilmemelidir", "arasındaki", "farklar",
-                "hakkındaki", "hangisinde", "hangisine", "buna", "göre", "örneğin", "aşağıda",
-                "durumlardan", "özelliklerden", "sahiptir", "gösterir", "ilişkilidir", "hangisiyle"
-            }
-            return {w for w in words if len(w) >= 3 and w not in stop_words}
+        # Ensure cache is loaded
+        if not similarity_cache.is_loaded:
+            similarity_cache.load_cache()
             
-        current_kw = extract_keywords(current_text)
+        current_kw = similarity_cache.extract_keywords(current_text)
         
-        def get_smart_ratio(q1_stem, q1_opts, q2_stem, q2_opts):
-            stem_ratio = SequenceMatcher(None, q1_stem, q2_stem).ratio()
+        def get_smart_ratio(q1_stem, q1_opts, q2_stem, q2_opts, threshold):
             q1_opts = [o for o in q1_opts if o]
             q2_opts = [o for o in q2_opts if o]
             if q1_opts and q2_opts:
                 opt_scores = []
                 for o1 in q1_opts:
-                    best_opt_score = max(SequenceMatcher(None, o1, o2).ratio() for o2 in q2_opts)
+                    best_opt_score = 0.0
+                    for o2 in q2_opts:
+                        sm_opt = SequenceMatcher(None, o1, o2)
+                        if sm_opt.quick_ratio() >= best_opt_score:
+                            r = sm_opt.ratio()
+                            if r > best_opt_score:
+                                best_opt_score = r
                     opt_scores.append(best_opt_score)
                 opts_ratio = sum(opt_scores) / len(opt_scores)
             else:
                 opts_ratio = 0.0
             
-            stem_kw = extract_keywords(q1_stem)
+            # Stem keywords for weighting
+            stem_kw = similarity_cache.extract_keywords(q1_stem)
             if not stem_kw:
                 return opts_ratio
-            else:
-                return 0.5 * stem_ratio + 0.5 * opts_ratio
-        
-        all_db_qs = database.get_all_questions()
+                
+            # Math constraint: 0.5 * stem_ratio + 0.5 * opts_ratio >= threshold
+            # So stem_ratio >= 2 * threshold - opts_ratio
+            min_stem_ratio = 2 * threshold - opts_ratio
+            if min_stem_ratio > 1.0:
+                return 0.0
+                
+            sm = SequenceMatcher(None, q1_stem, q2_stem)
+            if min_stem_ratio > 0.0:
+                if sm.real_quick_ratio() < min_stem_ratio:
+                    return 0.0
+                if sm.quick_ratio() < min_stem_ratio:
+                    return 0.0
+            
+            stem_ratio = sm.ratio()
+            if min_stem_ratio > 0.0 and stem_ratio < min_stem_ratio:
+                return 0.0
+                
+            return 0.5 * stem_ratio + 0.5 * opts_ratio
+
         similar_questions = []
-        db_identifiers = set()
-        
-        for q in all_db_qs:
-            if current_id and int(q["id"]) == int(current_id):
-                continue
-            if q.get("is_archived", 0) == 1:
+        len1 = len(current_text)
+        if len1 == 0:
+            return jsonify([])
+            
+        for q in similarity_cache.cached_questions:
+            # Skip if it is the current database question
+            if q["id"] is not None and current_id is not None and int(q["id"]) == int(current_id):
                 continue
                 
             q_kurul = q.get("kurul_adi")
             q_yil = q.get("yil")
             q_num = q.get("soru_numarasi")
             
-            if q_kurul and q_yil and q_num is not None:
-                db_identifiers.add((q_kurul, str(q_yil), int(q_num)))
-                if current_kurul == q_kurul and str(current_yil) == str(q_yil) and current_num == int(q_num):
+            # Deduplicate: Skip if already loaded from DB (for JSON items)
+            if q["id"] is None:
+                q_num_int = int(q_num) if q_num is not None else None
+                if (q_kurul, str(q_yil), q_num_int) in similarity_cache.db_identifiers:
                     continue
                     
-            compare_question = turkish_lower(q["question_text"].strip())
-            compare_opt_a = turkish_lower(q.get("option_a", "").strip())
-            compare_opt_b = turkish_lower(q.get("option_b", "").strip())
-            compare_opt_c = turkish_lower(q.get("option_c", "").strip())
-            compare_opt_d = turkish_lower(q.get("option_d", "").strip())
-            compare_opt_e = turkish_lower(q.get("option_e", "").strip())
-            
-            compare_text = f"{compare_question} {compare_opt_a} {compare_opt_b} {compare_opt_c} {compare_opt_d} {compare_opt_e}".strip()
-            
-            len1, len2 = len(current_text), len(compare_text)
-            if len1 == 0 or len2 == 0:
+            # Skip comparing to active question itself
+            q_num_int = int(q_num) if q_num is not None else None
+            if current_kurul == q_kurul and str(current_yil) == str(q_yil) and current_num == q_num_int:
+                continue
+                
+            compare_text = q["full_text"]
+            len2 = len(compare_text)
+            if len2 == 0:
                 continue
             if min(len1, len2) / max(len1, len2) < 0.40:
                 continue
                 
-            # Keyword matching filter (Run this before slow SequenceMatcher!)
-            compare_kw = extract_keywords(compare_text)
+            # Katman 2: Agresif Jaccard Ön-Filtreleme
+            compare_kw = q["keywords"]
             if current_kw and compare_kw:
-                if not current_kw.intersection(compare_kw):
+                intersection = len(current_kw & compare_kw)
+                union = len(current_kw | compare_kw)
+                if union == 0 or (intersection / union) < 0.04:
                     continue
             else:
-                flat_ratio = SequenceMatcher(None, current_text, compare_text).ratio()
-                if flat_ratio < 0.95:
+                flat_sm = SequenceMatcher(None, current_text, compare_text)
+                if flat_sm.real_quick_ratio() < 0.95 or flat_sm.quick_ratio() < 0.95 or flat_sm.ratio() < 0.95:
                     continue
             
             # Calculate smart weighted ratio
             ratio = get_smart_ratio(
                 current_question, 
                 [current_opt_a, current_opt_b, current_opt_c, current_opt_d, current_opt_e],
-                compare_question,
-                [compare_opt_a, compare_opt_b, compare_opt_c, compare_opt_d, compare_opt_e]
+                q["stem_lower"],
+                q["opts_lower"],
+                threshold
             )
             
             if ratio >= threshold:
@@ -710,94 +732,10 @@ def check_similarity():
                     "yil": q_yil or "final",
                     "soru_numarasi": q_num,
                     "kurul_adi": q_kurul,
-                    "source": "Veritabanı",
+                    "source": q["source"],
                     "ratio": round(ratio * 100, 1)
                 })
                 
-        # Scan JSON files from both kurul and final folders
-        json_folders = [
-            ("kurul", os.path.join(app.root_path, "kurul soruları json format")),
-            ("final", os.path.join(app.root_path, "final soruları json format"))
-        ]
-        
-        for exam_type, folder_path in json_folders:
-            if os.path.exists(folder_path):
-                files = [f for f in os.listdir(folder_path) if f.endswith(".json")]
-                for filename in files:
-                    file_path = os.path.join(folder_path, filename)
-                    try:
-                        with open(file_path, "r", encoding="utf-8") as f:
-                            json_qs = json.load(f)
-                        
-                        json_kurul = filename.replace("sorular_", "").replace(".json", "")
-                        for q in json_qs:
-                            q_yil = q.get("yil")
-                            q_num = q.get("soru_numarasi")
-                            
-                            if q_yil is None or q_num is None:
-                                continue
-                                
-                            # Deduplicate: Skip if already loaded from DB
-                            if (json_kurul, str(q_yil), int(q_num)) in db_identifiers:
-                                continue
-                                
-                            # Skip comparing to active question itself
-                            if current_kurul == json_kurul and str(current_yil) == str(q_yil) and current_num == int(q_num):
-                                continue
-                                
-                            compare_question = turkish_lower(q.get("soru_koku", "").strip())
-                            secenekler = q.get("secenekler", {})
-                            compare_opt_a = turkish_lower(secenekler.get("A", "").strip())
-                            compare_opt_b = turkish_lower(secenekler.get("B", "").strip())
-                            compare_opt_c = turkish_lower(secenekler.get("C", "").strip())
-                            compare_opt_d = turkish_lower(secenekler.get("D", "").strip())
-                            compare_opt_e = turkish_lower(secenekler.get("E", "").strip())
-                            
-                            compare_text = f"{compare_question} {compare_opt_a} {compare_opt_b} {compare_opt_c} {compare_opt_d} {compare_opt_e}".strip()
-                            
-                            len1, len2 = len(current_text), len(compare_text)
-                            if len1 == 0 or len2 == 0:
-                                continue
-                            if min(len1, len2) / max(len1, len2) < 0.40:
-                                continue
-                                
-                            # Keyword matching filter
-                            compare_kw = extract_keywords(compare_text)
-                            if current_kw and compare_kw:
-                                if not current_kw.intersection(compare_kw):
-                                    continue
-                            else:
-                                flat_ratio = SequenceMatcher(None, current_text, compare_text).ratio()
-                                if flat_ratio < 0.95:
-                                    continue
-                                    
-                            # Calculate smart weighted ratio
-                            ratio = get_smart_ratio(
-                                current_question, 
-                                [current_opt_a, current_opt_b, current_opt_c, current_opt_d, current_opt_e],
-                                compare_question,
-                                [compare_opt_a, compare_opt_b, compare_opt_c, compare_opt_d, compare_opt_e]
-                            )
-                            
-                            if ratio >= threshold:
-                                similar_questions.append({
-                                    "id": None,
-                                    "question_text": q.get("soru_koku"),
-                                    "option_a": secenekler.get("A", ""),
-                                    "option_b": secenekler.get("B", ""),
-                                    "option_c": secenekler.get("C", ""),
-                                    "option_d": secenekler.get("D", ""),
-                                    "option_e": secenekler.get("E", ""),
-                                    "correct_option": q.get("cevap", ""),
-                                    "yil": q_yil,
-                                    "soru_numarasi": q_num,
-                                    "kurul_adi": json_kurul,
-                                    "source": f"JSON: {json_kurul.upper()}",
-                                    "ratio": round(ratio * 100, 1)
-                                })
-                    except Exception as je:
-                        print(f"Error reading {filename} for similarity check: {je}")
-                    
         similar_questions.sort(key=lambda x: x["ratio"], reverse=True)
         return jsonify(similar_questions[:5])
     except Exception as e:
@@ -882,6 +820,7 @@ def correct_answer():
                 except Exception as je:
                     print(f"Error updating JSON answer: {je}")
                     
+        similarity_cache.invalidate()
         return jsonify({
             "status": "success",
             "db_updated": db_updated,
@@ -948,6 +887,7 @@ def undo_log_action(log_id):
                     except Exception as je:
                         print(f"Error reverting JSON answer: {je}")
                         
+        similarity_cache.invalidate()
         return jsonify({"status": "success", "message": "Action successfully undone."})
     except Exception as e:
         return jsonify({"error": str(e)}), 500

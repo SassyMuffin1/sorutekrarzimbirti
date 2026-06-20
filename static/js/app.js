@@ -24,6 +24,11 @@ let activeFinal = null; // Stores currently active final info { file_name, yil, 
 let sessionAnswersFinal = {};
 let sessionRatingsFinal = {};
 
+// Similarity Prefetch Caches
+let similarityCache = {};
+let kurulSimilarityCache = {};
+let finalSimilarityCache = {};
+
 // Bulk Answer Key State Management
 let loadedAnswerKeyQuestions = [];
 let localAnswerKeyChanges = {};
@@ -799,6 +804,90 @@ async function startStudySession() {
     }
 }
 
+async function prefetchStudySimilarity(index) {
+    if (index < 0 || index >= dueQuestions.length) return;
+    if (similarityCache[index]) return;
+    
+    similarityCache[index] = { loading: true };
+    try {
+        const question = dueQuestions[index];
+        const threshold = parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100;
+        const response = await fetch('/api/questions/similarity-check', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                question_text: question.question_text,
+                question_id: question.id,
+                kurul_adi: question.kurul_adi || null,
+                yil: question.yil || null,
+                soru_numarasi: question.soru_numarasi || null,
+                option_a: question.option_a || "",
+                option_b: question.option_b || "",
+                option_c: question.option_c || "",
+                option_d: question.option_d || "",
+                option_e: question.option_e || "",
+                threshold: threshold
+            })
+        });
+        if (response.ok) {
+            similarityCache[index] = await response.json();
+            // If the user is still on this question, render it immediately
+            if (currentQuestionIndex === index) {
+                renderStudySimilarity(similarityCache[index]);
+            }
+        } else {
+            similarityCache[index] = null;
+        }
+    } catch (e) {
+        console.error("Study prefetch error:", e);
+        similarityCache[index] = null;
+    }
+}
+
+function renderStudySimilarity(similarList) {
+    if (similarList && similarList.length > 0) {
+        const triggerBtn = document.getElementById('btn-similarity-trigger');
+        triggerBtn.classList.remove('hidden');
+        triggerBtn.textContent = `Benzer Soru Bulundu (%${similarList[0].ratio}) 🔍`;
+        
+        document.getElementById('similarity-container').classList.remove('hidden');
+        
+        const listEl = document.getElementById('similarity-list');
+        listEl.innerHTML = "";
+        similarList.forEach(item => {
+            const row = document.createElement('div');
+            row.style.padding = '0.5rem';
+            row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
+            row.style.fontSize = '0.85rem';
+            
+            const sourceText = item.kurul_adi
+                ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
+                : `Genel Tekrar`;
+            
+            row.innerHTML = `
+                <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
+                    <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
+                </div>
+                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                        <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
+                        <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
+                    </div>
+                    <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
+                    <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
+                        <div>A) ${item.option_a}</div>
+                        <div>B) ${item.option_b}</div>
+                        <div>C) ${item.option_c}</div>
+                        <div>D) ${item.option_d}</div>
+                        <div>E) ${item.option_e}</div>
+                    </div>
+                </div>
+            `;
+            listEl.appendChild(row);
+        });
+    }
+}
+
 async function displayActiveQuestion() {
     const activeCard = document.getElementById('study-active-card');
     const emptyState = document.getElementById('study-empty-state');
@@ -902,70 +991,19 @@ async function displayActiveQuestion() {
         isAnswered = false;
     }
     
-    try {
-        const simResponse = await fetch('/api/questions/similarity-check', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                question_text: question.question_text,
-                question_id: question.id,
-                kurul_adi: question.kurul_adi || null,
-                yil: question.yil || null,
-                soru_numarasi: question.soru_numarasi || null,
-                option_a: question.option_a || "",
-                option_b: question.option_b || "",
-                option_c: question.option_c || "",
-                option_d: question.option_d || "",
-                option_e: question.option_e || "",
-                threshold: parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100
-            })
-        });
-        if (simResponse.ok) {
-            const similarList = await simResponse.json();
-            if (similarList && similarList.length > 0) {
-                const triggerBtn = document.getElementById('btn-similarity-trigger');
-                triggerBtn.classList.remove('hidden');
-                triggerBtn.textContent = `Benzer Soru Bulundu (%${similarList[0].ratio}) 🔍`;
-                
-                document.getElementById('similarity-container').classList.remove('hidden');
-                
-                const listEl = document.getElementById('similarity-list');
-                listEl.innerHTML = "";
-                similarList.forEach(item => {
-                    const row = document.createElement('div');
-                    row.style.padding = '0.5rem';
-                    row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
-                    row.style.fontSize = '0.85rem';
-                    
-                    const sourceText = item.kurul_adi
-                        ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
-                        : `Genel Tekrar`;
-                    
-                    row.innerHTML = `
-                        <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
-                            <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
-                        </div>
-                        <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
-                            <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
-                                <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
-                                <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
-                            </div>
-                            <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
-                            <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
-                                <div>A) ${item.option_a}</div>
-                                <div>B) ${item.option_b}</div>
-                                <div>C) ${item.option_c}</div>
-                                <div>D) ${item.option_d}</div>
-                                <div>E) ${item.option_e}</div>
-                            </div>
-                        </div>
-                    `;
-                    listEl.appendChild(row);
-                });
-            }
+    // Render from prefetch cache or fetch if not present
+    const cachedData = similarityCache[currentQuestionIndex];
+    if (cachedData) {
+        if (!cachedData.loading) {
+            renderStudySimilarity(cachedData);
         }
-    } catch (err) {
-        console.error("Similarity fetch error:", err);
+    } else {
+        prefetchStudySimilarity(currentQuestionIndex);
+    }
+    
+    // Prefetch next question
+    if (currentQuestionIndex + 1 < dueQuestions.length) {
+        prefetchStudySimilarity(currentQuestionIndex + 1);
     }
 }
 
@@ -1657,6 +1695,85 @@ async function startKurulSolving(file, yil, name) {
     }
 }
 
+async function prefetchKurulSimilarity(index) {
+    if (index < 0 || index >= kurulQuestions.length) return;
+    if (kurulSimilarityCache[index]) return;
+    
+    kurulSimilarityCache[index] = { loading: true };
+    try {
+        const question = kurulQuestions[index];
+        const threshold = parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100;
+        const response = await fetch('/api/questions/similarity-check', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                question_text: question.soru_koku,
+                question_id: question.db_id,
+                kurul_adi: activeKurul.kurul_adi,
+                yil: activeKurul.yil,
+                soru_numarasi: question.soru_numarasi,
+                option_a: question.secenekler.A || "",
+                option_b: question.secenekler.B || "",
+                option_c: question.secenekler.C || "",
+                option_d: question.secenekler.D || "",
+                option_e: question.secenekler.E || "",
+                threshold: threshold
+            })
+        });
+        if (response.ok) {
+            kurulSimilarityCache[index] = await response.json();
+            if (currentKurulIndex === index) {
+                renderKurulSimilarity(kurulSimilarityCache[index]);
+            }
+        } else {
+            kurulSimilarityCache[index] = null;
+        }
+    } catch (e) {
+        console.error("Kurul prefetch error:", e);
+        kurulSimilarityCache[index] = null;
+    }
+}
+
+function renderKurulSimilarity(similarList) {
+    const simContainer = document.getElementById('kurul-similarity-container');
+    if (similarList && similarList.length > 0 && simContainer) {
+        simContainer.classList.remove('hidden');
+        const listEl = document.getElementById('kurul-similarity-list');
+        listEl.innerHTML = "";
+        similarList.forEach(item => {
+            const row = document.createElement('div');
+            row.style.padding = '0.5rem';
+            row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
+            row.style.fontSize = '0.85rem';
+            
+            const sourceText = item.kurul_adi
+                ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
+                : `Genel Tekrar`;
+                
+            row.innerHTML = `
+                <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
+                    <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
+                </div>
+                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                        <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
+                        <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
+                    </div>
+                    <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
+                    <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
+                        <div>A) ${item.option_a}</div>
+                        <div>B) ${item.option_b}</div>
+                        <div>C) ${item.option_c}</div>
+                        <div>D) ${item.option_d}</div>
+                        <div>E) ${item.option_e}</div>
+                    </div>
+                </div>
+            `;
+            listEl.appendChild(row);
+        });
+    }
+}
+
 async function displayKurulQuestion() {
     const activeContainer = document.getElementById('kurul-active-container');
     const selectionContainer = document.getElementById('kurul-selection-container');
@@ -1748,66 +1865,19 @@ async function displayKurulQuestion() {
         isKurulAnswered = false;
     }
     
-    try {
-        const simResponse = await fetch('/api/questions/similarity-check', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                question_text: question.soru_koku,
-                question_id: question.db_id,
-                kurul_adi: activeKurul.kurul_adi,
-                yil: activeKurul.yil,
-                soru_numarasi: question.soru_numarasi,
-                option_a: question.secenekler.A || "",
-                option_b: question.secenekler.B || "",
-                option_c: question.secenekler.C || "",
-                option_d: question.secenekler.D || "",
-                option_e: question.secenekler.E || "",
-                threshold: parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100
-            })
-        });
-        if (simResponse.ok) {
-            const similarList = await simResponse.json();
-            if (similarList && similarList.length > 0 && simContainer) {
-                simContainer.classList.remove('hidden');
-                
-                const listEl = document.getElementById('kurul-similarity-list');
-                listEl.innerHTML = "";
-                similarList.forEach(item => {
-                    const row = document.createElement('div');
-                    row.style.padding = '0.5rem';
-                    row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
-                    row.style.fontSize = '0.85rem';
-                    
-                    const sourceText = item.kurul_adi
-                        ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
-                        : `Genel Tekrar`;
-                        
-                    row.innerHTML = `
-                        <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
-                            <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
-                        </div>
-                        <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
-                            <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
-                                <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
-                                <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
-                            </div>
-                            <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
-                            <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
-                                <div>A) ${item.option_a}</div>
-                                <div>B) ${item.option_b}</div>
-                                <div>C) ${item.option_c}</div>
-                                <div>D) ${item.option_d}</div>
-                                <div>E) ${item.option_e}</div>
-                            </div>
-                        </div>
-                    `;
-                    listEl.appendChild(row);
-                });
-            }
+    // Render similarity from prefetch cache or fetch if not present
+    const cachedData = kurulSimilarityCache[currentKurulIndex];
+    if (cachedData) {
+        if (!cachedData.loading) {
+            renderKurulSimilarity(cachedData);
         }
-    } catch (err) {
-        console.error("Kurul similarity fetch error:", err);
+    } else {
+        prefetchKurulSimilarity(currentKurulIndex);
+    }
+    
+    // Prefetch next kurul question similarity
+    if (currentKurulIndex + 1 < kurulQuestions.length) {
+        prefetchKurulSimilarity(currentKurulIndex + 1);
     }
 }
 
@@ -2168,6 +2238,21 @@ function setupSimilaritySlider() {
         updateLabels(val);
         localStorage.setItem('similarityThreshold', val);
     });
+
+    slider.addEventListener('change', () => {
+        similarityCache = {};
+        kurulSimilarityCache = {};
+        finalSimilarityCache = {};
+        
+        // Re-evaluate currently active question
+        if (panels.study.classList.contains('active') && dueQuestions[currentQuestionIndex]) {
+            prefetchStudySimilarity(currentQuestionIndex);
+        } else if (panels.kurul.classList.contains('active') && kurulQuestions[currentKurulIndex]) {
+            prefetchKurulSimilarity(currentKurulIndex);
+        } else if (panels.final.classList.contains('active') && finalQuestions[currentFinalIndex]) {
+            prefetchFinalSimilarity(currentFinalIndex);
+        }
+    });
 }
 
 // ==========================================
@@ -2300,6 +2385,88 @@ async function startFinalSolving(file, yil, name) {
     }
 }
 
+async function prefetchFinalSimilarity(index) {
+    if (index < 0 || index >= finalQuestions.length) return;
+    if (finalSimilarityCache[index]) return;
+    
+    finalSimilarityCache[index] = { loading: true };
+    try {
+        const question = finalQuestions[index];
+        const threshold = parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100;
+        const response = await fetch('/api/questions/similarity-check', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                question_text: question.soru_koku,
+                question_id: question.db_id,
+                kurul_adi: activeFinal.kurul_adi,
+                yil: activeFinal.yil,
+                soru_numarasi: question.soru_numarasi,
+                option_a: question.secenekler.A || "",
+                option_b: question.secenekler.B || "",
+                option_c: question.secenekler.C || "",
+                option_d: question.secenekler.D || "",
+                option_e: question.secenekler.E || "",
+                threshold: threshold
+            })
+        });
+        if (response.ok) {
+            finalSimilarityCache[index] = await response.json();
+            if (currentFinalIndex === index) {
+                renderFinalSimilarity(finalSimilarityCache[index]);
+                if (sessionAnswersFinal[index] !== undefined) {
+                    document.querySelectorAll('#final-similarity-list .similar-detail').forEach(el => el.classList.remove('hidden'));
+                }
+            }
+        } else {
+            finalSimilarityCache[index] = null;
+        }
+    } catch (e) {
+        console.error("Final prefetch error:", e);
+        finalSimilarityCache[index] = null;
+    }
+}
+
+function renderFinalSimilarity(similarList) {
+    const simContainer = document.getElementById('final-similarity-container');
+    if (similarList && similarList.length > 0 && simContainer) {
+        simContainer.classList.remove('hidden');
+        const listEl = document.getElementById('final-similarity-list');
+        listEl.innerHTML = "";
+        similarList.forEach(item => {
+            const row = document.createElement('div');
+            row.style.padding = '0.5rem';
+            row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
+            row.style.fontSize = '0.85rem';
+            
+            const sourceText = item.kurul_adi
+                ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
+                : `Genel Tekrar`;
+                
+            row.innerHTML = `
+                <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
+                    <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
+                </div>
+                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                        <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
+                        <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
+                    </div>
+                    <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
+                    <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
+                        <div>A) ${item.option_a}</div>
+                        <div>B) ${item.option_b}</div>
+                        <div>C) ${item.option_c}</div>
+                        <div>D) ${item.option_d}</div>
+                        <div>E) ${item.option_e}</div>
+                    </div>
+                </div>
+            `;
+            listEl.appendChild(row);
+        });
+    }
+}
+
 async function displayFinalQuestion() {
     const activeContainer = document.getElementById('final-active-container');
     const selectionContainer = document.getElementById('final-selection-container');
@@ -2391,66 +2558,22 @@ async function displayFinalQuestion() {
         isFinalAnswered = false;
     }
     
-    try {
-        const simResponse = await fetch('/api/questions/similarity-check', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                question_text: question.soru_koku,
-                question_id: question.db_id,
-                kurul_adi: activeFinal.kurul_adi,
-                yil: activeFinal.yil,
-                soru_numarasi: question.soru_numarasi,
-                option_a: question.secenekler.A || "",
-                option_b: question.secenekler.B || "",
-                option_c: question.secenekler.C || "",
-                option_d: question.secenekler.D || "",
-                option_e: question.secenekler.E || "",
-                threshold: parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100
-            })
-        });
-        if (simResponse.ok) {
-            const similarList = await simResponse.json();
-            if (similarList && similarList.length > 0 && simContainer) {
-                simContainer.classList.remove('hidden');
-                
-                const listEl = document.getElementById('final-similarity-list');
-                listEl.innerHTML = "";
-                similarList.forEach(item => {
-                    const row = document.createElement('div');
-                    row.style.padding = '0.5rem';
-                    row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
-                    row.style.fontSize = '0.85rem';
-                    
-                    const sourceText = item.kurul_adi
-                        ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
-                        : `Genel Tekrar`;
-                        
-                    row.innerHTML = `
-                        <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
-                            <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
-                        </div>
-                        <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
-                            <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
-                                <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
-                                <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
-                            </div>
-                            <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
-                            <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
-                                <div>A) ${item.option_a}</div>
-                                <div>B) ${item.option_b}</div>
-                                <div>C) ${item.option_c}</div>
-                                <div>D) ${item.option_d}</div>
-                                <div>E) ${item.option_e}</div>
-                            </div>
-                        </div>
-                    `;
-                    listEl.appendChild(row);
-                });
+    // Render similarity from prefetch cache or fetch if not present
+    const cachedData = finalSimilarityCache[currentFinalIndex];
+    if (cachedData) {
+        if (!cachedData.loading) {
+            renderFinalSimilarity(cachedData);
+            if (sessionAnswersFinal[currentFinalIndex] !== undefined) {
+                document.querySelectorAll('#final-similarity-list .similar-detail').forEach(el => el.classList.remove('hidden'));
             }
         }
-    } catch (err) {
-        console.error("Final similarity fetch error:", err);
+    } else {
+        prefetchFinalSimilarity(currentFinalIndex);
+    }
+    
+    // Prefetch next final question similarity
+    if (currentFinalIndex + 1 < finalQuestions.length) {
+        prefetchFinalSimilarity(currentFinalIndex + 1);
     }
 }
 
