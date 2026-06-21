@@ -868,7 +868,7 @@ function renderStudySimilarity(similarList) {
                 <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
                     <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
                 </div>
-                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                <div class="similar-detail ${isAnswered ? '' : 'hidden'}" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
                         <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
                         <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
@@ -1754,7 +1754,7 @@ function renderKurulSimilarity(similarList) {
                 <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
                     <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
                 </div>
-                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                <div class="similar-detail ${isKurulAnswered ? '' : 'hidden'}" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
                         <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
                         <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
@@ -2447,7 +2447,7 @@ function renderFinalSimilarity(similarList) {
                 <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
                     <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
                 </div>
-                <div class="similar-detail hidden" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                <div class="similar-detail ${isFinalAnswered ? '' : 'hidden'}" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
                         <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
                         <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
