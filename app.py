@@ -1069,6 +1069,13 @@ def bulk_update_answer_key():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
+    import sys
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
+        
     import socket
     import subprocess
     

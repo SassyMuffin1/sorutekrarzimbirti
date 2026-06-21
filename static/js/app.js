@@ -77,6 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupSimilaritySlider();
     setupBulkAnswerKeyPanel();
     setupSidebarToggle();
+    setupGoToQuestionFeature();
     
     // Load dashboard stats on start
     refreshDashboardStats();
@@ -2838,3 +2839,98 @@ async function saveBulkAnswerKeyChanges() {
         showToast("Bağlantı hatası oluştu.", "error");
     }
 }
+
+// 9. Go to Question Feature
+function setupGoToQuestionFeature() {
+    makeProgressTextInteractive(
+        'study-progress-text',
+        () => currentQuestionIndex,
+        (val) => { currentQuestionIndex = val; },
+        () => dueQuestions.length,
+        displayActiveQuestion
+    );
+    makeProgressTextInteractive(
+        'kurul-progress-text',
+        () => currentKurulIndex,
+        (val) => { currentKurulIndex = val; },
+        () => kurulQuestions.length,
+        displayKurulQuestion
+    );
+    makeProgressTextInteractive(
+        'final-progress-text',
+        () => currentFinalIndex,
+        (val) => { currentFinalIndex = val; },
+        () => finalQuestions.length,
+        displayFinalQuestion
+    );
+}
+
+function makeProgressTextInteractive(elementId, getIndex, setIndex, getTotal, renderFn) {
+    const el = document.getElementById(elementId);
+    if (!el) return;
+
+    el.style.cursor = 'pointer';
+    el.title = 'İstediğiniz soruya gitmek için tıklayın';
+    
+    // Add hover transition using element styles
+    el.style.transition = 'color 0.2s';
+    el.addEventListener('mouseenter', () => {
+        if (!el.querySelector('input')) {
+            el.style.color = 'var(--color-primary-hover)';
+        }
+    });
+    el.addEventListener('mouseleave', () => {
+        el.style.color = '';
+    });
+
+    el.addEventListener('click', (e) => {
+        if (el.querySelector('input')) return;
+
+        const currentVal = getIndex() + 1;
+        const totalVal = getTotal();
+        if (totalVal <= 0) return;
+
+        el.innerHTML = `Soru <input type="number" id="${elementId}-input" min="1" max="${totalVal}" value="${currentVal}" style="width: 70px; background: rgba(10, 12, 16, 0.8); border: 1px solid var(--color-primary); color: var(--text-main); border-radius: var(--border-radius-sm); padding: 0.15rem 0.35rem; font-size: 0.9rem; text-align: center; outline: none; margin: 0 0.25rem;"> / ${totalVal}`;
+        
+        const input = document.getElementById(`${elementId}-input`);
+        if (!input) return;
+
+        input.focus();
+        input.select();
+
+        input.addEventListener('click', (evt) => {
+            evt.stopPropagation();
+        });
+
+        let finished = false;
+        const finishEdit = (applyChange) => {
+            if (finished) return;
+            finished = true;
+            
+            if (applyChange) {
+                let targetPage = parseInt(input.value);
+                if (!isNaN(targetPage)) {
+                    if (targetPage < 1) targetPage = 1;
+                    if (targetPage > totalVal) targetPage = totalVal;
+                    setIndex(targetPage - 1);
+                    renderFn();
+                    return;
+                }
+            }
+            el.textContent = `Soru ${getIndex() + 1} / ${totalVal}`;
+        };
+
+        input.addEventListener('keydown', (evt) => {
+            if (evt.key === 'Enter') {
+                finishEdit(true);
+            } else if (evt.key === 'Escape') {
+                finishEdit(false);
+            }
+        });
+
+        input.addEventListener('blur', () => {
+            finishEdit(true);
+        });
+    });
+}
+
