@@ -2,8 +2,12 @@ import sqlite3
 from datetime import datetime, timedelta
 import math
 import json
+import os
+import shutil
 
 DB_NAME = "questions.db"
+BACKUP_DIR = "backups"
+STATE_FILE = "backup_state.json"
 LOG_DB_NAME = "action_logs.db"
 
 def get_db_connection():
@@ -98,6 +102,98 @@ def init_db():
     conn.close()
     
     init_log_db()
+    
+    # Initialize backup state file if it does not exist
+    if not os.path.exists(STATE_FILE):
+        try:
+            conn = get_db_connection()
+            cursor = conn.cursor()
+            cursor.execute("SELECT COUNT(*) FROM questions")
+            cnt = cursor.fetchone()[0]
+            conn.close()
+            with open(STATE_FILE, "w", encoding="utf-8") as f:
+                json.dump({
+                    "last_backup_count": cnt,
+                    "reviews_since_backup": 0
+                }, f, ensure_ascii=False, indent=4)
+        except Exception as e:
+            print(f"Error initializing backup state: {e}")
+
+def check_and_trigger_backup(is_review=False):
+    try:
+        conn = get_db_connection()
+        cursor = conn.cursor()
+        cursor.execute("SELECT COUNT(*) FROM questions")
+        current_count = cursor.fetchone()[0]
+        conn.close()
+        
+        last_backup_count = None
+        reviews_since_backup = 0
+        if os.path.exists(STATE_FILE):
+            try:
+                with open(STATE_FILE, "r", encoding="utf-8") as f:
+                    state = json.load(f)
+                    last_backup_count = state.get("last_backup_count")
+                    reviews_since_backup = state.get("reviews_since_backup", 0)
+            except Exception as e:
+                print(f"Error reading backup state: {e}")
+                
+        if last_backup_count is None:
+            last_backup_count = current_count
+            
+        if current_count < last_backup_count:
+            last_backup_count = current_count
+            
+        if is_review:
+            reviews_since_backup += 1
+            
+        should_backup = False
+        if current_count - last_backup_count >= 50:
+            should_backup = True
+        if reviews_since_backup >= 50:
+            should_backup = True
+            
+        if should_backup:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            backup_folder = os.path.join(BACKUP_DIR, f"backup_{timestamp}")
+            counter = 1
+            while os.path.exists(backup_folder):
+                backup_folder = os.path.join(BACKUP_DIR, f"backup_{timestamp}_{counter}")
+                counter += 1
+                
+            os.makedirs(backup_folder, exist_ok=True)
+            
+            for db_file in [DB_NAME, LOG_DB_NAME]:
+                if os.path.exists(db_file):
+                    shutil.copy2(db_file, os.path.join(backup_folder, db_file))
+            
+            last_backup_count = current_count
+            reviews_since_backup = 0
+            print(f"Backup created at {backup_folder}. Current count: {current_count}")
+            
+            # Prune old backups to keep maximum of 100
+            if os.path.exists(BACKUP_DIR):
+                backups = sorted([d for d in os.listdir(BACKUP_DIR) if d.startswith("backup_")])
+                if len(backups) > 100:
+                    for old_backup in backups[:-100]:
+                        old_path = os.path.join(BACKUP_DIR, old_backup)
+                        try:
+                            if os.path.isdir(old_path):
+                                shutil.rmtree(old_path)
+                            else:
+                                os.remove(old_path)
+                            print(f"Removed old backup: {old_path}")
+                        except Exception as ex:
+                            print(f"Error removing old backup {old_path}: {ex}")
+            
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump({
+                "last_backup_count": last_backup_count,
+                "reviews_since_backup": reviews_since_backup
+            }, f, ensure_ascii=False, indent=4)
+            
+    except Exception as e:
+        print(f"Backup error: {e}")
 
 def add_question(question_text, option_a, option_b, option_c, option_d, option_e, correct_option, yil='final', soru_numarasi=None, kurul_adi=None):
     conn = get_db_connection()
@@ -120,6 +216,7 @@ def add_question(question_text, option_a, option_b, option_c, option_d, option_e
     conn.close()
     
     add_log('INSERT', question_id, old_data=None, new_data=q_dict)
+    check_and_trigger_backup()
     return question_id
 
 def get_due_questions(all_questions=False):
@@ -207,6 +304,7 @@ def review_question(question_id, rating):
     conn.close()
     
     add_log('REVIEW', question_id, old_data=old_dict, new_data=new_dict)
+    check_and_trigger_backup(is_review=True)
     
     return {
         "id": question_id,
@@ -336,6 +434,18 @@ def restore_backup_data(data_list):
     
     conn.commit()
     conn.close()
+    
+    # Update backup state to match restored questions count
+    try:
+        current_count = len(data_list)
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump({
+                "last_backup_count": current_count,
+                "reviews_since_backup": 0
+            }, f, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"Error updating backup state on restore: {e}")
+        
     return True
 
 def delete_questions_bulk(question_ids):
