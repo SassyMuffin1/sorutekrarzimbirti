@@ -1097,3 +1097,61 @@ tr:hover td {
     color: #fff !important;
     box-shadow: var(--box-shadow-primary);
 }
+
+/* Dual Range Slider styling */
+.dual-range-slider-container {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.dual-range-slider-container input[type="range"] {
+    position: absolute;
+    width: 100%;
+    pointer-events: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: none;
+    z-index: 3;
+    height: 100%;
+    margin: 0;
+    outline: none;
+}
+
+/* Style the thumbs */
+.dual-range-slider-container input[type="range"]::-webkit-slider-thumb {
+    pointer-events: auto;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--color-primary-hover);
+    border: 2px solid var(--bg-app);
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(139, 92, 246, 0.5);
+    transition: transform 0.1s ease;
+}
+
+.dual-range-slider-container input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.25);
+}
+
+.dual-range-slider-container input[type="range"]::-moz-range-thumb {
+    pointer-events: auto;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--color-primary-hover);
+    border: 2px solid var(--bg-app);
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(139, 92, 246, 0.5);
+    transition: transform 0.1s ease;
+}
+
+.dual-range-slider-container input[type="range"]::-moz-range-thumb:hover {
+    transform: scale(1.25);
+}
+

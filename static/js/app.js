@@ -764,11 +764,14 @@ async function startStudySession() {
         let url = '/api/questions/due';
         if (studyMode === 'all') {
             const kurul = document.getElementById('filter-study-kurul').value;
-            const difficulty = document.getElementById('filter-study-difficulty').value;
+            const diffMin = document.getElementById('filter-study-difficulty-min').value;
+            const diffMax = document.getElementById('filter-study-difficulty-max').value;
             const yil = document.getElementById('filter-study-yil').value;
+            const excludeDays = document.getElementById('filter-study-exclude-days').value;
             const sort = document.getElementById('filter-study-sort').value;
             
-            url = `/api/questions/due?all=true&kurul=${encodeURIComponent(kurul)}&difficulty=${encodeURIComponent(difficulty)}&yil=${encodeURIComponent(yil)}&sort=${encodeURIComponent(sort)}`;
+            url = `/api/questions/due?all=true&kurul=${encodeURIComponent(kurul)}&difficulty_min=${encodeURIComponent(diffMin)}&difficulty_max=${encodeURIComponent(diffMax)}&yil=${encodeURIComponent(yil)}&sort=${encodeURIComponent(sort)}&exclude_reviewed_days=${encodeURIComponent(excludeDays)}`;
+
         }
         
         const response = await fetch(url);
@@ -2178,6 +2181,45 @@ function setupStudyFilters() {
     applyBtn.addEventListener('click', () => {
         startStudySession();
     });
+    
+    // Initialize dual range slider for difficulty (ease_factor)
+    const minSlider = document.getElementById('filter-study-difficulty-min');
+    const maxSlider = document.getElementById('filter-study-difficulty-max');
+    const rangeFill = document.getElementById('study-slider-range-fill');
+    const label = document.getElementById('study-difficulty-range-val');
+    
+    if (minSlider && maxSlider && rangeFill && label) {
+        const updateSlider = () => {
+            const minVal = parseFloat(minSlider.value);
+            const maxVal = parseFloat(maxSlider.value);
+            
+            const totalRange = 1.7; // 3.0 - 1.3
+            const minPercent = ((minVal - 1.3) / totalRange) * 100;
+            const maxPercent = ((maxVal - 1.3) / totalRange) * 100;
+            
+            rangeFill.style.left = minPercent + '%';
+            rangeFill.style.width = (maxPercent - minPercent) + '%';
+            
+            label.textContent = `${minVal.toFixed(1)} - ${maxVal.toFixed(1)}`;
+        };
+        
+        minSlider.addEventListener('input', () => {
+            if (parseFloat(minSlider.value) > parseFloat(maxSlider.value)) {
+                minSlider.value = maxSlider.value;
+            }
+            updateSlider();
+        });
+        
+        maxSlider.addEventListener('input', () => {
+            if (parseFloat(maxSlider.value) < parseFloat(minSlider.value)) {
+                maxSlider.value = minSlider.value;
+            }
+            updateSlider();
+        });
+        
+        // Render initial positions
+        updateSlider();
+    }
     
     populateFilterKurulSelect();
 }

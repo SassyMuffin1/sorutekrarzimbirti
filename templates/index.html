@@ -554,14 +554,17 @@
                                 <option value="">Tümü</option>
                             </select>
                         </div>
-                        <div class="form-group" style="margin-bottom: 0;">
-                            <label for="filter-study-difficulty" style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.35rem; display: block;">Zorluk Derecesi:</label>
-                            <select id="filter-study-difficulty" style="width: 100%; background: rgba(10, 12, 16, 0.8); border: 1px solid var(--border-color); border-radius: var(--border-radius-md); color: var(--text-main); padding: 0.75rem 1rem; outline: none; cursor: pointer; font-family: var(--font-body);">
-                                <option value="">Tümü</option>
-                                <option value="hard">Zor (Kolaylık &lt; 1.8)</option>
-                                <option value="medium">Orta (1.8 &lt;= Kolaylık &lt;= 2.4)</option>
-                                <option value="easy">Kolay (Kolaylık &gt; 2.4)</option>
-                            </select>
+                        <div class="form-group" style="margin-bottom: 0; min-width: 200px; display: flex; flex-direction: column;">
+                            <label style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.35rem; display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                                <span>Zorluk (Kolaylık):</span>
+                                <span id="study-difficulty-range-val" style="color: var(--color-primary-hover); font-weight: 600; font-family: monospace; font-size: 0.9rem;">1.3 - 3.0</span>
+                            </label>
+                            <div class="dual-range-slider-container" style="position: relative; width: 100%; height: 38px; display: flex; align-items: center;">
+                                <div class="slider-track" style="position: absolute; width: 100%; height: 6px; background: rgba(255, 255, 255, 0.05); border-radius: 3px; z-index: 1;"></div>
+                                <div class="slider-range-fill" id="study-slider-range-fill" style="position: absolute; height: 6px; background: var(--color-primary); border-radius: 3px; z-index: 2; left: 0%; right: 0%;"></div>
+                                <input type="range" id="filter-study-difficulty-min" min="1.3" max="3.0" step="0.1" value="1.3" style="position: absolute; width: 100%; pointer-events: none; -webkit-appearance: none; appearance: none; background: none; z-index: 3; height: 100%; margin: 0; outline: none;">
+                                <input type="range" id="filter-study-difficulty-max" min="1.3" max="3.0" step="0.1" value="3.0" style="position: absolute; width: 100%; pointer-events: none; -webkit-appearance: none; appearance: none; background: none; z-index: 4; height: 100%; margin: 0; outline: none;">
+                            </div>
                         </div>
                         <div class="form-group" style="margin-bottom: 0;">
                             <label for="filter-study-yil" style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.35rem; display: block;">Soru Yılı:</label>
@@ -574,6 +577,18 @@
                                 <option value="2021-2022">2021-2022</option>
                                 <option value="2020-2021">2020-2021</option>
                                 <option value="final">Final / Eski</option>
+                            </select>
+                        </div>
+                        <div class="form-group" style="margin-bottom: 0;">
+                            <label for="filter-study-exclude-days" style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.35rem; display: block;">Son Tekrar Filtresi:</label>
+                            <select id="filter-study-exclude-days" style="width: 100%; background: rgba(10, 12, 16, 0.8); border: 1px solid var(--border-color); border-radius: var(--border-radius-md); color: var(--text-main); padding: 0.75rem 1rem; outline: none; cursor: pointer; font-family: var(--font-body);">
+                                <option value="">Tümü (Sınır Yok)</option>
+                                <option value="1">Son 1 günde çözülenler hariç</option>
+                                <option value="3">Son 3 günde çözülenler hariç</option>
+                                <option value="5">Son 5 günde çözülenler hariç</option>
+                                <option value="7">Son 7 günde çözülenler hariç</option>
+                                <option value="15">Son 15 günde çözülenler hariç</option>
+                                <option value="30">Son 30 günde çözülenler hariç</option>
                             </select>
                         </div>
                         <div class="form-group" style="margin-bottom: 0;">
