@@ -134,7 +134,7 @@ def get_due_questions():
                 diff_seconds = (now - nr_dt).total_seconds()
                 
                 # Apply Jitter (Idea A) to ease_factor in the formula
-                ef = (q.get("ease_factor") or 2.5) + random.uniform(-0.15, 0.15)
+                ef = (q.get("ease_factor") or 2.5) + random.uniform(-0.075, 0.075)
                 q["_hybrid_score"] = (diff_seconds + offset) / max(1.0, ef)
                 
             questions.sort(key=lambda x: x["_hybrid_score"], reverse=True)
@@ -157,7 +157,7 @@ def get_due_questions():
             import random
             for q in questions:
                 # Apply Jitter (Idea A)
-                q["_sort_score"] = (q.get("ease_factor") or 2.5) + random.uniform(-0.15, 0.15)
+                q["_sort_score"] = (q.get("ease_factor") or 2.5) + random.uniform(-0.075, 0.075)
             questions.sort(key=lambda x: x["_sort_score"])
             
             # Apply Interleaving (Idea B)
