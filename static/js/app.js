@@ -767,11 +767,9 @@ async function startStudySession() {
             const diffMin = document.getElementById('filter-study-difficulty-min').value;
             const diffMax = document.getElementById('filter-study-difficulty-max').value;
             const yil = document.getElementById('filter-study-yil').value;
-            const excludeDays = document.getElementById('filter-study-exclude-days').value;
             const sort = document.getElementById('filter-study-sort').value;
             
-            url = `/api/questions/due?all=true&kurul=${encodeURIComponent(kurul)}&difficulty_min=${encodeURIComponent(diffMin)}&difficulty_max=${encodeURIComponent(diffMax)}&yil=${encodeURIComponent(yil)}&sort=${encodeURIComponent(sort)}&exclude_reviewed_days=${encodeURIComponent(excludeDays)}`;
-
+            url = `/api/questions/due?all=true&kurul=${encodeURIComponent(kurul)}&difficulty_min=${encodeURIComponent(diffMin)}&difficulty_max=${encodeURIComponent(diffMax)}&yil=${encodeURIComponent(yil)}&sort=${encodeURIComponent(sort)}`;
         }
         
         const response = await fetch(url);

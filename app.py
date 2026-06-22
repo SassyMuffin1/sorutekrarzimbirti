@@ -69,13 +69,11 @@ def index():
 @app.route("/api/questions/due", methods=["GET"])
 def get_due_questions():
     try:
-        from datetime import datetime, timedelta
         all_param = request.args.get("all", "false").lower() == "true"
         kurul_filter = request.args.get("kurul")
         difficulty_filter = request.args.get("difficulty")
         difficulty_min = request.args.get("difficulty_min")
         difficulty_max = request.args.get("difficulty_max")
-        exclude_reviewed_days = request.args.get("exclude_reviewed_days")
         sort_filter = request.args.get("sort")
         yil_filter = request.args.get("yil")
         
@@ -86,6 +84,7 @@ def get_due_questions():
         params = []
         
         if not all_param:
+            from datetime import datetime
             now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             query += " AND next_review <= ?"
             params.append(now_str)
@@ -111,15 +110,6 @@ def get_due_questions():
                 query += " AND ease_factor >= 1.8 AND ease_factor <= 2.4"
             elif difficulty_filter == "easy":
                 query += " AND ease_factor > 2.4"
-                
-        if exclude_reviewed_days and exclude_reviewed_days.strip():
-            try:
-                days = int(exclude_reviewed_days)
-                cutoff_dt = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d %H:%M:%S")
-                query += " AND NOT (repetitions > 0 AND datetime(next_review, '-' || interval || ' days') > ?)"
-                params.append(cutoff_dt)
-            except ValueError:
-                pass
                 
         cursor.execute(query, params)
         rows = cursor.fetchall()
