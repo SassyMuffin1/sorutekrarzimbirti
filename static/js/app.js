@@ -779,6 +779,7 @@ async function startStudySession() {
             isAnswered = false;
             sessionAnswersStudy = {};
             sessionRatingsStudy = {};
+            similarityCache = {};
             
             // Hide filters and show progress card
             document.getElementById('study-filter-card').classList.add('hidden');
@@ -1365,6 +1366,9 @@ async function deleteQuestion(id) {
             updateBulkActionsBar();
             loadManagementQuestions();
             refreshDashboardStats();
+            similarityCache = {};
+            kurulSimilarityCache = {};
+            finalSimilarityCache = {};
         } else {
             showToast("Soru silinemedi.", "error");
         }
@@ -1428,6 +1432,9 @@ async function submitEditQuestion() {
             showToast("Soru güncellendi.");
             document.getElementById('edit-modal').classList.add('hidden');
             loadManagementQuestions();
+            similarityCache = {};
+            kurulSimilarityCache = {};
+            finalSimilarityCache = {};
         } else {
             const err = await response.json();
             showToast(err.error || "Soru güncellenemedi.", "error");
@@ -1674,6 +1681,7 @@ async function startKurulSolving(file, yil, name) {
             isKurulAnswered = false;
             sessionAnswersKurul = {};
             sessionRatingsKurul = {};
+            kurulSimilarityCache = {};
             const kurulCode = file.replace("sorular_", "").replace(".json", "");
             activeKurul = {
                 file_name: file,
@@ -2364,6 +2372,7 @@ async function startFinalSolving(file, yil, name) {
             isFinalAnswered = false;
             sessionAnswersFinal = {};
             sessionRatingsFinal = {};
+            finalSimilarityCache = {};
             const finalCode = file.replace("sorular_", "").replace(".json", "");
             activeFinal = {
                 file_name: file,
