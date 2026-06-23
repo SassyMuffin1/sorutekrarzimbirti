@@ -38,4 +38,9 @@ action_logs.db
 # backup state
 backup_state.json
 
+# ai
+AGENTS.MD
+CLAUDE.MD
+GEMINI.MD
+
 
