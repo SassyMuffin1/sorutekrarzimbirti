@@ -1,5 +1,10 @@
 // State Management
 let dueQuestions = [];
+let specialRepeatsQuestions = [];
+let currentSpecialIndex = 0;
+let isSpecialAnswered = false;
+let sessionAnswersSpecial = {};
+let sessionRatingsSpecial = {};
 let currentQuestionIndex = 0;
 let isAnswered = false;
 let studyMode = 'due'; // 'due' or 'all'
@@ -28,6 +33,7 @@ let sessionRatingsFinal = {};
 let similarityCache = {};
 let kurulSimilarityCache = {};
 let finalSimilarityCache = {};
+let specialSimilarityCache = {};
 
 // Bulk Answer Key State Management
 let loadedAnswerKeyQuestions = [];
@@ -43,7 +49,8 @@ const panels = {
     kurul: document.getElementById('panel-kurul'),
     final: document.getElementById('panel-final'),
     logs: document.getElementById('panel-logs'),
-    answerKey: document.getElementById('panel-answer-key')
+    answerKey: document.getElementById('panel-answer-key'),
+    specialRepeats: document.getElementById('panel-special-repeats')
 };
 
 const navItems = {
@@ -54,7 +61,8 @@ const navItems = {
     kurul: document.getElementById('btn-nav-kurul'),
     final: document.getElementById('btn-nav-final'),
     logs: document.getElementById('btn-nav-logs'),
-    answerKey: document.getElementById('btn-nav-answer-key')
+    answerKey: document.getElementById('btn-nav-answer-key'),
+    specialRepeats: document.getElementById('btn-nav-special-repeats')
 };
 
 // Application Init
@@ -78,6 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupBulkAnswerKeyPanel();
     setupSidebarToggle();
     setupGoToQuestionFeature();
+    setupSpecialRepeatsPanel();
     
     // Load dashboard stats on start
     refreshDashboardStats();
@@ -166,6 +175,8 @@ function switchPanel(panelKey) {
         loadLogsList();
     } else if (panelKey === 'answerKey') {
         initAnswerKeyOptions();
+    } else if (panelKey === 'specialRepeats') {
+        startSpecialRepeatsSession();
     }
 }
 
@@ -224,6 +235,20 @@ async function refreshDashboardStats() {
             
             renderDifficultyChart(advStats.difficulty_breakdown);
             renderDetailedDifficultyChart(advStats.detailed_difficulty);
+        }
+
+        const specialResponse = await fetch('/api/special-repeats/due?all=true');
+        if (specialResponse.ok) {
+            const specialQuestions = await specialResponse.json();
+            const specialBadge = document.getElementById('badge-special-count');
+            if (specialBadge) {
+                if (specialQuestions.length > 0) {
+                    specialBadge.textContent = specialQuestions.length;
+                    specialBadge.classList.remove('hidden');
+                } else {
+                    specialBadge.classList.add('hidden');
+                }
+            }
         }
     } catch (error) {
         console.error("Stats fetch error:", error);
@@ -900,6 +925,13 @@ async function displayActiveQuestion() {
     document.getElementById('similarity-container').classList.add('hidden');
     document.getElementById('similarity-list').innerHTML = "";
     
+    // Reset copy button
+    const sendSpecialBtn = document.getElementById('btn-study-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.disabled = false;
+        sendSpecialBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg><span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>`;
+    }
+    
     if (dueQuestions.length === 0 || currentQuestionIndex >= dueQuestions.length) {
         activeCard.classList.add('hidden');
         emptyState.classList.remove('hidden');
@@ -1064,6 +1096,14 @@ function setupStudyPanel() {
     if (simTriggerBtn) {
         simTriggerBtn.addEventListener('click', () => {
             document.getElementById('similarity-container').classList.remove('hidden');
+        });
+    }
+
+    const sendSpecialBtn = document.getElementById('btn-study-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.addEventListener('click', () => {
+            const question = dueQuestions[currentQuestionIndex];
+            sendToSpecialRepeats(question, 'btn-study-send-special');
         });
     }
 }
@@ -1626,6 +1666,27 @@ function setupKurulPanel() {
             document.getElementById('kurul-similarity-container').classList.add('hidden');
         });
     }
+
+    const sendSpecialBtn = document.getElementById('btn-kurul-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.addEventListener('click', () => {
+            const question = kurulQuestions[currentKurulIndex];
+            const formattedQuestion = {
+                question_text: question.soru_koku,
+                option_a: question.secenekler.A,
+                option_b: question.secenekler.B,
+                option_c: question.secenekler.C,
+                option_d: question.secenekler.D,
+                option_e: question.secenekler.E,
+                correct_option: question.db_correct_option || question.cevap,
+                yil: activeKurul.yil,
+                soru_numarasi: question.soru_numarasi,
+                kurul_adi: activeKurul.kurul_adi,
+                original_question_id: question.db_id
+            };
+            sendToSpecialRepeats(formattedQuestion, 'btn-kurul-send-special');
+        });
+    }
 }
 
 async function loadKurulList() {
@@ -1793,6 +1854,13 @@ async function displayKurulQuestion() {
     if (simContainer) {
         simContainer.classList.add('hidden');
         document.getElementById('kurul-similarity-list').innerHTML = "";
+    }
+    
+    // Reset copy button
+    const sendSpecialBtn = document.getElementById('btn-kurul-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.disabled = false;
+        sendSpecialBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg><span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>`;
     }
     
     if (kurulQuestions.length === 0 || currentKurulIndex >= kurulQuestions.length) {
@@ -2013,6 +2081,16 @@ async function loadLogsList() {
                 const oldCorr = oldData ? oldData.correct_option : "?";
                 const newCorr = newData ? newData.correct_option : "?";
                 detail = `Cevap anahtarı düzeltildi: ${oldCorr} ➔ ${newCorr}`;
+            } else if (log.action_type === 'INSERT_SPECIAL') {
+                detail = `Kesinlikle Tekrar listesine eklendi: "${textSnippet}"`;
+            } else if (log.action_type === 'DELETE_SPECIAL') {
+                detail = `Kesinlikle Tekrar listesinden kaldırıldı: "${textSnippet}"`;
+            } else if (log.action_type === 'REVIEW_SPECIAL') {
+                const oldInt = oldData ? oldData.interval : 0;
+                const newInt = newData ? newData.interval : 0;
+                const oldEase = oldData ? oldData.ease_factor : 2.5;
+                const newEase = newData ? newData.ease_factor : 2.5;
+                detail = `Kesinlikle Tekrar puanlaması yapıldı (Aralık: ${oldInt} ➔ ${newInt} gün, Kolaylık: ${oldEase} ➔ ${newEase})`;
             }
             
             const tr = document.createElement('tr');
@@ -2292,6 +2370,7 @@ function setupSimilaritySlider() {
         similarityCache = {};
         kurulSimilarityCache = {};
         finalSimilarityCache = {};
+        specialSimilarityCache = {};
         
         // Re-evaluate currently active question
         if (panels.study.classList.contains('active') && dueQuestions[currentQuestionIndex]) {
@@ -2300,6 +2379,8 @@ function setupSimilaritySlider() {
             prefetchKurulSimilarity(currentKurulIndex);
         } else if (panels.final.classList.contains('active') && finalQuestions[currentFinalIndex]) {
             prefetchFinalSimilarity(currentFinalIndex);
+        } else if (panels.specialRepeats.classList.contains('active') && specialRepeatsQuestions[currentSpecialIndex]) {
+            prefetchSpecialSimilarity(currentSpecialIndex);
         }
     });
 }
@@ -2354,6 +2435,27 @@ function setupFinalPanel() {
     if (simCloseBtn) {
         simCloseBtn.addEventListener('click', () => {
             document.getElementById('final-similarity-container').classList.add('hidden');
+        });
+    }
+
+    const sendSpecialBtn = document.getElementById('btn-final-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.addEventListener('click', () => {
+            const question = finalQuestions[currentFinalIndex];
+            const formattedQuestion = {
+                question_text: question.soru_koku,
+                option_a: question.secenekler.A,
+                option_b: question.secenekler.B,
+                option_c: question.secenekler.C,
+                option_d: question.secenekler.D,
+                option_e: question.secenekler.E,
+                correct_option: question.db_correct_option || question.cevap,
+                yil: activeFinal.yil,
+                soru_numarasi: question.soru_numarasi,
+                kurul_adi: activeFinal.kurul_adi,
+                original_question_id: question.db_id
+            };
+            sendToSpecialRepeats(formattedQuestion, 'btn-final-send-special');
         });
     }
 }
@@ -2526,6 +2628,13 @@ async function displayFinalQuestion() {
     if (simContainer) {
         simContainer.classList.add('hidden');
         document.getElementById('final-similarity-list').innerHTML = "";
+    }
+    
+    // Reset copy button
+    const sendSpecialBtn = document.getElementById('btn-final-send-special');
+    if (sendSpecialBtn) {
+        sendSpecialBtn.disabled = false;
+        sendSpecialBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg><span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>`;
     }
     
     if (finalQuestions.length === 0 || currentFinalIndex >= finalQuestions.length) {
@@ -2977,9 +3086,434 @@ function makeProgressTextInteractive(elementId, getIndex, setIndex, getTotal, re
             }
         });
 
-        input.addEventListener('blur', () => {
-            finishEdit(true);
-        });
     });
 }
+
+// ==========================================
+// 11. Definitely To-Be-Repeated Logic
+// ==========================================
+async function sendToSpecialRepeats(question, buttonId) {
+    const btn = document.getElementById(buttonId);
+    if (!question) return;
+    
+    const payload = {
+        question_text: question.question_text || question.soru_koku,
+        option_a: question.option_a || (question.secenekler ? question.secenekler.A : ""),
+        option_b: question.option_b || (question.secenekler ? question.secenekler.B : ""),
+        option_c: question.option_c || (question.secenekler ? question.secenekler.C : ""),
+        option_d: question.option_d || (question.secenekler ? question.secenekler.D : ""),
+        option_e: question.option_e || (question.secenekler ? question.secenekler.E : ""),
+        correct_option: question.correct_option || question.db_correct_option || question.cevap,
+        yil: question.yil || 'final',
+        soru_numarasi: question.soru_numarasi || null,
+        kurul_adi: question.kurul_adi || null,
+        original_question_id: question.id || question.db_id || question.original_question_id || null
+    };
+    
+    try {
+        const response = await fetch('/api/special-repeats', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+        
+        if (response.ok) {
+            showToast("Soru kesinlikle tekrar edilecekler listesine kopyalandı.");
+            if (btn) {
+                btn.disabled = true;
+                btn.innerHTML = `<span>Gönderildi! ✓</span>`;
+            }
+            // Refresh badges
+            refreshDashboardStats();
+        } else {
+            const err = await response.json();
+            showToast(err.error || "Gönderim başarısız oldu.", "error");
+        }
+    } catch (error) {
+        console.error("Error sending to special repeats:", error);
+        showToast("Bağlantı hatası oluştu.", "error");
+    }
+}
+
+function setupSpecialRepeatsPanel() {
+    // Stop special repeats solving button
+    document.getElementById('btn-stop-special').addEventListener('click', () => {
+        switchPanel('dashboard');
+    });
+    
+    document.getElementById('btn-special-go-dashboard').addEventListener('click', () => {
+        switchPanel('dashboard');
+    });
+
+    // Prev / Next Question Buttons
+    document.getElementById('btn-special-prev').addEventListener('click', () => {
+        if (currentSpecialIndex > 0) {
+            currentSpecialIndex--;
+            displaySpecialQuestion();
+        }
+    });
+    document.getElementById('btn-special-next').addEventListener('click', () => {
+        if (currentSpecialIndex < specialRepeatsQuestions.length - 1) {
+            currentSpecialIndex++;
+            displaySpecialQuestion();
+        }
+    });
+    
+    // Choice selection buttons
+    const optionsContainer = document.getElementById('special-options-container');
+    optionsContainer.addEventListener('click', (e) => {
+        const btn = e.target.closest('.option-btn');
+        if (!btn || isSpecialAnswered) return;
+        handleSpecialChoiceSelection(btn.dataset.choice);
+    });
+    
+    // Rating buttons
+    const ratingButtons = document.querySelectorAll('#special-feedback-panel .btn-rate');
+    ratingButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const rating = parseInt(btn.dataset.rating);
+            submitSpecialQuestionReview(rating);
+        });
+    });
+    
+    // Page interactivity for page jumping
+    makeProgressTextInteractive(
+        'special-progress-text',
+        () => currentSpecialIndex,
+        (val) => { currentSpecialIndex = val; },
+        () => specialRepeatsQuestions.length,
+        displaySpecialQuestion
+    );
+    
+    // Similarity panel toggle controls for Special repeats
+    const specialSimCloseBtn = document.getElementById('btn-special-close-similarity');
+    if (specialSimCloseBtn) {
+        specialSimCloseBtn.addEventListener('click', () => {
+            document.getElementById('special-similarity-container').classList.add('hidden');
+        });
+    }
+    const specialSimTriggerBtn = document.getElementById('btn-special-similarity-trigger');
+    if (specialSimTriggerBtn) {
+        specialSimTriggerBtn.addEventListener('click', () => {
+            document.getElementById('special-similarity-container').classList.remove('hidden');
+        });
+    }
+
+    // One-time remove button for Special repeats
+    const specialRemoveBtn = document.getElementById('btn-special-remove-once');
+    if (specialRemoveBtn) {
+        specialRemoveBtn.addEventListener('click', () => {
+            removeCurrentSpecialQuestion();
+        });
+    }
+}
+
+async function startSpecialRepeatsSession() {
+    try {
+        const response = await fetch('/api/special-repeats/due?all=true');
+        specialRepeatsQuestions = await response.json();
+        
+        if (response.ok) {
+            currentSpecialIndex = 0;
+            isSpecialAnswered = false;
+            sessionAnswersSpecial = {};
+            sessionRatingsSpecial = {};
+            specialSimilarityCache = {};
+            document.getElementById('special-progress-container').classList.remove('hidden');
+            displaySpecialQuestion();
+        } else {
+            showToast("Kesin tekrar soruları yüklenemedi.", "error");
+        }
+    } catch (error) {
+        console.error("Error starting special repeats:", error);
+        showToast("Bağlantı hatası.", "error");
+    }
+}
+
+function displaySpecialQuestion() {
+    const activeCard = document.getElementById('special-active-card');
+    const emptyState = document.getElementById('special-empty-state');
+    
+    if (specialRepeatsQuestions.length === 0 || currentSpecialIndex >= specialRepeatsQuestions.length) {
+        activeCard.classList.add('hidden');
+        emptyState.classList.remove('hidden');
+        document.getElementById('special-progress-text').textContent = "Tamamlandı";
+        document.getElementById('special-progress-bar').style.width = "100%";
+        refreshDashboardStats();
+        return;
+    }
+    
+    activeCard.classList.remove('hidden');
+    emptyState.classList.add('hidden');
+    
+    // Reset similarity
+    document.getElementById('btn-special-similarity-trigger').classList.add('hidden');
+    document.getElementById('special-similarity-container').classList.add('hidden');
+    document.getElementById('special-similarity-list').innerHTML = "";
+    
+    const progressPercent = (specialRepeatsQuestions.length > 0) ? (currentSpecialIndex / specialRepeatsQuestions.length) * 100 : 0;
+    document.getElementById('special-progress-bar').style.width = `${progressPercent}%`;
+    document.getElementById('special-progress-text').textContent = `Soru ${currentSpecialIndex + 1} / ${specialRepeatsQuestions.length}`;
+    
+    const question = specialRepeatsQuestions[currentSpecialIndex];
+    document.getElementById('special-question-text').textContent = question.question_text;
+    document.getElementById('special-opt-a').textContent = question.option_a;
+    document.getElementById('special-opt-b').textContent = question.option_b;
+    document.getElementById('special-opt-c').textContent = question.option_c;
+    document.getElementById('special-opt-d').textContent = question.option_d;
+    document.getElementById('special-opt-e').textContent = question.option_e;
+    
+    const badgeText = question.kurul_adi 
+        ? `${question.kurul_adi.toUpperCase()} (${question.yil}) - Soru #${question.soru_numarasi}` 
+        : `Genel Tekrar (${question.yil || 'final'})`;
+    document.getElementById('special-question-badge').textContent = badgeText;
+    
+    const optionButtons = document.querySelectorAll('#special-options-container .option-btn');
+    optionButtons.forEach(btn => {
+        btn.className = "option-btn";
+        btn.disabled = false;
+    });
+    
+    // Reset rating buttons highlight
+    const ratingButtons = document.querySelectorAll('#special-feedback-panel .btn-rate');
+    ratingButtons.forEach(btn => btn.style.boxShadow = '');
+    
+    document.getElementById('special-feedback-panel').classList.add('hidden');
+    
+    // Enable/disable navigation buttons
+    const prevBtn = document.getElementById('btn-special-prev');
+    const nextBtn = document.getElementById('btn-special-next');
+    if (prevBtn) prevBtn.disabled = (currentSpecialIndex === 0);
+    if (nextBtn) nextBtn.disabled = (currentSpecialIndex >= specialRepeatsQuestions.length - 1);
+    
+    if (sessionAnswersSpecial[question.id] !== undefined) {
+        isSpecialAnswered = true;
+        optionButtons.forEach(btn => btn.disabled = true);
+        
+        const choice = sessionAnswersSpecial[question.id];
+        const correctChoice = question.correct_option;
+        const selectedBtn = Array.from(optionButtons).find(btn => btn.dataset.choice === choice);
+        const correctBtn = Array.from(optionButtons).find(btn => btn.dataset.choice === correctChoice);
+        
+        if (selectedBtn) {
+            if (choice === correctChoice) {
+                selectedBtn.classList.add('selected-correct');
+                document.getElementById('special-feedback-msg').textContent = "Doğru Cevap! 🎉";
+                document.getElementById('special-feedback-msg').className = "feedback-message text-success";
+            } else {
+                selectedBtn.classList.add('selected-wrong');
+                if (correctBtn) correctBtn.classList.add('reveal-correct');
+                document.getElementById('special-feedback-msg').textContent = `Yanlış Cevap. Doğru Şık: ${correctChoice}`;
+                document.getElementById('special-feedback-msg').className = "feedback-message text-danger";
+            }
+        }
+        
+        document.getElementById('special-feedback-panel').classList.remove('hidden');
+        
+        if (sessionRatingsSpecial[question.id] !== undefined) {
+            const ratedVal = sessionRatingsSpecial[question.id];
+            const ratedBtn = Array.from(ratingButtons).find(btn => parseInt(btn.dataset.rating) === ratedVal);
+            if (ratedBtn) {
+                ratedBtn.style.boxShadow = '0 0 12px var(--color-primary)';
+            }
+        }
+        
+        // Reveal similarity details once answered
+        document.querySelectorAll('#special-similarity-list .similar-detail').forEach(el => el.classList.remove('hidden'));
+    } else {
+        isSpecialAnswered = false;
+    }
+    
+    // Render similarity from prefetch cache or fetch if not present
+    const cachedData = specialSimilarityCache[currentSpecialIndex];
+    if (cachedData) {
+        if (cachedData.loading) {
+            // Already loading, wait for callback
+        } else {
+            renderSpecialSimilarity(cachedData);
+            if (isSpecialAnswered) {
+                document.querySelectorAll('#special-similarity-list .similar-detail').forEach(el => el.classList.remove('hidden'));
+            }
+        }
+    } else {
+        prefetchSpecialSimilarity(currentSpecialIndex);
+    }
+    
+    // Prefetch next special question similarity
+    if (currentSpecialIndex + 1 < specialRepeatsQuestions.length) {
+        prefetchSpecialSimilarity(currentSpecialIndex + 1);
+    }
+}
+
+function handleSpecialChoiceSelection(choice) {
+    const question = specialRepeatsQuestions[currentSpecialIndex];
+    isSpecialAnswered = true;
+    sessionAnswersSpecial[question.id] = choice;
+    const optionButtons = document.querySelectorAll('#special-options-container .option-btn');
+    
+    optionButtons.forEach(btn => btn.disabled = true);
+    
+    const correctChoice = question.correct_option;
+    const selectedBtn = Array.from(optionButtons).find(btn => btn.dataset.choice === choice);
+    const correctBtn = Array.from(optionButtons).find(btn => btn.dataset.choice === correctChoice);
+    
+    if (choice === correctChoice) {
+        selectedBtn.classList.add('selected-correct');
+        document.getElementById('special-feedback-msg').textContent = "Doğru Cevap! 🎉";
+        document.getElementById('special-feedback-msg').className = "feedback-message text-success";
+    } else {
+        selectedBtn.classList.add('selected-wrong');
+        if (correctBtn) correctBtn.classList.add('reveal-correct');
+        document.getElementById('special-feedback-msg').textContent = `Yanlış Cevap. Doğru Şık: ${correctChoice}`;
+        document.getElementById('special-feedback-msg').className = "feedback-message text-danger";
+    }
+    
+    document.getElementById('special-feedback-panel').classList.remove('hidden');
+    
+    // Reveal similarity details once answered
+    document.querySelectorAll('#special-similarity-list .similar-detail').forEach(el => el.classList.remove('hidden'));
+}
+
+async function submitSpecialQuestionReview(rating) {
+    const question = specialRepeatsQuestions[currentSpecialIndex];
+    sessionRatingsSpecial[question.id] = rating;
+    
+    try {
+        // POST review rating to reschedule
+        const response = await fetch(`/api/special-repeats/${question.id}/review`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ rating: rating })
+        });
+        
+        if (response.ok) {
+            if (rating === 1) {
+                // Move to the end of the session
+                specialRepeatsQuestions.push(question);
+                showToast("Tekrarlanacak sorulara geri eklendi.");
+            } else {
+                showToast("Cevap kaydedildi.");
+            }
+            currentSpecialIndex++;
+            displaySpecialQuestion();
+        } else {
+            showToast("Veri kaydedilemedi.", "error");
+        }
+    } catch (error) {
+        console.error("Save special review error:", error);
+        showToast("Bağlantı hatası.", "error");
+    }
+}
+
+async function removeCurrentSpecialQuestion() {
+    const question = specialRepeatsQuestions[currentSpecialIndex];
+    if (!question) return;
+    
+    try {
+        // DELETE question from special database
+        const response = await fetch(`/api/special-repeats/${question.id}`, {
+            method: 'DELETE'
+        });
+        
+        if (response.ok) {
+            showToast("Soru listeden kaldırıldı.");
+            // Remove from the local array
+            specialRepeatsQuestions.splice(currentSpecialIndex, 1);
+            // Do not increment index, but clamp
+            if (currentSpecialIndex >= specialRepeatsQuestions.length) {
+                currentSpecialIndex = Math.max(0, specialRepeatsQuestions.length - 1);
+            }
+            displaySpecialQuestion();
+        } else {
+            showToast("Soru listeden silinemedi.", "error");
+        }
+    } catch (error) {
+        console.error("Delete special question error:", error);
+        showToast("Bağlantı hatası.", "error");
+    }
+}
+
+async function prefetchSpecialSimilarity(index) {
+    if (index < 0 || index >= specialRepeatsQuestions.length) return;
+    if (specialSimilarityCache[index]) return;
+    
+    specialSimilarityCache[index] = { loading: true };
+    try {
+        const question = specialRepeatsQuestions[index];
+        const threshold = parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100;
+        const response = await fetch('/api/questions/similarity-check', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                question_text: question.question_text,
+                question_id: question.original_question_id || question.id,
+                kurul_adi: question.kurul_adi || null,
+                yil: question.yil || null,
+                soru_numarasi: question.soru_numarasi || null,
+                option_a: question.option_a || "",
+                option_b: question.option_b || "",
+                option_c: question.option_c || "",
+                option_d: question.option_d || "",
+                option_e: question.option_e || "",
+                threshold: threshold
+            })
+        });
+        if (response.ok) {
+            specialSimilarityCache[index] = await response.json();
+            if (currentSpecialIndex === index) {
+                renderSpecialSimilarity(specialSimilarityCache[index]);
+            }
+        } else {
+            specialSimilarityCache[index] = null;
+        }
+    } catch (e) {
+        console.error("Special prefetch error:", e);
+        specialSimilarityCache[index] = null;
+    }
+}
+
+function renderSpecialSimilarity(similarList) {
+    if (similarList && similarList.length > 0) {
+        const triggerBtn = document.getElementById('btn-special-similarity-trigger');
+        triggerBtn.classList.remove('hidden');
+        triggerBtn.textContent = `Benzer Soru Bulundu (%${similarList[0].ratio}) 🔍`;
+        
+        document.getElementById('special-similarity-container').classList.remove('hidden');
+        
+        const listEl = document.getElementById('special-similarity-list');
+        listEl.innerHTML = "";
+        similarList.forEach(item => {
+            const row = document.createElement('div');
+            row.style.padding = '0.5rem';
+            row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
+            row.style.fontSize = '0.85rem';
+            
+            const sourceText = item.kurul_adi
+                ? `${item.kurul_adi.toUpperCase()} (${item.yil}) Soru #${item.soru_numarasi}`
+                : `Genel Tekrar`;
+            
+            row.innerHTML = `
+                <div style="display: flex; justify-content: space-between; font-weight: 600; margin-bottom: 0.25rem;">
+                    <span style="color: var(--color-primary-hover);">${item.source || 'Soru'} - Benzerlik: %${item.ratio}</span>
+                </div>
+                <div class="similar-detail ${isSpecialAnswered ? '' : 'hidden'}" style="margin-top: 0.25rem; border-top: 1px dashed rgba(255,255,255,0.05); padding-top: 0.25rem;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                        <span style="color: var(--text-muted); font-size: 0.8rem;">ID: ${item.id ? '#' + item.id : 'JSON'} | Kaynak: ${sourceText}</span>
+                        <span style="color: var(--color-success); font-weight: 600;">Cevap: ${item.correct_option}</span>
+                    </div>
+                    <div style="color: var(--text-main); margin-bottom: 0.25rem; white-space: pre-line;">${item.question_text}</div>
+                    <div style="color: var(--text-muted); font-size: 0.8rem; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25rem;">
+                        <div>A) ${item.option_a}</div>
+                        <div>B) ${item.option_b}</div>
+                        <div>C) ${item.option_c}</div>
+                        <div>D) ${item.option_d}</div>
+                        <div>E) ${item.option_e}</div>
+                    </div>
+                </div>
+            `;
+            listEl.appendChild(row);
+        });
+    }
+}
+
 

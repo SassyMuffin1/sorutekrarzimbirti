@@ -388,6 +388,79 @@ def reset_questions_bulk():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route("/api/special-repeats", methods=["POST"])
+def add_special_repeat():
+    try:
+        data = request.json
+        if not data:
+            return jsonify({"error": "No data provided"}), 400
+            
+        required_fields = ["question_text", "option_a", "option_b", "option_c", "option_d", "option_e", "correct_option"]
+        for field in required_fields:
+            if field not in data or not str(data[field]).strip():
+                return jsonify({"error": f"Missing or empty field: {field}"}), 400
+                
+        correct = str(data["correct_option"]).strip().upper()
+        if correct not in ["A", "B", "C", "D", "E"]:
+            return jsonify({"error": "Correct option must be A, B, C, D, or E"}), 400
+            
+        inserted_id = database.add_to_special_repeats(
+            question_text=data["question_text"].strip(),
+            option_a=data["option_a"].strip(),
+            option_b=data["option_b"].strip(),
+            option_c=data["option_c"].strip(),
+            option_d=data["option_d"].strip(),
+            option_e=data["option_e"].strip(),
+            correct_option=correct,
+            yil=data.get("yil", "final"),
+            soru_numarasi=data.get("soru_numarasi"),
+            kurul_adi=data.get("kurul_adi"),
+            original_question_id=data.get("original_question_id")
+        )
+        return jsonify({"status": "success", "id": inserted_id}), 201
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/api/special-repeats/due", methods=["GET"])
+def get_due_special_repeats():
+    try:
+        all_param = request.args.get("all", "false").lower() == "true"
+        questions = database.get_due_special_repeats(all_questions=all_param)
+        return jsonify(questions)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/api/special-repeats/<int:question_id>/review", methods=["POST"])
+def review_special_repeat(question_id):
+    try:
+        data = request.json
+        if not data or "rating" not in data:
+            return jsonify({"error": "Rating is required"}), 400
+            
+        rating = int(data["rating"])
+        if rating not in range(1, 12):
+            return jsonify({"error": "Rating must be between 1 and 11"}), 400
+            
+        result = database.review_special_repeat(question_id, rating)
+        if not result:
+            return jsonify({"error": "Question not found"}), 404
+            
+        return jsonify({"status": "success", "data": result})
+    except ValueError as ve:
+        return jsonify({"error": str(ve)}), 400
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/api/special-repeats/<int:question_id>", methods=["DELETE"])
+def delete_special_repeat(question_id):
+    try:
+        success = database.delete_special_repeat(question_id)
+        if not success:
+            return jsonify({"error": "Question not found"}), 404
+        return jsonify({"status": "success", "message": "Question removed from list successfully"})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 @app.route("/api/kurullar", methods=["GET"])
 def list_kurullar():
     try:

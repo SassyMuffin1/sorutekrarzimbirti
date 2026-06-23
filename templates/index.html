@@ -84,6 +84,13 @@
                     </svg>
                     <span>Cevap Anahtarı</span>
                 </button>
+                <button class="nav-item" id="btn-nav-special-repeats" data-target="panel-special-repeats">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+                    </svg>
+                    <span>Kesinlikle Tekrar</span>
+                    <span class="badge hidden" id="badge-special-count">0</span>
+                </button>
             </nav>
             
             <div class="sidebar-footer" style="display: flex; flex-direction: column; gap: 0.5rem; text-align: left; padding: 1rem 0;">
@@ -403,6 +410,12 @@
                             <!-- Feedback Panel -->
                             <div class="feedback-panel hidden" id="kurul-feedback-panel">
                                 <div class="feedback-message" id="kurul-feedback-msg">Cevabınız kaydedildi.</div>
+                                <div style="margin-bottom: 1rem;">
+                                    <button class="btn btn-secondary btn-large" id="btn-kurul-send-special" style="width: 100%; border: 1px solid var(--color-primary); background: rgba(139, 92, 246, 0.1); color: var(--color-primary-hover); display: flex; align-items: center; justify-content: center; gap: 0.5rem; font-size: 0.95rem;">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg>
+                                        <span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>
+                                    </button>
+                                </div>
                                 <div class="rating-instructions">Soruyu zorluk derecesine göre puanlayarak tekrarlanacak sorular veritabanına ekleyin:</div>
                                 <div class="rating-buttons kurul-rating-grid" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem; margin-bottom: 1rem;">
                                     <button class="btn btn-rate rating-red" data-rating="1" title="Hiç hatırlayamadım / yanlış yaptım">1</button>
@@ -521,6 +534,12 @@
                             <!-- Feedback Panel -->
                             <div class="feedback-panel hidden" id="final-feedback-panel">
                                 <div class="feedback-message" id="final-feedback-msg">Cevabınız kaydedildi.</div>
+                                <div style="margin-bottom: 1rem;">
+                                    <button class="btn btn-secondary btn-large" id="btn-final-send-special" style="width: 100%; border: 1px solid var(--color-primary); background: rgba(139, 92, 246, 0.1); color: var(--color-primary-hover); display: flex; align-items: center; justify-content: center; gap: 0.5rem; font-size: 0.95rem;">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg>
+                                        <span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>
+                                    </button>
+                                </div>
                                 <div class="rating-instructions">Soruyu zorluk derecesine göre puanlayarak tekrarlanacak sorular veritabanına ekleyin:</div>
                                 <div class="rating-buttons final-rating-grid" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem; margin-bottom: 1rem;">
                                     <button class="btn btn-rate rating-red" data-rating="1" title="Hiç hatırlayamadım / yanlış yaptım">1</button>
@@ -691,6 +710,12 @@
                         <!-- Feedback Panel -->
                         <div class="feedback-panel hidden" id="study-feedback-panel">
                             <div class="feedback-message" id="study-feedback-msg">Cevabınız kaydedildi.</div>
+                            <div style="margin-bottom: 1rem;">
+                                <button class="btn btn-secondary btn-large" id="btn-study-send-special" style="width: 100%; border: 1px solid var(--color-primary); background: rgba(139, 92, 246, 0.1); color: var(--color-primary-hover); display: flex; align-items: center; justify-content: center; gap: 0.5rem; font-size: 0.95rem;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" /></svg>
+                                    <span>Kesinlikle Tekrar Edilecekler Database'ine Gönder</span>
+                                </button>
+                            </div>
                             <div class="rating-instructions">Soruyu zorluk derecesine göre puanlayın:</div>
                             <div class="rating-buttons" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem; margin-bottom: 1rem;">
                                 <button class="btn btn-rate rating-red" data-rating="1" title="Hiç hatırlayamadım / yanlış yaptım">1</button>
@@ -833,6 +858,137 @@
                                 <!-- Loaded dynamically -->
                             </tbody>
                         </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PANEL: KESİNLİKLE TEKRAR EDİLECEKLER -->
+            <section class="panel" id="panel-special-repeats">
+                <div class="panel-header" style="margin-bottom: 2rem;">
+                    <h2>Kesinlikle Tekrar Edilecekler 📌</h2>
+                    <p>Özel veritabanına kopyaladığınız, kesinlikle tekrar etmek istediğiniz soruları çözün.</p>
+                </div>
+                
+                <div class="study-progress-container" id="special-progress-container">
+                    <div class="study-meta">
+                        <span id="special-progress-text">Soru 0 / 0</span>
+                        <span class="mode-badge" style="font-size: 0.8rem; background: rgba(139, 92, 246, 0.2); border: 1px solid var(--color-primary); padding: 0.15rem 0.5rem; border-radius: var(--border-radius-sm); color: var(--color-primary-hover); font-weight: 600;">Kesin Tekrar</span>
+                        <button class="btn btn-icon-only" id="btn-stop-special" title="Çalışmayı Durdur">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 20px; height: 20px;">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="progress-bar-background">
+                        <div class="progress-bar-fill" id="special-progress-bar" style="width: 0%;"></div>
+                    </div>
+                </div>
+
+                <div class="study-card-container">
+                    <!-- Empty State -->
+                    <div id="special-empty-state" class="card empty-card hidden">
+                        <div class="empty-icon">📌</div>
+                        <h2>Liste Boş!</h2>
+                        <p>Kesinlikle tekrar edilecekler listesinde soru bulunmamaktadır. Soruları çözerken "Kesinlikle Tekrar Edilecekler Database'ine Gönder" butonuna tıklayarak buraya soru ekleyebilirsiniz.</p>
+                        <div class="empty-actions" style="display: flex; gap: 1rem; margin-top: 1.25rem; flex-wrap: wrap; justify-content: center;">
+                            <button class="btn btn-primary" id="btn-special-go-dashboard">Ana Sayfaya Dön</button>
+                        </div>
+                    </div>
+
+                    <!-- Active Question Card -->
+                    <div id="special-active-card" class="card question-card">
+                        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
+                            <span id="special-question-badge" style="background: rgba(255,255,255,0.05); padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: 500;">Soru #1</span>
+                            <div style="display: flex; gap: 0.5rem; align-items: center;">
+                                <button class="btn hidden" id="btn-special-similarity-trigger" style="padding: 0.3rem 0.6rem; font-size: 0.75rem; background: rgba(139, 92, 246, 0.15); border-color: rgba(139, 92, 246, 0.25); color: #c4b5fd;">Benzer Sorular Eşleşti 🔍</button>
+                                <span style="color: var(--color-primary-hover); font-weight: 600;">Kesin Tekrar Listesi</span>
+                            </div>
+                        </div>
+
+                        <!-- Similar Questions Container (Initially Hidden) -->
+                        <div id="special-similarity-container" class="hidden" style="margin-bottom: 1rem; border: 1px solid var(--color-primary-glow); border-radius: var(--border-radius-md); background: rgba(139, 92, 246, 0.03); padding: 1rem;">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+                                <h4 style="font-size: 0.95rem; color: var(--color-primary-hover);">Benzer Sorular (<span class="similarity-threshold-text">%70</span>+ Benzerlik)</h4>
+                                <button class="btn btn-icon-only" id="btn-special-close-similarity" style="padding: 0.2rem;" title="Kapat">
+                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" style="width: 14px; height: 14px;"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"/></svg>
+                                </button>
+                            </div>
+                            <div id="special-similarity-list" style="display: flex; flex-direction: column; gap: 0.75rem; max-height: 200px; overflow-y: auto;">
+                                <!-- Similar questions listed dynamically -->
+                            </div>
+                        </div>
+
+                        <div class="question-body">
+                            <p id="special-question-text">Soru yükleniyor...</p>
+                        </div>
+
+                        <div class="options-container" id="special-options-container">
+                            <button class="option-btn" data-choice="A">
+                                <span class="opt-label">A</span>
+                                <span class="opt-text" id="special-opt-a">-</span>
+                            </button>
+                            <button class="option-btn" data-choice="B">
+                                <span class="opt-label">B</span>
+                                <span class="opt-text" id="special-opt-b">-</span>
+                            </button>
+                            <button class="option-btn" data-choice="C">
+                                <span class="opt-label">C</span>
+                                <span class="opt-text" id="special-opt-c">-</span>
+                            </button>
+                            <button class="option-btn" data-choice="D">
+                                <span class="opt-label">D</span>
+                                <span class="opt-text" id="special-opt-d">-</span>
+                            </button>
+                            <button class="option-btn" data-choice="E">
+                                <span class="opt-label">E</span>
+                                <span class="opt-text" id="special-opt-e">-</span>
+                            </button>
+                        </div>
+
+                        <!-- Navigation Buttons -->
+                        <div class="navigation-buttons" style="display: flex; justify-content: space-between; margin-top: 1.5rem; gap: 1rem; margin-bottom: 1.5rem;">
+                            <button class="btn btn-secondary" id="btn-special-prev" style="flex: 1; padding: 0.75rem 1rem; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" style="width: 16px; height: 16px;">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                                </svg>
+                                <span>Önceki Soru</span>
+                            </button>
+                            <button class="btn btn-secondary" id="btn-special-next" style="flex: 1; padding: 0.75rem 1rem; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                                <span>Sonraki Soru</span>
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" style="width: 16px; height: 16px;">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+                                </svg>
+                            </button>
+                        </div>
+
+                        <!-- Feedback Panel -->
+                        <div class="feedback-panel hidden" id="special-feedback-panel">
+                            <div class="feedback-message" id="special-feedback-msg">Cevabınız kaydedildi.</div>
+                            
+                            <!-- Control Options (One-time Remove Button) -->
+                            <button class="btn btn-danger" id="btn-special-remove-once" style="width: 100%; padding: 0.75rem 1rem; margin-bottom: 1.25rem; display: flex; align-items: center; justify-content: center; gap: 0.5rem; border-radius: var(--border-radius-md); font-weight: 600;">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 18px; height: 18px;">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" />
+                                </svg>
+                                <span>Bu Soruyu Listeden Kaldır (Veritabanından Sil)</span>
+                            </button>
+                            
+                            <div class="rating-instructions">Soruyu zorluk derecesine göre puanlayın:</div>
+                            <div class="rating-buttons special-rating-grid" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.5rem; margin-bottom: 1rem;">
+                                <button class="btn btn-rate rating-red" data-rating="1" title="Hiç hatırlayamadım / yanlış yaptım">1</button>
+                                <button class="btn btn-rate rating-orange-light" data-rating="2">2</button>
+                                <button class="btn btn-rate rating-orange-light" data-rating="3">3</button>
+                                <button class="btn btn-rate rating-orange" data-rating="4">4</button>
+                                <button class="btn btn-rate rating-orange" data-rating="5">5</button>
+                                <button class="btn btn-rate rating-green-light" data-rating="6">6</button>
+                                <button class="btn btn-rate rating-green-light" data-rating="7">7</button>
+                                <button class="btn btn-rate rating-green-light" data-rating="8">8</button>
+                                <button class="btn btn-rate rating-green" data-rating="9">9</button>
+                                <button class="btn btn-rate rating-green" data-rating="10" title="Çok rahat hatırladım">10</button>
+                                <button class="btn btn-rate rating-purple" data-rating="11" style="grid-column: span 2; background: rgba(167, 139, 250, 0.15); border-color: rgba(167, 139, 250, 0.25); color: #c4b5fd;" title="Bir daha bu soruyu gösterme">11 (Arşivle)</button>
+                            </div>
+                            <div class="next-hint">Sonraki soruya geçmek için zorluk derecesi seçebilirsiniz.</div>
+                        </div>
                     </div>
                 </div>
             </section>

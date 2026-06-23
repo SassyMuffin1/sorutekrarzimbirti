@@ -85,6 +85,30 @@ def init_db():
     """)
     conn.commit()
     
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS special_repeats (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            question_text TEXT NOT NULL,
+            option_a TEXT NOT NULL,
+            option_b TEXT NOT NULL,
+            option_c TEXT NOT NULL,
+            option_d TEXT NOT NULL,
+            option_e TEXT NOT NULL,
+            correct_option TEXT NOT NULL,
+            interval INTEGER DEFAULT 0,
+            ease_factor REAL DEFAULT 2.5,
+            repetitions INTEGER DEFAULT 0,
+            next_review TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            yil TEXT DEFAULT 'final',
+            soru_numarasi INTEGER DEFAULT NULL,
+            kurul_adi TEXT DEFAULT NULL,
+            is_archived INTEGER DEFAULT 0,
+            original_question_id INTEGER DEFAULT NULL
+        )
+    """)
+    conn.commit()
+    
     # Check and add new columns if they do not exist
     cursor.execute("PRAGMA table_info(questions)")
     columns = [row[1] for row in cursor.fetchall()]
@@ -570,6 +594,55 @@ def undo_action(log_id):
                 """, (old_data["correct_option"], target_id))
                 db_conn.commit()
                 success = True
+        elif action_type == 'INSERT_SPECIAL':
+            db_cursor.execute("DELETE FROM special_repeats WHERE id = ?", (target_id,))
+            db_conn.commit()
+            success = True
+        elif action_type == 'REVIEW_SPECIAL':
+            if old_data:
+                db_cursor.execute("""
+                    UPDATE special_repeats
+                    SET interval = ?, ease_factor = ?, repetitions = ?, next_review = ?, is_archived = ?
+                    WHERE id = ?
+                """, (
+                    old_data.get("interval"),
+                    old_data.get("ease_factor"),
+                    old_data.get("repetitions"),
+                    old_data.get("next_review"),
+                    old_data.get("is_archived", 0),
+                    target_id
+                ))
+                db_conn.commit()
+                success = True
+        elif action_type == 'DELETE_SPECIAL':
+            if old_data:
+                db_cursor.execute("""
+                    INSERT INTO special_repeats (
+                        id, question_text, option_a, option_b, option_c, option_d, option_e, correct_option,
+                        interval, ease_factor, repetitions, next_review, created_at, yil, soru_numarasi, kurul_adi, is_archived, original_question_id
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, (
+                    old_data.get("id"),
+                    old_data.get("question_text"),
+                    old_data.get("option_a"),
+                    old_data.get("option_b"),
+                    old_data.get("option_c"),
+                    old_data.get("option_d"),
+                    old_data.get("option_e"),
+                    old_data.get("correct_option"),
+                    old_data.get("interval", 0),
+                    old_data.get("ease_factor", 2.5),
+                    old_data.get("repetitions", 0),
+                    old_data.get("next_review"),
+                    old_data.get("created_at"),
+                    old_data.get("yil", "final"),
+                    old_data.get("soru_numarasi"),
+                    old_data.get("kurul_adi"),
+                    old_data.get("is_archived", 0),
+                    old_data.get("original_question_id")
+                ))
+                db_conn.commit()
+                success = True
                 
         if success:
             cursor.execute("DELETE FROM logs WHERE id = ?", (log_id,))
@@ -583,3 +656,140 @@ def undo_action(log_id):
     db_conn.close()
     conn.close()
     return success
+
+def add_to_special_repeats(question_text, option_a, option_b, option_c, option_d, option_e, correct_option, yil='final', soru_numarasi=None, kurul_adi=None, original_question_id=None):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    
+    # Check if duplicate exists (checking question_text)
+    cursor.execute("SELECT id FROM special_repeats WHERE question_text = ?", (question_text.strip(),))
+    row = cursor.fetchone()
+    if row:
+        conn.close()
+        return row[0] # Return existing ID
+
+    cursor.execute("""
+        INSERT INTO special_repeats (
+            question_text, option_a, option_b, option_c, option_d, option_e, correct_option, next_review, yil, soru_numarasi, kurul_adi, is_archived, original_question_id
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?)
+    """, (
+        question_text.strip(), option_a.strip(), option_b.strip(), option_c.strip(), option_d.strip(), option_e.strip(), correct_option.strip().upper(),
+        datetime.now().strftime("%Y-%m-%d %H:%M:%S"), yil, soru_numarasi, kurul_adi, original_question_id
+    ))
+    conn.commit()
+    inserted_id = cursor.lastrowid
+    conn.close()
+    
+    add_log('INSERT_SPECIAL', inserted_id, old_data=None, new_data={
+        "question_text": question_text,
+        "yil": yil,
+        "soru_numarasi": soru_numarasi,
+        "kurul_adi": kurul_adi
+    })
+    return inserted_id
+
+def get_due_special_repeats(all_questions=False):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    if all_questions:
+        cursor.execute("SELECT * FROM special_repeats WHERE is_archived = 0 ORDER BY next_review ASC")
+    else:
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        cursor.execute("""
+            SELECT * FROM special_repeats 
+            WHERE next_review <= ? AND is_archived = 0
+            ORDER BY next_review ASC
+        """, (now_str,))
+    rows = cursor.fetchall()
+    conn.close()
+    return [dict(row) for row in rows]
+
+def review_special_repeat(question_id, rating):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM special_repeats WHERE id = ?", (question_id,))
+    row = cursor.fetchone()
+    
+    if not row:
+        conn.close()
+        return False
+        
+    old_dict = dict(row)
+    interval = row["interval"]
+    ease_factor = row["ease_factor"]
+    repetitions = row["repetitions"]
+    is_archived = row["is_archived"]
+    
+    if rating == 11:
+        is_archived = 1
+        next_review = datetime.now() + timedelta(days=3650)  # 10 years later
+    elif rating == 1:
+        repetitions = 0
+        interval = 0
+        ease_factor = max(1.3, ease_factor - 0.2)
+        next_review = datetime.now()
+    elif rating >= 2 and rating <= 10:
+        repetitions += 1
+        if repetitions == 1:
+            if rating <= 4:
+                interval = 1
+            elif rating <= 7:
+                interval = 2
+            else:
+                interval = 3
+        elif repetitions == 2:
+            if rating <= 4:
+                interval = 2
+            elif rating <= 7:
+                interval = 4
+            else:
+                interval = 6
+        else:
+            interval = math.ceil(interval * ease_factor * (rating / 6.0))
+        
+        ease_factor = max(1.3, min(3.0, ease_factor + (rating - 6) * 0.08))
+        next_review = datetime.now() + timedelta(days=interval)
+    else:
+        conn.close()
+        raise ValueError("Invalid rating. Must be between 1 and 11.")
+        
+    cursor.execute("""
+        UPDATE special_repeats
+        SET interval = ?, ease_factor = ?, repetitions = ?, next_review = ?, is_archived = ?
+        WHERE id = ?
+    """, (interval, ease_factor, repetitions, next_review.strftime("%Y-%m-%d %H:%M:%S"), is_archived, question_id))
+    conn.commit()
+    
+    cursor.execute("SELECT * FROM special_repeats WHERE id = ?", (question_id,))
+    new_row = cursor.fetchone()
+    new_dict = dict(new_row) if new_row else {}
+    conn.close()
+    
+    add_log('REVIEW_SPECIAL', question_id, old_data=old_dict, new_data=new_dict)
+    return {
+        "id": question_id,
+        "interval": interval,
+        "ease_factor": ease_factor,
+        "repetitions": repetitions,
+        "next_review": next_review.strftime("%Y-%m-%d %H:%M:%S"),
+        "is_archived": is_archived
+    }
+
+def delete_special_repeat(question_id):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM special_repeats WHERE id = ?", (question_id,))
+    row = cursor.fetchone()
+    if not row:
+        conn.close()
+        return False
+    old_dict = dict(row)
+    
+    cursor.execute("DELETE FROM special_repeats WHERE id = ?", (question_id,))
+    rows_affected = cursor.rowcount
+    conn.commit()
+    conn.close()
+    
+    if rows_affected > 0:
+        add_log('DELETE_SPECIAL', question_id, old_data=old_dict, new_data=None)
+    return rows_affected > 0
