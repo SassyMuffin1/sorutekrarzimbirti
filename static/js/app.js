@@ -3325,7 +3325,7 @@ function displaySpecialQuestion() {
     }
     
     // Render similarity from prefetch cache or fetch if not present
-    const cachedData = specialSimilarityCache[currentSpecialIndex];
+    const cachedData = specialSimilarityCache[question.id];
     if (cachedData) {
         if (cachedData.loading) {
             // Already loading, wait for callback
@@ -3389,10 +3389,15 @@ async function submitSpecialQuestionReview(rating) {
         if (response.ok) {
             if (rating === 1) {
                 // Move to the end of the session
+                delete sessionAnswersSpecial[question.id];
+                delete sessionRatingsSpecial[question.id];
                 specialRepeatsQuestions.push(question);
                 showToast("Tekrarlanacak sorulara geri eklendi.");
             } else {
                 showToast("Cevap kaydedildi.");
+                if (rating === 11) {
+                    refreshDashboardStats();
+                }
             }
             currentSpecialIndex++;
             displaySpecialQuestion();
@@ -3424,6 +3429,7 @@ async function removeCurrentSpecialQuestion() {
                 currentSpecialIndex = Math.max(0, specialRepeatsQuestions.length - 1);
             }
             displaySpecialQuestion();
+            refreshDashboardStats();
         } else {
             showToast("Soru listeden silinemedi.", "error");
         }
@@ -3435,11 +3441,12 @@ async function removeCurrentSpecialQuestion() {
 
 async function prefetchSpecialSimilarity(index) {
     if (index < 0 || index >= specialRepeatsQuestions.length) return;
-    if (specialSimilarityCache[index]) return;
+    const question = specialRepeatsQuestions[index];
+    const qId = question.id;
+    if (specialSimilarityCache[qId]) return;
     
-    specialSimilarityCache[index] = { loading: true };
+    specialSimilarityCache[qId] = { loading: true };
     try {
-        const question = specialRepeatsQuestions[index];
         const threshold = parseFloat(document.getElementById('similarity-threshold-slider')?.value || 70) / 100;
         const response = await fetch('/api/questions/similarity-check', {
             method: 'POST',
@@ -3459,16 +3466,17 @@ async function prefetchSpecialSimilarity(index) {
             })
         });
         if (response.ok) {
-            specialSimilarityCache[index] = await response.json();
-            if (currentSpecialIndex === index) {
-                renderSpecialSimilarity(specialSimilarityCache[index]);
+            specialSimilarityCache[qId] = await response.json();
+            const currentQuestion = specialRepeatsQuestions[currentSpecialIndex];
+            if (currentQuestion && currentQuestion.id === qId) {
+                renderSpecialSimilarity(specialSimilarityCache[qId]);
             }
         } else {
-            specialSimilarityCache[index] = null;
+            specialSimilarityCache[qId] = null;
         }
     } catch (e) {
         console.error("Special prefetch error:", e);
-        specialSimilarityCache[index] = null;
+        specialSimilarityCache[qId] = null;
     }
 }
 
