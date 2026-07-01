@@ -106,7 +106,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 9,
-    "soru_koku": "Aşağıdaki farmasötik şekillerden hangisi sıvı farmasötik şekillerden biridir?",
+    "soru_koku": "Aşağıdaki farmasötik şekillerden hangisi farmasötik şekillerden biridir?",
     "secenekler": {
       "A": "Draje",
       "B": "Eliksir",
@@ -301,7 +301,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 24,
-    "soru_koku": "Aşağıdaki ifadelerden hangisi adrenalinin damarlarda fosfoinositidaz yolağı üzerinden yaptığı kasılmanın, nitratlar tarafından guanilat siklaz yolağı üzerinden geri çevrilmesini en iyi şekilde açıklar?",
+    "soru_koku": "Aşağıdaki ifadelerden hangisi adrenalinin damarlarda fosfoinositidaz yolağı üzerinden kasılmanın, nitratlar tarafından guanilat siklaz yolağı üzerinden geri çevrilmesini en iyi şekilde açıklar?",
     "secenekler": {
       "A": "Farmakolojik antagonizma",
       "B": "Nonkompetetif antagonizma",
@@ -366,7 +366,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 29,
-    "soru_koku": "Bir hastada prokainamid infüzyonuna gereksinim vardır. Yarılanma ömrü 3 saattir. İnfüzyon sabah saat 10’da başlatılıp, aynı gün öğlen 4’de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 12 mg/L olarak ölçülen ilacın, olası kararlı durum konsant- rasyonu (örneğin 48 saat sonra) nedir?",
+    "soru_koku": "Bir hastada prokainamid infüzyonuna gereksinim vardır. Yarılanma ömrü 3 saattir. İnfüzyon sabah saat 10'da başlatılıp, aynı gün öğlen 4'de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 12 mg/L olarak ölçülen ilacın, olası kararlı durum konsant- rasyonu (örneğin 48 saat sonra) nedir?",
     "secenekler": {
       "A": "9 mg/L",
       "B": "12 mg/L",
@@ -567,7 +567,7 @@
       "B": "Amfoterisin B",
       "C": "Lityum",
       "D": "Fenobarbital",
-      "E": "Doksisiklin Klinik Yaklaşımlar"
+      "E": "Doksisiklin"
     },
     "cevap": "E"
   },
@@ -639,7 +639,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 50,
-    "soru_koku": "Aşağıdaki hastalıklardan hangisinin nedeni kronik yangısal reaksiyondur?",
+    "soru_koku": "Aşağıdaki hastalıklardan hangisinin nedeni yangısal reaksiyondur?",
     "secenekler": {
       "A": "Bronkopnömoni",
       "B": "Respiratuar distres sendromu",
@@ -964,7 +964,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 75,
-    "soru_koku": "laboratuvarında kullanılan boyama yöntemleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "soru_koku": "Patoloji laboratuvarında kullanılan yöntemleri ile ilgili aşağıdakilerden hangisi",
     "secenekler": {
       "A": "Patoloji laboratuvarında en yaygın kullanılan boya, Hematoksilen eozindir.",
       "B": "Kongo kırmızısı, amiloid birikimini saptamak için kullanılan bir boyama yöntemidir.",
@@ -1016,7 +1016,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 79,
-    "soru_koku": "Aktive kompleman fragmanları aşağıdaki etkilerin hangisinden sorumlu değildir?",
+    "soru_koku": "Aktive kompleman fragmanları aşağıdaki hangisinden sorumlu değildir?",
     "secenekler": {
       "A": "Damar geçirgenliğini arttırırlar",
       "B": "Vazodilatasyon yaparlar",
@@ -1133,7 +1133,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 88,
-    "soru_koku": "Aşağıdakilerden hangisi akut yangıda lökositlerin eksudasyonu sırasında aktive olan moleküllerden birisi değildir?",
+    "soru_koku": "Aşağıdakilerden hangisi akut yangıda eksudasyonu sırasında aktive olan birisi değildir?",
     "secenekler": {
       "A": "İntegrinler",
       "B": "VCAM-1",
@@ -1295,7 +1295,7 @@
       "B": "22q11. 2 bölgesini hedefleyen fluorescence in situ hybridization (FISH)",
       "C": "21. kromozom sentromer fluorescence in situ hybridization (FISH)",
       "D": "UBE3A geni DNA dizi analizi",
-      "E": "Real time PCR ile BCR-ABL translokasyonunun incelenmesi 1)A 2)D 3)E 4)D 5)C 6)B 7)C 8)D 9)B 10)D 11)A 12)D 13)A 14)E 15)C 16)C 17)B 18)A 19)D 20)D 21)B 22)D 23)A 24)E 25)B 26)C 27)D 28)B 29)C 30)C 31)E 32)C 33)C 34)C 35)C 36)C 37)C 38)C 39)B 40)E 41)C 42)D 43)A 44)E 45)D 46)C 47)C 48)E 49)B 50)C 51)D 52)B 53)E 54)B 55)C 56)E 57)D 58)B 59)E 60)C 61)D 62)D 63)B 64)E 65)D 66)C 67)B 68)A 69)C 70)B 71)D 72)A 73)C 74)A 75)D 76)A 77)C 78)E 79)D 80)B 81)B 82)C 83)A 84)A 85)B 86)E 87)A 88)D 89)C 90)B 91)C 92)D 93)E 94)A 95)E 96)E 97)E 98)A 99)C 100)A"
+      "E": "Real time PCR ile BCR-ABL translokasyonunun incelenmesi"
     },
     "cevap": "A"
   },
@@ -2407,7 +2407,7 @@
   {
     "yil": "2023-2024",
     "soru_numarasi": 86,
-    "soru_koku": "5-9 nm boyutunda, globüler protein aktinden (G-aktin) oluşan, bulunan sitozolik protein olup, eritrositlere bikonkav disk şeklini veren hücre İskeleti proteini aşağıdakilerden hangisidir?",
+    "soru_koku": "5-9 nm boyutunda, globüler protein aktinden (C) aktin) oluşan, bulunan sitozolik protein olup, eritrositlere bikonkav disk şeklini veren hücre İskeleti proteini aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Desmozom",
       "B": "Ara filamanlar",
@@ -2598,5 +2598,2605 @@
       "E": "izokromozom"
     },
     "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": "Hangi hormon kan kalsiyum dengesi üzerine etki gösterir? I. Parathormon II.Kalsitonin III. D vitamini- kalsitriol IV. Melatonin X",
+    "secenekler": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız III",
+      "D": "I, II, III",
+      "E": "Yalnız IV"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": "Apoptotik hücrelerin çevre fagositleri tarafından fark edilmesini sağlayan aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Apoptozom kompleksinin oluşması",
+      "B": "Sitokrom-c'nin salınması",
+      "C": "Membranin iç yüzünde yer alan fosfotidil serin'in membranın dış yüzüne yerleşmesi",
+      "D": "Hücre yüzey ölüm reseptörlerinin uyanılması",
+      "E": "Hücre içi pH artışı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": "EDTA kullanılarak hazırlanmış plazma örneğinde aşağıdakilerden hangisinin düzeyinin ölçülmesi uygun değildir?",
+    "secenekler": {
+      "A": "Kolesterol",
+      "B": "Sodyum",
+      "C": "Bilirubin",
+      "D": "Klor",
+      "E": "Kalsiyum"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": "Apopitotik yolakta inaktif prokaspaz-9 un aktif kaspaz-9 haline dönüşmesini sağlayan aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kaspazla aktifleşen deoksiribonukleaz",
+      "B": "Apoptozom",
+      "C": "Poli ADP-Riboz Polimeraz",
+      "D": "Perforin",
+      "E": "Granzim"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": "Enzime gevşek olarak bağlanan ve kolayca ayrılabilen koenzim molekülüne ne ad verilir?",
+    "secenekler": {
+      "A": "Apoenzim",
+      "B": "Prostetik grup",
+      "C": "Holoenzim",
+      "D": "Kofaktör",
+      "E": "Katalizör"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": "Aşağıdakilerden hangisi sekresyona uğrayan enzimlerden biridir?",
+    "secenekler": {
+      "A": "LDH",
+      "B": "Tripsinojen",
+      "C": "Fibrinoliz enzimleri",
+      "D": "ALP",
+      "E": "ALT"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": "Malignitelerde düzeyi artan başlıca LDH izoenzimi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "LDH1",
+      "B": "LDH2",
+      "C": "LDH3",
+      "D": "LDH4",
+      "E": "LDH5"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Apoptoz ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Apoptoz, belirli ligandların hücre yüzeyi üzerindeki spesifik reseptörlerle etkileşimi başlatabilir.",
+      "B": "Hücre stresi ve diğer faktörler, apoptozun mitokondriyal yolunu aktive ederek sitokrom p450'ninsitoplazmaya salınmasına neden olur.",
+      "C": "Kaspaz 3, laminin gibi hücre iskeleti proteinlerini, çeşitli enzimleri ve bazı hücre proteinlerini sindirerek hücre ölümüne yol açarlar.",
+      "D": "Kanser hücreleri çeşitli mutasyonlara uğrayarak apoptozdan kaçabilirler, varlıklarını sürdürebilirler.",
+      "E": "Apoptotik hücrelerde, kaspazla aktifleştirilen DNA'azdan kaynaklanan belirgin bir DNA fragmanları paterni bulunur"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Bir hastada prokainamid infüzyonuna gereksinim vardır Yarılanma ömrü 3 saattir. İnfüzyon sabah saat10'da başlatılıp aynı gün öğlen 4de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 6mg/L olarak ölçülen ilacın olası kararlı durum konsantrasyonu(örneğin 48 saat sonra) nedir?",
+    "secenekler": {
+      "A": "6 mg/L",
+      "B": "7 mg/L",
+      "C": "8 mg/L",
+      "D": "9 mg/L",
+      "E": "12 mg/L"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Oral yolla 6 saate bir verdiğiniz ilacın terapötik plazma konsantrasyonunun 2mg/L olmasını istiyorsunuz İlacın biyoyararlanımı (F-Oral) 0,50 sanal dağılım hacmi Vd 50 litredir. Terapötik plazma konsantrasyonuna hızlı olarak ulaşmak isterseniz ilacın yükleme dozu ne olmalıdır?",
+    "secenekler": {
+      "A": "50 mg",
+      "B": "100 mg",
+      "C": "200 mg",
+      "D": "300 mg",
+      "E": "500 mg"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisinin yüksek terapötik dozlardaki eliminasyonu 0-derece kinetiğine uyduğu için toksisite problemleri gözlenebilir?",
+    "secenekler": {
+      "A": "Digoksin",
+      "B": "Lityum",
+      "C": "Fenitoin",
+      "D": "Simetidin",
+      "E": "Karbamezepin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Aşağıdakilerden hangisi pasif difüzyon ile emilen bir ilacın emilim hızını etkilemez?",
+    "secenekler": {
+      "A": "İlacın molekül büyüklüğü",
+      "B": "İlacın disosiyasyon sabitesi (Kd)",
+      "C": "İlacın uygulama yerindeki konsantrasyonu",
+      "D": "İlacın uygulandığı dokudan geçen kan akım hızı",
+      "E": "İlacın lipid/su partisyon 5 mg/dakikadan az olması"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdakilerden hangileri enteral ilaç uygulama yollarıdır?",
+    "secenekler": {
+      "A": "Oral ve topikal",
+      "B": "Topikal ve inhalasyon",
+      "C": "Rektal ve topikal",
+      "D": "Oral ve rektal",
+      "E": "Oral ve intramüsküler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "Varfarin metabolizmasında en önemli rol oynayan ve hemoraji gelişimine katkıda bulunan enzim polimorfizmi hangisidir?",
+    "secenekler": {
+      "A": "CYP3A4",
+      "B": "CYP2C9",
+      "C": "CYP1A2",
+      "D": "CYP2D6",
+      "E": "CYP2E1"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "İlaç kullanımına bağlı olarak ortaya çıkan elektrolit düzeyindeki değişiklikler hangi toksik etkiler grubundadır?",
+    "secenekler": {
+      "A": "Yapısal toksik etkiler",
+      "B": "Fonksiyonel toksik etkiler",
+      "C": "Mutajenik etkiler",
+      "D": "Biyokimyasal toksik etkiler",
+      "E": "Teratojenik etkiler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "Serotonin reseptörleri içerisinde diğerlerinden farklı yapıda olup pentamerik iyon kanalı- reseptör kompleksi özelliği gösteren reseptör aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "5-HT1B",
+      "B": "5-HT2A",
+      "C": "5-HT3",
+      "D": "5-HT4",
+      "E": "5-HT7"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "İrritabl barsak sendromu tedavisinde kullanılan serotonin 5-HT4 parsiyel agonisti aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Metallopramid",
+      "B": "Tegaserod",
+      "C": "Siprohepatidin",
+      "D": "Buspiron",
+      "E": "Sisaprid"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Aşağıdaki ifadelerden hangisi doğru değildir?",
+    "secenekler": {
+      "A": "EC50 değeri, agonistin efikasitesinin (maksimum etki gücünün) bir göstergesidir.",
+      "B": "EC50-değeri, maksimal etkinin %50'sini oluşturan ilaç konsantrasyonudur.",
+      "C": "Yedek reseptörler olmadığında, farmakolojik çalışmalarla bulunan EC50 değeri, radyo ligand bağlanma çalışmaları ile bulunan Kd değerine eşittir.",
+      "D": "PA2 değeri, Schild grafiğinden hesaplanabilir ve antagonistin reseptöre olan afinitesinin göstergesidir.",
+      "E": "Ki, antagonist molekülü-reseptör kompleksinin disosiyasyon sabitesidir."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Hastanıza intravenöz infüzyonla vermek istediğiniz ilacınızın klerensi 50 ml/dak, sanal dağılım hacmi (Vd) 100 litredir. Ortalama sabit plazma konsantrasyonunun 5 mg/L olmasını sağlamak için gerekli infüzyon hızı nedir?",
+    "secenekler": {
+      "A": "0,25 mg/dak",
+      "B": "0,50 mg/dak",
+      "C": "1 mg/dak",
+      "D": "2,5 mg/dak",
+      "E": "5 mg/dak"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Kararlı durum konsantrasyonu (SSD) aşağıdakilerden hangisine bağlı değildir?",
+    "secenekler": {
+      "A": "Biyoyararlanım",
+      "B": "Doz",
+      "C": "Doz aralığı",
+      "D": "Sanal dağılım hacmi",
+      "E": "Klirens"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisinin kronik kullanımı asetaminofen toksisitesini artırabilir?",
+    "secenekler": {
+      "A": "Simetidin",
+      "B": "Prokainamid",
+      "C": "Ketokonazol",
+      "D": "Etanol",
+      "E": "Kinidin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "İkinci ulak olarak diasilgliserol'ün oluşmasına yol açan efektör makro-molekül aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Fosfoinositidaz",
+      "B": "Adenilat siklaz",
+      "C": "Protein kinaz",
+      "D": "Guanilat siklaz",
+      "E": "Fosfodiesteraz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "Klinik araştırmaların IV. fazı hangi amaç için ve kimler üzerinde yapılır?",
+    "secenekler": {
+      "A": "İlacın doza bağlı etkilerini incelemek amacıyla sağlıklı gönüllülerden oluşan küçük bir grup üzerinde",
+      "B": "İlacın teratojenik etkilerini incelemek amacıyla seçilmiş hayvanlar üzerinde",
+      "C": "İlacın güvenirliğini ve etkililiğini belirlemek amacıyla hastalardan oluşmuş büyük gruplar üzerinde",
+      "D": "İlacın belirli bir hastalıktaki etkililiğini ilk kez saptamak amacıyla hastalardan oluşmuş küçük bir grup üzerinde",
+      "E": "İlacı piyasaya sürdükten sonra uzun vadeli yan etkilerini saptamak amacıyla hastalardan oluşmuş büyük bir grup üzerinde"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Aşağıdaki ifadelerden hangisi adrenalinin damarlarda fosfoinositidaz yolağı üzerinden yaptığı kasılmanın, nitratlar tarafından guanilat siklaz yolağı üzerinden geri çevrilmesini en iyi şekilde açıklar?",
+    "secenekler": {
+      "A": "Farmakolojik antagonizma",
+      "B": "Parsiyel agonist",
+      "C": "Kimyasal antagonizma",
+      "D": "Fizyolojik antagonizma",
+      "E": "Nonkompetetif antagonizma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Bazı ilaçlar karaciğerdeki sitokrom P-450 bağımlı ilaç oksidasyon enzimlerinin sentezini artırarak (enzim indüksiyonu) kendilerinin ya da diğer ilaçların yıkımını artırır ve etkinliklerini azaltırlar. Aşağıdaki ilaçlardan hangisi bu şekilde bir enzim indüksiyonuna neden olmaz?",
+    "secenekler": {
+      "A": "Karbamezapin",
+      "B": "Fenitoin",
+      "C": "Rifampin",
+      "D": "Fenobarbital",
+      "E": "Ketokonazol"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "Aşağıdakilerden hangisi bir ilacın lipofilikliğini etkileyen en önemli faktördür?",
+    "secenekler": {
+      "A": "Molekül büyüklüğü",
+      "B": "İlaç konsantrasyonu",
+      "C": "ilacın plazma proteinlerine bağlanma oranı",
+      "D": "İlacın iyonizasyon derecesi",
+      "E": "İlacın verildiği dokunun içinden geçen kan akım hızı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "\"Hayvan incelemelerinde teratojenik etki görülmüş fakat gebe kadınlarda yapılmış kontrolü inceleme yok\" ise bu ilaçlar teratojenik risk sınıflandırılmasında hangi kategoriye girer?",
+    "secenekler": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "X"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi bakır ve altın bileşikleri ile olan zehirlenmelerinde kullanılır ve etkisini şelasyon yaparak gösterir?",
+    "secenekler": {
+      "A": "Kalsiyum disodyum EDTA",
+      "B": "Dimerkaprol",
+      "C": "Kromakalim",
+      "D": "Desferoksamin",
+      "E": "Penisilamin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "Aşağıdakilerden hangisi pazarlanmış ilaçların güvenlilik bakımından izlenip değerlendirilmesini ifade eder?",
+    "secenekler": {
+      "A": "Farmakokinetik",
+      "B": "Farmakodinamik",
+      "C": "Farmakovijilans",
+      "D": "Farmakoterapi",
+      "E": "Toksikoloji"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi geç teratojenik etki ile vaginal adenozise neden olabilir?",
+    "secenekler": {
+      "A": "Fenobarbital",
+      "B": "Tetrasikin",
+      "C": "Lityum",
+      "D": "Dietilstilbesterol",
+      "E": "Potasyum iyodür hangisi doğrudur? gradyentine bağlıdır. artar. E) İlacın bu dokudaki çözünürlüğünden bağımsızdır. farmakodinamiğinde değişikliklere bir örnek değildir? E) Malign hipertermi eğrisinden hesaplanamaz? E) Biyoyararlanım bağımsız olarak sabit bir hızda meydana gelir\" cümlesinde tanımlanan aşağıdakilerden hangisidir? E) 0. derece kinetik halde digoksin alan hastanızda zehirlenme gelişmiştir. Plazma digoksin düzeyi 4 ng/ml düzeyindedir. Böbrek fonksiyonları normaldir ve bu hastada plazma yarılanma ömrü t1/2= 1.6 gündür. Digoksinin kan düzeyini daha emniyetli olan 1 ng/ml düzeyine indirebilmek için hastaya kaç gün süresince ilaç verilmemelidir? kusmaların tedavisinde kullanılan NK1 reseptör antagonisti ilaç hangisidir? E) icatibant dozda IV bolus olarak uygulandıktan sonra uygulanan miktarın %93,75'nin elimine olması için geçen süre kaç saattir? E) 18 hangisi doğrudur? artırır ve etkisini sonlandırır. sonlandinr. mekanizmadır. E) Plazma proteinlerine çok bağlanma ilacın etkisinin sonlanmasına neden olur. yollarından hangisinin önemi yoktur? E) Tübüler sekresyon aşağıdakilerden hangisi yanlıştır? uyuncu etkiler. arasında değişir. diyare, kalp aritmileri) hastalıklara karşı ilaç kullananlarda uyunç genellikle yüksektir. hız ve derecesi erişkinlerdekinden daha azdır. E) İlaçların veriliş yolu, ilacın etkisinin başlama süresini, şiddetini ve devam süresini etkiler. önemli ölçüde artan ilaçlardan biri değildir? E) Minosiklin klinik önemini artırmaz? doyurulabilir olması bulunması E) Hastada ağır karaciğer veya böbrek yetmezliğinin olması olarak aşağıdakilerden hangisi yanlıştır? artırır. metabolizmalarını yavaşlatır. bazı ilaçların etkinliğini azaltabilir. absorpsiyon düzeyindeki farmakokinetik etkileşmelerdendir. E) Ketokonazol, diğer ilaçları metabolize eden enzimleri inhibe ederek onların etkinliklerini artırabilir. etkilemez? E) Radyoterapi uygulanması E) Tedavisinde basıçlı giysilerin kullanılması kontraendikedir. hangi terim kullanılır? E) Hematokolpos aşağıdaki durumlardan hangisi için geçerlidir? E) Hipoproteinemi görülmez? E) Akciğerde ödem ve konjesyon görülür aşağıdaki durumlardan hangisi görülmez? E) Deri koyu renktedir, adeta morarır. temel nedeni aşağıdakilerden hangisidir? E) Hidrostatik basınç artışı taşınması demektir E) Trombüsler embolizme neden olabilir hangisidir? E) Enfeksiyon bakan, üçgen biçiminde, kirli sarı-beyaz renkli bir alan izleniyor. Bu alan aşağıdaki olaylardan hangisinin bir sonucudur? E) Nefrotik sendrom hangisidir? E) Peteşi türü aşağıdakilerden hangisidir? E) Kardiyojenik yapısındadır? başlatan bir faktör değildir? E) Hageman faktörü aktivasyonu kimyasal mediyatörlerden hangisi rol oynamaz? E) Trombin sitoplazmasında ortaya çıkan hücre artıkları ve zarar verici etkenler, aşağıdaki hücresel yapılardan hangisi aracılığı ile tanınarak yangısal yanıtı uyarır? E) Scavenger reseptörler migrasyonunu ve yangı bölgesinde toplanmasını sağlayan en önemli mediyatörlerden birisidir? E) Kemokinler başlıca hücre grubu olarak yangı alanında toplanır? E) Viral enfeksiyonlar olarak görev yapmaz? E) Nitrik Oksid artışı esas olarak hangi mekanizma ile ortaya çıkar? E) Endotel hücrelerinde transitozis etkisini sonlandıran koruyucu molekül ikilileri verilmiştir. Hangisi yanlış bir ikilidir? E) OH/Seruloplazmin hangisi görülmez? E) Yeni kapiller kan damarlarının oluşması olan makrofajlar aşağıdaki görevlerin hangisinden sorumlu değildir? E) Yıkım ürünleri ve zararlı partikülleri fagosite eder yangısal reaksiyon için makrofajların aktivasyonunda görev yapmaz? E) IL-4 sitokin aşağıdakilerden hangisidir? E) IL-1 kimyasal mediyatörlerden hangisinin oluşumunu sağlamaz? E) Kallikrein biri değildir? E) Spinal musküler atrofi hastalıklardan biri değildir? E) Tuberoz skleroz proteinlerinin özelliklerinden biri değildir? E) Çoğu lipid içine gömülü haldedir. biri değildir? E) DNA metilasyonu -Heterokromatin, kromatinin gevşek katlandığı ve genden zengin kısmıdır. - Nükleozom, dört histon molekülünü çevreleyen DNA dizisinden oluşan boncuk benzeri yapıdır. -Histonlar, DNA'ya afinitesi yüksek olan çekirdekte bulunan proteinlerdir. -1 metre yüzbin mikrometreye eşittir. -AGGCTT dizisinin AGACTT dizisine dönüşmesi, SNP'e örnek olarak verilebilir. aşamaları ve kullanılan kimyasal doğru bir şekilde eşleştirilerek işlem sırasına göre sıralanmıştır? I-Şeﬀalandırma A)Parafin II-İnfiltrasyon B)Etil alkol III-Dehidrasyon C) Ksilol E) IIIC-IB-IIA hangi seçenekte birlikte verilmiştir? E) Oil red O-Kongo red hangisi yanlıştır? E) Denervasyon atrofisine örnektir aşağıdakilerden hangisine örnektir? E) Metaplazi E) Kök hücreden farklı tipte yeni bir diferansiye hücre oluşumu söz konusudur. E) Glikojen kalsiyum birikimi görülmektedir. Bununla ilgili hangisi doğrudur? E) Distrofik kalsifikasyona örnektir hangisi rol oynar? I. Kompleman sisteminin aktivasyonu II. Hücreden sodyum çıkışı III. Hücreden kalsiyum çıkışı IV. Serbest oksijen radikallerinin üretimi hücrelerinin nekroza uğradığı görülüyor. Bununla ilgili olarak yanlış olan seçenek hangisidir? aşağıdakilerden alır E) Nekrotik doku lökosit infiltrasyonu gösterir hangileridir? I. Karyolizis II. Karyoreksis III. Piknozis IV. Kalsifikasyon zedelenmeye yol açar. zedelenmeye yol açar. yolunu kullanır. üretimine yol açar. E) ATP'nin azalması sodyum-potasyum pompasını aktive eder. sitoplazmada kalsiyum artışı ile aktive olan enzimlerden değildir? E) Fosfolipaz açmaz? E) Kaspaz 9 aktivasyonu hangi duruma örnektir? E) Ferroptozis oynayan mekanizmalardan biri değildir? E)Telomer kısalması analizinde (karyotipleme) kullanılan materyallerden değildir? E) Antibiyotik tespit edilemez? E) Duchenne müsküler distrofi olmayan hangisidir? araştırılması E) kimerizm analizi görülen anomalilerden değildir? E) Makrosefali organlarda bulunması gereken normal kanalların veya deliklerinin doğuştan tıkalı olması karın içi organların dışarıda olması dokularının veya hücrelerinin geneli veya belirli bir lokusundaki DNA dizisi E) Pektus ekskavatum: sternumun aşırı çökük olması E) Unilateral koronal sinostoz plagiosefaliye neden olur. aşağıdakilerden hangisi yanlıştır? epilepsi eşlik eder. sıklıkta görülürler. dizomi görülür. obezite vardır. E) Prader willi sendromu 15. Kromozomdaki maternal imprint bölgeden kaynaklanır. (ekspresivite) değişken olan hastalıkları seçiniz? I- Duchenne müsküler distrofisi II- Frajil X sendromu III- Spinal müsküler atrofi IV- Prader willi sendromu V- Angelman sendromu E) Yalnız II yanlıştır? E)RSPO1-1p34 E) Overleri atrofiktir. DÖNEM 3 eşlik eden semptomları gözlenen mineral hangisidir? orantılıdır. E) Askorbat eksikliğinde ALP'de azalma görülür ve kemik büyümesi durur. E) Fosfor - magnezyum tanınabilmesi için,yüzeyinde hangisinin bulunması gerekli? E) Bcl-2 ailesi I. Parathormon II. Kalsitonin III. D vitamini, kalsitriol IV. Melatonin olanın karşısına \"Y\" yazıldığında doğru seçenek hangisidir? moleküle kofaktör denir. orantılıdır. E) 1D, 2Y, 3Y, 4Y kesinlikle gösteren işaret olarak kabul edilir? E) İnflamasyon varlığı olarak yıkımı başlatan kaspaz aşağıdakilerden hangisidir? eliminasyonu için karakteristik olan kinetiğe ne ad verilir? E) Sıfırıncı Derece eliminasyon bakımından hangisi doğru değildir? E) Hedef organların duyarlılığı değişebilir. aktive ederek kalp hızında artışa neden olur. Çok etkili beta stimülanların varlığında ise, kalp hızında doza-bağımlı, reversibl bir azalmaya neden olmaktadır. Bu özellikleri nedeniyle pindolol için en uygun tanımlama? E) Parsiyel agonist konsantrasyonudur. gücü) bir göstergesidir. bulunan EC50 değeri, radyoligand bağlanma çalışmaları ile bulunan Kd değerine eşittir. antagonistin reseptöre olan afinitesinin göstergesidir. E) Ki, antagonist molekülü - reseptör kompleksinin disosiyasyon sabitesidir. Mide pH derecesi 1.5 olduğunda, verilen aspirin dozunun yüzde kaçı yağda - çözünür şekildedir? düşünülmektedir. İntraoküler basınçtaki artışın dışında hastanın öyküsü ve fizik muayenesinde önemli bir bulguya rastlanmamıştır. TimololpKa;sı 9.2 olan zayıf bir bazdır. Aşağıdaki ifadelerden hangisi en doğrudur? konsantrasyonu (pH 7.8) duodenumdaki konsantrasyonundan (pH 5.5) daha düşük olur. pH'si asidik (pH 5.8) olduğundan daha yavaştır. damlalar alkalin (pH 8.0) olduğunda asidik (pH 5.0) olmalarından daha yavaştır. yaklaşık %10 olacaktır. E) pH 10.2'de yağda daha fazla çözünen formdaki timololün oranı yaklaşık %10'dur. asetaminofen toksisitesini artırabilir? E) Kinidin inhibitörüdür ve kanser kemoterapisinde metotreksat insitotoksik etkilerinin hızlandırmakta kullanılır? E) Kinidin giderek artırılması durumudur ve ilaçların büyük çoğunluğuna karşı zamanla tolerans gelişir. ve hastalığın ciddiyetine de bağlıdır eliminasyonu, idrarın asitleştirilmesi ile artırılabilir bağlı gelişen toleransa farmakokinetik tolerans adı verilir. E) Reseptör sıklığının azalması (down - regulation) sonucu gelişen toleransa farmakodinamik tolerans adı verilir. ilacınızın klerensi 100 ml/dak, sanal dağılım hacmi (Vd) 25 litredir. Ortalama sabit plazma konsantrasyonunun 5 mg/L olmasını sağlamak için gerekli infüzyon hızı nedir? mg/dak üzerinde yapılır? gönüllülerden oluşan küçük bir grup üzerinde hayvanlar üzerinde amacıyla hastalardan oluşmuş küçük bir grup üzerinde hastalardan oluşmuş büyük gruplar üzerinde E) İlacı piyasaya sürdükten sonra uzun vadeli yan etkilerini saptamak amacıyla hastalardan oluşmuş büyük bir grup kullanılır ve etkisini şelasyon yaparak gösterir? E) Desferoksamin elde etmek için kullanılan ilaç uygulama yollarındandır? tek doz veya çok dozda ilaç bulunur\" hangisinin tanımıdır? bakımından izlenip değerlendirilmesini ifade eder? E) Toksikoloji aşağıdakilerden hangisi bulunmaz? E) %100 biyoyararlanım hızları, uygulama yerindeki konsantrasyonları ile doğru orantılıdır” ifadesi hangisini tanımlamak için kullanılır? E) Mutlak biyoyararlanım vaginaladenozise neden olabilir? E) Potasyum iyodür fakat gebe kadınlarda yapılmış kontrolü inceleme yok\" ise bu ilaçlar teratojenik risk sınıflandırılmasında hangi kategoriye girer? Α) Α B) B C) C D) D E) X E) Dokudaki kan akımının hızlı olması E) İlacın %50 oranda çözündüğü pH E) Kan ile doku arasındaki bağlanmamış ilaç konsantrasyonu gradyentine bağlıdır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "32. İlaçların spesifik dokulara dağılımı için aşağıdakilerden",
+    "secenekler": {
+      "A": "İlacın difüzyon hızından bağımsızdır",
+      "B": "Kan ile doku arasındaki bağlanmamış ilaç konsantrasyonu",
+      "C": "Plazma proteinlerine güçlü bir şekilde bağlanan ilaçlarda",
+      "D": "İlacın yarı ömrü üzerine etkisi yoktur. 33. Aşağıdakilerden hangisi farmakogenetik olarak ilaç A) D vitaminine dirençli raşitizm B) Glukoz 6 fosfat dehidrogenaz polimorfizmi C) Varfarine tolerans D) Fenobarbital indüksiyonu 34. Aşağıdakilerden hangisi konsantrasyon zaman A) T max B) C max C) EAA (eğri altında kalan alan) D) Efikasite 35. \"İlaçların membrandan geçişi konsantrasyondan A) Pasif difüzyon B) 1. derece kinetik C) Presistemik eliminasyon D) Potens 36. Temel farmakokinetik prensiplere dikkatle uyduğunuz A) 1.6 gün B) 2.4 gün C) 3.2 gün D) 4.8 gün",
+      "E": "6.4 gün 37. Oral yolla kemoterapinin indüklediği mide bulantısı ve A) Nitritler B) Adenozin C) Aprepitant D) Nesiritid 38. Eliminasyon yarılanma ömrü 4 saat olan ilaç 10 mg A) 3 B) 6 C) 9 D) 12 39. İlaç Etkisinin sonlanmasına ilişkin olarak aşağıdakilerden A) İlaçlar temel olarak akciğerlerden atılarak etkisi sonlanır. B) İlaç metabolizması her zaman ilacın yağda çözünürlüğünü C) ilacın plazma dışına dokulara geçmesi ilacın etkisini D) Hepatik metabolizma ve renal atılım en önemli 40. İlaç ve metabolitlerinin vücutan atılmasında aşağıdaki A) Glomeruler filtrasyon B) Tübüler reabsorbsiyon C) Safra içine itrah D) Süt içinde itrah 41. İlaçların Etkisini Değiştiren Faktörler ile ilgili olarak A) Kişinin kültür düzeyi ve kognitif kapasitesi gibi faktörler B) Az sayıda ilacın insanlardaki metabolizma hızı, iki cinsiyet C) Ciddi belirtiler gösteren (örneğin şiddetli ağrı, D) Yenidoğan ve bebekte cilde sürülen ilaçların absorpsiyon 42. Aşağıdakilerden hangisi böbrek yetmezliğinde toksisitesi A) Digoksin B) Amfoterisin C) Fenobarbital D) Lityum 43. Aşağıdakilerden hangisi farmakokinetik etkileşmelerin A) Etkilenen ilacın terapötik indeksinin küçük oluşu B) Etkilenen ilacın metabolizmasının terapōtik düzeyde C) Etkilenen ilacın doz-cevap eğrisinin yatık oluşu D) Hastada devamlı süpresyon gerektiren hastalığın 44. İlaçlar arasındaki farmakokinetik etkileşmeler ile ilgili A) İdrarın asitleştirilmesi, böbrekten asidik ilaçlanın itrahını B) Simetidin, karaciğer kan akımını azaltarak bazı ilaçların C) Barbituratlar belirli karaciğer enzimleriniindukleyerek D) Fenitoin'in folik asid absorpsiyonunu azaltması, 45. Aşağıdakilerden hangisi yara iyileşmesini olumsuz A) Kortikosteroid kullanımı B) Sigara içmek C) Nonsteroid antienflamatuvar ilaç kullanımı D) Yara üzerine basınçlı giysi giyilmesi 46. Keloid ile ilişkili hangisi yanlış bilgidir? A) Tedavide silikon jel tabaka uygulanır. B) Çocuk yaştaki yanıklarda daha sık görülür. C) Tedavisinde kortikosteriodler etkindir. D) Tip III kollejen içeriği çok fazladır. 47. Barsaktan taze kan gelmesi durumu için aşağıdakilerden A) Hematemez B) Melena C) Hemoptizi D) Hematokezya 48. Hidrostatik basınç artımı sonucu ödem gelişmesi A) Hipertansiyon B) Nefrotik sendrom C) Elefantiazis D) Overde torsiyon 49. Konjestif kalp yetmezliğinde aşağıdakilerden hangisi A) Portal vende genişleme hepatosit nekrozuna yol açar B) Çok uzun sürerse akciğerde fibrozis görülebilir C) Sistemik venöz basınçta artış olur D)Akciğerin ağırlığı artar 50. Bir ekstremiteyi drene eden ana veni bağlarsanız A) O ekstremitede ödem olur B) Deri soğuktur C) Özellikle hareket sırasında ağrı ortaya çıkar D) Ekstremitede nabız alınabilir durumdadır 51. Uzun süre yatağa bağımlı olanlarda görülen ani ölümün A) Hipovolemik şok B) Kanama C) Akciğerlerde emboluslar D) Dispne 52. Embolizm konusunda aşağıdakilerden hangisi yanlıştır? A) Embolizmin yinelemesi karakteristiktir B) Büyük bölümü yağ embolizmi biçimindedir C) Embolizm sonuçta infarktüse yol açar D) Kan yoluyla yer kaplayan herhangi bir oluşumun 53. Trombüsün en istenmeyen sonu aşağıdakilerden A) Embolizm B) Obstrüksiyon C) Yayılma D) Rekanalizasyon 54. Bir otopside böbreğin kesit yüzünde, tabanı kapsüle A) Glomerulonefrit. B) Likefaksiyon nekrozu C) Koagülasyon nekrozu D) Abse 55. En geniş alanda izlenen kanama aşağıdakilerden A) Purpura B) Hemartroz C) DIK D) Ekimoz 56. Temelde alerjik bir reaksiyon sonucu ortaya çıkan şok A) Hipovolemik B) Nörojenik C) Anafilaktik D) Septik 57. Aşağıdaki mediyatörlerden hangisi polipeptid A) Serotonin B) PAF C) LTB4 D) TNF E) Lipoksin A 58. Aşağıdaki etkenlerden hangisi akut yangısal reaksiyonu A) P. Aeroginosa enfeksiyonu B) Treponema pallidum enfeksiyon C) Barsak infarktüsü D) Güneş yanıkları 59. Akut yangısal reaksiyonun başlangıcında aşağıdaki A) Histamin B) TNF C) IFN-Y D) IL-1 60. Hücrenin hasara uğraması sonucunda hücrenin A) Inflammazom kompleksi B) Toll-like reseptörler C) Opsonin reseptörleri D)Mannoz bağlayıcı lektinler 61. Aşağıdakilerden hangisi yangısal reaksiyonda lökositlerin A) Histamin B) PGE2 C) NO D) Bradikinin 62. Eozinofiller aşağıdaki yangısal reaksiyonların hangisinde A) Sütur materyaline karşı yabancı cisim reaksiyonu B) Bakteriyal enfeksiyonlar C) Paraziter enfeksiyonlar D) Doku nekrozları 63. Aşağıdaki kimyasal mediyatörlerden hangisi opsonin A) C-reaktif protein B) IgG antikoru C) Serum amiloid A D) C3b 64. Şiddetli yanıklarda damar permeabilite (geçirgenlik) A) Venüllerde endotel hücrelerinin kontraksiyonu B) Endotel hücrelerinin nekrozu C) Kapiller damarların rejenerasyonu D) Venüllerde gecikmiş hücre hasarına bağlı apopitozis 65. Aşağıda bazı kimyasal mediyatörler ve bu mediyatörün A) LTB/Lipoksin B4 B) PGE2/Non-steroid anti enflamatuarlar C) C3/Transferrin D) Elastaz/a-antitripsin 66. Bağ dokusu ile onarımda aşağıdaki histolojik süreçlerden A) Fibroblastlanın göçü ve proliferasyonu B) Ekstrasellüler matriksin sentezlenmesi ve depolanması C) Hasar alanında düzenli ve düzgün rejenerasyon D) M2 makrofaj aktivasyonu 67. Kronik yangısal reaksiyonda ana hücresel komponent A) Mikroorganizmaları öldürür B) Fibrozisi oluşturan büyüme faktörlerini salgılar C) T lenfositlere antijen sunumu yapar D) Yabancı antijenlere karşı antikor oluşturur 68. Aşağıdaki kimyasal mediyatörlerden hangisi kronik A) IL-8 B) IL-5 C) IFN-Y(GAMA) D) IL-13 69. Vücudumuzda bulunan en güçlü anti-enflamatuar A) TNF B) IFN-Y C) PDGF D) TGF-B 70. Faktör XII'nin (Hageman faktörü) aktivasyonu aşağıdaki A) C5a B) DAF C) Bradikinin D) Trombin 71. Aşağıdakilerden hangisi otozomal resesif hastalıklardan A) Familyal hiperkolesterolemi B) Kistik fibrozis C) a1-antitripsin eksikliği D) Konjenital adrenal hiperplazi 72. Aşağıdakilerden hangisi otozomal dominant A) Huntington hastalığı B) Akondroplazi C) Familyal polipozis koli D) Hemokromatoz 73. Aşağıdakilerden hangisi hücrede bulunan membran A) Çoğu amfipatik özelliktedir. B) Membranda asimetrik yerleşim gösterirler. C) Membranda hareketsiz ve stabil bir halde dururlar. D) Membranın işlevlerinde katkıları önemlidir. 74. Aşağıdakilerden hangisi epigenetik mekanizmalardan A) Histon metilasyonu B) Histon fosforilasyonu C) Histon asetilastonu D) Histon defosforilasyonu 75. Aşağıdaki önermelerden kaç tanesi doğrudur? A) 1 B) 2 C) 3 D) 4 E) 5 76. Aşağıdaki seçeneklerden hangisinde doku takibi A) IC-IIA-IIIB B) IIB-IC-IIIA C) IIIB-IC-IIA D) IC-IIB-IIIA 77. Amiloid ve yağ varlığını gösteren histokimyasal boyalar A) Kongo red-Alcien blue B) PAS-Oil red O C) Retikulum-Kongo red D) Alcien blue-PAS 78. Yaşlılıkta beyinde görülen atrofi için aşağıdakilerden A) Azalmış kan akımına bağlı gelişir B) Senil atrofi olarak tanımlanır C) Ateroskleroz başlıca etkendir D) Beyin sulkusları derinleşmiştir 79. Androjen uyarısı ile prostat bezlerinde görülen büyüme A) Fizyolojik hiperplazi B) Patolojik hiperplazi C) Fizyolojik hipertrofi D) Patolojik hipertrofi 80. Metaplazi ile ilgili aşağıdakilerden hangisi yanlıştır? A) Geriye dönüşsüz olup kansere yol açar B) En sık skuamöz metaplazi görülür C) Daha dirençli epitele dönüşüm vardır D) Mezenkimal dokularda da görülebilir 81. Aterosklerozda damar duvarında biriken madde nedir? A) Kolesterol B) Immunglobulin C) Lipofüssin D) Amiloid 82. Böbrek yetmezliğinde vücudun değişik organlarında A) Sadece nekrotik dokularda birikim olur B) Hipoparatiroidiye bağlı oluşur C) Kan kalsiyumu yüksektir D) Kan kalsiyumu normaldir 83. İskemi-reperfüzyon hasarı oluşumunda aşağıdakilerden A) I,II,II,IV B) I,II,IV C) II,III D) I,IV E) IV 84. Koroner arterde oluşan bir trombüs sonucu miyokard A) Koagulasyon nekrozudur B) İnfarktüs örneğidir C) Protein denatürasyonu söz konusudur D) Ölen hücreler derhal sindirilerek yerini sıvı dolu boşluk 85. Nekrotik hücrede görülen nükleer değişiklikler A)I B) II,III C) I,II,III D)I,II,IV E) III,IV 86. Hücre hasarı ile ilgili hangisi yanlıştır? A) Mitokondri membranındaki hasar geri dönüşsüz B) Lizozom membranındaki hasar geri dönüşsüz C) Mitokondri hasan sonucunda hücre anaerobik glikoliz D) Mitokondri disfonksiyonu, serbest oksijen radikallerinin 87. Aşağıdakilerden hangisi hücre zedelenmesinde A) Glutatyon peroksidaz B) Endonukleaz C) ATPaz D) Proteaz 88. Aşağıdakilerden hangisi apoptozun aktivasyonuna yol A) Radyasyona bağlı DNA hasarı B) BCL-2 aktivasyonu C) BAK aktivasyonu D) BAX aktivasyonu 89. Menstruel siklusta endometriumun dökülmesi aşağıdaki A) Patolojik nekroz B) Fizyolojik apoptoz C) Patolojik apoptoz D) Nekroptozis 90. Aşağıdakilerden hangisi hücre yaşlanmasında rol A) Defektif protein sentezinde artma B) Normal protein sentezinde azalma C) DNA onarım mekanizmalarının aktivasyonu D) Biriken DNA hasarı 91. Aşağıdakilerden hangisi glemsa boyama ile kromozom A) Fitoheamglutinin B) Tripsin C) Taq polimeraz D)Kolşisin 92. Aşağıdakilerden hangisi mikroarray CGH yöntemiyle A) Spinal müsküler-atrofi B) Resiprokal translokasyonlar C) Alfa talasemi D) Prader willi sendromu 93. DNA fragman analizi yönteminin kullanıldığı alanlardan A) Single nükleotid polimorfizmi (SNP) analizi B) Prenatal örneklerde maternal kontaminasyonun C) Adli tıpta DNA kimliklendirilmesi D) Hızlı prenatal tanıda trizomi monozomi araştırılması 94. Aşağıdakilerden hangisi CHARGE asosiasyonunda A) İris Kolobomu B) Mental Retardasyon C) Fallot tetralojisi D) Koanal atrezi 95. Aşağıdaki tanımlardan hangisi yanlıştır? A) Agenezi: Normal olarak vücuta veya tüp biçimindeki B) Pes kavus: ayak taban arkının yüksek olması C) Gastroşisiz: karın ön duvarının doğuştan yarık olması ve D) Fenotip: bir bireyin veya o bireyin organlarının, 96. Aşağıdakilerden hangisi yanlıştır? A) Metopik sinostoz sonucu trigonosefali oluşur. B) Koronal sinostoz sonucu dolikosefali oluşur. C) İzole sinostozun en sık şekli sagital sinostozdur. D) Kraniyal sütürlerin erken kapanmasına sinostoz denir. 97. Angelman ve Prader Willi sendromlarıyla ilgili A) Angelman sendromuna mental gerilik, mikrosefali, B) Angelman ve Prader Willi sendromları yaklaşık 1/15000 C) Angelman sendromunda %25 oranında uniparental D) Prader willi sendromunda 6. Ayda başlayan hiperfaji ve 98. Imprinting nedeniyle kadınlardaki hastalık şiddeti A) I, II B) II, IV, V C) IV, V D) II, III 99. Aşağıdaki gen-kromozom eşleştirmelerinden hangisi A) SRY -Yp11.3 B) S F1-9a33 C) WT1-17q24 D)DAX1-XP21.3 100. Turner sendromuyla ilgili yanlış olanı seçiniz. A) Zekaları normaldir. B) Spontan abortus sıktır. C) Hipogonadotropik hipogonadizm vardır. D) Aort koarktasyonu eşlik edebilir. 38,48,91,92,98,99,100. Herkese doğru olarak kabul edildi 1.Alkalozda kandaki düzeyi göreceli olarak azalan ve buna A)Selenyum B)Kalsiyum C) Sodyum D)Potasyum E)İyot 2. Aşağıdaki ifadelerden yanlış olanı işaretleyiniz. A) Bir enzimin tanıdaki yararı, dokulardaki dağılımı ile ters B) Enzim analizleri için en ideal ortam kanın plazma kısmıdır C) Enzimatik analizler için en ideal antikoagülanheparindir. D) Fiziksel aktiviteden en fazla etkilenen enzim CK'dır. 3. Hangi iki mineral arasında çoğunlukla zıt bir ilişki vardır? A) Çinko - fosfor B) Çinko - kalsiyum C) Kalsiyum - fosfor D) Kalsiyum - magnezyum 4.Apoptotik hücrelerin çevre fagositler tarafından A) FADD B) Fas ligand C) Kaspaz – 8 D) Fosfatidilserin 5. Hangi hormon kan kalsiyum dengesi üzerine etki gösterir A) I B) II C) III D) I, II, III E) IV 6.Aşağıdaki ifadelerden doğru olanın karşısına \"D\", yanlış 1. () Enzime gevşek bağlanan ve kolayca ayrılabilen 2. () Bir enzimin tanıdaki yararı, dokulardaki dağılımı ile ters 3. () Enzimatik analiz için en ideal ortam kanın plazma kısmı 4. () İnsektisit zehirlenmelerinde LAP aktivitesi azalır. A) 1D, 2Y, 3D, 4Y B) 1Y, 2Y, 3D, 4Y C) 1D, 2D, 3Y, 4D D) 1Y, 2D, 3Y, 4D 7. Hangisi apoptotik hücrede irreversibl döneme girildiğini A) İntrasellüler kalsiyum artışı B) Mitokondriden sitoplazmaya sitokrom-c salınması C) p53 geninin hücre siklusunu G1 fazında durdurması D) Büyüme faktörü eksikliği 8.Ekstrasellüler apoptozisi indükleyen ligandlara yanıt A)Kaspaz 3 B)Kaspaz 6 C) Kaspaz 8 D)Kaspaz 9 E)Kaspaz 6 9. Etanol ve yüksek dozlarda fenitoin ve aspirinin A) Dağılım B) Atım C) İlk geçiş etkisi 1 2021-2022 D) Birinci derece eliminasyon 10. Yaşlı hastalarda ilaç etkisini değiştiren faktörler A) Uyunç genellikle azalır. B) İlaç etkileşimleri artar. C) Plasebo etkinlik artar. D) Eliminasyon organları ile ilgili hastalıkların insidensi artar. 11.Pindolol, diğer ilaçların yokluğunda B adrenoreseptörleri A) Farmasötik antagonist B) Fizyolojik antagonist C) Kimyasal antagonist D) Non – kompetetif antagonist 12. Aşağıdaki ifadelerden hangisi doğru değildir? A) EC50 değeri, maksimal etkinin %50'sini oluşturan ilaç B) EC50 değeri, agonistin efikasitesinin (maksimum etki C) Yedek reseptörler olmadığında, farmakolojik çalışmalarla D) PA2 değeri, Schild grafiğinden hesaplanabilir ve 13. Aspirin pka değeri 3.5 olan zayıf bir organik asiddir. A) %1 B) %10 C) %50 D) %90 E) %99 14. 67 yaşındaki bir hastada glokom tedavisi için timolol A) İntravenöz yolla verilirse timololün aköz hümördeki B) İdrarla atım, idrar pH'sı alkalin (pH 8.0) olduğunda idrar C) Göz damlası şeklinde verildiğinde göz içine emilim hızı D) pH 8.2'de timololün protonlanmış formunun oranı 1B 2B 3C 4D 5D 6C 7B 8C 9E 10C 11E 12B 13E 14A 15. Aşağıdaki ilaçlardan hangisinin kronik kullanımı A) Simetidin B) Etanol C) Ketokonazol D) Prokainamid 16. Hangisi P - glikoprotein (P - gp) ilaç taşıyıcılarının A) Ketokonazol B) Prokainamid C) Verapamil D) Ritonavir 17. Aşağıdaki ifadelerden hangisi doğru değildir? A) Tolerans başlangıçtaki etkiyi oluşturabilmek için dozun B) Uyunç, kişisel özelliklerin yanı sıra, ilacın kullanım sıklığı C) Böbreklerden değişmeden itrah edilen bazik bir ilacın D) Kendisini yıkan enzimlerin indüksiyonuna (otoindüksiyon 18. Hastanıza intravenözinfüzyonla vermek istediğiniz A) 0,25 B) 0,50 C) 2,5 D) 5 E) 25 19. Klinik araştırmaların III. fazı hangi amaç için ve kimler A) İlacın doza bağlı etkilerini incelemek amacıyla sağlıklı B) İlacın teratojenik etkilerini incelemek amacıyla seçilmiş C) İlacın belirli bir hastalıktaki etkililiğini ilk kez saptamak D) İlacın güvenirliğini ve etkililiğini belirlemek amacıyla 20. Hangisi bakır ve altın bileşikleri ile olan zehirlenmelerde A) Ca disodyum EDTA B) Dimerkaprol C) Kromakalim D) Penisilamin 21. Aşağıdakilerden hangisi hem sistemik hem de lokal etki A) İntraplevral B) Rektal C) Intravajinal D) IV. E) Epidermal 22. \"Ağzı kauçuk bir tıpa ile kapatılmış ufak şişedir, içinde A) Kolir B) Ovül C) Süpozituvar D) Viyal E) Emülsiyon 23. Aşağıdakilerden hangisi pazarlanmış ilaçların güvenlilik A) Farmakokinetik B) Farmakodinamik C) Farmakoterapi D) Farmakovijilans 24.Parenteral uygulama yolunun avantajları arasında A) Hızlı etki başlangıcı B) Düşük doz aşımı riski C) Bilinç kapalı hastada kullanılabilme D) Gastrointestinal sistem üzerinde etkisinin olmaması 25. \"İlaçların pasif diffüzyon yoluyla absorbsiyona uğrama A) İyon tuzağı B) İlk geçiş etkisi C) Birinci derece kinetiği D) Sıfırıncı derece kinetiği 26. Aşağıdaki ilaçlardan hangisi geç teratojenik etki ile A) Fenobarbital B) Tetrasiklin C) Lityum D) Dietilstilbesterol 27. \"Hayvan incelemelerinde teratojenik etki görülmüş 28. Hangisi ilacın dağılım hızını artırmaz? A) Molekülünün ufak olması B) Lipofilik olması C) Plazma proteinlerine yüksek oranda bağlanması D) Daha çok non - iyonize şekilde bulunması 29.pKa değerinin tanımı aşağıdakilerden hangisidir? A) İlaçtaki asidik grupların yüzde oranı B) İlaç moleküllerinin %50 oranında iyonlaşabildiği pH C) Ortam pH'ının ilaç pH'ına oranı D) İlacın yüzde iyonlaşma oran 30. İlaçların spesifik dokulara dağılımı için hangisi doğrudur? A) Organa kan akımından bağımsızdır. B) İlacın bu dokudaki çözünürlüğünden bağımsızdır. C) Plazma proteinine güçlü şekilde bağlanan ilaçlarda artar D) İlacın yarı ömrü üzerine etkisi yoktur 15B 16C 17A 18B 19D 20D 21B 15B 16C 17A 18B 19D 20D 21B 22D 23D 24B 25C 26D 27C 28C 29B 30E Üç yaşındaki bir çocuk antihistaminik ilaç olan prometazinin aşırı dozunu henüz almış olarak acil departmanına getirilmiştir. PrometazinpK:sı 9.1 olan zayıf bir bazdır.Aralarında beynin de olduğu çoğu dokuya girebilir Bu prometazin aşırı dozu olgusunda hangisi doğrudur? A) Kan pH'sında mide pH'sına oranla ilacın daha fazlası iyonize olur. B) İlacın mideden emilimi ince barsaktan emiliminden daha hızlıdır. C) İdrarla atılım alkalileştirici bir ajan olan NaHCO3 verilince hızlanır. D) İdrarla atılım asitleştirici bir ajan olan NH4Cl verilince hızlanır. E) Hemodiyaliz tek etkin tedavidir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "6. saatteki plazma konsantrasyonu 2 mg/L olan ilacın, yarılanma ömrü 3 saattir. İlacın sanal dağılım hacmi Vd. 20 L ise, başlangıçta i.v. olarak verilen ilaç miktarı kaç mg'dır?",
+    "secenekler": {
+      "A": "40",
+      "B": "80",
+      "C": "160",
+      "D": "240",
+      "E": "320"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "Bir hastada prokainamid infüzyonuna gereksinim vardır. Yarılanma ömrü 2 saattir. İnfüzyon sabah saat 9'da başlatılıp, aynı gün öğlen 1'de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 9 mg/L olarak ölçülen ilacın, olası kararlı durum konsantrasyonu (örneğin 48 saat sonra) nedir?",
+    "secenekler": {
+      "A": "9 mg/L",
+      "B": "10 mg/L",
+      "C": "12 mg/L",
+      "D": "16 mg/L",
+      "E": "20 mg/L"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "Bir hastada enfeksiyon nedeniyle intravenözinfüzyonla antibiyotik uygulamasına başladınız. Antibiyotiğinizin yarılanma ömrü 4 saat ve sanal dağılım hacmi 20 litredir. İnfüzyon sabah saat 9'da başlatılıp, aynı gün öğlen 1'de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 4 mg/L olarak ölçülen ilacın, kararlı durum konsantrasyonuna hızlı ulaşabilmek için gerekli yükleme dozu ne kadar olmalıdır?",
+    "secenekler": {
+      "A": "60 mg",
+      "B": "120 mg",
+      "C": "160 mg",
+      "D": "180 mg",
+      "E": "240 mg"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Aşağıdakilerden hangisi farmakogenetik olarak ilaç farmakodinamiğinde değişiklikliklere bir örnek değildir?",
+    "secenekler": {
+      "A": "D vitaminine dirençli raşitizm",
+      "B": "Glukoz 6 fosfat dehidrogenazpolimorfizmi",
+      "C": "Varfarine tolerans",
+      "D": "Fenobarbital indüksiyonu",
+      "E": "Malignhipertermi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Aşağıdakilerden hangisi pasif difüzyon ile emilen bir ilacın emilim hızını etkilemez?",
+    "secenekler": {
+      "A": "İlacın molekül büyüklüğü",
+      "B": "İlacın disosiasyon sabitesi (Kd)",
+      "C": "İlacın uygulama yerindeki konsantrasyonu",
+      "D": "İlacın uygulandığı dokudan geçen kan akım hızı",
+      "E": "İlacın lipid/su partisyon katsayısı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Hangisi ilacın lipofilikliğini etkileyen en önemli faktördür",
+    "secenekler": {
+      "A": "Molekül büyüklüğü",
+      "B": "İlaç konsantrasyonu",
+      "C": "İlacın plazma proteinlerine bağlanma oranı",
+      "D": "İlacın iyonizasyon derecesi",
+      "E": "İlacın verildiği dokunun içinden geçen kan akım hızı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "Serotonin reseptörleri içerisinde diğerlerinden farklı yapıda olup pentamerik iyon kanalı - reseptör kompleksi özelliği gösteren reseptör aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "5-HT1A",
+      "B": "5-HT2A",
+      "C": "5-HT3",
+      "D": "5-HT4",
+      "E": "5-HT7"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Eliminasyon yarılanma ömrü 4 saat olan bir ilacın IV bolus sonrası uygulanan miktarının %90-94 oranında elimine olması için geçen süre için hangisi en doğrudur?",
+    "secenekler": {
+      "A": "4 saat",
+      "B": "8 saat",
+      "C": "12 saat",
+      "D": "16 saat",
+      "E": "20 saat"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Oral yolla ağrı ve inflamasyon tedavisinde kullanılan bradikinin B2 reseptör antagonisti ilaç hangisidir?",
+    "secenekler": {
+      "A": "Nitritler",
+      "B": "Adenozin",
+      "C": "Aprepitant",
+      "D": "Nesiritid",
+      "E": "İcatibant"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Bir ilacın sanal dağılım hacmi 4L ve klerensi 0,2 L/saat ise bu ilacın eliminasyon yarılanma ömrü yaklaşık kaç saat?",
+    "secenekler": {
+      "A": "0,7",
+      "B": "7",
+      "C": "14",
+      "D": "70",
+      "E": "28"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Oral yolla kemoterapinin indüklediği mide bulantısı ve kusmaların tedavisinde kullanılan NK1 reseptör antagonisti ilaç hangisidir?",
+    "secenekler": {
+      "A": "Nitritler",
+      "B": "Adenozin",
+      "C": "Aprepitant",
+      "D": "Nesiritid",
+      "E": "İcatibant"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Penisilinlerin tübüler sekresyonla atılımını taşıyıcı üzerinden inhibe eden ve aynı zamanda ürik asidin tübülerden reabsorbsiyonunu inhibe ederek ürik asid atılımını artıran ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Probenesid",
+      "B": "Verapamil",
+      "C": "Siklosiporin",
+      "D": "Aspirin",
+      "E": "Simetidin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "Bir hastada prokainamidinfüzyonuna gereksinim vardır. Yarılanma ömrü 3 saattir. İnfüzyon sabah saat 10'da başlatılıp, aynı gün öğlen 1'de kan alınmıştır. Bu esnadaki kan ilaç düzeyi 6 mg/L olarak ölçülen ilacın, olası kararlı durum konsantrasyonu (örneğin 48 saat sonra) nedir?",
+    "secenekler": {
+      "A": "6 mg/L",
+      "B": "7 mg/L",
+      "C": "8 mg/L",
+      "D": "9 mg/L",
+      "E": "12 mg/L"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "Derideki yara iyileşmesinde, aşağıdaki \"evre - hücre veya fonksiyon\" ilişkisinde hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Koagulasyon - trombosit (platelet)",
+      "B": "İnflamasyon - myofibroblast",
+      "C": "Proliferasyon - fibroblast",
+      "D": "Maturasyon - tip I kollajene dönüşüm",
+      "E": "Proliferasyon - tip III kollajen yapımı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "Deride yara iyileşmesi ile ilişkili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Yara kontraksiyonundanmyofibroblastlar sorumludur.",
+      "B": "Fibroblastlarkollajen yapımını sağlar",
+      "C": "Yaradaki gerilim kuvvetini kollajen sağlar.",
+      "D": "Keloidde tip III kollajen varlığı ile maturasyon evresi uzar.",
+      "E": "Steroidler yara iyileşmesini hızlandırır."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "31D 32C 33C 34C 35D 36B 37D 38C 39D 40E 41C 42C 43 44E 45B 46E Patoloji laboratuvarına gönderilen materyallere uygulanan tespit işlemi için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Dokuyu canlı organizmadaki durumuna en yakın şekilde sabitlemek için yapılır",
+      "B": "Tespitin amacı dokunun sertleşmesini önleyerek dokuyu bir sonraki işlem için elverişli hale getirmektir",
+      "C": "Sitolojik metaryallerde en sık kullanılan tespit solüsyonu %70'lik alkoldür",
+      "D": "Materyali kendi hacminin en az on katı hacminde fiksatif içinde tespit etmek gereklidir",
+      "E": "Büyük materyallerde her alanın tespit olabilmesi için gazlı bez kullanılmalıdır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "Hangisinde mukus varlığını saptamaya yarayan histokimyasal boyalar doğru bir şekilde verilmiştir?",
+    "secenekler": {
+      "A": "Mucicarmen, PAP",
+      "B": "PAS, Oilred o",
+      "C": "Giemsa, PAS",
+      "D": "PAS, PAP",
+      "E": "Alcien - blue, Mucicarmen"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "Hücre iskelet proteinleriyle ilgili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "En büyük boyuta sahip iskelet proteini mikrotübüldür",
+      "B": "Hücrede en bol bulunan iskelet proteini mikrofilamandır",
+      "C": "Eritrositlerde bulunan iskelet proteini mikrofilamandır",
+      "D": "Hücrede bulunan en sağlam iskelet proteini ara filamandı",
+      "E": "Hücre hareketine doğrudan katılmayan ancak mekanik destek oluşturan iskelet proteini mikrotübüldür"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Hücreler arası etkileşimi sağlayan tutundurucu birimlerden biri olan, hücre iskelet proteinlerinden ara filamanlara bağlanan, desmoglein ve desmokolin proteinlerinin rol aldığı bağlantı birimi hangisidir?",
+    "secenekler": {
+      "A": "zonula occludens",
+      "B": "zonula adherens",
+      "C": "makula adherens",
+      "D": "hemidesmozom",
+      "E": "oluklu bağlantı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Öksürük yakınması ile başvuran ve uzun yıllardır sigara içicisi olan 60 yaş erkek hastadan alınan bronş biopsisinde yüzeyde silli silindirik solunum epiteli yerine skuamözepitel bulunduğu görülüyor. Bu durumda hangisi doğrudur?",
+    "secenekler": {
+      "A": "Tanı bronş kanseridir",
+      "B": "Bu durum geriye dönüşsüzdür",
+      "C": "Bu durum kansere öncülük edebilir",
+      "D": "Bu durum yaşlanmayla gelişen fizyolojik bir süreçtir",
+      "E": "Bu durumda epitelatrofiktir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Aşırı hormonal uyarıya bağlı hiperplazinin görüldüğü dokular hangi seçenekte doğru olarak verilmiştir?",
+    "secenekler": {
+      "A": "Endometrium - prostat",
+      "B": "Myometrium - myokard",
+      "C": "Meme - karaciğer",
+      "D": "Prostat - karaciğer",
+      "E": "Endometrium- kemik"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Telomer ile ilgili hangisi doğrudur?",
+    "secenekler": {
+      "A": "Telomer kısalması sonucu hücre replikasyonu azalır",
+      "B": "Telomer uzaması ile hücre replikasyonu azalır",
+      "C": "Telomer uzunluğu her hücrede aynıdır",
+      "D": "Telomer, RNA - protein kompleksidir",
+      "E": "Kanser hücrelerinde telomer bulunmaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Hangisinde metastatik kalsifikasyon görülmez?",
+    "secenekler": {
+      "A": "Meme kanserinin yaygın kemik metastazı",
+      "B": "Böbrek yetmezliği",
+      "C": "Hiperparatiroidi",
+      "D": "Sarkoidoz",
+      "E": "Atheroskleroz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "Russel cisimciği hangi seçenekte doğru tanımlanmıştır?",
+    "secenekler": {
+      "A": "Alkolik karaciğer hastalığında hepatositte biriken protein",
+      "B": "Alzheimer hastalığında görülen nörofibriler yumak",
+      "C": "Plazma hücresinde biriken immunglobulin",
+      "D": "DM'ta pankreas Langerhans hücrelerinde biriken glikojen",
+      "E": "Lipidperoksidasyonına bağlı oluşan endojen pigment"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "Hangisi hücre hasarında görülen olaylardan biri değildir?",
+    "secenekler": {
+      "A": "ATP üretiminin azalması",
+      "B": "Laktik asit birikimi",
+      "C": "Sitozolik kalsiyumun artması",
+      "D": "Serbest oksijen radikallerinin hızla yıkılması",
+      "E": "Hücre iskelet anormallikleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "Aşağıdakilerden hangisi iskemi - reperfüzyon zedelenmesinde görülen mekanizmalardan biri değildir?",
+    "secenekler": {
+      "A": "Oksidatif stres",
+      "B": "Hücre içine aşırı kalsiyum girişi",
+      "C": "İnflamasyon",
+      "D": "Direkt toksisite",
+      "E": "Kompleman sisteminin aktivasyonu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "Beyinde görülen iskemik nekrozun tipi nedir?",
+    "secenekler": {
+      "A": "Kazifikasyon nekrozu",
+      "B": "Likefaksiyon nekrozu",
+      "C": "Koagulasyonnekrozu",
+      "D": "Gangrenöz nekroz",
+      "E": "Fibrinoid nekroz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "Apoptozda rol oynayan başlıca enzim grubu hangisidir?",
+    "secenekler": {
+      "A": "ATPaz",
+      "B": "Süperoksiddismutaz",
+      "C": "Fosfolipaz",
+      "D": "Kaspaz",
+      "E": "Telomeraz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "BCL2 ile ilgili yanlış olan hangi seçenektir?",
+    "secenekler": {
+      "A": "Anti - apoptotiktir",
+      "B": "Mitokondri membranında bulunur",
+      "C": "Sitokrom C'nin salınmasını engeller",
+      "D": "BAX ve BAK'ın tersine etki gösterir",
+      "E": "DNA hasarı olduğunda aktifleşir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Otofaji sürecinde gelişen olayların sırası hangidir?",
+    "secenekler": {
+      "A": "Fagofor - otofagozom - otofagolizozom - rezidüel cisimcik",
+      "B": "Otofagozom - otofagolizozom - fagofor - rezidüel cisimcik",
+      "C": "Rezidüel cisimcik - otofagolizozom - otofagozom - fagofor",
+      "D": "Otofagozom - otofagolizozom - rezidüel cisimcik - fagofor",
+      "E": "Fagofor - otofagolizozom - otofagozom - rezidüel cisimcik"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "47B 48E 49E 50C 51C 52A 53A 54E 55C 56D 57D 58B 59D 60E 61A Derideki epidermis hücrelerinin sayıca sabit kalarak yenilenmesi, aşağıdaki hangi durumla açıklanır?",
+    "secenekler": {
+      "A": "Fizy. Hiperplazi",
+      "B": "Fizy. apoptoz",
+      "C": "Fizy. Nekroz",
+      "D": "Fizy. atrofi",
+      "E": "Pat. apoptoz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "Hangisinde iskemi olmaksızın hipoksi gelişir?",
+    "secenekler": {
+      "A": "Kalp yetmezliği",
+      "B": "Ateroskleroza bağlı myokard infarktüsü",
+      "C": "Tromboemboliye bağlı damar lümeninde tıkanıklık",
+      "D": "Karbon monoksit zehirlenmesi",
+      "E": "Diabetesmellitusta bacakta gelişen gangrenöz nekroz"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "Hava yollarından kan gelmesi durumu için aşağıdakilerden hangi terim kullanılır?",
+    "secenekler": {
+      "A": "Hematemez",
+      "B": "Melena",
+      "C": "Hemoptizi",
+      "D": "Hemotokezya",
+      "E": "Hematokolpos"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "20 yaşında erkek hastada kolda künt bir travma sonucu kanama oluyor. Fizik muayanede 2x3 cm'lik bir alandaki kanama bir kaç dakika içinde duruyor.Olaydaki hemostazda aşağıdaki medyatörlerden hangisi en önemli konumdadır?",
+    "secenekler": {
+      "A": "Lökotrien",
+      "B": "Prostaglandin",
+      "C": "Prostasiklin",
+      "D": "Plasminojen",
+      "E": "Thromboxane A2"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Hidrostatik basınç artımı sonucu ödem gelişmesi aşağıdaki durumlardan hangisi için geçerlidir?",
+    "secenekler": {
+      "A": "Nefrotiksendrom",
+      "B": "Glomerülonefrit",
+      "C": "Malnütrisyon",
+      "D": "Elefantiazis",
+      "E": "Portal hipertansiyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Konjestif kalp yetmezliğinde hangisi görülmez?",
+    "secenekler": {
+      "A": "Portal vende genişleme hepatosit nekrozuna yol açar",
+      "B": "Sistemik venöz basınçta artış olur",
+      "C": "Akciğerde ödem ve konjesyon görülür",
+      "D": "Çok uzun sürerse akciğerde fibrozis görülebilir",
+      "E": "Akciğerin ağırlığı artar"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "Embolizm konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Embolizm sonuçta doku nekrozuna yol açar",
+      "B": "Büyük bölümü hava embolizmi biçimindedir",
+      "C": "Embolizmin yinelemesi karakteristiktir",
+      "D": "Kan yoluyla yer kaplayan herhangi bir oluşumun taşınması demektir",
+      "E": "Trombüslerembolizme neden olabilir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "Bir ekstremiteyi drene eden ana veni bağlarsanız aşağıdaki durumlarda hangisi gelişmez?",
+    "secenekler": {
+      "A": "Ekstremite mor renge bürünür",
+      "B": "Özellikle hareket sırasında ağrı ortaya çıkar",
+      "C": "O ekstremitede nabız alınmaz",
+      "D": "Ekstremite bir süre sonra şişer",
+      "E": "Belirgin ödem olur"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "Beyin ödemi konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Solunum ve dolaşımın merkezleri işlevsiz kalabilir",
+      "B": "Kafa içinde yer kaplayan oluşum beyin ödemine yol açar",
+      "C": "Beyin dokusu, foramenmagnumdan dışarı fıtıklaşabilir",
+      "D": "Yalnızca beyinde kanama varsa hipovolemi gelişmez",
+      "E": "Pons ve bulbusa bası söz konusu olabilir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Uzun süre yatağa bağımlı olanlarda görülen ani ölümün nedeni aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Pulmoner embolizm",
+      "B": "Kanama",
+      "C": "Varisler",
+      "D": "Solunum güçlüğü",
+      "E": "Şok"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "Sistemik tromboembolizm konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kalbin kapak hastalıklarında görülmesi karakteristiktir.",
+      "B": "İnce barsaklarda olursa hematokezya görülür",
+      "C": "Derin bacak venlerinden kalkan emboluslar sorumludur",
+      "D": "M. İnfarktüsünde sistemik tromboembolizm görülebilir",
+      "E": "Beyin dolaşımının tıkanması durumunda likefaksiyon nekrozu gelişir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "İnfarktüs ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "İçi dolu bir organ olmasına karşın overdeki infarktlar kırmızıdır",
+      "B": "Terminal arterli organlarda infarktlar soluk tiptedir",
+      "C": "Enfekte olursa infarktüsler septik infarkt adını alır",
+      "D": "Testisteki infarktlarda tıkanan damar üçgenin tepesindedir.",
+      "E": "İçi boş organlarda hemorajikinfarkt görülür"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Aşağıdakilerden hangisi membran fosfolipidlerinden köken almayan bir mediyatördür?",
+    "secenekler": {
+      "A": "PGD2",
+      "B": "Tromboksan A2",
+      "C": "LTB4",
+      "D": "TNF",
+      "E": "Lipoksin A4"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "Aşağıdakilerden hangisi yangısal reaksiyon oluşmasına yol açan internal bir etkendir?",
+    "secenekler": {
+      "A": "Pseudomonasaeroginosaenfeksiyonu",
+      "B": "Herpessimpleksenfeksiyonu",
+      "C": "Myokardinfarktüsü",
+      "D": "Güneş yanıkları",
+      "E": "Asidik madde içilmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Yangısal reaksiyonda hücrenin sitoplazmasında ortaya çıkan hücre artıkları ve zarar verici etkenler aşağıdakilerden hangisi ile tanınır?",
+    "secenekler": {
+      "A": "Toll – like reseptörler",
+      "B": "İnflammazom kompleksi",
+      "C": "Opsonin reseptörleri",
+      "D": "Mannoz bağlayıcı lektinler",
+      "E": "Scavenger reseptörler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "Aşağıdaki zarar veren uyaranlardan hangisi pürülan (süpüratif) yangı oluşturur?",
+    "secenekler": {
+      "A": "Deride stafilokok enfeksiyonu",
+      "B": "Hafif yanık",
+      "C": "Herpes simpleks enfeksiyonu",
+      "D": "Kalp yetmezliğine bağlı asit birikimi",
+      "E": "İlaca bağlı özofagus ülseri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "62B 63D 64C 65E 66E 67A 68B 69C 70C 71A 72C 73D 74D 75C 76B 77A Faktör XII'nin (Hageman faktörü) aktivasyonu aşağıdaki kimyasal mediyatörlerden hagisinin oluşumunu sağlamaz?",
+    "secenekler": {
+      "A": "C5a",
+      "B": "Bradikinin",
+      "C": "Trombin",
+      "D": "Kallikrein",
+      "E": "PGE2"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "Aşağıdakilerden hangisi antioksidan etkili koruyucu sistemin elemanı olan, reaktif oksijen türevlerini yakalayıp elimine eden bir metabolittir?",
+    "secenekler": {
+      "A": "Transferrin",
+      "B": "a1 - antitripsin",
+      "C": "DAF",
+      "D": "Nitrik Oksid",
+      "E": "a2 -makroglobulin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "Aşağıdaki mediyatörlerden hangisinin esas olarak etkisi lökosit kemotaksisi üzerinedir?",
+    "secenekler": {
+      "A": "Bradikinin",
+      "B": "Histamin",
+      "C": "LTB4",
+      "D": "C3b",
+      "E": "PGE2"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Aşağıdakilerden hangisi karaciğerde sentezlenen akut faz proteinlerinden değildir?",
+    "secenekler": {
+      "A": "C - reaktif protein",
+      "B": "Fibrinojen",
+      "C": "Serum amiloid A",
+      "D": "Substance P",
+      "E": "Hepcidin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "Skar dokusu ile onarımda aşağıdaki histolojik süreçlerden hangisi görülmez?",
+    "secenekler": {
+      "A": "Ekstrasellülermatriks depolanması",
+      "B": "Fibröz dokunun yeniden biçimlenmesi",
+      "C": "M2 makrofaj aktivasyonu",
+      "D": "Anjiogenez",
+      "E": "Hasar alanında düzenli ve düzgün rejenerasyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "Eozinofiller esas olarak hangi tür yangısal reaksiyonlarda rol oynar?",
+    "secenekler": {
+      "A": "Paraziter enfeksiyonlar",
+      "B": "Tümörlere karşı gelişen reaksiyonlar",
+      "C": "Bakteriyalenfeksiyonlar",
+      "D": "Doku nekrozları",
+      "E": "Viral enfeksiyonlar"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 84,
+    "soru_koku": "Hangisi eksfolyatif sitoloji kapsamına girmez?",
+    "secenekler": {
+      "A": "Bronş lavajı",
+      "B": "Smear testi",
+      "C": "Tiroid ince iğne aspirasyonu",
+      "D": "BOS",
+      "E": "Perikardiyal efüzyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 85,
+    "soru_koku": "Aşağıdakilerden hangisi klasik olmayan kalıtımla geçen tek gen hastalık gruplarından biri değildir?",
+    "secenekler": {
+      "A": "Üç nükleotid tekrarlı mutasyonlar",
+      "B": "Gonadal mosaisizm",
+      "C": "Mendelian bozukluklar",
+      "D": "Genomik imprinting",
+      "E": "Mitokondrial genlerde mutasyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 86,
+    "soru_koku": "Üç nükleotid tekrarlı mutasyonlarla giden hastalıkların özellikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Frajil X sendromu FMR1 genindeki (familyal mental retardasyon geni) tekrarlarla karakterizedir.",
+      "B": "Bu gruptaki diğer hastalıklar Spinoserebellar ataksi, Huntington hast., Friedriech ataksisi ve Myotonik distrofidir.",
+      "C": "Frajil X sendromunda üçlü tekrarlar CAA dizilimiyle gider.",
+      "D": "Huntington hastalığında, üç tekrarlı mutasyonlar sonucunda huntingtin adlı anormal bir protein oluşur.",
+      "E": "Mental retardasyonun ikinci en sık nedeni Frajil X sendromudur."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 87,
+    "soru_koku": "Aşağıdaki büyüme faktörlerinden hangisi anjiogenezde rol oynamaz?",
+    "secenekler": {
+      "A": "VEGF",
+      "B": "EGF",
+      "C": "PDGF",
+      "D": "FGF",
+      "E": "Anjiopoetinler"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 88,
+    "soru_koku": "Aşağıdaki mediyatörlerden hangisi kronik yangısal reaksiyonda makrofaj aktivasyonunda görev yapmaz?",
+    "secenekler": {
+      "A": "IFN - y",
+      "B": "IL - 13",
+      "C": "IL - 8",
+      "D": "IL - 5",
+      "E": "IL - 4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 89,
+    "soru_koku": "Aşağıdaki damar değişikliklerinden hangisi akut yangı sırasında ortaya çıkan bir reaksiyon değildir?",
+    "secenekler": {
+      "A": "Damar geçirgenlik artışı",
+      "B": "Anjiogenez",
+      "C": "Vazodilatasyon",
+      "D": "Staz",
+      "E": "Kan akımında artış"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 90,
+    "soru_koku": "Fagositoz eyleminde fagolizozom içinde en güçlü antimikrobiyal etkiye sahip ajanları sentezleyebilmek için lökositte bulunması gereken enzim hangisidir?",
+    "secenekler": {
+      "A": "Glutatyon peroksidaz",
+      "B": "Fosfolipaz C",
+      "C": "Lizozim",
+      "D": "Myeloperoksidaz",
+      "E": "Katalaz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 91,
+    "soru_koku": "Verilen terimlerden hangisi yanlış tanımlanmış?",
+    "secenekler": {
+      "A": "Fenotip:Bir bireyin veya o bireyin organlarının, dokularının veya hücrelerinin tüm morfolojik ve fonksiyonel özellikleri",
+      "B": "Genotip:Bir bireyin veya o bireyin organlarının, dokularının veya hücrelerinin geneli veya belirli bir lokusundaki DNA dizisi.",
+      "C": "Anomali:Uygun referans popülasyondan önemli bir sapmayı temsil eden anatomik (mikroskopik ve makroskopik) bir fenotip.",
+      "D": "Malformasyon:Fetüsün in - utero gelişimi sırasında anormal mekanik kuvvetler nedeniyle (ekstrinsik), bir vücut parçasının şeklinin veya pozisyonunun değişmesi.",
+      "E": "Sendrom: En az biri morfolojik olan, etiyolojik olarak ilişkili olduğu bilinen veya düşünülen bir anomali örüntüsü."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 92,
+    "soru_koku": "78E 79A 80C 81D 82E 83A 84C 85C 86C 87B 88C 89B 90D 91D Görüntüleri verilen hastadaki dismorfik özelliklerin tümünü içeren seçeneği işaretleyiniz.",
+    "secenekler": {
+      "A": "orta yüz hipoplazisi, frontal bossing, hipotelorizm, upslanting palpebral fissür, talipes ekinovalgus, pektus karinatum",
+      "B": "orta yüz hipoplazisi, frontal bossing, hipertelorizm, dowslanting palpebral fissür, talipes ekinovarus, pektus karinatum",
+      "C": "orta yüz hipoplazisi, frontal bossing, hipertelorizm, dowslanting palpebral fissür, talipes ekinovarus, pektus ekskavatum",
+      "D": "kaba yüz, frontal bossing, hipertelorizm, dowslanting palpebral fissur, talipes ekinovalgus, pektus karinatum",
+      "E": "orta yüz hipoplazisi, frontal bossing, hipertelorizm, dowslanting palpebral fissür, talipes ekinovarus, pektus ekskavatum"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 93,
+    "soru_koku": "Aşağıdaki genetik analiz yöntemlerinden hangisi genom - wide bir analiz yöntemidir?",
+    "secenekler": {
+      "A": "mikroarray comperative genomic hybridization (CGH)",
+      "B": "22q11. 2 bölgesini hedefleyen fluorescence in situ hybridization (FISH)",
+      "C": "21. kromozom sentromer fluorescence in situ hybridization (FISH)",
+      "D": "UBE3A geni DNA dizi analizi",
+      "E": "Real time PCR ile BCR - ABL translokasyonunun incelenmesi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 94,
+    "soru_koku": "Aşağıdaki numunelerden hangisi kromozom analizi (konvansiyonel sitogenetik) için uygun bir örnek değildir?",
+    "secenekler": {
+      "A": "heparinli tüpte periferik kan",
+      "B": "amnion sıvısı",
+      "C": "koryonvillus biyopsisi",
+      "D": "kemik iliği biyopsisi",
+      "E": "parafine gömülü meme kanseri biyopsi materyali"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 95,
+    "soru_koku": "Embriyoda bipotentgonad dokusunun testise farklılaşmasında görev alan genler hangileridir?",
+    "secenekler": {
+      "A": "SRY, WNT4",
+      "B": "NR0B1, SRY",
+      "C": "RSPO1, WNT4",
+      "D": "SRY, SOX9",
+      "E": "SOX9, NR5A1"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 96,
+    "soru_koku": "Primer amenore nedeniyle başvuran 15 yaşındaki female hastanın muayenesinde dış genital yapıların dişi yönünde geliştiği, meme gelişiminin olduğu ancak aksiller ve pupik kıllanmanın olmadığı görülüyor. İnguinal bölgede bilateral kitle tespit ediliyor. Yapılan kromozom analizinde 46,XY karyotipi saptanıyor. Genitoüriner sistem görüntülenmesinde overler, uterus ve fallop tüplerinin olmadığı ve inguinal bölgede testis benzeri gonadal yapı olduğu saptanıyor. Bu hastada en olası tanınız nedir?",
+    "secenekler": {
+      "A": "5 alfa redüktaz eksikliği",
+      "B": "Komplet androjen insensitivite sendromu",
+      "C": "21 hidroksilaz eksikliği",
+      "D": "Klinefelter sendromu",
+      "E": "Mülleryen agenezi sendromu"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 97,
+    "soru_koku": "Uykuya meyil ve beslenme azalması nedeniyle başvuran yenidoğan bir bebekte ambigus genitale saptanıyor. Kromozom analizinde 46, XX karyotipi ve genitoüriner sistem görüntülemesinde uterus, overler ve fallop tüpleri görüntüleniyor. Biyokimyasal testlerde hiponatremi ve hiperpotasemi saptanıyor. Hastada en olası tanınız nedir?",
+    "secenekler": {
+      "A": "SRY delesyonu – Swyer sendromu",
+      "B": "Parsiyela ndrojen insensitivite sendromu",
+      "C": "21 alfa hidroksilaz eksikliği",
+      "D": "5 alfa redüktaz eksikliği",
+      "E": "Kaudal regresyon sendromu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdakilerden hangileri Angelman sendromunun oluşumunda etkili mekanizmalardır? I. Mikrodelesyon II. Uniparental dizomi III. Trinükleotid artışı IV. Nokta mutasyon V. İnversiyon",
+    "secenekler": {
+      "A": "I, II, IV",
+      "B": "I, III, V",
+      "C": "II, III, V",
+      "D": "IV, V",
+      "E": "II, IV"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 99,
+    "soru_koku": "Aşağıdakilerden hangisi gen ekspresyonundaki epigenetik düzenleyici mekanizmalardan biri değildir?",
+    "secenekler": {
+      "A": "DNA metilasyonu",
+      "B": "Histonasetilasyonu",
+      "C": "Histonmetilasyonu",
+      "D": "Noncoding RNA'lar",
+      "E": "DNA dizisindeki varyasyonlar"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 100,
+    "soru_koku": "X kromozomu inaktivasyonu ile ilgili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kadınlarda X inaktivasyonu, rastgele paternal ya da maternal X kromozomunun metilasyonu ile meydana gelir.",
+      "B": "Erkeklerde X kromozomunda inaktivasyon olmaz.",
+      "C": "Xist geni, metillenen X kromozomunda aktif değildir.",
+      "D": "X'e bağlı resesif kalıtılan hastalıklarda kadınlarda hastalık belirtisi görülebilir.",
+      "E": "X kromozomu inaktivasyonu Xist geni tarafından düzenlenir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 1,
+    "soru_koku": "Alkalozda kandaki düzeyi göreceli olarak azalan ve buna eşlik eden semptomları gözlenen mineral hangisidir?",
+    "secenekler": {
+      "A": "Selenyum",
+      "B": "Kalsiyum",
+      "C": "Sodyum",
+      "D": "Potasyum",
+      "E": "İyot"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 2,
+    "soru_koku": "I.Parathormon II.Kalsitonin III.D vitamini- kalsitriol IV. Melatonin Hangi hormon kan kalsiyum dengesi üzerine etki gösterir?",
+    "secenekler": {
+      "A": "l",
+      "B": "II",
+      "C": "III",
+      "D": "I, II, III",
+      "E": "IV"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 3,
+    "soru_koku": "Ekstrasellüler sıvıda hangi mineral düzeyinin azalması kalpte membran uyarılmasını arttırarak aritmiye yol açabilir?",
+    "secenekler": {
+      "A": "Magnezyum",
+      "B": "Selenyum",
+      "C": "İyot",
+      "D": "Fosfor",
+      "E": "Çinko"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 4,
+    "soru_koku": "İfadelerden doğru olanın karşısına \"D\", yanlış olanın karşısına “Y\" yazıldığında doğru seçenek hangisidir? 1.( ) Enzime gevşek bağlanan ve kolayca ayrılabilen moleküle koenzim denir. 2.( ) Bir enzimin tanıdaki yararı, dokulardaki dağılımı ile doğru orantılıdır. 3.( ) Enzimatik analizler için en ideal ortam kanın serum kısmıdır. 4.( ) İnsektisit zehirlenmelerinde ALT aktivitesi azalır.",
+    "secenekler": {
+      "A": "1D, 2Y, 3D, 4Y",
+      "B": "1Y, 2Y, 3D, 4Y",
+      "C": "1D, 2Y, 3Y, 4D",
+      "D": "1Y, 2D, 3Y, 4D",
+      "E": "1D, 2Y, 3Y, 4Y"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 5,
+    "soru_koku": "Malignitelerde artan LDH izoenzimi hangisidir?",
+    "secenekler": {
+      "A": "LDH-1",
+      "B": "LDH-2",
+      "C": "LDH 3",
+      "D": "LDH-4",
+      "E": "LDH-5"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 6,
+    "soru_koku": "Apoptotik hücrede irreversibl döneme girildiğini kesinlikle gösteren işarethangisidir?",
+    "secenekler": {
+      "A": "İntrasellüler kalsiyum artışı",
+      "B": "Mitokondriden sitoplazmaya sitokrom-c salınması",
+      "C": "p53 geninin hücre siklusunu G1 fazında durdurması",
+      "D": "Büyüme faktörü eksikliği",
+      "E": "İnflamasyon varlığı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 7,
+    "soru_koku": "Aşağıdaki tanımlardan yanlış olanı bulunuz I.Nekroz aktif enerji gerektirir II.Sitotoksik T lenfositler ile karşılaşma hücrede apoptoza yol açabilir III.Çok şiddetli oksidatif stres nekroza yol açabilir IV. Apoptoz varlığında ortamda ölü hücre, toksik ürün ve inflamasyon olmaz V.Nekroz varlığında hücre membran bütünlüğü kaybolur",
+    "secenekler": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 8,
+    "soru_koku": "Apoptotik hücrelerin çevre fagositleri tarafından farkedilmesini sağlayan aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Apoptozom kompleksinin oluşması",
+      "B": "Sitokrom-c'nin salınması",
+      "C": "Membranın iç yüzünde yer alan fosfotidil serin'in membranın dış yüzüne yerleşmesi",
+      "D": "Hücre yüzey ölüm reseptörlerinin uyarılması",
+      "E": "Hücre içi pH artışı"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 9,
+    "soru_koku": "Klinik araştırmaların II. fazı hangi amaç için ve kimler üzerinde yapılır?",
+    "secenekler": {
+      "A": "İlacın doza bağlı etkilerini incelemek amacıyla sağlıklı gönüllülerden oluşan küçük bir grup üzerinde",
+      "B": "İlacın belirli bir hastalıktaki etkililiğini ilk kez saptamak amacıyla hastalardan oluşmuş küçük bir grup üzerinde",
+      "C": "İlacın teratojenik etkilerini incelemek amacıyla seçilmiş hayvanlar üzerinde",
+      "D": "İlacın güvenirliğini ve etkililiğini belirlemek amacıyla hastalardan oluşmuş büyük gruplar üzerinde",
+      "E": "İlacı piyasaya sürdükten sonra uzun vadeli yan etkilerini saptamak amacıyla hastalardan oluşmuş büyük bir grup üzerinde"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 10,
+    "soru_koku": "Aspirin pKa değeri 3.5 olan zayıf bir organik asiddir. pH derecesi 4.5 olan duodenumda belirli bir dozun yüzde kaçı yağda-çözünür şekildedir?",
+    "secenekler": {
+      "A": "Yaklaşık %1",
+      "B": "Yaklaşık %10",
+      "C": "Yaklaşık %50",
+      "D": "Yaklaşık %90",
+      "E": "Yaklaşık %99"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 11,
+    "soru_koku": "İlaç etkisinin sonlanmasına ilişkin hangisi doğrudur?",
+    "secenekler": {
+      "A": "İlaç etkisinin sonlanması için ilaçlar vücuttan dışarı atılmalıdır.",
+      "B": "İlaçların metabolizması her zaman suda çözünürlüklerini artırır.",
+      "C": "İlaçların metabolizması farmakolojik etkilerini her zaman sonlandırır.",
+      "D": "Hepatik metabolizma ve renal atım en önemli iki mekanizmadır.",
+      "E": "Bir ilacın kan dolaşımı dışına dağılımı ilacın etkilerini sonlandırır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 12,
+    "soru_koku": "Hastanıza intravenöz infüzyonla vermek istediğiniz ilacınızın klerensi 50 ml/ dak,sanal dağılım hacmi (Vd) 100 litredir. Ortalama sabit plazma konsantrasyonunun 10 mg/L olmasını sağlamak için gerekli infüzyon hızı nedir?",
+    "secenekler": {
+      "A": "0,25 mg/dak",
+      "B": "0,50 mg/dak",
+      "C": "2,5 mg/dak",
+      "D": "5 mg/dak",
+      "E": "25 mg/dak"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 13,
+    "soru_koku": "Oral yolla 6 saatte bir verdiğiniz ilacın terapötik plazma konsantrasyonunun 2 mg/L olmasını istiyorsunuz.İlacınızın biyoyararlanımı (oral) 0,50/ sanal dağılım hacmi (Vd) 25 litredir. Terapötik plazma konsantrasyonuna hızlı olarak ulaşmakisterseniz,ilacın yükleme dozu ne olmalıdır?",
+    "secenekler": {
+      "A": "50 mg",
+      "B": "100 mg",
+      "C": "200 mg",
+      "D": "300 mg",
+      "E": "500 mg 1B 2D 3A 4B 5C 6B 7A 8C 9B 10B 11D 12B 13B"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 14,
+    "soru_koku": "İlaç kullanımına bağlı olarak ortaya çıkan elektrolit düzeyindeki değişiklikler hangi toksik etkiler grubundadır?",
+    "secenekler": {
+      "A": "Yapısal toksik etkiler",
+      "B": "Fonksiyonel toksik etkiler",
+      "C": "Mutajenik etkiler",
+      "D": "BiyokimyasaI toksik etkiler",
+      "E": "Teratojenik etkiler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 15,
+    "soru_koku": "\"Deney hayvanlarında ve gebe kadınlarda yapılmış kontrollü incelemelerde ilacın teratojenik olduğu tesbit edilmiş, gebelerde ilacın kullanılması kesinlikle kontrendikedir\" ise bu ilaçlar teratojenik risk sınıflandırılmasında hangi kategoriye girer?",
+    "secenekler": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "X"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 16,
+    "soru_koku": "Enterehepatik siklusun temel etkisi nedir?",
+    "secenekler": {
+      "A": "İlacın etki süresini uzatmak",
+      "B": "İlacın eliminasyonunu artırmak",
+      "C": "Absorbsiyon miktarını artırmak",
+      "D": "İtrah edilen miktarını artırmak",
+      "E": "İlk geçiş etkisinden kurtulmak"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 17,
+    "soru_koku": "Hangileri enteral ilaç uygulama yollarıdır?",
+    "secenekler": {
+      "A": "Oral ve topikal",
+      "B": "Topikal ve inhalasyon",
+      "C": "Rektal ve topikal",
+      "D": "Oral ve rektal",
+      "E": "Oral ve intramusküler"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 18,
+    "soru_koku": "Serotonin reseptörleri içerisinde diğerlerinden farklı yapıda olup pentamerik iyon kanalı- reseptör kompleksi özelliği gösteren reseptör aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "5-HT1B",
+      "B": "HT2A",
+      "C": "5-HT3",
+      "D": "5-HT4",
+      "E": "5-HT7"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 19,
+    "soru_koku": "İrritabl barsak sendromu tedavisinde kullanılan serotonin 5-HT4 parsiyel agonisti hangisidir?",
+    "secenekler": {
+      "A": "Metaklopramid",
+      "B": "Tegaserod",
+      "C": "Siproheptadin",
+      "D": "Buspiron",
+      "E": "Sisaprid"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 20,
+    "soru_koku": "Histamin H3 reseptörlerinin bulunduğu yer aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Trakeabronşial bölgede ve damar endoteli",
+      "B": "Mide mukozasının pariyetal hücreleri",
+      "C": "Beyinde ve beyin dışındaki nöronlar",
+      "D": "Kemik iliği ve periferik hematopoietik hücreler",
+      "E": "Tüm dokularda yaygın olarak bulunur"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 21,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi gebelikte kullanıldığında fetüste Ebstein anomalisine neden olabilir?",
+    "secenekler": {
+      "A": "Ampisilin",
+      "B": "Digoksin",
+      "C": "Fenobarbital",
+      "D": "Streptomisin",
+      "E": "Lityum"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 22,
+    "soru_koku": "Kararlı durum konsantrasyonu (Css) hangisine bağlı değildir?",
+    "secenekler": {
+      "A": "Biyoyararlanım",
+      "B": "Doz",
+      "C": "Doz aralığı",
+      "D": "Sanal dağılım hacmi",
+      "E": "Klerens"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisinin kronik kullanımı asetaminofen toksisitesini artırabilir?",
+    "secenekler": {
+      "A": "Etanol",
+      "B": "Simetidin",
+      "C": "Ketokonazol",
+      "D": "Prokainamid",
+      "E": "Kinidin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 24,
+    "soru_koku": "Klinik araştırmaların IV. fazı hangi amaç için ve kimler üzerinde yapılır?",
+    "secenekler": {
+      "A": "İlacın doza bağlı etkilerini incelemek amacıyla sağlıklı gönüllülerden oluşan küçük bir grup üzerinde",
+      "B": "İlacın teratojenik etkilerini incelemek amacıyla seçilmiş hayvanlar üzerinde",
+      "C": "İlacın güvenirliğini ve etkililiğini belirlemek amacıyla hastalardan oluşmuş büyük gruplar üzerinde",
+      "D": "İlacın belirli bir hastalıktaki etkililiğini ilk kez saptamak amacıyla hastalardan oluşmuş küçük bir grup üzerinde",
+      "E": "İlacı piyasaya sürdükten sonra uzun vadeli yan etkilerini saptamak amacıyla hastalardan oluşmuş büyük bir grup üzerinde"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 25,
+    "soru_koku": "Üç yaşındaki bir çocuk antihistaminik ilaç olan prometazinin aşırı dozunu henüz almış olarak acil departmanına getirilmiştir.Prometazin pKa:sı 9.1 olan zayıf bir bazdır. Aralarında beynin de olduğu çoğu dokuya girebilir.Bu prometazin aşırı doz olgusunda hangisi doğru?",
+    "secenekler": {
+      "A": "İdrarla atılım alkalileştirici bir ajan olan NaHC03 verilince hızlanır.",
+      "B": "İdrarla atılım asilleştirici bir ajan olan NH4CI verilince hızlanır.",
+      "C": "Kan pH'sında mide pH'sına oranla ilacın daha fazlası iyonize olur.",
+      "D": "İlacın mideden emilimi ince barsaktan emiliminden daha hızlıdır.",
+      "E": "Hemodiyaliz tek etkin tedavidir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 26,
+    "soru_koku": "Hangisi pasif difüzyon ile emilen ilaçların emilim hızlarını etkilemez?",
+    "secenekler": {
+      "A": "İlacın molekül büyüklüğü",
+      "B": "İlacın uygulandığı yerdeki konsantrasyonu",
+      "C": "İlacın lipit/su partisyon katsayısı",
+      "D": "İlacın dissosiasyon sabitesi (Kd)",
+      "E": "İlacın uygulandığı yerden geçen kan akımının hızı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 27,
+    "soru_koku": "İlaçlardan hangisi P-glikoprotein P-gp ilaç taşıyıcılarının inhibitörüdür ve kanser kemoterapisinde metotreksatın sitotoksik etkilerinin hızlandırmakta kullanılır?",
+    "secenekler": {
+      "A": "Ketokonazol",
+      "B": "Prokainamid",
+      "C": "Ritonavir",
+      "D": "Verapamil",
+      "E": "Kinidin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 28,
+    "soru_koku": "Doz-yanıt eğrileri hayvan çalışmaları ve klinikte ilaç değerlendirilmesi için kullanılır.Kuvantal doz-yanıt eğrileri için en doğru ifade aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "İlacın maksimal etkililiğini belirlemek için kullanılır",
+      "B": "İlaca maksimum yanıtın istatistiksel varyasyonunu (standart sapma) belirlemek için kullanılır",
+      "C": "İlacın terapötik indeksini belirlemek için kullanılır",
+      "D": "Sağlam bireylerde yapılan çalışmalardan elde edilebilir, ama izole doku preparatlarından elde edilemez",
+      "E": "Kademeli doz-yanıt eğrilerine göre daha kesin sonuç verir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 29,
+    "soru_koku": "14D 15E 16A 17D 18C 19B 20C 21E 22D 23A 24E 25B 26D 27D 28C Aşağıdakilerden hangisi pasif difüzyon ile emilen bir ilacın emilim hızını etkilemez?",
+    "secenekler": {
+      "A": "İlacın molekül büyüklüğü",
+      "B": "İlacın disosiasyon sabitesi (Kd)",
+      "C": "İlacın uygulama yerindeki konsantrasyonu",
+      "D": "İlacın uygulandığı dokudan geçen kan akım hızı",
+      "E": "İlacın lipid/su partisyon katsayısı İlaç absorbsiyonu"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 30,
+    "soru_koku": "Hangisi bir sistemik ilaç uygulama yoludur?",
+    "secenekler": {
+      "A": "intraplevral uygulama",
+      "B": "Intraartiküler uygulama",
+      "C": "İntradermal uygulama",
+      "D": "Transdermal uygulama",
+      "E": "İntrauterin uygulama"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 31,
+    "soru_koku": "Ağrı ve inflamasyon tedavisinde kullanılan bradikinin B 2 reseptör antagonisti ilaç hangisidir?",
+    "secenekler": {
+      "A": "İcatibant",
+      "B": "Bosentan",
+      "C": "Aprisentan",
+      "D": "Ürotensin",
+      "E": "Aliskiren"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 32,
+    "soru_koku": "Eliminasyon yarılanma ömrü 3 saat olan ilaç 10 mg dozda IV bolus olarak uygulandıktan sonra uygulanan miktarın % 75 nin elimine olması için geçen süre kaç saattir?",
+    "secenekler": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12",
+      "E": "18"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 33,
+    "soru_koku": "Bir ilacın sanal dağılım hacmi 10 L ve total klerensi 0,198 L/saat ise bu ilacın eliminasyon yarılanma ömrü yaklaşık olarak kaç saattir?",
+    "secenekler": {
+      "A": "0,7",
+      "B": "7",
+      "C": "14",
+      "D": "35",
+      "E": "70"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 34,
+    "soru_koku": "Tek komportman kinetiğine uyan ve i.v. yoldan verilen eliminasyon yarılanma ömrü 4 saat olan bir ilaç 40 mg dozunda verildikten kaç saat sonra vücutta 10 mg kalır?",
+    "secenekler": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "12",
+      "E": "16"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 35,
+    "soru_koku": "Hangisinde etki mekanizması ve ilaç eşleştirmeleri doğrudur? 1. Etki ilacın fiziksel veya kimyasal nonspesifik bir özelliğine bağlı olabilir. 2. Vücuttaki doğal bir metabolitin analogu (antimetabolit) olması nedeniyle etki gösterebilir. 3. Transmembranal aktif transport sistemlerini inhibe veya aktive ederek etki oluşturabilirler. 4. Transmembranal iyon kanallarını açabilir veya kapatabilirler. 5. Etki ilacın şelasyon yapmak suretiyle, hastalık etkeni maddeyi bağlayıp, onu etkisiz kılmasına bağlı olabilir. a. Dimerkaprol b. Lokal anestezik ajan c. Proton pompa inhibtörleri d. Antiiasidler e. Varfarin",
+    "secenekler": {
+      "A": "1a, 2b, 3c, 4d, 5e",
+      "B": "1b, 2d, 3e, 4a, 5c",
+      "C": "1c, 2e, 3a, 4e, 5b",
+      "D": "1d, 2e, 3c, 4b, 5a",
+      "E": "1d, 2a, 3e,4b, 5c"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 36,
+    "soru_koku": "Hangisi sinyal iletinin özelliklerinden biri değildir?",
+    "secenekler": {
+      "A": "Özgüllük",
+      "B": "Süreklilik",
+      "C": "Kontrol",
+      "D": "Amplifikasyon",
+      "E": "Hücresel farklılık"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 37,
+    "soru_koku": "İlaç etkileşimleri ile ilgili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Potansiyalizasyonda iki ilacın da etkin olması gerekmez,",
+      "B": "Etkilenen ilacın plazma konsantrasyonunda değişiklik gözlenir.",
+      "C": "Bir ilaç diğer ilaca bağlanarak onu etkisiz hale getiriyorsa kimyasal antagonizma söz konusudur",
+      "D": "Sinerjizmada gözlenen etki iki ilacın etki toplamı kadar ise aditif etkileşme mevcuttur.",
+      "E": "Aynı reseptör üzerinden etki eden ilaçlar arasında olan antagonizma yenilebilir özellikte ise buna kompetetif antagonizma denir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 38,
+    "soru_koku": "Hangisi ilaçların metabolizma düzeyinde etkileşmelerine ilişkin yanlıştır?",
+    "secenekler": {
+      "A": "A ilacı B ilacını metabolize eden mikrozomal enzimi indüklüyorsa B ilacının etkinliği azalır.",
+      "B": "Nonmikrozomal enzimlerle metabolize edilen ilaçlar arasında etkileşim oluşmaz.",
+      "C": "Bir ilaç hem mikrozomal enzim inhibitörü hem de indikatörü olabilir.",
+      "D": "Aynı enzimin substratı olan ilaçlar aralarında kompetetif etkileşme söz konusudur.",
+      "E": "Bir ilacın kendisini metabolize eden enzimi indükleyerek kendi etkinliğini azaltması otoindüksiyondur."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 39,
+    "soru_koku": "Aşağıdakilerden hangisi peroral alınan ilaçlar için emilim düzeyinde etkileşmeye neden olmaz?",
+    "secenekler": {
+      "A": "İlacın barsak florasını bozarak presistemik eliminasyonu etkilenmesi",
+      "B": "İlacın mide boşalma hızını etkilemesi",
+      "C": "Mide ve barsakta ilacın şelasyon yapması",
+      "D": "İlacın mide-barsak epitel yapısını bozması",
+      "E": "İlacın mide pH'nı değiştirmesi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 40,
+    "soru_koku": "Hangisi gebelerde ilaçların etkisini değiştiren faktörlerden biribdeğildir?",
+    "secenekler": {
+      "A": "Mide-barsak motilitesinde azalma",
+      "B": "Serum albumin konsantrasyonunda azalma",
+      "C": "Böbrek fonksiyonlarında azalma",
+      "D": "Total vücut sıvısında artma",
+      "E": "Vücut yağ oranında artma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 41,
+    "soru_koku": "29B 30D 31A 32B 33D 34C 35D 36B 37B 38B 39A 40C Hangisi GPKR (g proteini ile kenetli reseptör)'lerden biridir?",
+    "secenekler": {
+      "A": "Nikotinik reseptör",
+      "B": "Glisin reseptörü",
+      "C": "Serotoninerjik 5HT3 reseptörü",
+      "D": "Glutamat reseptörü",
+      "E": "Alfa adrenerjik reseptör"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 42,
+    "soru_koku": "Aşağıdakilerden hangisi ilaçların etkisini değiştiren faktörler arasında yer almaz?",
+    "secenekler": {
+      "A": "İlacın veriliş zamanı",
+      "B": "İlacın veriliş yolu",
+      "C": "Kişinin kilosu",
+      "D": "İtrah organ fonksiyon bozukluğu",
+      "E": "İlacın antimetabolit olması"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 43,
+    "soru_koku": "Penisilinlerin tübüler sekresyonla atılımını taşıyıcı üzerinden inhibe eden ve aynı zamanda ürik asidin tübülerden reabsorbsiyonunu inhibe ederek ürik asid atılımını artıran ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Probenesid",
+      "B": "Verapamil",
+      "C": "Siklosporin",
+      "D": "Aspirin",
+      "E": "Simetidin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 44,
+    "soru_koku": "En güçlü vazokonstriktör otokoid hangisidir?",
+    "secenekler": {
+      "A": "Ürotensin",
+      "B": "NO",
+      "C": "Bradikinin",
+      "D": "CGRP",
+      "E": "Nörokinin A"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 45,
+    "soru_koku": "Yara iyileşmesini hangisi olumsuz etkilemez?",
+    "secenekler": {
+      "A": "Sigara kullanımı",
+      "B": "Steroid kullanımı",
+      "C": "Antibiyotik kullanımı",
+      "D": "Kemoterapi",
+      "E": "Radyoterapi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 46,
+    "soru_koku": "Hipertrofik skar ve keloid ile ilişkili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Genetik yatkınlık olabilir",
+      "B": "Çocuklarda daha sık görülür",
+      "C": "Sık görüldüğü alanlardan birisi, ön kol ön yüzdür",
+      "D": "Maturasyon süresi uzar",
+      "E": "İnflamasyon evresinin uzaması, keloide yatkınlık yaratır."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 47,
+    "soru_koku": "Mikroorganizmaların tanınması ve öldürülmesini sağlamak üzere kemotaksi ve fagositoz reaksiyonları için lökositlerin aktivasyonunu başlatan enzim hangisidir?",
+    "secenekler": {
+      "A": "Myeloperoksidaz",
+      "B": "NADPH oksidaz",
+      "C": "Süperoksid dismutaz",
+      "D": "Nötrofilik elastaz",
+      "E": "Fosfolipaz A1"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 48,
+    "soru_koku": "Aşağıda yangısal reaksiyon oluşturan etken ile kandaki yangı hücrelerinin ilişkisi verilmiştir. Hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Salmonella typhi / Nötrofili",
+      "B": "Ekinokokküs granülozus / Eozinofili",
+      "C": "Kızamıkçık / Lenfositoz",
+      "D": "Pseudomonas/ Nötrofili",
+      "E": "Ascariazis / Eozinofili"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 49,
+    "soru_koku": "Aşağıdakilerden hangisi akut yangısal reaksiyon sırasında,lökositlerin zarar veren uyaranları tanımak için kullandığı yüzey reseptörlerinden birisi değildir?",
+    "secenekler": {
+      "A": "Opsonin reseptörleri",
+      "B": "H1reseptörleri",
+      "C": "Sitokin reseptörleri",
+      "D": "C) protein bağlı reseptörler",
+      "E": "Toll-like reseptörler"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdakilerden hangisi fagolizozomda oluşan bakterisidal reaksiyon için gerekli değildir?",
+    "secenekler": {
+      "A": "Oksijen",
+      "B": "Myeloperoksidaz",
+      "C": "NADPH oksidaz",
+      "D": "c-AMP",
+      "E": "Klorür Anyonu (Halid)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 51,
+    "soru_koku": "Yangısal reaksiyonun ortaya çıkmasına yol açan ilk olay aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Lökosit ve plazma proteinlerinin kan dolaşımını terkederek dokuya geçmesi",
+      "B": "Kapiller damarların geçirgenliğinin artması",
+      "C": "Ekstravasküler dokudaki zarar verici etkenlerin dokuda bulunan gözcü hücrelerin reseptörleri aracılığı ile tanınması",
+      "D": "Damarlarda vazodilatasyon",
+      "E": "Endotelyal adezyon moleküllerinin aktivasyonu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 52,
+    "soru_koku": "Bağ dokusu gelişimi ile ortaya çıkan iyileşme sürecinde, bağ doku proteinlerinin sentezi ve depolanmasından sorumlu en önemli sitokin aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "VEGF",
+      "B": "TNF",
+      "C": "EGF",
+      "D": "IL-12",
+      "E": "TGF-B"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 53,
+    "soru_koku": "Hangisinde granülomatöz yangı görmeyi beklersiniz?",
+    "secenekler": {
+      "A": "Pseudomonas pnömonisi",
+      "B": "Ülseratif Kolit",
+      "C": "Histoplazmozis",
+      "D": "Mide ülseri",
+      "E": "Romatoid artrit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 54,
+    "soru_koku": "Aşağıdakilerden hangisi akut bronkopnömonisi olan bir hastada ateş,halsizlik,sedimentasyon artışı gibi sistemik bulguların oluşmasına katkıda bulunan primer kimyasal mediyatörlerden birisidir?",
+    "secenekler": {
+      "A": "IL-1",
+      "B": "Serotonin",
+      "C": "Nitrik oksid",
+      "D": "PGI2(Prostasiklin)",
+      "E": "Bradikinin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 55,
+    "soru_koku": "41E 42E 43A 44A 45C 46C 47E 48A 49B 50D 51C 52E 53C 54A Lökositlerde rolling olayından sorumlu, Weibel-Palade cisimciklerinde bulunan P-selectin molekülü hangi mediyatorlerle aktive olur?",
+    "secenekler": {
+      "A": "Histamin-Trombin",
+      "B": "TNF-IL1",
+      "C": "C5a-IL 8",
+      "D": "Bradikinin-Lökotrienler",
+      "E": "PG E2-LTB4"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 56,
+    "soru_koku": "Akut yangısal reaksiyonda damar dışına çıkmış olan lökositlerin hareketini yönlendirmede mediyatörlerden hangisi birincil derecede etkili değildir?",
+    "secenekler": {
+      "A": "C 5a",
+      "B": "Fosfolipaz A2",
+      "C": "LTB4",
+      "D": "IL-8",
+      "E": "Bakteri duvarındaki N-formil metionin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 57,
+    "soru_koku": "Yangısal reaksiyonda gelişen İnflammazom kompleksi nerede bulunur?",
+    "secenekler": {
+      "A": "Sitoplazmik membran",
+      "B": "İnterstisyel alan",
+      "C": "Serum",
+      "D": "Endotel hücreleri",
+      "E": "Sitozol"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 58,
+    "soru_koku": "Venüllerdeki endotelyal hücre kontraksiyonunda, kimyasal mediyatörler hücre içi sinyalizasyonu aracılığı ile hücre içindeki hangi yapıları uyarır?",
+    "secenekler": {
+      "A": "Endotelyal hücre membranı",
+      "B": "Myozin filamentleri",
+      "C": "Vezikülo-vakuoler organel",
+      "D": "Lizozomlar",
+      "E": "E-selectin molekülü"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağıdaki T-lenfosit kaynaktı sitokinlerden hangisi makrofaj aktivasyonunu sağlamaz?",
+    "secenekler": {
+      "A": "IL-4",
+      "B": "IFN-y",
+      "C": "IL-5",
+      "D": "IL-13",
+      "E": "IL-17"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 60,
+    "soru_koku": "İntegrinlerile ilgili aşağıdakilerden hangileri doğrudur? I. Polipeptid yapısında transmembran yerleşimli moleküllerdir II. TNF ve IL-1,lökosit yüzeyindeki integrinleri aktive eder III.İntegrinler adezyondan (sıkı bağlanma) sorumludurlar IV.Sialyl Lewis antijeni,endotel yüzeyindeki integrin ligandıdır V. Alfa-polipeptid zinciri lökosit yüzeyinde daima aktif haldedir",
+    "secenekler": {
+      "A": "I,III, V",
+      "B": "I,II,III",
+      "C": "I,II, IV",
+      "D": "I ve III",
+      "E": "I ve II"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 61,
+    "soru_koku": "Patoloji laboratuvarına gönderilen materyallere uygulanan tespit işlemi için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Dokuyu canlı organizmadaki durumuna en yakın şekilde sabitlemek için yapılır",
+      "B": "Tespitin amacı dokunun sertleşmesini önleyerek dokuyu bir sonraki işlem için elverişli hale getirmektir",
+      "C": "Sitolojik metaryallerde en sık kullanılan tespit solüsyonu %70'lik alkoldür",
+      "D": "Materyali kendi hacminin en az on katı hacminde fiksatif içinde tespit etmek gereklidir",
+      "E": "Büyük materyallerde her alanın tespit olabilmesi için gazlı bez kullanılmalıdır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 62,
+    "soru_koku": "Sol kolonda 5 cm lik kitlesi bulunan 45 yaşında kadın hastaya sol hemikolektomi yapılmış ve materyal operasyon sırasında patoloji laboratuvarına gönderilmiştir Operasyon sürerken yapılan bu işlem hakkında hangisi doğrudur?",
+    "secenekler": {
+      "A": "Acil bir işlemdir ve 1 saat sonra ameliyathaneye sonuç bildirilmelidir",
+      "B": "Bu işlemin adı frozen incelemedir ve yalnızca operasyonun ilk 15 dakikasında istenebilir",
+      "C": "Cerrah, hastada uzak metastaz olup olmadığını soruyor olabilir",
+      "D": "Bu işlemin sonucunun operasyon sırasında bildirilmesine gerek yoktur,operasyon bittikten sonra bildirilebilir",
+      "E": "Cerrah, eksizyonun cerrahi sınırlarında tümör olup olmadığını soruyor olabilir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 63,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisinde mukus varlığını saptamaya yarayan histokimyasal boyalar doğru bir şekilde verilmiştir?",
+    "secenekler": {
+      "A": "mucicarmen, PAP, PAS-AB",
+      "B": "masson'un trikrom boyası, PAS, PAP",
+      "C": "PAS, alcien-blue, giemsa",
+      "D": "alcien-blue,mucicarmen, PAS",
+      "E": "mucicarmen, oil red o, kongo kırmızısı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 64,
+    "soru_koku": "Öksürük ile kan gelmesi durumunu karşılamak üzere aşağıdakilerden hangi terim kullanilir?",
+    "secenekler": {
+      "A": "Melena",
+      "B": "Hemoptizi",
+      "C": "Hemartroz",
+      "D": "Menoraji",
+      "E": "Hemotokezya"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 65,
+    "soru_koku": "İntravasküler sıvının bağıl(rölatif) anlamda azalmasının söz konusu olmadığı şok türü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Hipovolemik şok",
+      "B": "Kardiyojenik şok",
+      "C": "Nörojenik şok",
+      "D": "Septik şok",
+      "E": "Anafilaktik şok"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 66,
+    "soru_koku": "55A 56B 57E 58B 59E 60D 61B 62E 63D 64B 65A Ödemle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Venlerin herhangi bir nedenle tıkanması sonucu ödem görülür",
+      "B": "Portal hipertansiyonda ascit görülür",
+      "C": "Efüzyon bir ödem türüdür",
+      "D": "Lokal olarak şiddetli ve masif bir ödem bulunmasına anazarka denir",
+      "E": "Epidermis içinde sıvı birikmesiyle oluşan büyük lezyonlara bül denir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 67,
+    "soru_koku": "Konjesyonla ilgili olarak hangisi doğrudur?",
+    "secenekler": {
+      "A": "Siyanoz daha çok alt ekstremitelerde görülen pembe renk değişikliğini dile getirir",
+      "B": "Sistemik konjesyonda karaciğerde portal nekroz ortaya çıkar",
+      "C": "Uzun süren kronik pasif konjesyonda akciğerlerde fibrozis görülür",
+      "D": "Kronik pasif konjesyon en yoğun olarak beyinde görülür.",
+      "E": "Ödem ve konjesyon birbirine zıt iki olaydır"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 68,
+    "soru_koku": "Bilindiği gibi derin bacak venlerinden kalkan trombüs kitleleri embolizme yol açmaktadır. Bu konuda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Pulmoner infarktüs gelişebilir",
+      "B": "Bu venlerdeki trombüsler genellikle asemptomatiktir",
+      "C": "Genellikle hastada beyinde beslenme bozukluğu sonucu felçler (inme) ortaya çıkar",
+      "D": "Ani ölüm olabilir",
+      "E": "Kor pulmonale ortaya çıkabilir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 69,
+    "soru_koku": "İnfarktüs konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kalpteki infarktüs alanları soluktur",
+      "B": "Böbrekte hemorajik infarktüs görülür",
+      "C": "Aslında koagülasyon nekrozudur",
+      "D": "Barsaklarda kırmızı infarktüs gelişir",
+      "E": "Tıkanma çok yavaş ise infarktüs yerine atrofi olur"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 70,
+    "soru_koku": "Beyin ödemi konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Pons ve bulbusa bası söz konusu olabilir",
+      "B": "Yalnızca beyinde kanama varsa hipovolemi gelişmez",
+      "C": "Kafa içinde yer kaplayan oluşumlar beyin ödemine yol açar",
+      "D": "Beyindokusu, foramen magnumdan dışarı fıtıklaşır",
+      "E": "Solunum ve dolaşımın merkezleri işlevsiz kalabilir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 71,
+    "soru_koku": "Bir ekstremiteyi drene eden ana arteri bağlarsanız aşağıdaki durumlarda hangisi gelişir?",
+    "secenekler": {
+      "A": "Belirgin ödem olur",
+      "B": "Ekstremite bir süre sonra şişer",
+      "C": "O ekstremitede nabız alınmaz",
+      "D": "Ekstremite mor renge bürünür",
+      "E": "Konjesyon belirgindir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 72,
+    "soru_koku": "Embolizm konusunda hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Trombüsler embolizme neden olabilir",
+      "B": "Embolizmin Yinelemesi karakteristiktir",
+      "C": "Embolizm sonuçta doku nekrozuna yol açar",
+      "D": "Kan yoluyla yer kaplayan herhangi bir oluşumun taşınması demektir",
+      "E": "Büyük bölümü hava embolizmi biçimindedir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 73,
+    "soru_koku": "Yirmi yaşındaki bir erkek hastada kolda künt bir travma sonucu kanama oluyor.Fizik muayanede 2 x3 cm'lik bir alandaki kanama bir kaç dakika içinde duruyor.Bu olaydaki hemostazda medyatörlerden hangisi en önemli konumdadır?",
+    "secenekler": {
+      "A": "Lökotrien",
+      "B": "Thromboxane A2",
+      "C": "Plasminojen",
+      "D": "Prostasiklin",
+      "E": "Prostaglandin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 74,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisi otozomal dominant geçişli hastalıklardan biri değildir?",
+    "secenekler": {
+      "A": "Von Willebrand hastalığı",
+      "B": "FamilyaI hiperkolesterolemi",
+      "C": "Ehler-Danlos hastalığı",
+      "D": "Marfan sendromu",
+      "E": "Akondroplazi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 75,
+    "soru_koku": "Glikoserebrozidaz eksikliği nedeniyle glikoserebrozidlerin biriktiği, otozomal resesif geçişli, en sık görülen lizozomal depo hastalığı hangisidir?",
+    "secenekler": {
+      "A": "Tay-Sachs hastalığı",
+      "B": "Von-Gierke hastalığı",
+      "C": "Gaucher hastalığı",
+      "D": "Hunter sendromu",
+      "E": "Nieman-Pick hastalığı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 76,
+    "soru_koku": "Hücre iskelet proteinleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "En büyük boyuta sahip olan iskelet proteini mikrotübüldür",
+      "B": "Hücrede en bol bulunan iskelet proteini mikrofilamandır",
+      "C": "Eritrositlerde bulunan iskelet proteini mikrofilamandır",
+      "D": "Hücrede bulunan en sağlam iskelet proteini ara filamandır",
+      "E": "Hücre hareketine doğrudan katılmayan ancak mekanik destek oluşturan iskelet proteini mikrotübüldür"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 77,
+    "soru_koku": "Hücrelerarası etkileşimi sağlayan tutundurucu birimlerden biri olan, hücre iskelet proteinlerinden ara filamanlara bağlanan, desmoglein ve desmokolin proteinlerinin rol aldığı bağlantı birimi hangisidir?",
+    "secenekler": {
+      "A": "zonula occludens",
+      "B": "zonula adherens",
+      "C": "makula adherens",
+      "D": "hemidesmozom",
+      "E": "oluklu bağlantı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 78,
+    "soru_koku": "66D 67C 68C 69B 70D 71C 72E 73B 74C 75C 76E 77C Hücre yaşlanmasında hücrenin bölünme kapasitesinin sonlanmasına neden olan olay nedir?",
+    "secenekler": {
+      "A": "Telomeraz aktivitesinin artması",
+      "B": "İnsülin benzeri büyüme faktörü 1'in artışı",
+      "C": "Telomer kısalması",
+      "D": "Tümör süpressör genlerin inhibisyonu",
+      "E": "Yanlış katlanmış proteinlerin birikimi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 79,
+    "soru_koku": "Merdivenden düşen 30 yaşında erkekte iki gün sonra sol bacak ve sol omuz derisinde kırmızı-mor renkli yama tarzında alanlar görülüyor Bunu açıklayacak olan hangisidir?",
+    "secenekler": {
+      "A": "Deri altında hemosiderin birikimi",
+      "B": "Deride lipofüssin birikimi",
+      "C": "Deri altında bilirübin birikimi",
+      "D": "Deri altında kolesterol birikimi",
+      "E": "Deride melanin birikimi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 80,
+    "soru_koku": "Sol bacak dizaltı amputasyonu materyalinden diseke edilen damar örneklerinin keserken sert olduğu ve çıtırtı hissi verdiği saptanıyor. Mikroskopik örneklerde hematoksilen eozin boyamada bu alanlarda koyu mor renkli birikimler gözleniyor.Bu durumu tanımlayan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Yağ nekrozu",
+      "B": "Antrakoz birikimi",
+      "C": "Metastatik kalsifikasyon",
+      "D": "Distrofik kalsifikasyon",
+      "E": "Damar duvarında hipertrofi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 81,
+    "soru_koku": "Lipofüssin için doğru olan hangisidir?",
+    "secenekler": {
+      "A": "Siyah renklidir",
+      "B": "Doğumdan itibaren her organda bulunur",
+      "C": "Yaşlanma ve atrofiye eşlik eder",
+      "D": "Deride biriken toksik bir pigmenttir",
+      "E": "Ekzojen pigmenttir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 82,
+    "soru_koku": "Menstruel siklusta endometrium epitelinin dökülmesi hangisine örnektir?",
+    "secenekler": {
+      "A": "Apoptoz",
+      "B": "Atrofi",
+      "C": "Metaplazi",
+      "D": "Nekroz",
+      "E": "Nekroptoz"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 83,
+    "soru_koku": "Apoptozun mitokondriyal (intrensek) yolunda rol oynayan gen ailesi hangisidir?",
+    "secenekler": {
+      "A": "TNF reseptör",
+      "B": "APAF1",
+      "C": "p53",
+      "D": "BCL2",
+      "E": "Kaspaz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 84,
+    "soru_koku": "Barbitürat türevi ilaçların bir süre kullanılmalarından sonra alınan doz yetersiz olmaya başlar. Bu durum hücre içi hangi olayla açıklanır?",
+    "secenekler": {
+      "A": "Endonükleaz enzim aktivasyonu",
+      "B": "Polizomların dağılıp parçalanması",
+      "C": "Mitokondri sayısında artış",
+      "D": "Mitokondriyal hasar",
+      "E": "Düz endoplazmik retikulum hipertrofisi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 85,
+    "soru_koku": "Aşağıdakilerden hangisi hipoksiye bağlı hücre hasarında oluşan olaylardan biri değildir?",
+    "secenekler": {
+      "A": "Oksidatif fosforilasyon azalır",
+      "B": "Anaerobik glikoliz azalır",
+      "C": "Hücre içi pH azalır",
+      "D": "ATP azalır",
+      "E": "Protein sentezi azalır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 86,
+    "soru_koku": "Hangisi hücre hasarı oluşturan fiziksel etkenlerden değildir?",
+    "secenekler": {
+      "A": "Radyasyon",
+      "B": "Elektrik",
+      "C": "Donma",
+      "D": "Yanık",
+      "E": "Hipoksi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 87,
+    "soru_koku": "Göğüs ağrısı ve nefes sıkışması şikayetiyle acile başvuran 55 yaşında erkek hastaya myokard infarktüsü tanısı konuyor. Trombolitik tedavi ile koroner kan akımı yeniden sağlanıyor. Tedavi sonrasında myokardial kas hücrelerindeki hasarlanmanın artışı, aşağıdaki hangi hücresel olaya bağlanır?",
+    "secenekler": {
+      "A": "Hücre iskeletinde intermedier filamanların kaybı",
+      "B": "Hücre içi pH düşüklüğü",
+      "C": "Serbest oksijen radikallerinin üretiminin artması",
+      "D": "Protein sentezinde azalma",
+      "E": "Hücre membranında parçalanma"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 88,
+    "soru_koku": "Öksürük şikayetiyle hastaneye başvuran 60 yaşında erkek hastanın bronş biopsisinde skuamöz metaplazi saptanıyor. Buna göre hangisi doğrudur?",
+    "secenekler": {
+      "A": "Bu durum fizyolojik yaşlanma örneğidir",
+      "B": "Hasta sigarayı bırakırsa bu durum geriye döner",
+      "C": "Kanserleşmenin başlamış olduğunu gösterir",
+      "D": "Bir sonraki aşamada epitel atrofiye gider",
+      "E": "Bu durum yapısaldır, sigarayla ilişkisi yoktur"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 89,
+    "soru_koku": "İskemiye bağlı ekstremitelerde oluşan nekroz alanına bakteriyel enfeksiyon eklendiğinde oluşan durum hangisidir?",
+    "secenekler": {
+      "A": "Yaş gangren",
+      "B": "Gazlı gangren",
+      "C": "Atrofi",
+      "D": "Mumyalaşma",
+      "E": "sabunlaşma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 90,
+    "soru_koku": "Bebeğini emziren bir annenin meme parankim epitelindeki değişiklik hangisidir?",
+    "secenekler": {
+      "A": "Apoptoz",
+      "B": "Metaplazi",
+      "C": "Atrofi",
+      "D": "Hipertrofi",
+      "E": "Hiperplazi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 91,
+    "soru_koku": "78C 79A 80D 81C 82A 83D 84E 85B 86E 87C 88B 89A 90E Klasik Rett sendromu (CRS), metil-bağlanma alanına (5- metilsitozin bakımından zengin DNA'ya bağlanır) ve bir transkripsiyon bastırmasına sahip olan metil-CpG bağlayıcı protein 2 (MECP2) için kromozom Xq28 üzerindeki MECP2 genindeki çeşitli mutasyonların neden olduğu X'e bağlı dominant bir genetik bozukluktur MECP2 proteini,5-metilsitozin bakımından zengin DNA'ya bağlanarak çeşitli genlerin transkripsiyonel baskılanmasına aracılık eder. MECP2 proteini tüm dokularda ifade edilmesine ve global bir transkripsiyonel baskılayıcı olarak işlev görmesine rağmen, MECP2 genindeki mutasyonlar ağırlıklı olarak nörolojik bir fenotiple sonuçlanır. Bu durum hangi düzenleme ile açıklanabilir?",
+    "secenekler": {
+      "A": "Epigenetik",
+      "B": "Genomik imprintig",
+      "C": "Asetilasyon",
+      "D": "Metilasyon",
+      "E": "Fosforilasyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 92,
+    "soru_koku": "Aşağıdakilerden hangisinin genetik bir bileşeni yoktur?",
+    "secenekler": {
+      "A": "yarık dudak",
+      "B": "polidaktili",
+      "C": "spina bifida",
+      "D": "amniyotik bant",
+      "E": "pilor stenozu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 93,
+    "soru_koku": "Embriyolojik gelişim sürecinde rol oynamayan gen aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Segmentasyon genleri",
+      "B": "Homeobox genleri",
+      "C": "PAX genleri",
+      "D": "TBX genleri",
+      "E": "CRY genleri"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 94,
+    "soru_koku": "Aşağıdaki gen bölgelerinden hangisi sexüel diferansiyasyonda rol oynamaz?",
+    "secenekler": {
+      "A": "DAX1",
+      "B": "VHL",
+      "C": "WT1",
+      "D": "SOX9",
+      "E": "SRY"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 95,
+    "soru_koku": "Hangisi epigenetik düzenlemelerle ilişkili değildir?",
+    "secenekler": {
+      "A": "Metilasyon",
+      "B": "İmprinting",
+      "C": "RNA splicing",
+      "D": "Asetilasyon",
+      "E": "Deasetilasyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 96,
+    "soru_koku": "Aşağıdakilerden hangisi multifaktöriyel geçiş göstermektedir?",
+    "secenekler": {
+      "A": "Şizofreni",
+      "B": "Huntington Hastalığı",
+      "C": "Marfan sendromu",
+      "D": "Talassemi",
+      "E": "Kistik fibrozis"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 97,
+    "soru_koku": "En sık görülen cinsiyet gelişim kusurlarından biri olan konjenital adrenal hiperplaziye neden olan genetik defekt aşağıdakilerden hangisindedir?",
+    "secenekler": {
+      "A": "17-hidroksilaz",
+      "B": "11-hidroksilaz",
+      "C": "21-hidroksilaz",
+      "D": "20,22-hidroksilaz",
+      "E": "3-hidroksisteroid dehidrogenaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 98,
+    "soru_koku": "Hangisi morfolojik anomali tiplerinden değildir?",
+    "secenekler": {
+      "A": "Malformasyon",
+      "B": "Disrupsiyon",
+      "C": "Displazi",
+      "D": "Proliferasyon",
+      "E": "Deformasyon"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 99,
+    "soru_koku": "Dozaj kompenzasyonu ve X inaktivasyonu ile ilgili olarak hangisi doğrudur.",
+    "secenekler": {
+      "A": "47 XXX karyotipte sahip olan bireyde inaktivasyon 1(bir) X kromozomunda yapılır.",
+      "B": "İnaktivasyonda XIST DNA molekülü etkin rol alır.",
+      "C": "X inaktivasyonu XIC (X inactivation center) dan başlar.",
+      "D": "Erişkin bir erkekte hücre çekirdeğinde bir adet barr body gözlenir.",
+      "E": "Embriyogenez döneminde inaktivasyon nonrandom olur."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2020-2021",
+    "soru_numarasi": 100,
+    "soru_koku": "Hangisi genetik sendromların teşhisinde karşılaşılabilecek zorluklardan biri değildir.",
+    "secenekler": {
+      "A": "Varaible ekspresyon",
+      "B": "Komplet penetrasyon",
+      "C": "Etiyolojik heterojenlik",
+      "D": "Pleiotropi",
+      "E": "Cinsiyete bağlı ya da sınırlı ekspresyon ailesi üyelerinden Bax ve Bcl-2 tarafından yerine getirlen görevler aşağıdaki hangi şıkta doğru olarak verilmiştir? E)Bax ve Bcl-2 apoptozda görev almazlar E)Hemoglobine bağlı eşlik eden semptomları gözlenen mineral hangisidir? E)İyot E)Fosfor-magnezyum apoptotik hücrelerin yüzeylerinde aşağıdakilerden hangisinin bulunması gereklidir? E)Bcl-2 ailesi mekanizmasını en doğru şekilde özetlemektedir? bağlanır. Ölüm reseptörleri oligomerize olurlar ve pro- kaspaz 8'i alırlar. Adaptörler reseptör kompleksine bağlanır ve aktive olur. genin aktive eder. Bax molekülleri, mitokondriyal membranda polimerize olur ve gözenekler oluşturur. Mitokondri, sitokrom C'yi serbest bırakır. bağlanır. Ölüm reseptörleri oligomerize olurlar ve pro- kaspaz 8'i alırlar. Adaptörler reseptör kompleksine bağlanır ve aktive olur. ifadesini aktive eder. Bcl molekülleri polimerize olur ve mitokondriye girer. Mitokondri, sitokrom C'yi serbest bırakır. E)Hücre içi pH düşüklüğü ekstrensek yolu başlatır. aşağıdakilerden hangisine işaret eder? E)Karaciğer hasarı E)Asit fosfataz üzerinde yapılır? gönüllülerden oluşan küçük bir grup üzerinde amacıyla hastalardan oluşmuş küçük bir grup üzerinde hayvanlar üzerinde hastalardan oluşmuş büyük gruplar üzerinde E)İlacı piyasaya sürdükten sonra uzun vadeli yan etkilerini saptamak amacıyla hastalardan oluşmuş büyük bir grup üzerinde pH derecesi 4.5 olan duodenumda belirli bir dozun yüzde kaçı yağda-çözünür şekildedir? E)Yaklaşık %99 düşünülmektedir. İntraoküler basınçta ki artışın dışında hastanın öyküsü ve fizik muayenesinde önemli bir bulguya rastlanmamıştır. Timolol pK;sı 9.2 olan zayıf bir bazdır. Aşağıdaki ifadelerden hangisi en doğrudur? konsantrasyonu (pH 7.8) duodenumdaki konsantrasyonundan (pH 5.5) daha yüksek olur. damlalar alkalin (pH 8.0) olduğunda asidik (pH 5.0) olmalarından daha hızlıdır. pH'sı asidik (pH 5.8) olduğundan daha yavaştır. yaklaşık %10 olacaktır. E)pH 10.2'de yağda daha fazla çözünen formdaki timololün oranı yaklaşık %10'dur. birlikte kullanıldığında doz azaltımına olanak sağlar? E)Kinidin eliminasyonu için karakteristik olan kinetiğe ne ad verilir? E)İlk geçiş etkisi E)Tamoksifen klinik önemini artırmaz? doyurulabilir olması E)Hastanın yaşlı olması ilacınızın klerensi 50 ml/dak, sanal dağılım hacmi (Vd) 100 litredir. Ortalama sabit plazma konsantrasyonunun 10 mg/L olmasını sağlamak için gerekli infüzyon hızı nedir? E)25 mg/dak en önemli faktördür? E)İlacın verildiği dokunun içinden geçen kan akım hızı aşağıdakilerden hangisidir? E)Karaciğer ilk geçiş etkisinden kurtulma düzeyindeki değişiklikler hangi toksik etkiler grubundadır? E)Teratojenik etkiler I.Pilül II.Eliksir III.Kaşe IV.Posyon V.Supozituar kontrollü incelemelerde ilacın teratojenik olduğu tesbit edilmiş, gebelerde ilacın kullanılması kesinlikle kontrendikedir” ise bu ilaçlar teratojenik risk sınıflandırılmasında hangi kategoriye girer? yapıda olup pentamerik iyon kanalı- reseptör kompleksi özelliği gösteren reseptör aşağıdakilerden hangisidir? serotonin 5-HT4 parsiyel agonisti hangisidir? E)Sisaprid fetüste Ebstein anomalisine neden olabilir? E)Lityum hangisine bağlı değildir? E)Klerens efektör makromolekül aşağıdakilerden hangisidir? E)Fosfoinositidaz kullanılır ve etkisini şelasyon yaparak gösterir? E)Desferoksamin prometazinin aşırı dozunu henüz almış olarak acil departmanına getirilmiştir. Prometazin pKa:sı 9.1 olan zayıf bir bazdır. Aralarında beynin de olduğu çoğu dokuya girebilir. Bu prometazin olgusunda hangisi doğrudur? hızlanır. hızlanır. iyonize olur. hızlıdır. E)Hemodiyaliz tek etkin tedavidir. kinetiğiyle\" azalırsa bunun anlamı hangisidir? metabolize edilir ve biyoyararlanımı düşüktür. aynıdır. E)İlaç vasküler sistem dışında yalnızca 1 kompartmana dağılır. antihistaminiğin (terfenadin ve astemizol) kalp aritmisiyle ilişkilendirilmesi piyasadan uzaklaştırılmalarına neden olmuştur. Bu etkileri en iyi olarak hangisiyle açıklanabilir? yatkınlık E)Karbamezapin ile eşzamanlı tedavi fosfoinositidaz yolağı üzerinden yaptığı kasılmanın, nitratlar tarafından guanilat siklaz yolağı üzerinden geri çevrilmesini en iyi şekilde açıklar? E)Nonkompetetif antagonizma sağlıklı gönüllülerde denenir? E)İntrauterin uygulama içme davranışı ve akciğer kanseri oluşumunda katkısı olabilen CYP enzimi hangisidir? altında kalan alan aşağıdakilerden hangisini ifade eder? E)Ortalama plazma konsantrasyonu seçenek hangisidir? I.Sadece oral yoldan alınan ilaçlar bu döngüye girebilir II.Bazı kemoterapötikler intestinal florayı etkileyerek bu döngüyü bozabilirler III.Bu döngüye giren ilaçların etki süreleri kısalır IV.Karaciğer ile ince barsak arasındadır eşleşmelerden hangisi yanlıştır? kullanılır geçmesini sağlar E)Sublingual yol- İlaçlar ilk geçiş etkisinden kurtulur B2 reseptör antagonisti ilaç hangisidir? E)Aliskiren dozda IV bolus olarak uygulandıktan sonra miktarın % 75 nin elimine olması için geçen süre kaç saattir? yaklaşık olarak kaç saattir? eliminasyon yarılanma ömrü 4 saat olan bir ilaç 40 mg dozunda verildikten kaç saat sonra vücütta 10 mg kalır? üzerinden inhibe eden ve aynı zamanda ürik asidin tübülerden reabsorbsiyonunu inhibe ederek ürik asid atılımını artıran ilaç aşağıdakilerden hangisidir? E)Probenesid birlikte görülmesine örnek bir olaydır? kalkması değişiklikler E)Emzirme döneminde meme dokusu intermediyer filamentlerin birikimi söz konusudur? E)Myozitis ossifikans etkilediğinden yaşlanmayı geciktirir. E)Progeria, DNA onarım hasarı ilişkili bir hastalıktır. aşağıdakilerden hangisi doğrudur? ortaya çıkar. E)Taşıyıcı erkek birey için hemizigos terimi kullanılır. endikasyonu olan otozomal dominant kalıtılan hastalık hangi seçenekte yer almaktadır? E)Barret özofagusu frozen kesit (intraoperatif konsültasyon) çalışılmak üzere patoloji laboratuvarına gönderiliyor. Cerrah bütün lenf nodlarının incelenmesini istiyor. Bu durumla ilgili aşağıdakilerden hangisi yanlıştır? başvurulmuştur. E)Frozen kesit sonrasında kalan materyalden de örnek alınır karakterli hastalık hangisidir? E)amiloidoz aşağıdaki hangi hastalıkta temel mekanizmadır? E)Hemofagositik sendrom hastalıklardan değildir? E)Wiskott-Aldirch sendromu aşağıdakilerden hangi terim kullanılır? E)Hematokolpos sonucu kanama oluyor. Fizik muayanede 2×3 cm'lik bir alandaki kanama bir kaç dakika içinde duruyor. Bu olaydaki hemostazda aşağıdaki medyatörlerden hangisi en önemli konumdadır? E)Thromboxane A2 aşağıdaki durumlardan hangisi için geçerlidir? E)Elefantiazis E)Akciğerin ağırlığı artar taşınması demektir E)Trombüsler embolizme neden olabilir aşağıdaki durumlarda hangisi gelişmez? E)Belirgin ödem olur açar E)Beyin dokusu, foramen magnumdan dışarı fıtıklaşır nedeni aşağıdakilerden hangisidir? E)Şok nekrozu gelişir görülebilir E)Kalbin kapak hastalıklarında görülmesi karakteristiktir dehidratasyon amacıyla hangi madde kullanılır? hangi yolla yaparlar? E)Na-K pompasını bozarak karakterli hastalık hangi seçenekte verilmiştir? E)Angelman sendromu tanımlanır? E)hem over hem testis olması ilaçlar/kimyasal maddelerin tamamı hangi seçenekte doğru verilmiştir? I-siyanür II-civa klorür III-kematerapötikler IV-karbon tetraklorür V-antibiyotikler VI-asetominofen sonucudur? E)ATP sentezinin azalması sorumludur? sonucu oluşur? apoptoziste görülenleri hangi seçenekte doğru verilmiştir? I-Membran hasarı II-İnflamasyon III-Piknoz IV-Nötrofillerin ortadan kaldırılması V-Nefrotoksik ilaç kullanımıyla böbrek tüp epitelyum hücrelerinin ölümü E)Fibrinoid nekroz özelliklerden hangisi kullanılamaz? E)Oluşan fibrozisin genişliği oluşmasında rol oynayan temel mediyatörlerden birisidir? reaksiyonlarda rol oynar? E)Viral enfeksiyonlar sistem hücresi değildir? E)Endotel hücreleri bir etkiye sahiptir E)Kemik iliğindeki immatür nötrofillerin kana geçmesini sağlar artıklarına ait partiküller hangisi aracılığı ile tanınır? E)Kollektinler artışı hangi mekanizma ile olur? E)Lökositlere bağlı endotel hasarı cisimciklerinde bulunan P-selectin molekülü hangi mediyatörlerle aktive olur? E)PG E2-LTB4 reaksiyon olduğunun biyokimyasal kanıtı değildir? E)Sedimantasyon yüksekliği lökositlerin hareketini yönlendirmede aşağıdaki mediyatörlerden hangisi birincil derecede etkili değildir? E)Bakteri duvarındaki N-formil metionin kullanılan bakterisidal etkiye sahip bir ürün değildir? E)Lizozim sistemlere ait bir metabolit değildir? E)Katalaz olan aktif bir mediyatör değildir? süreçlerden hangisi görülmez? E)Anjiogenez veren şıkkı işaretleyiniz (doğru-D, yanlış-Y) I-DNA, dört histon molekülü etrafında yaklaşık 2 tur atarak nükleozom yapısını oluşturur. II-Heterokromatin, kromatinin sıkı katlandığı ve aktif olmayan kısmını oluşturur. III-DNA diziliminde, tek nükleotidde oluşan değişim SNP olarak isimlendirilir. IV-Kromozom uçlarında bulunan özelleşmiş tekrar dizilerine sentromer denir. V-miRNA, ökaryotlarda bulunan yaklaşık 20 nükleotid uzunluğundaki kısa RNA parçacıklarıdır. bulunan fosfolipidlerden biri değildir? E)Kolesterol I-En küçük çaplı hücre iskeleti proteinidir II-En sağlam hücre iskeleti proteinidir III-Eritrositlerde bulunan tek hücre iskeleti proteinidir IV-En büyük çaplı hücre iskeleti proteinidir E)I-B, II-B, III-A, IV-C sağlayan 'tutundurucu birimler' olarak kategorize edilen hücreler arası bağlantı birimleridir? I-Desmozom (makula adherens) II-Oluklu bağlantı (gap junction) III-Sıkı bağlantı (zonula occludens) IV-Hemidesmozom V-Ara bağlantı (zonula adherens) diferansiyasyonda rol oynamaz? E)Sitozin metilasyonu konjenital adrenal hiperplaziye neden olan genetik defekt aşağıdakilerden hangisindedir? E)11 -hidroksilaz Ancak RNA veya protein bazında olan değişiminden dolayı gen ürününün değişmesine bu ad verilir? E)Epigenetik değişiklik. E)Adli Tıp uygulamaları özelliklerden biri değildir? E)İçerdikleri DNA dizileri genden fakirdir E)Sekonder cinsiyet karakterleri ilgilenmez? E)Risk analizi E)Kısa boy fenotipi kadın olan bir durum ile karşılaşılabilir? E)WT1 mutasyon (Frasier & Denys-Drash Sendromu) azalır. E)Hipertrofik skarın cerrahisinde, tekrar oluşma olasılığı yüksektir. E)Radyasyon verilebilir. E) zeminde doku hasarı yoktur. salgılanmasını uyarabilir vardır E) Çoğunluğu kısa süreli etkiye sahiptir E) Epilepsi antimetabolit etkinliğine bağlıdır? E) Asetazolamid olan kişinin böbreğinde oluşan değişikliklerle ilgili aşağıdakilerden hangisi yanlıştır? silueti korunur. yüzeyinde fosfotidil serin belirir. E) Makroskopik olarak tabanı kapsüle dayanan soluk alan görülür. makrofaj aktivasyonunu sağlamaz? E)İntrauterin uygulama BÜTÜ en önemli faktördür? E)İlacın verildiği dokunun içinden geçen kan akım hızı E) Mallory cisimciği E) Fas-Fas ligand birleşmesi E) Oral ve intramusküler bağlı olarak aşağıdaki ilaçlardan hangisinin etkinliği azalır? E) Karbamazepin vezikül denir. anazarka denir E) Venlerin herhangi bir nedenle tıkanması sonucu ödem görülür düzeyindeki değişiklikler hangi toksik etkiler grubundadır? E) Teratojenik etkiler blokajı yapan ve migren profilaksisinde kullanılan ilaçtır? E) Buspiron mekanizma ile etkilerler? E) Hücre içi fosfolipid metabolizmasını uyararak aşağıdakilerden hangisinin katkısı gereklidir? E) Apopitozom yanlıştır? LDL partiküllerine bağlanırlar olarak görev yapar polimerizasyonuna bağlıdır glikoz oksidasyonu artar E) Laktoferrin, majör basic protein (MBP), defensinler bakterisidal etkilidir asağidakilerden hangisidir? E) Karaciğer 2 bulunan fosfolipidlerden biri değildir? E) Fosfotidiletanolamin birlikte kullanıldığında doz azaltımına olanak sağlar? E) Kinidin itibaren istirahat ateli uygulaması. yapılması. yapılması. E) Deformitelerin deri nakli ile tedavisi nedeniyle non-spesifik olarak gösterir? E) Asetazolamid II.Kalsitonin III. D vitamini- kalsitriol IV. Melatonin Hangi hormon kan kalsiyum dengesi üzerine etki gösterir? dozlardaki eliminasyonu 0-derece kinetiğine uyduğu için toksisite problemleri gözlenebilir? E) Karbamezapin E)İnterfazda erken replike olurlar rol oynarlar? E) hiperplazi uyum göstermemektedir? uygulandığı bilim dalı inceleyen bilim dalı. inceleyen bilim dalı. E) Developmental genetik: Gelişmenin genetik kontrolünü inceleyen bilim dalı hemoraji gelişimine katkıda bulunan enzim polimorfizmi hangisidir? E)CYP2E1 görünümünde olması görünümünde olması E) XX kromozomu taşıyan kişide testis olması hücre içi sinyalizasyon mekanizması hangi yapıları hedef alır? E) E-selectin molekülü Mide pH derecesi 1.5 olduğunda,verilen aspirin dozunun yüzde kaçı yağda -çözünür şekildedir? E) Yaklaşık %99 aşağıdaki hangi olayın sonucudur? E)İntrasellüler kalsiyumun artması önüne alındığında hangisi dolaylı yoldan endotel incinmesi yapar? E) Ateroskleroz aşağıdakilerden hangisidir? azaltma E) Karaciğer ilk geçiş etkisinden kurtulma bakımından hangisi doğru değildir? E) Hedef organların duyarlılığı değişebilir. E) Lipaz görev yapan kimyasal mediyatörler hangileridir? E) Histamin veTrombin diferansiyasyonda rol oynamaz? etkilemez? E)İlacın lipid/su partisyon katsayısı teratojenik etki ile vaginal adenozise neden olabilir? E) Dietilstilbesterol konsantrasyonudur. gücü) bir göstergesidir. bulunan EC50 değeri, radyoligand bağlanma çalışmaları ile bulunan Kd değerine eşittir. antagonistin reseptöre olan afinitesinin göstergesidir. E) Ki, antagonist molekülü-reseptör kompleksinin disosiyasyon sabitesidir. tarafından uyarılır? boyalardan hangisi için \"frozen\" kesite gereksinim vardır? E) Sitokeratin - intermediyer filamentler aşağıdakilerden hangi terim kullanılır? E) Hemotokezya karakterli bir hastalığın temelinde hangi mekanizma yatar? E) Myeloperoksidaz eksikliği göstermez? E) Makrofajlarda mikroorganizmaları öldürür I.Transmembran glikoproteinlerdir II. TNF ve IL-1, P-selectinleri aktive eder III.E-selectin,lökosit yüzeyindeki LFA-1molekülüne bağlanır IV. Ligandları, siyalilenmiş oligosakkaridler V. Selectinler temel olarak rolling'de rol oynar hangileri fosfolipid yapısındadır? I. Serotonin II. Tromboksan A2 III. PAF IV. LTB4 V. CX3C kemokinler fonksiyonunun ve regülasyonunun değişimi ile sonuçlanan modifikasyonları içerir\"cümlesi hangisini tanımlar? E) Germline mutasyon ilgilendiren bulgulara neden olurlar? E) Beyin, retiküloendotelyal sistem oksidasyon enzimlerinin sentezini artırarak (enzim indüksiyonu) kendilerinin ya da diğer ilaçların yıkımını artırır ve etkinliklerini azaltırlar. Aşağıdaki ilaçlardan hangisi bu şekilde bir enzim indüksiyonuna neden olmaz? E) Rifampin mekanizmasını en doğru şekilde özetlemektedir? ekspresyonunu aktive eder. Bcl molekülleri polimerize olur ve mitokondriye girer, mitokondri, sitokrom C'yi serbest bırakır. bağlanır. Ölüm reseptörleri oligomerize olur ve prokaspaz aktive olur. genini aktive Bax molekülleri, mitokondriyal membranda polimerize olur ve gözenekler oluşturur.Mitokondri, sitokrom c'y i serbest bırakır. E) Ras geni transmembran ölüm reseptörlerine bağlanır. Ölüm reseptörleri oligomerize olur ve prokaspaz 3'ü alırlar. Adaptörler reseptör kompleksine bağlanır ve aktive olur. görülür çıkar E) Siyanoz daha çok alt ekstremitelerde görülen pembe renk değişikliğini dile getirir atılmalıdır. artırır. sonlandırır. mekanizmadır. E) Bir ilacın kan dolaşımı dışına dağılımı ilacın etkilerini sonlandırır. söz konusu olmadığı şok türü aşağıdakilerden hangisidir? E) Anafilaktik şok nerede bulunur? E) Sitozol gereksiniminin giderek artması hangi olayın sonucudur? E) İlacı metabolize eden enzim eksikliği metabolizmasında indüksiyona neden oluyorsa bunun nedeni hangisidir? ile ilişkili olması E) Geri dönüşsüz olması E) Kalpteki infarktüs alanları soluktur rol oynayan adeziv glikoproteinlerden birisi değildir? E) Nonfibriler kollagen ilaç değildir? E) Tamoksifen yanlıştır? E) CX3C kemokin / T lenfosit kitleleri embolizme yol açmaktadır. Bu konuda aşağıdakilerden hangisi yanlıştır? felçler (inme) ortaya çıkar E) Bu venlerdeki trombüsler genellikle asemptomatiktir faktördür? E)İlacın verildiği dokunun içinden geçen kan akım hızı faktör hangisidir? E) Cinsiyet E) Eritrositlerde bulunan en sağlam hücre iskeleti mikrotübüldür. blokajı yapan ve migren profilaksisinde kullanılan ilaç tır? E) Buspiron E) Amniotik sıvı embolizmi adrenoreseptörleri aktive ederek kalp hızında artışa neden olur. Çok etkili beta stimülanların varlığında ise, kalp hızında doza-bağımlı, reversibl bir azalmaya neden olmaktadır. Bu özellikleri nedeniyle pindolol için en uygun tanımlama hangisidir? E) Parsiyel agonist yapıda olup pentamerik iyon kanalı- reseptör kompleksi özelliği gösteren reseptör aşağıdakilerden hangisidir? düşünülmektedir.İntraoküler basınçtaki artışın dışında hastanın öyküsü ve fizik muayenesinde önemli bir bulguya rastlanmamıştır. Timolol pKa;sı 9.2 olan zayıf bir bazdır. Aşağıdaki ifadelerden hangisi en doğrudur? damlalar alkalin (pH 8.0) olduğunda asidik (pH 5.0) olmalarından daha yavaştır. konsantrasyonu (pH 7.8) duodenumdaki konsantrasyonundan (pH 5.5) daha düşük olur. pH'sı asidik (pH 5.8) olduğundan daha yavaştır. yaklaşık %10 olacaktır. E) pH 10.2'de yağda daha fazla çözünen formdaki timololün oranı yaklaşık %10'dur birikimine örnek olabilecek bir hastalıktır? E) Alkolik KC hastalığı 'tutundurucu birimler'olarak kategorize edilen hücreler arası bağlantı birimlerinden iki tanesi HANGİSİDİR? occludens) occludens) adherens) E) Hemidesmozom - Oluklu bağlantı (gap junction) gastroenteroloji kliniğine başvuran hastanın yapılan endoskopisinde özofagus 30.cm'de yamalı kadifemsi hiperemik alanlar izleniyor. Bu alandan alınan biyopside skuamöz epitele komşu goblet hücreleri içeren non- neoplastik silindirik epitelle döşeli yüzey ve bezler saptanıyor. Bu olay ile ilgili hangisi doğrudur? yoktur, mide asidini azaltıcı ilaçlarla hasta iyileşir yönünde diferansiye olmasıyla oluşmuştur. basit bir şekil değişikliğidir. E) Özofagus 30.cm'de böyle bir görüntü olamaz. E) Kan magnezyum düzeyi azalır konsantrasyonunun 2 mg/L olmasını istiyorsunuz,İlacınızın biyoyararlanımı (Foral) 0,50, sanal dağılım hacmi (Vd) 25 litredir. Terapötik plazma konsantrasyonuna hızlı olarak ulaşmak isterseniz, ilacın yükleme dozu ne olmalıdır? fetüste Ebstein anomalisine neden olabilir? E) Lityum homoloji gösteren bölge aşağıdakilerden hangisidir? laboratuvarının eline geçecek şekilde kalın barsak rezeksiyon materyali gönderilecekse, bu materyalin hangi koşullarda bekletilmesi ve gönderilmesi gerekir? korunması mümkün değildir, bu nedenle derhal gönderilmeli. içerisine konması yeterli edilerek, formol dolu geniş bir kapta saklanmalı E) Büyük materyal olduğu için başka bir işlem yapmaya gerek yoktur. E)İlaç araştırmaları ilacınızın klerensi 100 ml/ dak, sanal dağılım hacmi (Vd) 50 litredir. Ortalama sabit plazma konsantrasyonunun 5 mg/L olmasını sağlamak iç in gerekli infüzyon hızı nedir? E) 25 mg/ dak süresini artıran faktör aşağıdakilerden hangisidir? kronik fenobarbital uygulanması sonrasında kronik simetidin uygulanması uzaklaştırılması E) Kronik rifampin kullanımı aşağıdakilerden hangisi yanlıştır? E) Maturasyon evresi çok uzar. fakat gebe kadınlarda yapılmış kontrolü inceleme yok\"ise bu ilaçlar teratojenik risk sınıflandırılmasında hangi kategoriye girer? aşağıdaki moleküllerden hangisi temel rol oynar? E) Bcl-2 olanları içeren şıkkı İşaretleyiniz, I -DNA, dört histon molekülü etrafında yaklaşık 2 tur atarak nükleozom yapısını oluşturur. II-Heterokromatin,kromatinin sıkı katlandığı ve aktif olmayan kısmını oluşturur. III-DNA diziliminde,tek nükleotidde oluşan değişim SNP olarak isimlendirilir. IV-Kromozom uçlarında bulunan özelleşmiş tekrar dizilerine sentromer denir, etiyolojik faktörler için belirleyici olmaktadır. Aşağıdaki İkililerden hangisi yanlıştır? E) Lökopeni / Riketsiya aşağıdaki durumlardan hangisi için geçerlidir? E) Malnütrisyon kalpte membran uyarılmasını arttırarak aritmiye yol açabilir? E) Çinko E) Frajil X sendromu E) Histon metilasyonu ilacın emilim hızını etkilemez? E)İlacın lipid/su partisyon katsayısı konjenital adrenal hiperplaziye neden olan genetik defekt aşağıdakilerden hangisindedir? E) 20,22- hidroksilaz E) Serbest oksijen radikalleri baskılayan gen bölgesi aşağıdakilerden hangisidir? E) WT1 katlanamadığı durumda küçük parçacıklarına ayrılması aşağıdaki hangi moleküller tarafından kontrol edilir? E) Ribozom yollarıdır? E) Oral ve intramusküler etkilediğinden yaşlanmayı geciktirir. E) Telomerlerde protein kodlanmaz."
+    },
+    "cevap": "C"
   }
 ]

@@ -541,7 +541,7 @@
       "B": "A: prevalans; B: Ölenler; C: İnsidans",
       "C": "A: İnsidans; B: İyileşenler/ Ölenler; C: prevalans",
       "D": "A: prevalans; B: İnsidans; C: İyileşenler/ Ölenler",
-      "E": "A: İnsidans; B: prevalans; C: İyileşenler/Ölenler"
+      "E": "A: İnsidans; B: prevalans; C: İyileşenler/ Ölenler"
     },
     "cevap": "E"
   },
@@ -719,7 +719,7 @@
     "soru_numarasi": 56,
     "soru_koku": "Aşağıdaki ifadelerden hangisi yanlıştır?",
     "secenekler": {
-      "A": "Bilim dallarının ortaya çıkış sırası Hijyen, , Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği şekildedir.",
+      "A": "Bilim dallarının ortaya çıkış sırası Hijyen, Sosyal Tıp, Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği şekildedir.",
       "B": "İlk yazılı sağlık kuralları tevratt'ta yer almaktadır.",
       "C": "Karantina dünyada ilk kez Ragusa'da uygulanmıştır.",
       "D": "İş sağlığı halk sağlığının temel alanlarındandır.",
@@ -1841,14 +1841,14 @@
       "B": "Ülkemizde hava kirliğinin sağlık üzerindeki etkilerini ulusal düzeyde değerlendiren çalışmalar yapılmaktadır.",
       "C": "Ülkemizde hava kirliliğinde partikül madde sınır değerleri açısından Dünya Sağlık Örgütü'nün belirlediği değeri kullanmaktayız",
       "D": "Hava kalitesini izleme istasyonlarında hem PM10, hem de PM2.5 düzeyleri izlenmektedir.",
-      "E": "Çevre Bakanlığı raporuna göre"
+      "E": "Çevre Bakanlığı raporuna göre Ülkemizde hava kirliliğinin en önemli nedeni evsel ısınmadır."
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 43,
-    "soru_koku": "Ülkemizde hava kirliliğinin en önemli nedeni evsel ısınmadır. Aşağıdaki ifadelerin doğru (D) ya da yanlış (Y) olduğunu belirtiniz. ( ) Ülkemizde tatlı su kaynaklarının kullanımında hanelerde su kullanımı ikinci sırada gelir. ( )Hava kirliliği Uluslararası Kanser Araştırmaları",
+    "soru_koku": "Aşağıdaki ifadelerin doğru (D) ya da yanlış (Y) olduğunu belirtiniz. ( ) Ülkemizde tatlı su kaynaklarının kullanımında hanelerde su kullanımı ikinci sırada gelir. ( )Hava kirliliği Uluslararası Kanser Araştırmaları",
     "secenekler": {
       "A": "ansı'na gore kanserojen olarak değerlendirilmektedir. ( )Atık sularda doğal biyolojik arıtma en yaygın kullanılan yöntemdir. ( )Kentlerde en önemli su kaynağı yüzeysel sulardır. ( )Suda amonyak bulunması dışkı ve idrarla kontamine olduğunu gösterir. A) DYYDY",
       "B": "YYYDD",
@@ -1867,14 +1867,14 @@
       "B": "Kanalizasyon sularının arıtılmasında bakteri yatakları en sık kullanılan yöntemdir.",
       "C": "Bireysel su klorlaması için genellikle %10'luk klor solüsyonu hazırlanır, bundan 1 lt suya 3-5 damla eklenip yarım saat beklenip içilebilir.",
       "D": "Ülkemizde katı atıkların sadece yarıya yakın bir bölümü çöp depolama tesislerine götürülmektedir.",
-      "E": "Kentlerde suların klorlanmasından Halk Sağlığı"
+      "E": "Kentlerde suların klorlanmasından Halk Sağlığı Müdürlükleri sorumludur."
     },
     "cevap": "D"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 45,
-    "soru_koku": "Müdürlükleri sorumludur. Biyopsikososyal yaklaşımın tanımına uyan ifade aşağıdakilerden hangisidir?",
+    "soru_koku": "Biyopsikososyal yaklaşımın tanımına uyan ifade aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Hastalar, hem biyolojik hem sosyolojik olarak değerlendirilmelidir.",
       "B": "Aile hekimleri hasta merkezli yaklaşımları ile, hastayı bir bütün olarak ele alırlar. Onu, yaşam hikayesi, sorunları, ailesi ve fiziksel çevresi, çalışma koşulları ile birlikte değerlendirirler.",
@@ -2487,11 +2487,11 @@
     "soru_numarasi": 92,
     "soru_koku": "Aşağıdaki bilim dallarının ortaya çıkış sırası açısından hangisi doğrudur?",
     "secenekler": {
-      "A": "Hijyen, , Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği",
+      "A": "Hijyen, Sosyal Tıp, Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği",
       "B": "Hijyen, Sanitasyon, Koruyucu Hekimlik Toplum Hekimliği, Halk Sağlığı",
       "C": "Hijyen, Halk Sağlığı, Sanitasyon, Koruyucu Hekimlik, Toplum Hekimliği",
       "D": "Sanitasyon, Hijyen, Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği",
-      "E": "Hijyen, Halk Sağlığı, Toplum Hekimliği, Koruyucu Hekimlik"
+      "E": "Hijyen, Sosyal Tıp, Halk Sağlığı, Toplum Hekimliği, Koruyucu Hekimlik"
     },
     "cevap": "A"
   },
@@ -2598,5 +2598,2605 @@
       "E": "patojenite: fatalite hızı"
     },
     "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 1,
+    "soru_koku": "Amanita muskarina zehirlenmesinde aşağıdaki hangi bulguyu görmeyi beklemeyiz",
+    "secenekler": {
+      "A": "Hipertermi",
+      "B": "Deliryum",
+      "C": "Miyozis",
+      "D": "İdrar retansiyonu",
+      "E": "Ciltte kuruluk"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 2,
+    "soru_koku": "Aşağıdaki mantar zehirlenmelerinin hangisinin tedavisinde metilen mavisi kullanılır?",
+    "secenekler": {
+      "A": "Gyrometra brunnea",
+      "B": "Amanita muscarina",
+      "C": "Cortinarius",
+      "D": "Psilocybe cubensis",
+      "E": "Coprinus atramenterius"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 3,
+    "soru_koku": "Seyahat ile ilişkili enfeksiyonlardan hangisi su ve gıda kaynaklıdır?",
+    "secenekler": {
+      "A": "AIDS",
+      "B": "Sıtma",
+      "C": "Tifo",
+      "D": "Tüberküloz",
+      "E": "Sarı humma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 4,
+    "soru_koku": "Hangisi göçlerin insidansında artışa neden olduğu enfeksiyonlardandır?",
+    "secenekler": {
+      "A": "Tularemi",
+      "B": "Tüberküloz",
+      "C": "Gonore",
+      "D": "Kuduz",
+      "E": "Bruselloz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 5,
+    "soru_koku": "Aşağıdaki durumlardan hangisinde çalışma ortamı ile hastalık arasında illiyet bağı kurulsa bile Yüksek Sağlık Kurulu tarafından meslek hastalığı sayılmaz?",
+    "secenekler": {
+      "A": "Yükümlülük süresinin aşılması",
+      "B": "Hastalığın meslek hastalıkları listesinde olmaması",
+      "C": "Maruziyet süresinin dolmaması",
+      "D": "İşçinin sigortalı olmaması",
+      "E": "Çalışanın devlet memuru olması"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 6,
+    "soru_koku": "Uzun süredir burun kanaması, burun içinde İyileşmeyen yara ve dermatit şikâyeti olan işçi büyük olasılıkla hangi işkolunda çalışıyordur?",
+    "secenekler": {
+      "A": "Darphane",
+      "B": "Plastik sanayi",
+      "C": "Akü sanayii",
+      "D": "Çelik üretimi",
+      "E": "Dezenfektan üretimi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 7,
+    "soru_koku": "Aşağıdakilerden hangisi çift etki teriminin ifade ettiği uygulamalardan biridir?",
+    "secenekler": {
+      "A": "Solunum aygıtına bağlı bir hastada aygıtın kapatılması",
+      "B": "Yoğun ağrısı olan yaşamın son dönemindeki hastanın yüksek doz morfinle tedavisi",
+      "C": "Bireyin karaciğer nakli bekleme listesinden çıkartılması",
+      "D": "Kuadriplejik hasta için potasyum yemeği içeren pipetli beslenme düzeneği hazırlanması",
+      "E": "Hastaya öldürücü dozda sedatif verilmesi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıda yer alan onam çeşitlerinden hangisi hukuki açıdan geçerliliği bulunmamaktadır?",
+    "secenekler": {
+      "A": "Açık onam",
+      "B": "Genel onam",
+      "C": "İma edilen onam",
+      "D": "Varsayılan onam",
+      "E": "Zımni onam"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 9,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "ülkemizde kişilerin %88'i günlük 5 porsiyon taze sebze ve meyve tüketimi önerisini karşılayamamaktadır.",
+      "B": "bel çevresi erkekte 94, kadında 80 cm'den az olmalıdır.",
+      "C": "bel/boy oranı sadece yetişkinler için önerilen bir ölçüttür.",
+      "D": "obezite tip 2 diyabetin %80 nedenidir.",
+      "E": "Türkiye hastalık yükü çalışmasına göre kadınların obezitesi önlenebilirse ölümlerde %15.8 i önlenebilirdi."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 10,
+    "soru_koku": "Aşağıdakilerden hangisi doğumda saptanan risklerdendir?",
+    "secenekler": {
+      "A": "Preeklampsi",
+      "B": "Polihidramnios",
+      "C": "Ablatio plasenta",
+      "D": "Plasenta retansiyonu",
+      "E": "Plasenta previa"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 11,
+    "soru_koku": "Ülkemizde hava kalitesi izleminde aşağıdaki seçeneklerden hangisi kullanılmamaktadır?",
+    "secenekler": {
+      "A": "PM 2.5",
+      "B": "SO2",
+      "C": "O3",
+      "D": "CO",
+      "E": "NO2"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 12,
+    "soru_koku": "Ailecek yenilen öğle yemeği sonrası halsizlik, kusma, ishal bulgularıyla acil servise başvuran hastaların birinde solunum sıkıntısı ve paralizi saptanmış, yoğun bakım koşullarında izlenmesine karar verilmiştir. Bu vakaların yönetiminde ilk önce hangi etkeni düşünürsünüz?",
+    "secenekler": {
+      "A": "Salmonella",
+      "B": "Brucella",
+      "C": "C. botulinum",
+      "D": "B. cereus",
+      "E": "E. coli"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdakilerden hangisi en sık görülen meslek hastalığıdır?",
+    "secenekler": {
+      "A": "Gürültüye bağlı işitme kaybı",
+      "B": "Kurşun maruziyetine bağlı meslek hastalığı",
+      "C": "Pnömokonyozlar",
+      "D": "Astım",
+      "E": "Mesleki deri hastalıkları"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 14,
+    "soru_koku": "Sadece epidermisi ilgilendiren sıyık şeklindeki künt travmatik yaraya ne isim verilir?",
+    "secenekler": {
+      "A": "Laserasyon",
+      "B": "Abrazyon",
+      "C": "Ekimoz",
+      "D": "Fraktür",
+      "E": "Hiçbiri"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 15,
+    "soru_koku": "Bulaşıcı hastalıklarla ilgili kavramlar ve örneklerinden yanlış olanı belirtiniz?",
+    "secenekler": {
+      "A": "Tropizm-HBV in karaciğer dokusuna yerleşmesi",
+      "B": "Transmisibilite-Kızamığın yaygın bulaşı",
+      "C": "Virulans-Kuduz mortalitesinin yüksek olması",
+      "D": "Portör- Şu anda enfeksiyona açık olan kişi",
+      "E": "Enfestasyon-Uyuz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 16,
+    "soru_koku": "Aşağıdakilerden hangisi Alma Ata Bildirgesine yanıt olarak UNICEF'in önerdiği \"Seçici Temel Sağlı Hizmetlerinden değildir?",
+    "secenekler": {
+      "A": "Çocuklarda endemik hastalıkların erken tedavisi",
+      "B": "Çocuklarda Büyüme gelişmenin izlenmesi",
+      "C": "Oral Rehidratasyon Tedavisi",
+      "D": "Anne sütü",
+      "E": "Bağışıklama"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 17,
+    "soru_koku": "Aşağıdakilerden hangisi olağandışı durumlarda Özellikle dikkat edilmesi gereken çevre sağlığı hizmetlerinden biri değildir?",
+    "secenekler": {
+      "A": "Yeteri kadar barınma yerinin sağlanması",
+      "B": "Yeterli miktarda ve kolay elde edilebilir nitelikte su sağlanması",
+      "C": "Atıkların zararsız hale getirilmesi",
+      "D": "Merkezi mutfakların kurulması",
+      "E": "Vektör kontrolünün sağlanması"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 18,
+    "soru_koku": "()Ülkemizde kronik hastalık ölümlerinin en büyük kısmı kanser nedeniyledir ()Obezitenin engellenmesi DM için birincil korumadır ()Kolorektal kanserler ülkemizde kadın ve erkeklerde 3 sırada yer almaktadır () Dünyada toplam ölümlerin %74'ü Bulaşıcı Olmayan Hastalıklar nedeniyledir. () Gelişmiş ülkelerde yaşlı oranının yüksek olması nedeniyle Bulaşıcı Olmayan Hastalıklar daha yüksek oranda görülmektedir. Yukarıdaki ifadelerin doğru ya da yanlış olarak değerlendirildiği seçeneği İşaretleyiniz.",
+    "secenekler": {
+      "A": "YDDYY",
+      "B": "YDDDY",
+      "C": "DYYDD",
+      "D": "DDYYD",
+      "E": "DYDYY"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 19,
+    "soru_koku": "İş sağlığı mevzuatına göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Ağır ve tehlikeli işler yönetmeliğine göre kadın ve çocuklar her işte çalışabilirler.",
+      "B": "100 kadın işçi çalıştıran işyerlerinde 0-6 ay çocuklar için kreş kurulması zorunludur.",
+      "C": "Şu an yürürlükte olan İş Kanunu Cumhuriyet döneminden itibaren yürürlüğe giren üçüncü İş Kanunudur.",
+      "D": "C sınıfı iş güvenliği uzmanları her tehlike sınıfındaki iş kolunda görev alabilirler.",
+      "E": "Umumi hıfzısıhha kanunu (1930) iş sağlığı ile ilgili hükümler içeren mevzuat metnidir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 20,
+    "soru_koku": "Demografik dönüşüm ile ilgili aşağıdaki seçeneklerden doğru olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Ülkemiz demografik dönüşümün 3. aşamasının başlarındadır.",
+      "B": "2. evrede yaşanan nüfus artışı fertilite hızının yükselmesine bağlıdır.",
+      "C": "2. evrede ölümlerin azalması tıptaki gelişmeler sayesinde olmuştur.",
+      "D": "3. evrede fertilitedeki düşüşe kontraseptiflerin kullanıma girmesi yardımcı olmuştur.",
+      "E": "nüfusun yerine koyma düzeyi genel doğurganlık hızının"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 21,
+    "soru_koku": "2.1 olmasıdır. Güneydoğu Anadolu Bölgesinde tifo olgularının sürekli) Yüksek düzeyde görülmesine.... denir.Boşluğa ne gelmelidir",
+    "secenekler": {
+      "A": "Endemi",
+      "B": "Hiperendemi",
+      "C": "Epidemi",
+      "D": "Outbreak",
+      "E": "Pandemi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 22,
+    "soru_koku": "Ülkemizde isteğe bağlı gebeliğin sonlandırılması işlemi yasal hak olarak kaçıncı gebelik haftası ile sınırlandırılmıştır?",
+    "secenekler": {
+      "A": "6. hafta",
+      "B": "8. hafta",
+      "C": "10. hafta",
+      "D": "12. hafta",
+      "E": "20. Hafta"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıda belirtilen seçeneklerden ifade edilen bilgilerin doğru ya da yanlış olduğunu yandaki kutucuğa doldurunuz ( ) Dünyada 0-5 yaş çocuklarda beslenme sorunları içinde zayıflık en fazla görülen sorundur ( ) 5 yaş altı ölümlerin yaklaşık olarak yansı kötü beslenme ile ilişkilidir. ( ) çocuk obezitesi özellikle düşük-orta gelirli ülkelerde artmaktadır. ( )2018 Türkiye Nüfus Sağlık Araştırmasına göre 0-5 yaş grubunda beslenme bozuklukları kapsamında bodurluk en çok görülen sorundur.",
+    "secenekler": {
+      "A": "DYYD",
+      "B": "DDDD",
+      "C": "YDYD",
+      "D": "DDYY",
+      "E": "YDDY"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 24,
+    "soru_koku": "Sağlık Ocağı dönemi ile onu izleyen ve halen uygulanmakta olan Aile Hekimliği sistemindeki birinci basamak yapılanmaları eşleştirildiğinde doğru eşleşme / eşleşmeler hangi seçenekte verilmiştir? 1- Sağlık Evleri 2- Sağlık grup başkanlıkları 3- Sağlık Ocakları A-Aile Hekimliği Birimleri B- İlçe Sağlık Müdürlükleri",
+    "secenekler": {
+      "A": "1A, 3B",
+      "B": "1A, 2B",
+      "C": "1B, 2A",
+      "D": "2B, 3A",
+      "E": "2A, 3B"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdaki durumlardan hangisi mevzuata göre iş kazası kabul edilmez?",
+    "secenekler": {
+      "A": "İşçinin işyeri yemekhanesinde kavga edip yaralanması",
+      "B": "Kadın işinin İşyeri emzirme odasında çocuğuna süt vermesi sırasında yaralanması",
+      "C": "İşçinin iş dönüşü işçi servis otobüsünün yer aldığı kazada yaralanması",
+      "D": "Bir İşverenin kendi işyerinde ücretsiz çalışan eşinin işyeri İçerisinde kazaya uğraması",
+      "E": "İşyerinde intihar etmesi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 26,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduğunu belirten seçenek hangisidir? ( )Ülkemizde malnutrisyon göstergeleri içinde boya göre ağırlık ve yaşa göre ağırlık benzer duzeydedir. ()Dünyada beş yaş altı ölümlerin %70'i ilk bir yaşta gerçekleşir. ( )Ülkemizde 1-4 yaş grubu ölümlerde pnömonilk sırada yer almaktadır. ()Gelişmekte olan ülkelerde ASYE görülme sıklığ gelişmiş ülkelere göre daha yüksektir.",
+    "secenekler": {
+      "A": "YDYD",
+      "B": "DDYY",
+      "C": "DDDY",
+      "D": "DYDY",
+      "E": "YDYY"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 27,
+    "soru_koku": "Tıbbi Deontoloji Nizamnamesi maddelerinden aşağıdakilerden hangileri insan üzerine araştırmalar hakkında hüküm içermektedir?",
+    "secenekler": {
+      "A": "1 ve 2",
+      "B": "5 ve 6",
+      "C": "8 ve 9",
+      "D": "10 ve 11",
+      "E": "15 ve 16"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 28,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Hava kirliliğine bağlı ölümler dünyada tüm olümlerin %11.6 sını oluşturur.",
+      "B": "Belediye atıklarının yaklaşık %70 i düzenli depolama alanlarında bertaraf edilmektedir.",
+      "C": "Belediyelerin atık su arıtmada en çok kullandıkları yöntem biyolojik arıtmadır.",
+      "D": "Belediyelerin büyük çoğunluğunda atık su artıma tesisi vardır.",
+      "E": "DSO 2021 yılında hava kalitesi göstergelerine göre PM 10 yıllık 15, günlük 45 mg/m3 dür."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 29,
+    "soru_koku": "Aşağıdakilerden hangisinde yer alan etkenlerin, tamamı kanserojendir?",
+    "secenekler": {
+      "A": "Benzen-krom-civa",
+      "B": "Arsenik- demir tozu- kadmiyum",
+      "C": "Benzidin- İyonizan radyasyon- nikel",
+      "D": "Asbest-vinil klorür- amonyak",
+      "E": "Silis, kurşun, demir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 30,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduğunu belirtiniz ( )Ülkemizde tatlı su kaynaklarının kullanımında tarım sektörü ikinci sırada gelir ( )Hava kirliliği Uluslararası Kanser Araştırmaları",
+    "secenekler": {
+      "A": "ansı'na göre kanserojen olarak değerlendirilmektedir ( )Atık sularda doğal biyolojik arıtma en yaygın kullanılan yöntemdir ( )Kentlerde en önemli su kaynağı yüzeysel sulardır ( )Suda amonyak bulunması dışkı ve idrarla kontamine olduğunu gösterir A)DDYDD",
+      "B": "YDYDY",
+      "C": "DYYDY",
+      "D": "YDYDD",
+      "E": "DYDYD"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 31,
+    "soru_koku": "Dünya Sağlık Örgütü tanımına göre aşağıdakilerden hangisi sağlıklı yaşlanmanın temel bileşeni olarak kabul edilmektedir?",
+    "secenekler": {
+      "A": "Mortalite",
+      "B": "Yaşam standardı",
+      "C": "Kronik hastalıklar",
+      "D": "İşlevsel kapasite",
+      "E": "Uyku kalitesi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 32,
+    "soru_koku": "Kişinin niteliklerine uygun olan bir işe yerleştirilmesini amaçlayan muayene çeşidi hangisidir?",
+    "secenekler": {
+      "A": "Sistematik muayene",
+      "B": "İlk Muayene",
+      "C": "İşe giriş muayenesi",
+      "D": "Aralıklı muayene",
+      "E": "Periyodik muayene"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 33,
+    "soru_koku": "-",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 34,
+    "soru_koku": "Son zamanlarda konuşma bozukluğu yaşadığı, elleri titrediği için dolgu yaparken zorlandığı için hekime başvuran X Üniversitesi Diş Hekimliği bölümü asistanlarından Emircan aşağıdakilerden hangisine maruz kalmıştır?",
+    "secenekler": {
+      "A": "Krom",
+      "B": "Civa",
+      "C": "Bakır",
+      "D": "Arsenik",
+      "E": "Kurşun"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 35,
+    "soru_koku": "Sağlık Finansman modellerinden \"Singapur Modeline\" (TIBBİ TASARRUF HESABI) diğer finansman modelleri içinde \"finansman kaynağı ve riskler açısından en çok benzer olanı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Genel Bütçe (Beveridge)",
+      "B": "Sosyal Sigorta (Bismack)",
+      "C": "Cepten harcama",
+      "D": "Özel Sigorta",
+      "E": "Genel Bütçe (Semashko)"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 36,
+    "soru_koku": "2 yıldır iplik fabrikasında çalışan işçi nefes alırken zorlandığını, hafta başında şikayetlerinin arttığını belirterek öksürük ve balgam yakınmalarıyla işyeri hekimine başvurmuştur. Bu işçide aşağıdaki tanılardan hangisini ilk olarak düşünülmelidir?",
+    "secenekler": {
+      "A": "Silkozis",
+      "B": "Asbestozis",
+      "C": "Berilyozis",
+      "D": "Siderozis",
+      "E": "Bisinosiz"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 37,
+    "soru_koku": "Halen yürürlükte olan mevzuat açısından değerlendirildiğinde aşağıdakilerden biri dışında hepsi Türkiye'de \"Yasa Gücünde olan metinlerdir. Yasa gücünde olmayanı işaretleyin.",
+    "secenekler": {
+      "A": "Uluslararası Antlaşmalar",
+      "B": "Kanun Hükmünde Kararname (KHK)",
+      "C": "Cumhurbaşkanlığı Karanameleri",
+      "D": "Osmanlı mevzuatı",
+      "E": "Uluslararası yaptırımlar"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 38,
+    "soru_koku": ")Aşağıdaki ifadelerin doğru ya da yanlış olduklarını belirtiniz ( ) Klorlanacak suyun bir litresinin içindeki organik maddelerce bağlandıktan sonra ortamda kalan klor miktarına aslan payı denir ( )Kaynak suları ile içme ve kullanma sularının pH'ının 7.0- 8.5 arasında olması istenir ( )Sularda organik madde bulunmaması istenir fakat hemen hemen bütün sularda organik madde bulunduğundan içme suları standartlarına göre toplam organik madde miktarının 3,5 mg'ı geçmemesi istenmiştir ( )Suyun bakteriyolojik analizinde e. Coli aranır ( )Sudaki iyot düzeyi fiziksel çevredeki iyot düzeyinin göstergesidir Havada, toprakta, et, süt ve diğer gıdalardaki iyot miktarı neyse sudaki iyot miktarı da o kadardır",
+    "secenekler": {
+      "A": "DDYYD",
+      "B": "YDDDD",
+      "C": "YDDDY",
+      "D": "YDYDY",
+      "E": "DDYDD"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 39,
+    "soru_koku": "Toplumun daha az sigara tüketimi için \"sigara satış fiyatlarının artırılması\", müdahale biçimi olarak aşağıdakilerin en çok hangisine uyar?",
+    "secenekler": {
+      "A": "Risk yaklaşımı",
+      "B": "İkincil korunma",
+      "C": "Üçüncül koruma",
+      "D": "Sağlığı geliştirme",
+      "E": "Minimal (asgari) hizmet"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 40,
+    "soru_koku": "1980 yılında Engel tarafından sistematikleştirilen Biyopsikososyal model tarihsel açıdan hangi coğrafi noktadan kaynaklanmaktadır?",
+    "secenekler": {
+      "A": "Kos Adası",
+      "B": "Madrid",
+      "C": "Bergama",
+      "D": "Roma",
+      "E": "Atina"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 41,
+    "soru_koku": "Aşağıdaki müdahalelerden hangisi neonatal bebek ölüm hızını düşürmez?",
+    "secenekler": {
+      "A": "Düşük doğum ağırlıklı bebek oranının azaltmak",
+      "B": "Anneleri gebelik döneminde gerektiği kadar izlemek",
+      "C": "Doğumların hastanede ve temiz koşullarda yapılmasını sağlamak",
+      "D": "Tüm bebekleri bağışık hale getirmek",
+      "E": "Sağlık personelini neonatal resüsitasyon konusunda eğitmek"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 42,
+    "soru_koku": "Bulaşıcı hastalıkları kontrol altına almak için aşağıdakilerden hangisi konağa yönelik önlemlerdendir?",
+    "secenekler": {
+      "A": "Bildirim",
+      "B": "Erken tanı",
+      "C": "Filyasyon",
+      "D": "Kemoprofilaksi",
+      "E": "Suların dezenfeksiyonu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 43,
+    "soru_koku": "Sağlık çalışanlarına hangi sorumluluk ilkesi İhlalinde tazminat davası açılabilir?",
+    "secenekler": {
+      "A": "Cezai sorumluluk",
+      "B": "Hukuki sorumluluk",
+      "C": "İdari sorumluluk",
+      "D": "Mesleki sorumluluk",
+      "E": "Hiçbiri"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 44,
+    "soru_koku": "Evde birlikte yaşadıkları dedelerinin tüberküloz tanısı alması üzerine aile üyelerine izoniazid başlanması aşağıdakilerden hangisine bir örnektir?",
+    "secenekler": {
+      "A": "Seroproflaksi",
+      "B": "Filyasyon",
+      "C": "Hipersensitivite",
+      "D": "Kemoproflaksi",
+      "E": "Bağışıklama"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 45,
+    "soru_koku": "Böceklerin yaşam döngüsünü inceleyerek çürümüş cesetlerde ölüm zamanı konusunda değerlendirme yapan adli bilim dalı hangisidir?",
+    "secenekler": {
+      "A": "Toksikoloji",
+      "B": "Tanatoloji",
+      "C": "Genetik",
+      "D": "Entemoloji",
+      "E": "Balistik"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 46,
+    "soru_koku": "Tıp dışı eğitimde \"yüksek lisans\" lise sonrası kaç yıllık eğitime karşı gelir?",
+    "secenekler": {
+      "A": "2 yıl",
+      "B": "3 yıl",
+      "C": "4 yıl",
+      "D": "5 yıl",
+      "E": "6 yıl"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 47,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Malnütrisyonda kadınlar, bebekler, çocuklar ve ergenler en önemli risk grubudur",
+      "B": "2025 Küresel Beslenme Hedefleri'nden birisi de çocuk obezitesinin %10 azaltılması vardır.",
+      "C": "Dünyada iyot eksikliği %12 dir",
+      "D": "Dünyada anemi sıklığı %29.9 dur.",
+      "E": "Ülkemizde hafif düzeyde iyot eksikliği bulunmaktadır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 48,
+    "soru_koku": "-",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 49,
+    "soru_koku": "Aşağıdakilerden hangisi adli olgu değildir?",
+    "secenekler": {
+      "A": "Kesici alet yaralanması",
+      "B": "Zehirlenme",
+      "C": "Ateşli silah yaralanması",
+      "D": "Mide ülseri",
+      "E": "Ağaçtan düşme"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdakilerden hangisi anne sağlığı düzeyini ve sağlık hizmetlerinin doğum öncesi ve sırasında yeterli olup olmadığını gösteren bir ölçüttür?",
+    "secenekler": {
+      "A": "Perinatal ölüm hızı",
+      "B": "Beş yaş altı ölüm oranı",
+      "C": "Postneonatal ölüm hızı",
+      "D": "Neonatal ölüm hızı",
+      "E": "Ölü doğum oranı"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 51,
+    "soru_koku": "Yönetimde \"İş Bölümü yönetimin en çok hangi ögesi ile ilişkilidir?",
+    "secenekler": {
+      "A": "Planlama",
+      "B": "Örgütlenme",
+      "C": "Koordinasyon",
+      "D": "Raporlama",
+      "E": "Bütçeleme"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 52,
+    "soru_koku": "Bulaşıcı hastalık bildirim sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Sentinel sürveyans C grubu hastalıklar için uygulanmaktadır.",
+      "B": "En acil şekilde ihbarının yapılması zorunlu olan hastalıklar A grubunda yer almaktadır.",
+      "C": "C grubu hastalıklar ülke genelindeki resmi ve özel bütün sağlık kuruluşlarından ve özel hekimlerden bildirimi yapılacak olan hastalıklardır.",
+      "D": "Aşı ile önlenebilir hastalıkların bildirimi D grubu hastalıklar formlarıyla yapılmaktadır.",
+      "E": "Ülkemizde uygulanmakta olan sisteme aktif bildirim denir. aktif bildirim denir."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 53,
+    "soru_koku": "Aşağıdaki ifadelerden doğru olanı işaretleyiniz İfade 1- Halk Sağlığının temel bilimleri sağlık ekonomisi ve etiktir. İfade 2- Halk Sağlığının dayandığı ve alt disiplinlerin uygulanmasını sağlayan 3 bilimsel değişken, Kişi, Yer ve Zaman'dır. İfade 3- Halk Sağlığının tanı yöntemleri Sosyoloji ve Antropolojidir. İfade 4- Halk Sağlığın sosyal bilim alanları içinde demografi ve sağlık psikoloji sayılabilir. İfade 5- Halk Sağlığı tanı bilimi epidemiyolojidir.",
+    "secenekler": {
+      "A": "1, 2, 3",
+      "B": "2,3",
+      "C": "2,4",
+      "D": "4,5",
+      "E": "1,5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 54,
+    "soru_koku": "Aşağıdakilerden hangisi anne ölümleri için biyomedikal risk faktörlerinden biri değildir?",
+    "secenekler": {
+      "A": "Annede anemi varlığı",
+      "B": "Annede obezite varlığı",
+      "C": "Annenin sigara kullanımı",
+      "D": "Annenin 18 yaşından küçük olması",
+      "E": "Annenin boyunun kısa olması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 55,
+    "soru_koku": "Olağandışı durumlar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Birincil korunma olağan dışı durumların en önemli kısmıdır",
+      "B": "Olağandışı durum riskine karşı kapsamlı ve olabildiğince çok insanı kapsayan koruyucu bir yaklaşım geliştirilmelidir",
+      "C": "Yardıma gereksinimi olan çok sayıdaki insanın tamamına müdahale edilebilmesi için tıbbi karar verme ve tercih etme işlemine triyaj denir",
+      "D": "Triyajda yaşam kurtarıcı acil girişim gerektiren, müdahale önceliği olan yaralılar yeşil renk ile İşaretlenir",
+      "E": "Afete özgü bir aşı yapmaya gerek yoktur. Acil dönem geçtikten ve hizmetler oturmaya başladıktan sonra rutin aşılama takvimine devam edilmesi yeterlidir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 56,
+    "soru_koku": "Aşağıdakilerden hangisinde salgın incelemesi yapılmasına gerek yoktur?",
+    "secenekler": {
+      "A": "Hastanede yatan hastalarda aynı tarihte yapılan sistoskopi sonrası ortaya çıkan klebsiella vakaları",
+      "B": "Düğün yemeği sonrası aynı sürede ortaya çıkan çok sayıda enterit vakası",
+      "C": "Doğrulanmış kesin tanı konulmuş bir kolera vakası",
+      "D": "İnsektisitlerle kontamine olmuş gıda maddelerine maruziyet sonrası ortaya çıkan vakalar",
+      "E": "Aralarında epidemiyolojik bağlantı olmayan, bir önceki zaman birimine göre benzer sayıda karın ağrısı vakaları"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 57,
+    "soru_koku": "Aile hekimliğinde Biyopsikososyal yaklaşımı en doğru tanımlayan ifade aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Biyolojik parametrelerin, sosyolojik ölçümlerle paralel olması gerektiğini ifade etmektedir.",
+      "B": "Hastaların hem biyolojik hem de sosyolojik olarak değerlendirilmesi gerektiği bilinmelidir.",
+      "C": "Aile hekimleri hasta merkezli yaklaşımları ile, hastayı bir bütün olarak ele alarak ilgilenirler. Onu, yaşam hikayesi, sorunları, ailesi ve fiziksel çevresi, çalışma koşulları ile değerlendirirler.",
+      "D": "Biyolojik bozuklukların ne tür sosyal sorunlara yol açacağını tahmin etmek zordur.",
+      "E": "Hastaların yakınmalarına bakılmaksızın her şeyden önce psikometrik testlerinin yapılması gerektiğinin önemini vurgulamaktadır."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 58,
+    "soru_koku": "\"Ulysses kontratı\" aşağıdaki klinik tablolardan hangisinde geçerli olan bir aydınlatılmış onam yöntemidir?",
+    "secenekler": {
+      "A": "Çocuk hastalar",
+      "B": "Şizofreni hastaları",
+      "C": "Gebelik",
+      "D": "Yenidoğan",
+      "E": "Akıl hastaları"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağıdakilerden hangisi Ottawa Konferansında sağlık için ön koşul olarak gösterilmemiştir?",
+    "secenekler": {
+      "A": "Barış",
+      "B": "Eğitim",
+      "C": "Sağlık Örgütü",
+      "D": "Sosyal adalet ve hakkaniyet",
+      "E": "Barınma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 60,
+    "soru_koku": "Eliminasyon-eradikasyon programlarında hangi sürveyans yöntemi kullanılmalıdır?",
+    "secenekler": {
+      "A": "Sentinel sürveyans",
+      "B": "Pasif sürveyans",
+      "C": "Aktif sürveyans",
+      "D": "Biyolojik sürveyans",
+      "E": "Davranış sürveyansı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 61,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Dünyada her sekiz kişiden biri obezdir",
+      "B": "Obezitenin en önemli nedeni obezojenik çevredir.",
+      "C": "Tip2 diyabetin %80 nedeni obezitedir",
+      "D": "Obezitenin önlenmesi durumunda ülkemizdeki ölümlerin dörtte biri önlenebilir.",
+      "E": "Ülkemizde Sağlık Bakanlığı'nın obezitenin önlenmesine yönelik bir programı vardır"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 62,
+    "soru_koku": "Sağlık çalışanlarının adli olgu bildirimi yapmaları ile İlgili Türk Ceza Kanunu maddesi hangisidir?",
+    "secenekler": {
+      "A": "86",
+      "B": "280",
+      "C": "87",
+      "D": "279",
+      "E": "4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 63,
+    "soru_koku": "Aşağıdakilerden hangisi sağlığı geliştirme stratejilerinin uygulanmasıyla uzun dönemde elde edilecek çıktılardan biri değildir?",
+    "secenekler": {
+      "A": "Yaşam süresinin artması",
+      "B": "Risk faktörlerinin azalması",
+      "C": "Hastalıkların azalması",
+      "D": "Yaşam kalitesinin artması",
+      "E": "Sağlık göstergelerinin iyileşmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 64,
+    "soru_koku": "Aşağıdaki İfadelerin doğru ya da yanlış olduklarını belirtiniz. ( ) Kalsiyum ve magnezyum bikarbonat suda kalıcı sertliğe yol açar. ( ) Sulardaki organik madde miktarı absorbe ettiği oksijen miktarı ile belirlenir. ( ) Suda amonyak bulunması dışkı ve idrarla kontamine olduğunu tek başına gösteren bir ölçüt değildir. ( ) Suyun bakteriyolojik analizinde koli basilinin bulunması diğer mikroorganizmaların da bulunduğunu göstermez. () Su kaynaklan yüksek düzeyde nitrat içeren ülkelerde infantil methemoglobinemi ve buna bağlı ölümler bildirilmiştir.",
+    "secenekler": {
+      "A": "YDYYD",
+      "B": "YYDDY",
+      "C": "DYDDY",
+      "D": "YDDYY",
+      "E": "DDYDD"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 65,
+    "soru_koku": "\"Yaşla birlikte organ-sistemlerde fizyolojik rezervin azalması sonucunda gelişen artmış hassasiyet\" hangisini tanımlamaktadır?",
+    "secenekler": {
+      "A": "Sarkopeni",
+      "B": "Osteoporoz",
+      "C": "Kırılganlık",
+      "D": "Geragoji",
+      "E": "Morbidite"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 66,
+    "soru_koku": "Aşağıdakilerden hangisi künt travmatik yara değildir?",
+    "secenekler": {
+      "A": "Abrazyon",
+      "B": "Laserasyon",
+      "C": "Maserasyon",
+      "D": "Ekimoz",
+      "E": "Kontüzyon"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 67,
+    "soru_koku": "Aile Hekimliğinin temel taşları olarak görülen kavramlardan birisi olan \"Tek Sağlık\" hangi bileşenlerin sağlık olgusunu irdelemektedir? I- İnsan II- Hayvan III- Çevre",
+    "secenekler": {
+      "A": "Sadece I",
+      "B": "I ve III",
+      "C": "Sadece III",
+      "D": "I+II+III",
+      "E": "I ve II"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 68,
+    "soru_koku": "Bulaşıcı olmayan hastalıklar ile ilgili aşağıdaki seçeneklerden yanlış olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Ülkemizde kadınlarda obezite sıklığı Avrupa Ülkelerinin neredeyse iki katı yüksekliktedir",
+      "B": "Dünyada 70 yaş öncesi Bulaşıcı olmayan hastalık ölümlerin%77'si düşük orta gelirli Ülkelerde gerçekleşmektedir.",
+      "C": "Hava kirliliği Bulaşıcı olmayan hastalıklar için çevresel bir risk faktörüdür.",
+      "D": "Bulaşıcı olmayan Hastalıklar kontrolünde korumada öncelik risk faktörlerinin kontrolüne verilmelidir.",
+      "E": "Bulaşıcı Olmayan Hastalık kontrolünde sağlık hizmetlerinin 2. ve 3. basamağına öncelik vermek gerekir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 69,
+    "soru_koku": "Aşağıdakilerden hangisi halk sağlığının uygulama alanlarından olmayan temel alanlarından biridir?",
+    "secenekler": {
+      "A": "Toplum Ruh Sağlığı",
+      "B": "İş sağlığı",
+      "C": "Epidemiyoloji",
+      "D": "Ana sağlığı",
+      "E": "Çevre sağlığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 70,
+    "soru_koku": "Aşağıdakilerden hangisi ülkemizde hekimlere yüklenmiş yükümlülüklerden biri değildir?",
+    "secenekler": {
+      "A": "En etkili ve en ekonomik tedaviyi saptayarak hastaya uygulamak",
+      "B": "Acil durumdaki hastalara öncelikle ilk yardım uygulamak",
+      "C": "Klinik araştırmalarda yer alacak hastalardan klinik ilaç araştırmaları kurallarına uygun biçimde izin almak",
+      "D": "Ötenazi işlemlerini gerçekleştirmek",
+      "E": "Hastaları bilgilendirerek aydınlatılmış onamlarını almak"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 71,
+    "soru_koku": "Ülkemiz güncel veriler ışığında, 65 yaş ve üzeri bireylerin tüm topluma oranını gösteren özellik açısından nasıl bir toplum olma özelliğine sahiptir?",
+    "secenekler": {
+      "A": "Genç toplum",
+      "B": "Erişkin toplum",
+      "C": "Yaşı toplum",
+      "D": "Çok yaşlı toplum",
+      "E": "Orta yaşlı toplum"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 72,
+    "soru_koku": "Türkiye'nin sağlık finansman modeli ile doğrudan ya da dolaylı ilgisi olan saptamaları kapsayan seçenek hangisidir? 1- Sağlığın Genel bütçeden finansmanı 2- Sağlığın Genel Sağlık Sigortası ile finansmanı 3-Toplam vergi geliri içinde \"doğrudan vergilerin payı\" %75 civarında 4- Ulusal gelirden sağlığa ayrılan pay %10'lar civarında 5-Cepten harcamalar %20 civarında",
+    "secenekler": {
+      "A": "1, 2, 3",
+      "B": "2, 4, 5",
+      "C": "2,5",
+      "D": "4,5",
+      "E": "2,3"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıdakilerden hangisi, \"Sağlık Sorunlarının ÖNCELİKLİ olanlarının belirlenmesinde kullanılan parametrelerden DEĞİLDİR?",
+    "secenekler": {
+      "A": "Sorunun ciddiyeti",
+      "B": "Sorunun sıklığı",
+      "C": "Sorunun stratejik önemi",
+      "D": "Sorunun toplum açısından bir sorun olarak Kabul edilebilirliği",
+      "E": "Sorunun kontrol edilebilirliği"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 74,
+    "soru_koku": "Enfeksiyon zincirinin bileşenleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Enfeksiyon etkenin yaşamını sürdürebilmek için gerekli olan canlı ya da cansız varlıklara enfeksiyon kaynağı denir.",
+      "B": "Hastalığın yayılımının önlenmesi açısından en önemli müdahale noktası kaynağa yöneliktir.",
+      "C": "Konakçıya giriş yolu her ne olursa olsun neden olduğu hastalık sistemik şekilde seyredebilir.",
+      "D": "Çevre etken, bulaşma yolu ve konakçının her üçünü birden etkileyerek hastalıkların yayılmasında rol oynar.",
+      "E": "Konakçının enfeksiyon etkenine karşı savunma mekanizması yoktur."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 75,
+    "soru_koku": "Aşağıda yaşlı sağlığı ile ilgili ifadelerden doğru olanı seçeneği işaretleyiniz",
+    "secenekler": {
+      "A": "Ülkemizde yaşlı sağlığı açısından sağlık ve sosyal hizmetleri bir arada sunan bir birinci basamak sağlık hizmeti bulunmaktadır.",
+      "B": "Ülkemizdeki yaşlıların üçte biri okur yazardır.",
+      "C": "Yaşlılarda düşmelerin önlenmesi yaşlı sağlığında öncelikli eylem alanlarından biridir.",
+      "D": "Yaşlılarda hepatit B aşısı önerilmemektedir.",
+      "E": "Malnütrisyon bu yaş grubu için önemli mortalite ve morbidite nedeni değildir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 76,
+    "soru_koku": "Koruyucu hekimlik ve toplum hekimliği ilk kez hangi ülkede ortaya çıkmıştır?",
+    "secenekler": {
+      "A": "İngiltere",
+      "B": "Fransa",
+      "C": "ABD",
+      "D": "İrlanda",
+      "E": "Almanya"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 77,
+    "soru_koku": "Türkiye'nin birinci basamak sağlık hizmetleri kapsamında aktif olarak izlediği risk gruplan aşğıda sırlanmıştır. Hangisi / hangileri risk grubu olarak sayılır? 1-Bebekler -Çocuklar (12-59 aya kadar olanlar) 2-Yoksullar 3- Doğurgan çağdaki kadınlar 4- Gebeler-Lohusalar 5-Yaşlılar - Engelliler",
+    "secenekler": {
+      "A": "1,2,5",
+      "B": "1,3,4",
+      "C": "1,2,3,4",
+      "D": "1,2,3,5",
+      "E": "1,3,4,5"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 78,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Ülkemizde hipertansiyon tanısı konan bireylerin sadece %8.9 unun tedavisi kontrol altındadır.",
+      "B": "Türkiye'de kişi başı alkol tüketimi dünya ortalamasının altındadır.",
+      "C": "Ülkemizde hipertansiyon prevalansı %30.8 dir",
+      "D": "Ülkemizde Bulaşıcı Olmayan Hastalıklar, hastalık yükünde DALY'nin %50'sini oluşturmaktadır.",
+      "E": "Avrupa ülkeleri içinde Diabetes Mellitus prevalansının en yüksek olduğu ülke Türkiyedir."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 79,
+    "soru_koku": "Aşağıdakilerden hangisi \"Örgütlenmenin Anahtan olarak\" TEMEL SAĞLIK HİZMETLERİNİN özelliklerinden birisi değildir?",
+    "secenekler": {
+      "A": "Toplumun kararlara katılması",
+      "B": "Hizmetin ekip anlayışıyla verilmesi",
+      "C": "Basamaklar arası eşgüdümün sağlanması",
+      "D": "Birinci basamağın yetersiz olduğu durumlarda bölgedeki hastanenin ilk başvuru işlevini üstlenmesi",
+      "E": "Risk yaklaşımı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 80,
+    "soru_koku": "Kantin veya yemekhane işletilen okullarda bu birimlerde çalışan personelin bulaşıcı hastalıklar İçin taşıyıcı olup olmadığının taranmasına ne denir?",
+    "secenekler": {
+      "A": "Portör muayenesi",
+      "B": "Hijyen eğitimi",
+      "C": "Filyasyon",
+      "D": "Sürveyans",
+      "E": "Periyodik muayene"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 81,
+    "soru_koku": "Türkiye'de Yeşil kart sahibi olan bir kişi için hangi ifadeler doğrudur? İfade 1- Gelir tespiti yaptırmamıştır. İfade 2- Genel Sağlık Sigortası kapsamında değildir. Ifade 3- Genel Sağlık Sigortası kapsamındadır. Ifade 4- Geliri belirli bir düzeyin altında olduğu için bu kartı almıştır. İfade 5- Ödediği dolaylı vergi toplumun diğer kesimlerine göre daha fazladır.",
+    "secenekler": {
+      "A": "1,2",
+      "B": "2,3",
+      "C": "1,4",
+      "D": "3,4",
+      "E": "4,5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 82,
+    "soru_koku": "Çocuk sağlığı ile ilgili seçeneklerden yanlış olanı İşaretleyiniz.",
+    "secenekler": {
+      "A": "Beş yaş altı ölümlerin yarıya yakını beslenme İle ilişkilidir.",
+      "B": "Yaşına göre kısa boylu çocukların oranı 2000 yılından itibaren dünyada azalma eğilimine girmiştir.",
+      "C": "Dünyada şişman çocukların yarısı Asya bölgesinde yaşamaktadır.",
+      "D": "Ülkemizde çocuklarda bodurluk kırsal alanda, şişmanlık kentsel alanda daha fazla görülmektedir",
+      "E": "Ülkemizde 0-5 yaş grubunda en yaygın olan beslenme sorunu bodurluktur"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 83,
+    "soru_koku": "Aşağıdaki seçeneklerden doğru olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Ülkemizde postneonatal dönem ölümleri ön plandadır.",
+      "B": "Dünyada 0-5 yaş grubunda en öncelikli malnütrisyon sorunu obezitedir.",
+      "C": "Sağlık Bakanlığının son verisine göre Bebek ölüm hızı binde 9.1 dir",
+      "D": "Hızlı solunum ve göğüs çekintisi tek başına pnömoni tanısı koydurmaz",
+      "E": "5 yaş altı çocuklarda DSÖ standartlarına göre kiloya göre boy 2SD üstü obezite olarak değerlendirilir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 84,
+    "soru_koku": "Aşağıda belirtilen kanunlardan hangisi ülkemizde hekimlik uygulamasında temel-(en üst düzeyde) kanun olarak değerlendirilmektedir?",
+    "secenekler": {
+      "A": "Tıbbi Deontoloji Nizamnamesi",
+      "B": "Umumi Hıfzıssıhha Kanunu",
+      "C": "Avrupa Biyotıp Sözleşmesi",
+      "D": "Hasta Hakları Yönetmeliği",
+      "E": "Ceza Kanunu"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 85,
+    "soru_koku": "Birinci Basamak Hizmet Özellikleri açısından doğru eşleşmeler hangi seçenekte verilmiştir? 1- İlk Başvuru 2- Süreklilik 3- Kapsayıcılık 4- Eşgüdüm A-Sürekli hizmetin ön koşuludur? B-Bu olmadan diğer özellikler işlevsiz kalır? C-Yapı bileşeni olarak Geniş Hizmet Yelpazesi olup olmadığı ile ölçülür D-Tanımlanmış nüfus, bunun ölçülmesinde kullanılan yapı bileşenidir?",
+    "secenekler": {
+      "A": "1B, 2D, 3C, 4A",
+      "B": "1A, 2C, 3D, 4B",
+      "C": "1C, 2D, 3A, 4B",
+      "D": "1A, 2B, 3C, 4D",
+      "E": "1A, 2D, 3C, 4B"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 86,
+    "soru_koku": "Bir kişinin üzerinde tıbbi araştırma yapılabilmesi İçin Avrupa İnsan Hakları ve Biyotıp Sözleşmesi ve Hekimlik Meslek Etiği Kurallarına göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Örselenebilir(incinebilir) gruplarda araştırma yapılamaz",
+      "B": "Araştırmaya katılan kişinin maruz kalabileceği tehlikeler araştırmanın beklenen yararından fazla olması kabul edilir",
+      "C": "Etik kurul izni anket çalışmaları dahil tüm araştırmalar için alınmalıdır",
+      "D": "15 yaş altı çocuklarda araştırma yapılaması etik açıdan gerekçelendirilemez",
+      "E": "Kişilerin çalışmaya katılmak için verdikleri aydınlatılmış onamı geri alınamaz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 87,
+    "soru_koku": "-",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 88,
+    "soru_koku": "Okul sağılığı hizmetleri ile ilgili aşağıdakilerden Hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kantin veya yemekhane işletilen okullarda bu birimlerde çalışan personelin bulaşıcı hastalıklar için taşıyıcı olup olmadığının taranması şarttır.",
+      "B": "Okul çocuklarında taramalar her yıl yapılmaktadır.",
+      "C": "Okul sağlığı hizmetleri 6-7 yaşından 24 yaşına kadar olan dönemi kapsar.",
+      "D": "Okul sağlığı çalışmaları sağlık durumunun değerlendirilmesi, sağlık eğitimi ve okul çevre sağlığı konularını kapsamaktadır.",
+      "E": "Okul sağlığı hizmetleri, okul sistemi içerisinde öğrencilerin, öğretmenlerin ve okul personelinin sağlığının korunmasına ve geliştirilmesine yönelik tüm uygulamaları kapsar."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 89,
+    "soru_koku": "Uluslararası örgütlerle ilgili doğru eşleştirme hangi seçenekte verilmiştir 1-UNFPA 2-UNDP 3-UNICEF 4-ILO 5-UNESCO 6-FAO A-GOBI-FFF B-Birleşmiş Milletlerin Kasası C-ABD'nin halen en çok desteklediği örgüt D-Besin Güvenliği E-İş Sağlığı F-Bilim ve Eğitim",
+    "secenekler": {
+      "A": "A3, B1, C2, DE4, E3, F4",
+      "B": "A3, B2, C3, D6, E4, F5",
+      "C": "A1, B2, C3, D6, E4, F6",
+      "D": "A2, B4, C1, D5, E5, F3",
+      "E": "A3, B1, C6, D4, E6, F5"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 90,
+    "soru_koku": "Aşağıdaki hastalıkların toplumdaki sıklığı hangi gösterge ile ölçülür? Uygun olmayan eşleşmeyi işaretleyin. 1-Kızamık- Prevalans hızı 2- Tip 2 diyabet - Prevalans hızı 3- Akciğer Kanseri- İnsidans hızı 4- Acil servise başvurmak - Episod hızı 5- Multipl Skleroz - İnsidans hızı",
+    "secenekler": {
+      "A": "1,2",
+      "B": "1,5",
+      "C": "2,4",
+      "D": "4,5",
+      "E": "1,4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 91,
+    "soru_koku": "Tıbbi araştırmalarda katılımcı-gönüllü bireylerin haklarını düzenleyen uluslararası belge aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Helsinki Bildirgesi",
+      "B": "Malta Bildirgesi",
+      "C": "Rio Bildirgesi",
+      "D": "İstanbul Bildirgesi",
+      "E": "Madrid Bildirgesi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 92,
+    "soru_koku": "Bulaşıcı hastalıklarda kullanılan insidansa ne denir?",
+    "secenekler": {
+      "A": "Episod hızı",
+      "B": "Prevalans",
+      "C": "Atak hızı",
+      "D": "Hastalık yükü",
+      "E": "Net üreme hızı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 93,
+    "soru_koku": "Çevre sağlığı ile ilgili ifadelerden doğru olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Su kaynaklarının korunmasında rehabilitasyon yani üçüncül korumanın önemi büyüktür",
+      "B": "Sağlık örgütünün çevre sağlığı sorunlarının giderilmesi konusunda hiçbir yaptırım yetkisi yoktur",
+      "C": "Çevre sağlığı uygulamalarının tamamı ikincil korunma Uygulamalarıdır",
+      "D": "Koruyucu hekimlik hizmetlerinden çevreye yönelik olanlar aynen bireye yönelik sağlık hizmetleri gibi sağlık personeli tarafından verilir",
+      "E": "Ülkemizde tatlı su kaynaklarının en önemli kısmı tarımda kullanılmaktadır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 94,
+    "soru_koku": "Toplum beslenmesi açısından aşağıdakilerin hangisi öncelikli değildir?",
+    "secenekler": {
+      "A": "yeterli besin sağlama",
+      "B": "beslenme eğitimi",
+      "C": "gelir dağılımının düzeltilmesi",
+      "D": "ulaşılabilirlik",
+      "E": "dengeli dağıtım"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 95,
+    "soru_koku": "Aşağıdakilerden hangisi Wonca'nın tanımladığı aile hekimliği çekirdek yeterliliklerden birisi değildir?",
+    "secenekler": {
+      "A": "Toplum yönelimli olmak",
+      "B": "Güncel bilişim teknolojilerine hâkim olmak",
+      "C": "Birinci basamak yönetimi",
+      "D": "Kapsamlı yaklaşım",
+      "E": "Özgün problem çözme becerisi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 96,
+    "soru_koku": "Bulaşıcı hastalıkların tarihçesinde aşağıdaki yerleşim alanlarından hangisi bir karantina bölgesi olarak görev yapmamıştır?",
+    "secenekler": {
+      "A": "Dubrovnik",
+      "B": "Newyork",
+      "C": "Urla",
+      "D": "Rodos",
+      "E": "Ragusa"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 97,
+    "soru_koku": "Aşağıdakilerden hangisi \"Anne\" sağlığı ile ilgili, doğrudan ya da dolaylı Sağlık Düzeyi Göstergelerinden birisi \"değildir?",
+    "secenekler": {
+      "A": "Anne Ölüm Oranı",
+      "B": "Düşük Doğum Ağırlıklı bebek oranı",
+      "C": "Perinatal Mortalite Hızı",
+      "D": "Aile planlaması etkin yöntem kullanma prevalansı",
+      "E": "Gebe tetanoz aşılama oranı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdakilerden hangisi doğum sonu izlende saptanan risklerden biri değildir?",
+    "secenekler": {
+      "A": "Puerperal enfeksiyon",
+      "B": "Bebeğin 2500 gramdan az olması",
+      "C": "Asfiksi",
+      "D": "Bebekte 4. günde sarılık görülmesi",
+      "E": "Malformasyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 99,
+    "soru_koku": "Aşağıdaki ifadelerin doğru veya yanlış olduklarını gösteren seçeneği İşaretleyiniz. () Türkiye nüfusunun yaklaşık olarak üçte biri 18 yaşından küçüktür. () Ülkemizde DDA bebek yüzdesi %11'dir. () 0-5 yaşta beslenme bozuklukları kapsamından akut beslenme bozuklukları önde gelmektedir. () Yaşa göre boy uzunluğu beslenmenin kronik beslenme yetersizliğinin göstergesidir. () Dünyada 5 yaş altı ölümlerin yaklaşık olarak yarısı beslenme ile ilişkilidir",
+    "secenekler": {
+      "A": "DDYDD",
+      "B": "YDDYD",
+      "C": "DYYDY",
+      "D": "DYDYY",
+      "E": "YYDDD"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 100,
+    "soru_koku": "Planlama ve örgütlenme ile İlgili aşağıdaki ifadelerden yanlış olan hangisidir?",
+    "secenekler": {
+      "A": "Operasyonel planlar, uygulamalı planlardır ve örgütün alt kademesi tarafından hazırlanır",
+      "B": "Bir bölgede obesite sıklığının azaltılması bir planın \"amacı\" olabilir ama hedef olarak sayılamaz.",
+      "C": "Planlamanın aşamalarında \"Planın hazırlanması\" ilk adımdır. Son adım ise \"Planın değerlendirilmesidir\"",
+      "D": "Sağlık hizmetleri yukarıdan aşağı değil, aşağıdan yukarıya doğru örgütlenmelidir.",
+      "E": "Her ülke kendi olanaklarını göz önüne alarak kendi modelini geliştirmelidir. Sağlık sistemleri olduğu gibi başka ülkeden alınamaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": ")Hangisi sağlık personelinin görev, yetki ve sorumluluklarına ilişkin mevzuat değildir?",
+    "secenekler": {
+      "A": "Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanun",
+      "B": "Hemşirelik Kanunu",
+      "C": "Eczacılar ve Eczaneler Hakkında Kanun",
+      "D": "Sağlık hizmetleri Temel Kanunu",
+      "E": "Optisyenlik Hakkında Kanun"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": ")Aşağıdakilerden hangisi pamuk tozunun solunması sonucu oluşan akciğer hastalığıdır?",
+    "secenekler": {
+      "A": "Berilliozis",
+      "B": "Bisinozis",
+      "C": "Siderozis",
+      "D": "Asbestozis",
+      "E": "Silikozis"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": ")Kişisel ve Çevreye yönelik hastalık nedenleri ile ilgili ifadelerden hangisi DOĞRUDUR?",
+    "secenekler": {
+      "A": "Genel olarak hastalık etkenleri arasında, psikolojik etkenler günümüz toplumunda diğer maruziyet etkenlerinden çok daha öndedir.",
+      "B": "İşle ilgili maruziyetler, diğer maruziyet yolları ile karşılaştırıldığında hastalık nedenleri arasında göreceli olarak daha önemsiz bir yer tutar",
+      "C": "Biyolojik etkenler son yıllarda daha çok gelişmiş toplumlarda hastalık nedenleri arasında öne çıkmaya başlamıştır.",
+      "D": "Daha ÜST sosyal sınıfa mensup bireylerin hastalıklara yol açacabilecek fiziksel ve psikolojik maruziyetler ile karşı karşıya kalma olasılığı diğerlerinden daha yüksektir.",
+      "E": "Sosyal, kültürel ve ekonomik etkenler çevresel hastalık nedenleri içinde diğer maruziyetlerin hemen hepsini kapsar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": ")Morbidite göstergeleri ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Epizod hızı, kronik hastalıklarda hastalığın tekrarlaması durumunda kullanılan bir çeşit insidans hızıdır.",
+      "B": "Sekonder Atak hızı, bulaşıcı hastalık çıktıktan sonra alınan önlemlerin göstergesi olarak kullanılır.",
+      "C": "İnsidans, daha çok toplumda kronik sağlık sorunlarının değerlendirilmesi amacında kullanılan uygun bir göstergedir",
+      "D": "Risk faktörü ile sağlık sorunu arasındaki ilişkiyi gösteren Atfedilen Risk daha çok klinik bilimlerde kullanılan bir epidemiyolojik göstergedir.",
+      "E": "Toplumun hastalık havuzu doluysa bu hastalığın boyutlarının ortaya konması ve izlenmesinde tercih edilecek hız “insidans”tır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": ")Göç eden toplumlarda en sık sağlık sorunu hangisidir?",
+    "secenekler": {
+      "A": "Kalp hastalıkları",
+      "B": "Kanser",
+      "C": "Bulaşıcı hastalıklar",
+      "D": "Hipertansiyon",
+      "E": "Diyabet"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": ")Kızamık virüsünün konaktan konağa geçme yeteneği göstermesi aşağıdaki kavramların hangisine bir örnektir?",
+    "secenekler": {
+      "A": "Tropizm",
+      "B": "Transmisibilite",
+      "C": "Virulans",
+      "D": "Enfektivite",
+      "E": "Patojenite"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": ")Aşağıdaki bilim dallarının ortaya çıkış sırası açısından hangisi doğrudur?",
+    "secenekler": {
+      "A": "Sanitasyon, Hijyen, Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği",
+      "B": "Hijyen, Sosyal Tıp, Halk Sağlığı, Koruyucu Hekimlik, Toplum Hekimliği",
+      "C": "Hijyen, Sosyal Tıp, Halk Sağlığı, Toplum Hekimliği, Koruyucu Hekimlik",
+      "D": "Hijyen, Halk Sağlığı, Sanitasyon, Koruyucu Hekimlik, Toplum Hekimliği",
+      "E": "Hijyen, Sanitasyon, Koruyucu Hekimlik Toplum Hekimliği, Halk Sağlığı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıdakilerden hangisi adli olgu değildir?",
+    "secenekler": {
+      "A": "Trafik kazası sonucu radius kırığı",
+      "B": "İntihar amaçlı yüksek doz ilaç alma",
+      "C": "Çocuk parkında düşüp kolunda laserasyon gelişen çocuk",
+      "D": "Diyabetik ketoasidozla gelen hasta",
+      "E": "Yıldırım çarpması sonucu ölen hasta"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Aşağıda sıralanan, Sağlığı Geliştirme ile ilgili ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Sağlığın geliştirilmesi programları özellikle ikinci ve üçüncü basamak hizmetlerde çok daha başarılı ve sonuç vericidir.",
+      "B": "Sağlık eğitimi Sağlığı geliştirmenin ortak stratejisidir.",
+      "C": "Rehabilite edici hizmetler bir Sağlığı Geliştirme strateji:",
+      "D": "Sağlığı geliştirme tüm toplumun bir hastalıkla ilgili etkin tedavisi stratejisidir.",
+      "E": "Sağlığı geliştirme, sağlık sorunlarına “sağlık” değil, “hastalık” penceresinden bakıştır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Preeklamsi yüksek kan basıncı, ödem, idrarda proteinin birlikte görüldüğü tablodur.",
+      "B": "Annenin yaşı 18'den küçük, 35 yaş ve daha büyük, doğum sayısı 4 ve üzerinde ve gebelik aralığı 2 yıl ve daha kısa ise bu gebelik riskli gebelik olarak değerlendirilmelidir.",
+      "C": "Sağlık Bakanlığı gebenin herhangi bir risk durumu yoksa 4 kez doğum öncesi bakım hizmeti verilmesini yeterli olarak kabul etmektedir.",
+      "D": "Doğumdan 45 dakika sonra plasenta halen ayrılmamışsa plasenta retansiyonu denir.",
+      "E": "Plasenta previası olan gebe vaginal muayenesi yapılarak acilen hastaneye sevk edilmelidir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıdaki ifadelerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "30-35 yaş grubu Gonore için en yüksek risk taşıyan dönemdir.",
+      "B": "Savaşta en önemli ilke bulaştırma aracı olan vektörlerin ortadan kaldırılmasıdır",
+      "C": "Zoonotik hastalıklarla mücadalede ilk hedef alınacak nokta bulaş yoludur.",
+      "D": "CYBH'larla savaşta filyasyon önemlidir.",
+      "E": "Sıtma rezervuarı sadece insandır"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Su ve besinlerle bulaşan hastalıkların genel özelikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "En önemli ve ilk yapılması gereken işlemlerden biri kesin tanı konmasıdır.",
+      "B": "Ayırım ve dezenfeksiyon Kolera, Avian İnfluenza, tifo, paratifo, dizanteri, hepatit ve polio dışında yapılmalıdır.",
+      "C": "Yayılma geometrik artış şeklindedir.",
+      "D": "Sosyo-ekonomik düzey yükseldikçe insidansları azalır.",
+      "E": "Endemik olma olasılıkları fazladır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Ülkemizde ölümlü iş kazaları en çok hangi sektörde görülmektedir?",
+    "secenekler": {
+      "A": "Madencilik",
+      "B": "Taş, toprak imalatı",
+      "C": "İnşaat",
+      "D": "Makina imalatı",
+      "E": "Nakliye"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "ülkemizde kişilerin YÜZDE88'i günlük 5 porsiyon taze sebze ve meyve tüketimi önerisini karşılayamamaktadır.",
+      "B": "bel çevresi erkekte 94, kadında 80 cm'den az olmalıdır.",
+      "C": "bel/boy oranı sadece yetişkinler için önerilen bir ölçüttür.",
+      "D": "obezite tip 2 diyabetin yüzde 80 nedenidir.",
+      "E": "Türkiye hastalık yükü çalışmasına göre kadınların obezitesi önlenebilirse ölümlerde %15.8'i önlenebilirdi."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "İyonize etmeyen radyasyon-infrared ışınlarla ilgili, I. Ulaştıkları dokularda sıcaklık artmasına sebep olur. II. Gözde katarakt oluşumuna sebep olur. III. Erkeklerde spermatogenez bozukluğuna sebep olur. IV. Kanserojen etki gösterir. ifadelerinden hangileri yanlıştır?",
+    "secenekler": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "Yalnız IV",
+      "D": "I VE II",
+      "E": "II VE III"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "Aşağıdakilerin hangisinden etkilenilmesi durumunda nörolojik sistemde bir sağlık sorunu ortaya çıkması beklenmez?",
+    "secenekler": {
+      "A": "Kurşun",
+      "B": "Benzen",
+      "C": "Pestisit",
+      "D": "lateks",
+      "E": "cıva"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "Aşağıdaki ifadelerden doğru olan seçeneği işaretleyiniz.",
+    "secenekler": {
+      "A": "Atmosfere atılan en yoğun kirletici azot oksittir",
+      "B": "Kanalizasyon sularının arıtılmasında bakteri yatakları en sık kullanılan yöntemdir.",
+      "C": "Bireysel su klorlaması için genellikle 9/100'luk klor solüsyonu hazırlanır, bundan 1 It suya 3-5 damla eklenip yarım saat beklenip içilebilir.",
+      "D": "Ülkemizde katı atıkların sadece yarıya yakın bir bölümü çöp depolama tesislerine götürülmektedir.",
+      "E": "Kentlerde suların klorlanmasından Halk Sağlığı Müdürlükleri sorumludur."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Sağlık düzeyi ve epidemiyolojik göstergelerle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Mortalite Hızları toplum düzeyindeki değerlendirmelerde Fataliteden daha önemlidir.",
+      "B": "DALY hastalık yükü göstergesidir ve toplumdaki bireylerin hastalanmaları sonucu işe gelememeleri nedenyle üretim yılı kayıplarını gösterir.",
+      "C": "Göreceli (rölatif) risk, özellikle bir risk faktörü ortadan kaldırıldığında hastalığın hangi oranda azaltılabileceğini gösteren göstergedir.",
+      "D": "Doğumda beklenen yaşam süresi en çok yaşlı ölümlerinden etkilenir.",
+      "E": "Kaba Doğum Hızı bir morbidite Hızıdır."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Aşağıdaki sağlığı geliştirme ile ilgili ifadelerden doğru olanı seçiniz.",
+    "secenekler": {
+      "A": "Sağlığı geliştirme öncelikli olarak bireylerin sağlıkla ilgili beceri ve kapasitelerini arttırmaya yönelik eylemleri içerir.",
+      "B": "Sağlığın önkoşulları Ottawa Bildirgesi'nde ilk defa ele alınmıştır.",
+      "C": "Sağlığı geliştirme temel olarak sağlık sektörünün sorumluluğudur.",
+      "D": "Kalıtsal ve tıbbi koşullar, sağlığı etkileyen en önemli faktörlerdir.",
+      "E": "Sağlığı geliştirme eylemlerinde çok sektörlü yaklaşım karmaşaya neden olabilir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Bir işyerinde işyeri hekimlerinin çalışma sürelerinin ne kadar olacağının belirlenmesinde aşağıdaki özelliklerden hangisi dikkate alınmaz?",
+    "secenekler": {
+      "A": "İşe giriş ve periyodik muayeneler ile eğitim için belirlenen süre",
+      "B": "Çalışan işçi sayısı",
+      "C": "İşyeri hekiminin işyeri mesleki tecrübesinin varlığı",
+      "D": "İş kolunun tehlike grubu",
+      "E": "İşyerinin risk grubu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Bulaşıcı hastalıkların önlenmesinde gerek geçmişte, gerekse günümüzde uygulanan “tecrit” ve “karantina” uygulamaları ile ilgili olarak aşağıda sıralanmış olaylarda, “teçrit”e uyan parantezin karşısına “T” ; “karantina”ya uyan parantezin karşısına “K” yazdığınızda doğru seçenek aşağıdakilerden hangisidir? Olaylar: 1-( ) Bulaşıcı riskli bir hastalık görülen bir hanede bireylerinin, evdeki hasta iyileşinceye ya da ölünceye dek, evden çıkışlarına izin verilmemesi 2-(.) Salgın hastalık çıkan bir köye, köyde salgın bitinceye dek köye giriş çıkışların kapatılması 3-( ) Kuduz şüpheli ısırık olgusunda kişiyi ısıran köpeğin bir 10 gün diğer hayvanlarla ya da insanla temasının kesilmesi. 4-( ) Salgın hastalık olduğu bilinen bir bölgeden gelen bir deniz taşıtının yolcularının kente alınmayıp, önceden hazırlanmış bir yerde belirlenmiş bir süre tutulması ve diğer insanlarla temas ettirilmemesi",
+    "secenekler": {
+      "A": "1K, 2T,3T, 4T",
+      "B": "1T, 2K,3T,4K",
+      "C": "1T, 2K, 3K, 4T",
+      "D": "1K, 2T,3T, 4K",
+      "E": "1T, 2T, 3K, 4K"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "Hangisi aile hekimliği temel yeterliliklerinden birisi değildir?",
+    "secenekler": {
+      "A": "Birinci basamak yönetimi",
+      "B": "Hastalık odaklı yaklaşım",
+      "C": "Özgül sorun çözme becerisi",
+      "D": "Kapsayıcı yaklaşım",
+      "E": "Toplum yönelimli olma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "Çocuk sağlığı ile ilgili seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Beş yaş altı ölümlerin yarıya yakını beslenme ile ilişkilidir.",
+      "B": "Yaşına göre kısa boylu çocukların oranı 2000 yılından itibaren dünyada azalma",
+      "C": "şişman çocukların yarısı Asya bölgesinde yaşamaktadır.",
+      "D": "Ülkemizde çocuklarda bodurluk kırsal alanda, şişmanlık kentsel alanda daha fazla görülmektedir",
+      "E": "Ülkemizde 0-5 yaş grubunda en yaygın olan beslenme sorunu bodurluktur"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Aşağıdakilerden (hangisi, (Türkiye'de (taşra sağlık o örgütlenmesindeki Sosyalleştirme ve Aile Hekimliği modelleri ile ilgili olarak yanlış bir ifadedir?",
+    "secenekler": {
+      "A": "Sosyalleştirme döneminde de Aile Hekimliği uygulamasında olduğu gibi Birinci basamak hizmetler ile hastane hizmetleri arasındaki eşgüdüm eksikliği vardır.",
+      "B": "Süreklilik, aile hekimliği döneminde daha da kötüleşmiştir.",
+      "C": "Coğrafi Bölgeye dayalı hizmet model aile hekimliğinde ortadan kalkmıştır",
+      "D": "Koruyucu ve sağaltıcı sağlık hizmetler aile hekimliği uygulamasıyla birinden ayrılmıştır.",
+      "E": "Hizmete ulaşılabilirlik açısından bu iki model uygulamasında önemli bir farklılık olmamıştır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Olağan dışı durumlar ile ilgili aşağıdaki ifadelerden doğru olanını işaretleyiniz.",
+    "secenekler": {
+      "A": "Olağandışı durumlarda sağlık sorunlarının boyutunu belirlemek için veri toplama sistemine gereksinim vardır.",
+      "B": "Sağlık örgütünün olağan dışı durumlardaki rolü acil sağlık hizmeti sunmaktır.",
+      "C": "Travma sonrası stres bozukluğu genel toplumda yaygın bir sağlık sorunudur.",
+      "D": "Olağan dışı durumlarda meydana gelen insan ve hayvan ölüleri bulaşıcı hastalık salgılarına neden olur",
+      "E": "Selde enfeksiyon hastalıkları sıklıkla ilk üç gün içinde görülür."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "Aşağıdaki kavram ve ölçüt eşleştirmelerinden doğru olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "enfestasyon- immun yanıt oranı",
+      "B": "patojenite: fatalite hızı",
+      "C": "virulans- hastalık belirtisi gösteren kişi oranı",
+      "D": "tropizm- primer atak hızı",
+      "E": "enfektivite- sekonder atak hızı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "Kendine özgü eğitim içeriği ve klinik uygulamaları olan birinci basamak yönelimli bilimsel ve akademik bir disiplin, aşağıdaki uzmanlık alanlarından hangisinin tanımına uymaktadır?",
+    "secenekler": {
+      "A": "Nöroloji",
+      "B": "Pediatri",
+      "C": "Endokrinoloji",
+      "D": "Tıbbi istatistik",
+      "E": "Aile hekimliği)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "Derslerimizdeki bilgilerin ışığında, yöntem bilgisel açıdan ele alındığında “tıp” aşağıdaki insan etkinlikleri kümelerinden hangisi içinde değerlendirilir?",
+    "secenekler": {
+      "A": "Yararcı teknik disiplin (Fen)",
+      "B": "Felsefe",
+      "C": "Güzel sanatlar",
+      "D": "Bilim",
+      "E": "Sosyal bilim"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "Çevre sağlığı ile ilgili ifadelerden doğru olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Su kaynaklarının korunmasında rehabilitasyon yani üçüncül korumanın önemi büyüktür.",
+      "B": "Sağlık örgütünün çevre sağlığı sorunlarının giderilmesi konusunda hiçbir yaptırım yetkisi yoktur.",
+      "C": "Çevre sağlığı uygulamalarının tamamı ikincil korunma uygulamalarıdır.",
+      "D": "Koruyucu hekimlik hizmetlerinden çevreye yönelik olanlar aynen bireye yönelik sağlık hizmetleri gibi sağlık personeli tarafından verilir.",
+      "E": "Ülkemizde tatlı su kaynaklarının en önemli kısmı tarımda kullanılmaktadır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduklarını belirtiniz. ( )Klorlanacak suyun bir litresini, ndeki organik maddelerce bağlandıktan sonra, ortamda kalan klor miktarına aslan payı denir. ( )Kaynak suları ile içme ve kullanma sularının PH' ının 7.0-8.5 arasında olması istenir. ( )Sularda organik madde bulunmaması istenir. Fakat hemen hemen bütün sularda organik madde bulunduğundan içme suları standartlarına göre toplam organik madde miktarının 3.5 mgr'ı geçmemesi istenmiştir. ( )Suyun bakteriyolojik analizinde",
+    "secenekler": {
+      "E": "Coli aranır ( )Sudaki iyot düzeyi fiziksel çevredeki iyot seviyesinin göstergesidir. Havada, toprakta,et, süt ve diğer gıdalardaki iyot miktarı neyse sudaki iyot miktarı da o r.",
+      "A": "DDYYD",
+      "B": "YDDDD",
+      "C": "YDDDY",
+      "D": "YDYDY E) DDYDD"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "Aşağıdaki ifadelerin doğru (D) ya da yanlış (Y) olduğunu belirtiniz. ( ) ülkemizde tatlı su kaynaklarının kullanımında hanelerde su kullanımı ikinci sırada gelir. ( )Hava kirliliği Uluslararası Kanser Araştırmaları",
+    "secenekler": {
+      "A": "ansı'na gore kanserojen olarak değerlendirilmektedir. (Atık sularda doğal biyolojik arıtma en yaygın kullanılan yöntemdir ( )Kentlerde en önemli su kaynağı yüzeysel sulardır. ( )Suda amonyak bulunması dışkı ve idrarla kontamine olduğunu gösterir. A) DYYDY",
+      "B": "YYYDD",
+      "C": "DDYDD",
+      "D": "YDYDY",
+      "E": "DDDYY"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdakilerden hangisi Halk Sağlığının Temel Bilim Dallarından birisidir?",
+    "secenekler": {
+      "A": "Epidemiyoloji",
+      "B": "İş sağlığı",
+      "C": "ÇEVRE SAĞLIĞI",
+      "D": "Ana Sağlığı",
+      "E": "Sağlık eğitimi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Dünyadaki en sık görülen beslenme bozukluğu demir eksikliği anemisidir.",
+      "B": "iyot eksikliği dağlık bölgelerde daha sık görülür.",
+      "C": "Tuzun iyotlanması iyot eksikliğini gidermede kullanılır, bizim ülkemizde de bu nedenle tuzlar iyotlanmaktadır.",
+      "D": "Dünyada obezite sıklığı mikrobesin eksikliği sıklığından daha yüksektir.",
+      "E": "Dünya Sağlık Örgütü 2 yaş üstü ve erişkin yaş için kırmızı etin az miktarda tüketimini önermektedir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdakilerden hangisi ölü muayenesinde dış muayene basamaklarından değildir?",
+    "secenekler": {
+      "A": "Kıyafetlerin incelenmesi",
+      "B": "Tıbbi kimliklendirme",
+      "C": "Postmortem değişikliklerin değerlendirilmesi",
+      "D": "Yeni yaraların tarifi",
+      "E": "Koroner arter incelemesi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Beslenme ile ilgili seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Dünyada 5 yaş altı çocularda beslenme açısından en çok görülen sorun zayıflıktır.",
+      "B": "Dünyada 5 yaş altı ölümlerin nedeninin yarısı kötü beslenme ile ilişkilidir.",
+      "C": "Çocukların uzun bir süredir yeterli ve dengeli beslenmediğinin göstergesi yaşa göre boy ölçütüdür.",
+      "D": "Ülkemizde 5 yaş altı çocuklarda düşük kiloluluk 2018 TNSA'ya göre %2 düzeyindedir",
+      "E": "Ülkemizde 8Yaş altı çocuklarda şişmanlık oranı 2018 TNSA'ya göre YÜZDE 8'dir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Beslenme ile işikili aşağıdaki ifaderin doğru ya da yanlış olduğunu değerlendiren seçeneği işaretleyiniz. ( )bel çevresi/boy uzunluğu oranı 5 yaş üstü bireylerde kullanılabilir. ( ) İyot eksikliği Dünyada en yaygın mineral eksikliğidir. ( ) kadın obezitesi açısından Avrupa bölgesinde Ülkemiz en riskli ülkedir. ( ) bel çevresi/boy uzunluğu oranının 0.5 altında olması istenir. ( ) bir ülkede obezite sıklığının yüksek olası malnütrisyonda çifte yük olarak isimlendirilir.",
+    "secenekler": {
+      "A": "DYYDD",
+      "B": "DYDDY",
+      "C": "DYYYD",
+      "D": "YDYDY",
+      "E": "DYDYD"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Mesleki akciğer hastalığı olan kişilerde, tanı koymaya ve tedaviye yönelik olarak aşağıdakilerden hangisinin yapılması önerilmez?",
+    "secenekler": {
+      "A": "Doğru bir fizik muayene yapılması",
+      "B": "Ayrıntılı iş ve çevresel etkilenim öyküsü almak",
+      "C": "Gerekli görüntüleme tetkiklerinin yapılması",
+      "D": "İşyeri ortamında toz ve partikül ölçümlerinin yapılması",
+      "E": "Akciğer fonksiyon testlerinin yapılması"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "Bulaşıcı hastalıkları kontrol altına almak için aşağıdakilerden hangisi konağa yönelik önlemlerdendir?",
+    "secenekler": {
+      "A": "Bildirim",
+      "B": "Erken tanı",
+      "C": "Filyasyon",
+      "D": "Kemoprofilaksi",
+      "E": "Suların dezenfeksiyonu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Halk Sağlığının uzmanlığı eğitiminde diğer bilim alanlarının uygulanmasını mümkün kılan 3 temel bilim alanını gösteren seçenek hangisidir? 1- Sağlık Eğitimi 2- İstatistik 3- Sağlık Yönetimi 4- Epidemiyoloji 5- Üreme Sağlığı",
+    "secenekler": {
+      "A": "1,2,3",
+      "B": "1,3,4",
+      "C": "1,4,5",
+      "D": "2,4,5",
+      "E": "2,3,4"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Yükümlülük süresinin doğru tanımı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Sigortalının risk etmenine maruz kaldığı en uzun süredir.",
+      "B": "Zararlı etkinin başlamasıyla hastalık belirtilerinin ortaya çıkması için gereken en az süredir.",
+      "C": "Sigortalının meslek hastalığına sebep olan işinden fiilen ayrıldığı tarih ile meslek hastalığının meydana çıktığı tarih arasında geçen en uzun süredir.",
+      "D": "Sigortalının meslek hastalığına sebep olan işinde ne kadar süre çalıştığıdır.",
+      "E": "Sigortalının meslek hastalığı nedeniyle çalışamadığı en uzun süredir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Aşağıdakilerden hangisiyle olan etkilenimde zımba ile delinmiş gibi sert, kenarları keskin deri ülserleri, dermatit ve burun septumunda perforasyon gözlenir?",
+    "secenekler": {
+      "A": "Arsenik",
+      "B": "Cıva",
+      "C": "Siyanür",
+      "D": "Krom",
+      "E": "Kurşun"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Hangisi Temel Sağlık Hizmetlerinin örgütlenme anahtarı arasında yer almaz?",
+    "secenekler": {
+      "A": "Toplum sağlık hizmetlerine katılmalıdır.",
+      "B": "Sağlık hizmetleri ekip anlayışı içinde verilmelidir.",
+      "C": "Halkın ilk başvuruları için birimler kurulmalıdır.",
+      "D": "Halka sağlık eğitimi verilmelidir.",
+      "E": "Hizmetler sürekli olmalıdır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Biyopsikososyal yaklaşımın tanımına uyan ifade aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Hastalar, hem biyolojik hem sosyolojik olarak değerlendirilmelidir.",
+      "B": "Hastaların yakınmalarına bakılmaksızın her şeyden önce psikometrik testlerinin yapılması gerektiğinin önemini vurgulamaktadır.",
+      "C": "Aile hekimleri hasta merkezli yaklaşımları ile, hastayı bir bütün olarak ele alarak ilgilenirler. Onu, yaşam hikayesi, sorunları, ailesi ve fiziksel çevresi, çalışma koşulları ile birlikte değerlendirirler.",
+      "D": "Biyolojik parametrelerin, sosyolojik ölçümlerle paralel olması gerektiğini ifade etmektedir.",
+      "E": "Biyolojik bozuklukların ne tür sosyal sorunlara yol açacağını tahmin etmek zordur."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "Aşağıdakilerden hangisi hasta haklarıyla ilgili yanlış çağrışımlardan birisidir?",
+    "secenekler": {
+      "A": "İnsan hakları",
+      "B": "Hekime yönelik şiddet",
+      "C": "Aydınlatılmış onam",
+      "D": "Sağlık ekibi",
+      "E": "Özerklik"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "İşyeri periyodik muayenesinde sağ elinde güçsüzlük ve düşüklük olan ama duyu kaybı saptanmayan matbaa işçisinin aşağıdaki kimyasallarının hangisine maruz kaldığını düşünülür?",
+    "secenekler": {
+      "A": "Nikel",
+      "B": "Alüminyum",
+      "C": "Krom",
+      "D": "Cıva",
+      "E": "Kurşun"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "Bulaşıcı hastalık ihbarı alan bir hekim ihbar bölgesine gittiğinde yapması gereken ilk şey nedir?",
+    "secenekler": {
+      "A": "Tanıyı doğrulamalıdır",
+      "B": "Hastalığın yayılmasını önlemelidir",
+      "C": "Karantinaya alınmalıdır",
+      "D": "Kaynak belirlenmelidir.",
+      "E": "Risk altındaki kişileri belirlemelidir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "Hava kirliliğine ilişkin olarak yanlış olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Yerleşim yerine kalitesiz kömür girişini engellemek kısa dönemde alınacak önlemlerden biridir.",
+      "B": "Sanayinin tamamının ya da bir kısmının çalışmasını durdurmak, okulların tatil edilmesi acil dönemde alınacak önlemlerdendir.",
+      "C": "Hava kirliliği ile ilgili il Hıfzısıhha Kurulu Kararlarının yaptırımı çok güçlü değildir.",
+      "D": "Sağlık Bakanlığı'nın hava kirliliğinde denetleme görevi vardır.",
+      "E": "Kent planlaması ve yeşil alanların arttırılması uzun dönemde alınacak önlemdir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "Aşağıdakilerden hangisi ülkemizde hekimlere yüklenmiş yükümlülüklerden biri değildir?",
+    "secenekler": {
+      "A": "En etkili ve en ekonomik tedaviyi saptayarak hastaya uygulamak",
+      "B": "Acil durumdaki hastalara öncelikle ilk yardım uygulamak",
+      "C": "Klinik araştırmalarda yer alacak hastalardan klinik ilaç araştırmaları kurallarına uygun biçimde izin almak",
+      "D": "Ötenazi işlemlerini gerçekleştirmek",
+      "E": "Hastaları bilgilendirerek aydınlatılmış onamlarını almak"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "Ülkemizde isteğe bağlı gebeliğin sonlandırılması işlemi yasal hak olarak kaçıncı gebelik haftası ile sınırlandırılmıştır?",
+    "secenekler": {
+      "A": "6. hafta",
+      "B": "8. hafta",
+      "C": "10. hafta",
+      "D": "12. hafta",
+      "E": "20. Hafta"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Kimyasal su numunesi en geç 72 saat içinde laboratuara gönderilir",
+      "B": "Kimyasal su numunesi su kaynağı ilk açılırken ve her yıl 1 kez alınır.",
+      "C": "Suda klor düzeyini incelerken ortotolidin solusyonu kullanılır",
+      "D": "Bir suyun klorlu olması onun sağlıklı olması için yeterli değildir.",
+      "E": "Su analizlerini Gıda ve Tarım İl Müdürlükleri yapar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Aşağıdaki organlardan hangisinin ölüden aktarımı için vericinin izni alınmadan gerçekleştirilebilir?",
+    "secenekler": {
+      "A": "Pankreas",
+      "B": "KORNEA",
+      "C": "KALP",
+      "D": "Böbrek",
+      "E": "Karaciğer"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Aşağıdaki zehirlenme etkenlerinden hangisinin toksik doz alımında tekrarlayan dozda aktif kömür önerilmez?",
+    "secenekler": {
+      "A": "Trisiklik antidepresanlar",
+      "B": "Karbamazepin",
+      "C": "Digoksin",
+      "D": "Fenobarbital",
+      "E": "Etilalkol"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Aşağıdakilerden hangisi, ülkemizde A grubu meslek hastalığı olarak kabul edilmektedir?",
+    "secenekler": {
+      "A": "Mezotelyoma",
+      "B": "Pnömokonyoz",
+      "C": "Kurşun zehirlenmesi",
+      "D": "Dermatit",
+      "E": "Asbestozis"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduklarını belirtiniz. ( ) Kalsiyum ve magnezyum bikarbonat suda kalıcı sertliğe yol açar. ( ) Sulardaki organik madde miktarı absorbe ettiği oksijen miktarı ile belirlenir. ( ) Suda amonyak bulunması dışkı ve idrarla kontamine olduğunu tek başına gösteren bir ölçüt değildir. ( ) Suyun bakteriyolojik analizinde koli basilinin bulunması diğer mikroorganizmaların da bulunduğunu göstermez. ( ) Su kaynakları yüksek düzeyde nitrat içeren ülkelerde infantil methemoglobinemi ve buna bağlı ölümler bildirilmiştir.",
+    "secenekler": {
+      "A": "YDYYD",
+      "B": "YYDDY",
+      "C": "DYDDY",
+      "D": "YDDYY",
+      "E": "DDYDD"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Göz kürelerinde çöküklük ağır dehidratasyon bulgusudur.",
+      "B": "Beslenme bozukluğu ve ishal kısır döngüye yol açar",
+      "C": "Pnömonide ateş en önemli semptomdur.",
+      "D": "İshal tedavisinde temel amaç su ve tuz kaybının yerine konmasıdır.",
+      "E": "İki haftadan uzun süren ishallere kronik ishal denir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "Doktorlara, hastalarından öykü alırken onların mesleklerini de sormalarını öğütleyen ve iş sağlığı ve güvenliğinin kurucusu olarak değerlendirilen hekim aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Hipokrat",
+      "B": "Paracelcus",
+      "C": "Agricola",
+      "D": "Ramazzini",
+      "E": "İbni Sina"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "“Ulysses kontratı” aşağıdaki klinik tablolardan hangisinde geçerli olan bir aydınlatılmış onam yöntemidir?",
+    "secenekler": {
+      "A": "Çocuk hastalar",
+      "B": "Şizofreni hastaları",
+      "C": "Gebelik",
+      "D": "Yenidoğan",
+      "E": "Akıl hastaları"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "Tıbbi vasiyet kavramı ile ilgili ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Hastanın karar verme kapasitesi yerindeyken bildirdiği isteğine saygı gösterilmelidir",
+      "B": "Sadece şizofreni hastaları için geçerli bir hasta hakkıdır",
+      "C": "Hastanın yeterliği tartışma konusu değildir",
+      "D": "Hermes kontratı olarak adlandırılır",
+      "E": "Yeniden canlandırmama komutunu kapsamaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "Uçak seyahati sırasında aşağıdakilerden hangisinin bulaş riski yüksektir?",
+    "secenekler": {
+      "A": "Vibrio cholerae",
+      "B": "Neisseria gonorhaee",
+      "C": "Mycobacterium tuberculosis",
+      "D": "HIV",
+      "E": "Hepatit B"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "Hekim kusuru sonucu hastada oluşan hasara ne ad verilir?",
+    "secenekler": {
+      "A": "Komplikasyon",
+      "B": "Malpraktis",
+      "C": "Risk",
+      "D": "Özensizlik",
+      "E": "Hiçbiri"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Bulaşıcı olmayan hastalıklarla (BOH) ilgili seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Dünyada BOH içinde en çok görülen kardiyovasküler sistem hastalıklarıdır",
+      "B": "Gelişmiş ülkelerde kardiyovasküler sistem hastalıkları artmaya devam etmektedir.",
+      "C": "Toplumda kardiyovasküler hastalıklarla ilgili risk faktörlerinin sıklığını azaltmak, kardiyovasküler hastalık morbid ini de azaltır.",
+      "D": "Kanser en önemli 2. mortalite nedenidir.",
+      "E": "Kanser taramaları ikincil korumadır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "İşyeri ortamında bulunan tehlikelerin kontrolüne yönelik tedbirler bakımından en. son başvurulması gereken tedbir aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kaynakta kontrol",
+      "B": "Tehlike düzeyinin izlenmesi",
+      "C": "Kaynak ile işçi arasındaki yolda kontrol",
+      "D": "Kişisel koruyucu donanım uygulamaları",
+      "E": "Ortam ölçümleriyle risk değerlendirilmesi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Normal doğum ağrıları 3-4 dakikada bir gelir, 35-40 sn. sürer",
+      "B": "Erken membran rüptürü gebenin sularının geldiği halde 2-3 saat içinde doğum ağrılarının başlamaması olarak tanımlanır.",
+      "C": "Kordon sarkmasında kordonda pulsasyon yoksa evde ebe doğumu yaptırabilir",
+      "D": "Normal ÇKS (çocuk kalp sesi) 120-130'dur",
+      "E": "Plesanta previa gebeliğin 3. trimestrindeki ağrılı vajinal kanamadır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "Toplumda bulaşıcı olmayan hastalıkların yükünü azaltma programının başarılı olduğunu gösteren ve uzun dönemde belirlenen çıktı aşağıdakilerden hangısıdır?",
+    "secenekler": {
+      "A": "bulaşıcı olmayan hastalıklara yol açan risk faktörlerinin azalma eğilimi",
+      "B": "bulaşıcı olmayan hastalıklara bağlı mortalitede düşüş",
+      "C": "birinci basamakta izlenen hasta sayısındaki artış",
+      "D": "sigarayı bırakma polikliniklerindeki artış",
+      "E": "obezite sıklığındaki azalma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "0-59 aylık dönemde beslenmeyle ilgili ifadelerden doğru olan seçeneği İşaretleyiniz.",
+    "secenekler": {
+      "A": "Ülkemizde 4-6. ayda on bebekten birisi sadece anne sütü ile beslenmektedir",
+      "B": "Ülkemizde 0-59 aylık dönemde beslenme düzeyinde en önemli sorun boyuna göre zayıf çocukların oranının yüksekliğidir.",
+      "C": "Düşük doğum ağırlıklı bebek yüzdesi bebek beslenme düzeyini gösteren bir ölçüttür.",
+      "D": "Çocuğun yaş tayininin kesin olarak yapılamadığı durumlarda yaşa-göre ağırlık ölçümü fikir verir.",
+      "E": "Ülkemizde ortanca emzirme süresi 20 aydır."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi çocukluk döneminde beslenme göstergeleri içinde en sık görülen sorunları doğru olarak göstermektedir? 1.yaşa göre boy 2.boya göre ağırlık 3.yaşa göre ağırlık 4.düşük doğum ağırlığı 5.şişmanlık",
+    "secenekler": {
+      "A": "1,5",
+      "B": "4,5",
+      "C": "2,3",
+      "D": "1,4",
+      "E": "2,4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Halk Sağlığı açısından, “Erken Tanı ve Tedavi” ile ilgili olarak aşağıdaki ifadelerden doğru olanın yanına “D”, yanlış olanın yanına “Y” yazdığınızda uygun seçenek hangisidir? 1( ) İkincil korumaya örnektir 2( ) Birinci basamak hizmetlere örnektir. 3( ) Sekonder Atak hızı Erken Tanı ve Tedavinin başarısını gösterir 4( ) Meme kanserinin toplum düzeyinde taranması buna örnek olarak verilebilir 5( ) Salgınların önlenmesinde hayati öneme sahip bir uygulamadır.",
+    "secenekler": {
+      "A": "1D, 2Y,3D, 4D, 5D",
+      "B": "1D, 2Y, 3Y, 4D, 5y",
+      "C": "1Y, 2Y, 3D, 4D, 5Y",
+      "D": "1Y, 20, 3Y, 4Y, 5D",
+      "E": "1Y, 2D, 3D, 4Y, 5y"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "Kronik hastalıklar söz konusu olduğunda aile hekimliğinin yaklaşımını tanımlayan ifade aşağıdakilerden hangisi olmalıdır?",
+    "secenekler": {
+      "A": "Kronik hastalıklar söz konusu olduğunda aile hekimliğinin yaklaşımı, diğer branşlardan farklılık göstermez.",
+      "B": "Kronik hastalıkların takip ve tedavisi, birinci basamak hekimliğinin görevi değildir.",
+      "C": "Birinci basamakta kronik hastalarla karşılaşıldığında aile hekiminin yapması gereken, bu hastaları hemen 2. veya 3. Basamak sağlık kuruluşlarına sevk etmektir.",
+      "D": "Kronik hastalığı veya tekrarlayan benzer yakınmaları olan hastaların ele alınış biçimi, değerlendirilmesi aile hekimliği açısından baktığımızda farklı bir anlayışı gerekli kılmaktadır.",
+      "E": "Kronik hastalıkların takibinin nerede yapılacağına karar vermek zordur."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "2009 yılında X İlinde meydana gelen vakada;",
+    "secenekler": {
+      "A": "H. isimli kişi ilgili mahkeme tarafından babalık davasında kan örneğinden DNA incelemesi yapılması için Y Üniversitesi Tıp Fakültesi Adli Tıp anabilim dalına gönderilmiştir. Adli tıp uzmanı ilk işlem olarak kişiye neden orada olduğunu ve kan örneği alma işlemi ve DNA incelemesi ile ilgili bilgi verdikten sonra hastadan yapılacak işlemler hakkında aydınlatılmış onam almak istemiştir. A.H'nin muayene ve kan örneği vermeyi reddetmesi nedeniyle görüşmeyi sonlandıran adli tıp uzmanı durumu bir raporla mahkemeye bildirmiştir. Savcılık makamı ise adli tıp uzmanının görevi kötüye kullanma suçuyla yargılanması için işlem başlatmıştır. Yukarıda yer alan olguda hekimin eylemi hakkında aşağıdaki ifadelerden hangisi doğrudur? A) Hasta Hakları Yönetmeliğine uygun davranmamıştır",
+      "B": "Çifte yükümlülük gereği muayene yapılmalıdır",
+      "C": "Avrupa Biyotıp Sözleşmesi gereğince davranmıştır",
+      "D": "Suçun önlenmesi ve tespiti için biyolojik materyal ve örnek alma yönetmeliğine uygundur",
+      "E": "İnsan hakları ilkeleri çerçevesine uygun davranmamıştır"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "Salgın incelemesinde yer, zaman ve kişi özelliklerin elde edilmesinin amacı nedir?",
+    "secenekler": {
+      "A": "Özel atak hızlarını hesaplamak",
+      "B": "Verilerin istatistiksel güvenirliğini arttırmak",
+      "C": "Rutin bildirim sistemi ile tüm olguların saptandığından emin olmak",
+      "D": "Salgın incelenmesindeki bilimsel kuralları yerine getirmek",
+      "E": "Salgının nedeni konusunda hipotez geliştirmek"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Kızamık salgınında ilk vaka görüldükten sonra 179 ailede toplam 400 çocuk arasında teşhis edilen vakaların dağılımı incelenmiş ve aşağıdaki tablo elde edilmiştir. Buna göre Primer Atak Hızı (PAH)ve Sekonder Atak Hızı (SAH) nedir (Kızamık en uzun kuluçka süresi 9-10 gün)? Vaka sayısı İlk vakanın teşhisinden sonra geçen gün sayısı 0-10 gün 253 10-20gün 23 Toplam 276",
+    "secenekler": {
+      "A": "PAH=%63.25 SAH %15.65",
+      "B": "PAH=%63.25 SAH %8.33",
+      "C": "PAH=%91.60 SAH %8.33",
+      "D": "PAH=%69.00 SAH %8.33",
+      "E": "PAH=%63.25 SAH %5.75"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "Pnömokonyozlar ve mesleki solunum hastalıkları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kömür işçisi ppömokonyozu akciğer kanseri nedenidir",
+      "B": "Asbest meslek dışı etkilenimle mezotelyoma nedeni olarak görülebilir",
+      "C": "Çiftçi hastalığı hipersensitivite- aşırı duyarlılık pnömonisi olarak gözlenir.",
+      "D": "Silikozisin tüberküloz ile birlikte olması klinik tabloyu ağırlaştırır.",
+      "E": "5 mikronun altındaki tozlar solunabilir tozlar olarak adlandırılır"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıda aydınlatılmış onam ile ilgili yer alan ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Bilgilendirilmiş olur ifadesi tıp etiği terminolojinde geçerli olan tam karşılığıdır",
+      "B": "Hastaneye kabul aşamasında imzalatılan genel onam geçerli uygulamadır.",
+      "C": "Hastalığın tanısının söylenmesi hastanın zarara uğramasına yol açar",
+      "D": "Tedavisiz kalmanın sonuçları mutlaka açıklanmaz",
+      "E": "İşlemin riski arttıkça bilgilendirme içeriği arttırılır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Aşağıdaki mesleki maruziyet ve kanser ilişkisinde yanlış olanı bulunuz?",
+    "secenekler": {
+      "A": "Benzen — Lösemi",
+      "B": "Arsenik — Plevra",
+      "C": "B-naftilamin, aromatik aminler —Mesane",
+      "D": "Krom — Akciğer",
+      "E": "Kadmiyum —Prostat"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "Toplum yaşlanma sürecindeyken aşağıdaki ölçütlerden hangisi artar? Doğru seçeneği işaretleyiniz 1.Doğuşta beklenen yaşam süresi 2.Toplam doğurganlık (fertilite) hızı 3.Nüfus artış hızı 4. Kaba doğum hızı 5.Yaşlı bağımlılık oranı",
+    "secenekler": {
+      "A": "1,4,5",
+      "B": "2,3,4",
+      "C": "1,5",
+      "D": "3,4",
+      "E": "2,3"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Grotjahn'a göre Sosyal Hekimliğin üç temel kuralı aşağıda sıralanmıştır. Boşluklara uyan sözcükleri içeren seçeneği işaretleyin. 1- En önemli hastalık, toplumda en çok ÖLDÜREN, en sık (…1...) en çok SAKAT BIRAKAN ve iş kaybına yol açan hastalıktır. 2- Kişinin veya toplumun sağlık düzeyini belirleyen, kişinin hastalanmasına veya ölümüne neden olan biyolojik ve fizik çevre faktörlerini oluşturan ve bunların etkisini koşullayan etkenler, (...2 ...) ve EKONOMİK etkenlerdir. 3- Bir kimsenin hasta oluşu sadece o kişinin sorunu değil, ailesinden başlayarak BÜTÜN (...3...) SORUNUDUR.",
+    "secenekler": {
+      "A": "1: Görülen,2 hekimlerin 3toplumun",
+      "B": "1: Görülen, 2tıbbi 3 toplumun",
+      "C": "1 politik güç kaybına yol açan 2 sosyal 3 bireylerin",
+      "D": "1 : Hissedilen, 2 sosyal 3 hekimlerin",
+      "E": "1: Görülen, 2,sosyal 3,toplumun"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "İş ortamında maruz kalınabilecek fiziksel etkenlerle ilgili olarak aşağıdaki ifadelerden yanlış olanı belirtiniz?",
+    "secenekler": {
+      "A": "Dekompresyon doldurulur. (vurgun) hastalığını önlemek için, tüplere helyum karışımlı 02 doldurulur",
+      "B": "Yetersiz veya fazla aydınlatma durumunda iş kazası riski artmaktadır",
+      "C": "Nemi fazla olmayan, fakat sıcak olan ortamlarda ısı krampları görülür",
+      "D": "Endüstriyel sağırlık, şiddeti 75 dB(A)'nın üzerindeki seslerde oluşurlar.",
+      "E": "Aşırı gürültüye maruz kalındığında en önce 4000 Hz'de işitme kaybı oluşur."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "Yaşlılarda herhangi bir sağlık sorununun erken tanı konulmasında ya da önlenmesinde Aile Hekiminin dikkat etmesi gereken bileşenler hangileridir? I) Aşılama ve bağışıklama II) Kazalardan korunma III) Tütün kullanımı IV) Dengeli ve yeterli beslenme V) Zihinsel aktivite uğraşıları",
+    "secenekler": {
+      "A": "I-II-III",
+      "B": "III-IV-V",
+      "C": "I-II-III-IV",
+      "D": "I-II-III-IV-V",
+      "E": "I-II"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "79. -",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "Sağlık Bakanlığının Bildirimi Zorunlu Hastalıkların Sınıflamasında, seçilmiş olan laboratuvarlardan bildirimi yapılacak olan hastalıklar aşağıdaki grupların hangisinde yer alır?",
+    "secenekler": {
+      "A": "A grubu",
+      "B": "B grubu",
+      "C": "C grubu",
+      "D": "D grubu",
+      "E": "E grubu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Birinci basamak sağlık hizmet özellikleri arasında diğerlerinin yerine getirilmesine engel olan en belirleyici özellik hangisidir?",
+    "secenekler": {
+      "A": "Ulaşılabilirlik",
+      "B": "İlk başvuru",
+      "C": "Süreklilik",
+      "D": "Eşgüdüm",
+      "E": "Kapsayıcılık"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "Bir eliminasyon-eradikasyon programında hangi sürveyans yöntemi kullanılmalıdır?",
+    "secenekler": {
+      "A": "Pasif sürveyans",
+      "B": "Aktif sürveyans",
+      "C": "Sentinel sürveyans",
+      "D": "Davranış sürveyansı",
+      "E": "Biyolojik sürveyans"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "Cumhuriyet tarihinde KAÇ TANE iş kanunu yürürlüğe girmiştir?",
+    "secenekler": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 84,
+    "soru_koku": "Aşağıdakilerden hangi seçenekte Türkiye'de izlenen resmi risk grupları verilmiştir? Eşleştiriniz. 1-Gençler ve ergenler 2-Bebek-Çocuklar 3-Doğurgan çağ kadınlar 4-Gebe lohusalar 5-Yaşlılar",
+    "secenekler": {
+      "A": "1,2,3,4",
+      "B": "3,4,5",
+      "C": "1,2,3,4,5",
+      "D": "2,3,4",
+      "E": "2,3,4,5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 85,
+    "soru_koku": "Aşağıdakilerden hangisi “kişiye yönelik koruyucu hizmetlerden birisi değildir?",
+    "secenekler": {
+      "A": "Evsel atıkların bertaraf edilmesi",
+      "B": "Bağışıklama",
+      "C": "Erken tanı ve tedavi",
+      "D": "Sağlık eğitimi",
+      "E": "Kemoprofilaksi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 86,
+    "soru_koku": "Türkiye'de sağlık örgütlenme tarihinde dönemlerin özelliklerini yansıtan eşleşmelere göre doğru seçeneği işaretleyiniz. 1-Refik Saydam 2-Nusret Fişek 3-Behçet Uz o 4-Recep Akdağ A-Sağlık Ocakları B-Sağlık merkezleri C-Dikey Örgütlenme D- Sağlıkta Dönüşüm",
+    "secenekler": {
+      "A": "1A, 2C,3B,4D",
+      "B": "1C, 2A, 3D, 4B",
+      "C": "1A, 2D, 3B, 4C",
+      "D": "1C, 2A,3B, 4D",
+      "E": "1D, 2A,3B,4C"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 87,
+    "soru_koku": "Halk Sağlığının klinik bilimlere olan temel üstünlüklerinden birisi, uygulamanın koruyucu hekimliğe dayanması açısından kişiye daha az zarar verebilme potansiyeli, yani etik açıdan daha kabul edilebilir olmasıdır. Diğer farklılığı ve avantajı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Daha güncel bilgilere dayanması",
+      "B": "Daha ekonomik olması",
+      "C": "Daha saygın olması",
+      "D": "Sürprizlere daha az açık olması",
+      "E": "Daha durağan olması"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 88,
+    "soru_koku": "Toplum beslenmesi açısından aşağıdakilerin hangisi öncelikli değildir?",
+    "secenekler": {
+      "A": "yeterli besin sağlama",
+      "B": "beslenme eğitimi",
+      "C": "gelir dağılımının düzeltilmesi",
+      "D": "ulaşılabilirlik",
+      "E": "dengeli dağıtım"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 89,
+    "soru_koku": "Bir \"Hekim\" aşağıdakilerden hangisini etik ilke olarak savunamaz?",
+    "secenekler": {
+      "A": "Sır saklamak",
+      "B": "Yararlı olmak",
+      "C": "Özerkliğe saygı",
+      "D": "Ayrımcılık",
+      "E": "Zarar vermemek"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 90,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduklarını belirtiniz. ( )Sağlığı geliştirme bireylerin beceri ve kapasitelerini arttırmaya yönelik eylemleri içerir. ( ) Sağlığı etkileyen en önemli faktör kalıtsal yapı ve tıbbi koşullardır. ( ) Alma Ata bildirgesi sağlığı geliştirmede temel kavram olan toplumsal iyilik tanımının yapıldığı ilk belgedir. ( )Sağlığı geliştirmede en etkili bulunan faaliyet sağlıklı davranışları destekleyen çevreler oluşturulmasıdır.",
+    "secenekler": {
+      "A": "YDYD",
+      "B": "DDDD",
+      "C": "DDYD",
+      "D": "DYYY",
+      "E": "YYDD"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 91,
+    "soru_koku": "Aşağıda verilen mantarlardan hangisinin içerdiği “amatoksin” karaciğer toksisitesinden sorumludur?",
+    "secenekler": {
+      "A": "Amanita muscarina",
+      "B": "Coprinus atramentorius",
+      "C": "Inocybe",
+      "D": "Amanita phalloides",
+      "E": "Gymnopilus spectabilis"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 92,
+    "soru_koku": "Çevre sağlığı ile ilgili aşağıdaki ifadelerin doğru (D) ya da yanlış(Y) olduklarını belirten seçeneği işaretleyiniz. ( )Çevresel maruziyetler toplumdaki kişileri eşit olarak etkiler. ( )Çevresel maruziyetlerin sağlık üzerindeki etkileri akut dönemde ortaya çıkar. ( )Toplumun sağlık düzeyini etkileyen faktörlerin yaklaşık olarak yarısı çevresel maruziyetlerdir. ( )Günümüzde insan sağlığını olumsuz etkileyen çevresel maruziyetler temel olarak biyolojik faktörlerdir.",
+    "secenekler": {
+      "A": "DDYY",
+      "B": "YYDD",
+      "C": "YYDY",
+      "D": "DYDY",
+      "E": "YYYY"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 93,
+    "soru_koku": "Aşağıda beslenme ile ilgili ifadelerin doğru(D) ya da yanlış(Y) olarak değerlendirildiği seçeneği işaretleyiniz. ( )Düşük orta gelirli ülkelerde çocuk obezitesi 9/030 gibi hızla gelişmiş ülke çocuklarından daha yüksek oranda artma eğilimindedir. ( )Malnütrisyonda çifte yük kavramı beslenmede sadece bodurluk, düşük kiloluluk ve zayıflık parametreleriyle ilgilidir. ( )Ülkemizde yaşa göre boy ve ağırlık yıllar içinde azalmışken, boya göre ağırlık ölçütü benzer sıklıkta gözlenmektedir. ( )2018 TNSA ya göre beş yaş altı çocuklarda fazla kiloluluk sıklığı 908 dir. ( )Boya göre ağırlık ölçütü kronik beslenme yetersizliğini gösterir.",
+    "secenekler": {
+      "A": "DYDYD",
+      "B": "DDYYD",
+      "C": "YDDYD",
+      "D": "DYDDY",
+      "E": "DDYDD"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 94,
+    "soru_koku": "Nüfusu 60 000 olan bir toplumda 2200 Tip 2 diyabetli vardır. Bu toplumun Kaba Ölüm Hızı binde 5'dir. Aynı toplumda Tip 2 diyabet nedeniyle olan yıllık ölüm sayısı 105'dir. Tip 2 diyabete özel yıllık ORANTILI ÖLÜM HIZI aşağıdakilerden hangi seçenekte verilmiştir? (GEREKİRSE SAYILARI YUVARLAYINIZ)",
+    "secenekler": {
+      "A": "Binde 1.8",
+      "B": "Binde 4.8",
+      "C": "Binde 36.7",
+      "D": "Binde 300",
+      "E": "Binde 350"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 95,
+    "soru_koku": "Aşağıdaki tanımlamalardan hangisi aile hekimliği uzmanlığı tanımına uymaktadır?",
+    "secenekler": {
+      "A": "Sadece ailelere hizmet veren bekarların hizmet alamadığı bir hekimliktir.",
+      "B": "-",
+      "C": "Kendine özgü eğitim içeriği ve klinik uygulamaları olan birinci basamak yönelimli bilimsel ve akademik bir disiplindir.",
+      "D": "Yalnızca kadın ve çocukların yararlandığı bir hekimlik branşıdır.",
+      "E": "Yalnızca 65 yaş üstü nüfusun yararlanabildiği uzmanlık alanıdır."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 96,
+    "soru_koku": "İşe giriş muayenesinde el yazısı örneği alınan bir işçi hangi iş kolunda çalışıyor olabilir?",
+    "secenekler": {
+      "A": "Çelik mutfak gereçleri",
+      "B": "Boya yapımı",
+      "C": "Dericilik ve şapka yapımı",
+      "D": "Matbaa",
+      "E": "Seramik işleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 97,
+    "soru_koku": "Sağlık çalışanlarının adli olgu bildirimi zorunluluğu ile ilgili olan Yasası maddesi hangisidir?",
+    "secenekler": {
+      "A": "278",
+      "B": "279",
+      "C": "280",
+      "D": "86",
+      "E": "87"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 98,
+    "soru_koku": "Beslenme ile ilgili aşağıdaki ifadelerin doğru ya da yanlış olduğunu belirten seçeneği işaretleyiniz. ( )Malnütrisyonda çifte yük sadece ülke düzeyinde ifade edilen bir kavramdır. ( ) Kadın obezitesindeki artış daha çok fakir ülkelerde yaşanmaktadır. ( ) Düşük ve orta gelirli ülkelerde bulaşıcı olmayan hastalıklardaki hızlı artışın önemli bir nedeni sağlık sistemlerinin altyapı olanaklarının yeterli olmayışıdır. ( ) Malnütrisyonda çifte yükün en önemli nedeni toplumların fiziksel inaktivite düzeyindeki artıştır.",
+    "secenekler": {
+      "A": "DYYD",
+      "B": "YYDY",
+      "C": "YYYY",
+      "D": "YDDY",
+      "E": "DYDY"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 99,
+    "soru_koku": "Aşağıdakilerden hangisi künt travmatik yaraya örnektir?",
+    "secenekler": {
+      "A": "Kesi",
+      "B": "Ateşli silah saçma tanesi giriş deliği",
+      "C": "Yanık yaraları",
+      "D": "ekimoz",
+      "E": "Delici alet yarası"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 100,
+    "soru_koku": "Sadece epidermisi ilgilendiren künt travmatik yara aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Abrazyon",
+      "B": "Laserasyon",
+      "C": "Ekimoz",
+      "D": "Kemik kırığı",
+      "E": "3. derece yanık"
+    },
+    "cevap": "A"
   }
 ]

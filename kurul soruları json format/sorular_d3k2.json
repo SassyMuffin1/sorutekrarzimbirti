@@ -444,11 +444,11 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 35,
-    "soru_koku": "Oral olarak C. difficile'ye bağlı enterokolit tedavisinde kullanılan antistafilokok ilaç aşağıdakilerden hangisidir?",
+    "soru_koku": "Oral olarak",
     "secenekler": {
+      "C": "difficile'ye bağlı enterokolit tedavisinde kullanılan antistafilokok ilaç aşağıdakilerden hangisidir?",
       "A": "Rifampisin",
-      "B": "Teikoplanin",
-      "C": "Fusidik asid",
+      "B": "Teikoplanin C) Fusidik asid",
       "D": "İzoniazid",
       "E": "Vankomisin"
     },
@@ -738,7 +738,7 @@
       "D": "Düşük doğum ağırlığı",
       "E": "Annenin fetal dönemde sigara içmesi"
     },
-    "cevap": "D"
+    "cevap": "C"
   },
   {
     "yil": "2025-2026",
@@ -821,7 +821,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 64,
-    "soru_koku": "55 yaşındaki kadın hastada yapılan biopside meme tümöründe nekroz, hücrelerde belirgin nükleer atipi ve sık mitoz gözleniyor. Bu bulgular aşağıdaki kavramlardan hangisine en uygundur?",
+    "soru_koku": "55 yaşındaki kadın hastada yapılan biopside tümöründe nekroz, hücrelerde belirgin nükleer atipi ve sık mitoz gözleniyor. Bu bulgular aşağıdaki kavramlardan hangisine en uygundur?",
     "secenekler": {
       "A": "Düşük dereceli karsinom",
       "B": "İyi diferansiye karsinom",
@@ -1172,7 +1172,7 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 91,
-    "soru_koku": "60 yaşındaki erkek hastaya karaciğer kanseri tanısı konulmuştur. Tahıl ve bakliyat ile beslenmektedir. Olası etken nedir?",
+    "soru_koku": "60 yaşındaki erkek hastaya karaciğer kanseri konulmuştur. Tahıl ve bakliyat ile beslenmektedir. Olası etken nedir?",
     "secenekler": {
       "A": "Asbest",
       "B": "Polisiklik aromatik hidrokarbon",
@@ -1230,14 +1230,14 @@
       "B": "Dünyada 5 yaş altı ölümlerin nedeninin yaklaşık olarak yarısı kötü beslenme ile ilişkilidir.",
       "C": "Çocukların uzun bir süredir yeterli ve dengeli beslenmediğinin göstergesi yaşa göre boy ölçütüdür.",
       "D": "Ülkemizde 5 yaş altı çocuklarda düşük kiloluluk 2018 TNSA'ya göre %2 düzeyindedir",
-      "E": "Ülkemizde 5yaş altı çocuklarda şişmanlık oranı 2018 TNSA'ya göre %8'dir."
+      "E": "Ülkemizde 5yaş altı çocuklarda şişmanlık oranı"
     },
     "cevap": "A"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 96,
-    "soru_koku": "Kanser ile ilgili aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "soru_koku": "2018 TNSA'ya göre %8'dir. Kanser ile ilgili aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.",
     "secenekler": {
       "A": "IARC'a göre alkol, oral kavite ve özofagus kanseri nedenselliği için yeterli kanıt düzeyine sahiptir.",
       "B": "Ülkemizde 15 yaş üstü erkeklerin %41.3'ü tütün kullanmaktadır.",
@@ -1282,14 +1282,14 @@
       "B": "Hep B 1 doz, BCG 1 doz, DaBT-İPA-Hib-HepB 3 doz, OPA (oral polio aşısı) 1 doz,KPA 2doz",
       "C": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 2 doz, OPA (oral polio aşısı) 1 doz, KPA 3doz",
       "D": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 2 doz, KKK 2 doz, OPA (oral polio aşısı) 3 dozKPA 2doz+rapel, su çiçeği 1 doz",
-      "E": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 3 doz,KPA 3doz+rapel,su çiçeği 1 doz"
+      "E": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 3 doz,KPA"
     },
     "cevap": "B"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 100,
-    "soru_koku": "Anne sütü ile ilgili olarak aşağidaki seçeneklerden yanlış olanı işaretleyiniz.",
+    "soru_koku": "3doz+rapel,su çiçeği 1 doz Anne sütü ile ilgili olarak aşağidaki seçeneklerden yanlış olanı işaretleyiniz.",
     "secenekler": {
       "A": "Çocuk ölümlerini önleme konusunda en büyük potansiyele sahip müdahale ilk 6 ay sadece anne sütü, ardından uygun ek gıdalar ile 2 yaşına dek anne sütü ile besleme uygulamasıdır.",
       "B": "Küresel olarak 6 aydan küçük çocukların %60'ı sadece anne sütü ile beslenmektedir.",
@@ -2550,11 +2550,11 @@
   {
     "yil": "2024-2025",
     "soru_numarasi": 97,
-    "soru_koku": "Aşağıda sıralanan antropometrik ölçütleri ve ilgili olduğu özellikleri eşlediğinizde doğru seçenek hangisidir? I.Yaşa göre boy ( ) II.Yaşa göre ağırlık ( ) III.Boya göre ağırlık ( ) A- Akut beslenme bozukluğunu gösterir. B- Sadece ağırlık ölçümünden daha spesifiktir. C- Türkiye'de rutin uygulamada en sık kullanılan ölçüttür. D- Büyüme gelişmenin izlenmesinde en güvenilir ölçüttür. E- Düzenli izlem yapılamayan bölgelerde kullanılabilir. F- Kronik beslenme yetersizliğini gösterir. G- Özellikle ilk 2 yaş içinde önerilen ölçüttür. H-hem akut hem de kronik beslenme yetersizliğini gösterir.",
+    "soru_koku": "Aşağıda sıralanan antropometrik ölçütleri ve ilgili olduğu özellikleri eşlediğinizde doğru seçenek hangisidir? I.Yaşa göre boy ( ) II.Yaşa göre ağırlık ( ) III.Boya göre ağırlık ( ) A- Akut beslenme bozukluğunu gösterir. B- Sadece ağırlık ölçümünden daha spesifiktir. C- Türkiye'de rutin uygulamada en sık kullanılan ölçüttür. D- Büyüme gelişmenin izlenmesinde en güvenilir ölçüttür. E- Düzenli izlem yapılamayan bölgelerde kullanılabilir. F- Kronik beslenme yetersizliğini gösterir.",
     "secenekler": {
+      "C": "Özellikle ilk 2 yaş içinde önerilen ölçüttür. H-hem akut hem de kronik beslenme yetersizliğini gösterir.",
       "A": "I.FG II.FAB III.ABE",
-      "B": "I.F II.CDGH III.ABE",
-      "C": "I.AB II.GHE III.FD",
+      "B": "I.F II.CDGH III.ABE C) I.AB II.GHE III.FD",
       "D": "I.EF II.CDGH III.AB",
       "E": "I.AE II.CDF III.BGH"
     },
@@ -2582,20 +2582,2399 @@
       "B": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 1 doz,KPA 2doz+rapel, su çiçeği 1 doz, KKK 1 doz",
       "C": "Hep B 3 doz, BCG 2 doz, DaBT-İPA-Hib 3 doz, KKK 2 doz, OPA (oral polio aşısı) 1 doz, KPA 3doz+rapel,su çiçeği 2 doz, KKK 2 doz",
       "D": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 2 doz, KKK 2 doz, OPA (oral polio aşısı) 3 dozKPA 2doz+rapel, su çiçeği 1 doz",
-      "E": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 3 doz,KPA 3doz+rapel,su çiçeği 1 doz"
+      "E": "Hep B 3 doz, BCG 1 doz, DaBT-İPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 3 doz,KPA"
     },
     "cevap": "B"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 100,
-    "soru_koku": "Anne sütüyle ilgili ifadelerin doğru veya yanlış olduklarını gösteren seçeneği işaretleyiniz. ( ) Ülkemizde yeni doğanların %71'i ilk saatte anne sütü almıştır. ( ) Dünya Sağlık Örgütü 2024 verisine göre dünyada ilk 6 ayda sadece anne sütü alan bebeklerin oranı %48'dir. ( ) Kolostrumun protein içeriği düşüktür. ( ) Sadece anne sütü alan bebek oranı 2018 TNSA'ya göre 0-2ayda %59 düzeyindedir.",
+    "soru_koku": "3doz+rapel,su çiçeği 1 doz Anne sütüyle ilgili ifadelerin doğru veya yanlış olduklarını gösteren seçeneği işaretleyiniz. ( ) Ülkemizde yeni doğanların %71'i ilk saatte anne sütü almıştır. ( ) Dünya Sağlık Örgütü 2024 verisine göre dünyada ilk 6 ayda sadece anne sütü alan bebeklerin oranı %48'dir. ( ) Kolostrumun protein içeriği düşüktür. ( ) Sadece anne sütü alan bebek oranı 2018 TNSA'ya göre 0-2ayda %59 düzeyindedir.",
     "secenekler": {
       "A": "YYYD",
       "B": "DDYD",
       "C": "YYDD",
       "D": "YDYY",
       "E": "DYYD"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 1,
+    "soru_koku": "Serum protein elektroforezi aşağıdaki amaçlardan hangisi için kullanılır?",
+    "secenekler": {
+      "A": "Hemoglobin seviyelerini belirlemek",
+      "B": "Kan hücre sayısını belirlemek",
+      "C": "Kan pıhtılaşma zamanını ölçmek",
+      "D": "Serum proteinlerini fraksiyonlara ayırmak",
+      "E": "Kan glukoz seviyelerini ölçmek"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 2,
+    "soru_koku": "İdrar yolları transisyonel hücreli karsinom varlığında aşağıdaki tümör belirteçlerinden hangisi hastaların idrar örneklerinde saptanabilir?",
+    "secenekler": {
+      "A": "DUPAN-2",
+      "B": "CA 50",
+      "C": "Nükleer Matriks proteini 22",
+      "D": "Beta 2 mikroglobulin",
+      "E": "IL 2 reseptörü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 3,
+    "soru_koku": "Serum protein elektroforezi sonuçlarında beta ve gama globulin fraksiyonun köprüleşmesi aşağıdaki durumların hangisini işaret edebilir?",
+    "secenekler": {
+      "A": "Akut Inflamasyon",
+      "B": "Diyabetes mellitus",
+      "C": "Aminoasit metabolizması bozukluğu",
+      "D": "Karaciğer sirozu",
+      "E": "Akut böbrek yetmezliği"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 4,
+    "soru_koku": "Troid kanserlerinde operasyon sonrası rekurrens tespiti için aşağıdaki tümör belirteçlerinden hangisi tercih edilmelidir?",
+    "secenekler": {
+      "A": "Alfafetoprotein",
+      "B": "Tiroglobulin",
+      "C": "Karsinoembriyojenik antijen",
+      "D": "Her2/neu",
+      "E": "CA 19-9"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 5,
+    "soru_koku": "Balmumu solucanının bağırsaklarındaki hangi iki enzim plastik/polietileni parçalama özelliğindedir?",
+    "secenekler": {
+      "A": "Demetra ve Ceres",
+      "B": "Proteolitik enzimler",
+      "C": "amilaz-lipaz",
+      "D": "pepsin-tripsin",
+      "E": "tripsin-kimotripsin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 6,
+    "soru_koku": "Prostat spesifik antijen (PSA) ile ilgili açıklamalardan hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Dolaşımda serbest yada alfa 1 kimotripsin, alfa 2 makroglobulin ile kompleks şekilde bulunur.",
+      "B": "PSA düzeyleri tümör hacmi ve klinik evre ile yakın ilişkilidir.",
+      "C": "PSA ölçümü için digital rektal muayene sonrası hemen kan almak uygundur",
+      "D": "PSA normal referans değerleri yaşa göre değişiklik gösterir.",
+      "E": "Tarama testi olarak önerilen nadir tümör belirtecidir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 7,
+    "soru_koku": "Hücre döngüsü aşamalarından biri olan G1 fazında hangi olaylar gerçekleşir?",
+    "secenekler": {
+      "A": "DNA replikasyonu",
+      "B": "Sitokinez",
+      "C": "Kromozom yoğunlaşması",
+      "D": "Sentromer replikasyonu",
+      "E": "RNA replikasyonu"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 8,
+    "soru_koku": "Immünofiksasyon elektroforezi hangi tip proteinlerin varlığım veya miktarını tespit etmek için kullanılır?",
+    "secenekler": {
+      "A": "Insülin",
+      "B": "Immunoglobulinler",
+      "C": "Fibrinojen",
+      "D": "Hemoglobin",
+      "E": "Kreatinin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 9,
+    "soru_koku": "Clostridium perfringens identifikasyonunda aşağıdaki testlerden hangisi tanıya yardımıdır?",
+    "secenekler": {
+      "A": "Katalaz",
+      "B": "Kongülsz",
+      "C": "Lesitinaz",
+      "D": "PYR",
+      "E": "Oksidaz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 10,
+    "soru_koku": "Hangi yapı beyin tümörlerinin radyoterapisinde doz sınırlayıcı bir organ olarak değerlendirilmez?",
+    "secenekler": {
+      "A": "Kiazma",
+      "B": "Beyin sapı",
+      "C": "Kohlea",
+      "D": "Optik sinir",
+      "E": "Parotis bezi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıdaki önermelerden kaçı doğrudur? 1)Son dönem böbrek yetmezlikli çocuklarda böbrek nakil görece hissesİ, tüm yaş gruplarını ilgilendiren genel ortalamanın üzerindedir. 2)Son dönem böbrek yetmezlikli çocuklarda periton diyalizi görece hisseni, tüm yaş gruplarını ilgilendiren genel ortalamanın üzerindedir. 3)Çiftler arası organ nakli olan ve çapraz nakil olarak adlandırılan nakil sayısı yıllar geçtikçe artış göstermektedir. 4)Kadaverik vericili nakillerde mortalite oranlarının görece yüksekliği önemli bir sağlık sorunu olarak göze çarpmaktadır. 5)Pre-emptif (diyalize başlamadan gerçekleştirilen) nakil sayı ve oranları azalma göstermektedir.",
+    "secenekler": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 12,
+    "soru_koku": "Aşağıdaki önermelerden kaçı doğrudur? 1)Organ nakli olguya en kaliteli yaşam düzeyini getirir. 2) Böbrek transplantasyonu, tüm post-op (nakil sonrası) yıllar için geçerli olmak Üzere en ekonomik tedavi yöntemidir. 3)Ülkemizde kadavra vericili transplantasyon oranlarının görece düşük olması transplantasyonun halledilmesi gereken en önemli problemlerinden bir olarak gözükmektedir. 4)Ülkemizde organ nakli bağlamında en çok bobrek transplantasyonu yapılmaktadır. 5)Ülkemizde son dönem bobrek yetmezlikli olguların tümü ele alındığında en çok uygulanan tedavi yontemi periton diyalizidir.",
+    "secenekler": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdaki görüntüleme yöntemlerinden hangisinde X ışını kullanılmaz?",
+    "secenekler": {
+      "A": "Bilgisayarlı Tomografi",
+      "B": "Mamografi",
+      "C": "Direkt Grafi",
+      "D": "Doppler Ultrasonografi",
+      "E": "Anjiografi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 14,
+    "soru_koku": "Aşağıdakilerden hangisinin daha önce hasta tarafından kullanılıyor olmuş olması anafilaksi tedavisini zorlaştıran bir sebep olabilir?",
+    "secenekler": {
+      "A": "Beta bloker kullanımı",
+      "B": "Metformin kullanım",
+      "C": "Diüretik kullanımı",
+      "D": "Kalsiyum kanal blokeri kullanımı",
+      "E": "Angiotensin Konverting Enzim İnhibitörü kullanım"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 15,
+    "soru_koku": "Otuziki yaşındaki erkek hastaya bakteriyel menenjit tanısı koyuluyor ve yapılan kültüründe gentamisine duyarlı gram negatif Pseudomonas ürüyor, ancalt doktoru gentamisin ile tedavi konusunda tereddüt ediyor. Sizce bu durumun en olası nedeni aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Aminglikozidler beyinde konsantrasyona ulaşamazlar. hızla metabolize edildikleri için terapötik etkilerine daha duyarlıdırlar",
+      "B": "Menenjitli hastalar aminoglikozidlerin nörotoksik etkilerine daha duyarlıdırlar",
+      "C": "Aminoglikozidler terapötik konsantrasyonlarda menenjitli hastalarda nöbete neden olabilirler.",
+      "D": "Aminoglikozidlerin gram negatif bakterilere etkinlikleri yeterli değildir.",
+      "E": "Polar yapıda olan aminoglikozidlerin santral sinir sistemine geçişlerinde tedavi için hastaya intratekal yol ile uygulanmaları gerekir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 16,
+    "soru_koku": "Perioperatif profilakside en çok tercih edilen 1. kuşak sefalosporin aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Sefprizol",
+      "B": "Sefazolin",
+      "C": "Sefuroksim",
+      "D": "Sefaldor",
+      "E": "Sefadroksil"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 17,
+    "soru_koku": "Aşağıdakilerden uzun etki süreli hangisi bakterilerde protein sentez inhibisyonuyla etki gösteren bir antibiyotiktir?",
+    "secenekler": {
+      "A": "Amikasin",
+      "B": "Ampicilin",
+      "C": "Moksifloksasin",
+      "D": "Fosfomisin",
+      "E": "Klaritromisin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 18,
+    "soru_koku": "Aşağıdakilerden hangisi Immünopotansiyalatör olarak tanımlanır?",
+    "secenekler": {
+      "A": "Levamizol",
+      "B": "Eritropoetin",
+      "C": "Filgrastim",
+      "D": "Sitomegalovirüs immün globulini",
+      "E": "Intramusküler immünglobülin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 19,
+    "soru_koku": "Çocuklarda sefuroksime dirençli S. Pneumoniae, H. Influenza, M. Catarrhallis bağlı pnömoni enfeksiyonlarında aşağıdaki antibiyotiklerden hangisi kullanmalıdır?",
+    "secenekler": {
+      "A": "Amoksisilin+ klavulinik asid",
+      "B": "Levofloksasilin",
+      "C": "Ampisilin + sulbaktam",
+      "D": "Sefiksim",
+      "E": "Sefaklor"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 20,
+    "soru_koku": "Oral olarak",
+    "secenekler": {
+      "C": "difficile'ye bağlı enterokolit tedavisinde kullanılan antistafilokok İlaç aşağıdakilerden hangisidir?",
+      "A": "Rifampisin",
+      "B": "Telkoplanin C) Fusidik asid",
+      "D": "İzoniazid",
+      "E": "Vankomisin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 21,
+    "soru_koku": "Aşağıdakilerden hangisi histamine ait etkilerden biri değildir?",
+    "secenekler": {
+      "A": "Bronkokonstrüksiyon",
+      "B": "Sistemik kan basıncında düşme",
+      "C": "Uterus kasılması",
+      "D": "Gastrik asid salırumunda azalma",
+      "E": "Kapiller dilatasyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 22,
+    "soru_koku": "Sefalosporinlerde hangi karbona doğrudan bağlı yan zincir (R3) beta laktamazlara dayanıklılığından sorumludur?",
+    "secenekler": {
+      "A": "C1",
+      "B": "C3",
+      "C": "C5",
+      "D": "C6",
+      "E": "C7"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıdaki enfeksiyonların hangisinin tedavisinde eritromisin ilk tercih edilen antibiyotiktir?",
+    "secenekler": {
+      "A": "Pseudomonas endokarditi",
+      "B": "Veba",
+      "C": "Tüberküloz",
+      "D": "Intestinal amebiyazis",
+      "E": "Inflamatuar akne vulgaris"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 24,
+    "soru_koku": "Famsikolovirin aktif metaboliti olan ve herpse labialis enfeksiyonlarında topikal olarak kullanılan ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Foskarnet",
+      "B": "Pensiklovir",
+      "C": "Ribavirin",
+      "D": "Oseltamivir",
+      "E": "Lamivudin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdaki sülfonamidlerin hangisi yanık tedavisinde lokal olarak kullanilir?",
+    "secenekler": {
+      "A": "Sülfadokain",
+      "B": "Gümüş sülfadiazin",
+      "C": "Süfrasemid",
+      "D": "Sülfadiazin",
+      "E": "Süifisoksarol"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 26,
+    "soru_koku": "Safraya en fesla geçen safalosporin aşağıdakilardan hangisidir?",
+    "secenekler": {
+      "A": "Safedroksil",
+      "B": "Sefazolin",
+      "C": "Sefaperazon",
+      "D": "Sefoksitin",
+      "E": "Seftobiprol"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 27,
+    "soru_koku": "En geniş spektrumlu beta laktam antibiyotik hangisidir?",
+    "secenekler": {
+      "A": "Moksalaktam",
+      "B": "Piperasilin",
+      "C": "Karbenisilin",
+      "D": "Meropenem",
+      "E": "Seftriakson"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 28,
+    "soru_koku": "Aşağıdakilerden hangisi steroid yapılı protein sentez inhibitörü antibiyotiktir?",
+    "secenekler": {
+      "A": "Azitromisin",
+      "B": "Mupirosin",
+      "C": "Fusidik asid",
+      "D": "Basitrasin",
+      "E": "Polimiksin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 29,
+    "soru_koku": "Böbrek yetmezliği olan bir hastada aşağıdaki antibiyotiklerden hangisinde doz ayarlanması gerekmez?",
+    "secenekler": {
+      "A": "Amoksisilin",
+      "B": "Piperasilin",
+      "C": "Penisilin G",
+      "D": "Karbenisilin",
+      "E": "Seftriakson"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 30,
+    "soru_koku": "Aşağıdaki penisilinlerden hangisi veya hangilerinin antiagregan etkilerili vardır? I.Karbenisilin II. Penisilin G III.Tikarsilin IV. Piperasilin",
+    "secenekler": {
+      "A": "I, II, III ve IV",
+      "B": "I, II, III",
+      "C": "II ve IV",
+      "D": "I ve III",
+      "E": "IV"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 31,
+    "soru_koku": "İlaç alerjisine bağlı anaflaktoid reaksiyonlarda en sık görülen semptom aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "İlaç ateşi",
+      "B": "Solunum güçluğu",
+      "C": "Anaflaksi",
+      "D": "Deri reaksiyonları",
+      "E": "Gastroenterit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdakilerden hangisi böbrek yetmezliği olan hastalarda kullanımı daha uygunolan tetrasiklindir?",
+    "secenekler": {
+      "A": "Doksisiklin",
+      "B": "Klortetrasiklin",
+      "C": "Demeklosiklin",
+      "D": "Tetrasiklin",
+      "E": "Oksitetrasiklin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdakilerden hangisi Florokinolon ilaçlar için doğru değildir?",
+    "secenekler": {
+      "A": "Hızlı bakterisidal etki gösteririer",
+      "B": "Emilimleri ve biyoyararlanımları düşüktür",
+      "C": "Anaeroplara karşı bazı 3. kuşak kinolonlar etkilidir, diğerlerinin etkisi yoktur",
+      "D": "Florokinolonlar arasında çapraz direnç vardır",
+      "E": "Kemik dokusuna geçiş oranları yüksektir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdaki yan etkilerden hangisi aminoglikozid grubu antibiyotiklere ait değildir?",
+    "secenekler": {
+      "A": "Optik sinir disfoksiyonu",
+      "B": "Hepatotoksisite",
+      "C": "Nefrotoksisite",
+      "D": "Ototoksisite",
+      "E": "Nörotoksisite"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 35,
+    "soru_koku": "Yirmi sekiz yaşındaki kadın hastaya hepatit A tanısı konuyor. Tedavi için aşağıdaki İlaçlardan hangisi başlanır?",
+    "secenekler": {
+      "A": "Lamivudin",
+      "B": "Sidovir",
+      "C": "Peginterferon alfa",
+      "D": "Maravirok",
+      "E": "Hiçbiri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 36,
+    "soru_koku": "M fazında etkili olan antineoplastik ilaç hangisidir?",
+    "secenekler": {
+      "A": "Metotreksat",
+      "B": "Azasitidin",
+      "C": "Bleomisin",
+      "D": "Vinkristin",
+      "E": "Fludarabin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 37,
+    "soru_koku": "Aşağıdakilerden Immünosüpresif hangisi sitokin gen ekspresyonunu inhibe ederek etki gösteriri?",
+    "secenekler": {
+      "A": "Prednizon",
+      "B": "Takrolimus",
+      "C": "Imuran",
+      "D": "Abatasept",
+      "E": "Basiliksimab"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 38,
+    "soru_koku": "Siklofosfamid bağlı bulantı-kusmada nörokin reseptor antagonisti olan ilaç hangisidir?",
+    "secenekler": {
+      "A": "Aprepitant",
+      "B": "Ondansetron",
+      "C": "Metoklopramid",
+      "D": "Haloperidol",
+      "E": "Granisetron"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 39,
+    "soru_koku": "Hangi kemoterapötik ajan mikrotübül inhibitörteri sınıfına ait değildir?",
+    "secenekler": {
+      "A": "Eribulin",
+      "B": "Paklitaksel",
+      "C": "Vinkristin",
+      "D": "Karboplatin",
+      "E": "Vinorelbine"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdaki sitokinlerden hangisi alerjik inflamatuvar süreçlerde görev almaz?",
+    "secenekler": {
+      "A": "IL-4",
+      "B": "IL-5",
+      "C": "IL-13",
+      "D": "IL-9",
+      "E": "IL-17"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 41,
+    "soru_koku": "Aşağıdakilerden sitokinlerden hangisi alerjik hastalık oluşumundan sorumlu olan bir sitokin değildir?",
+    "secenekler": {
+      "A": "IL-4",
+      "B": "IL-5",
+      "C": "IL-6",
+      "D": "IL-9",
+      "E": "IL-13"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 42,
+    "soru_koku": "Aşağıdakilerden hangisi yenidoğanın fizyolojik deri lezyonu değildir ?",
+    "secenekler": {
+      "A": "Sklerem",
+      "B": "Akne neonatarum",
+      "C": "Milla",
+      "D": "Millaria",
+      "E": "Toksik eritem"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 43,
+    "soru_koku": "Hangisi IL-5 blokeridir?",
+    "secenekler": {
+      "A": "Mepolizumab",
+      "B": "Omalizumab",
+      "C": "Dupilumab",
+      "D": "İnfliksimab",
+      "E": "Tezepelumab"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 44,
+    "soru_koku": "Aşağıdakilerden hangisi yüksek emetojenik potansiyele sahip kemoterapötik ajanlardandır?",
+    "secenekler": {
+      "A": "Paklitaksel",
+      "B": "Gemsitabin",
+      "C": "Sisplatin",
+      "D": "Kapesitabin",
+      "E": "Vinorelbin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 45,
+    "soru_koku": "Aşağıdakilerden hangisi DIGeorge Sendromunun özelliklerinden biri deildir",
+    "secenekler": {
+      "A": "Paratiroid hormon yetersizliği",
+      "B": "Hücresel immün eksiklik",
+      "C": "Tedaviye dirençli konjenital hipokalsemi",
+      "D": "Patent duktus arteriozus",
+      "E": "Dekstrokardi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 46,
+    "soru_koku": "Aşağıdakilerden hangisi geniş fontanel nedenlerinden biri değildir?",
+    "secenekler": {
+      "A": "Hipertiroidi",
+      "B": "Rickets",
+      "C": "Hidrosefali",
+      "D": "Intrakraniyal basınç artışı",
+      "E": "Down sendromu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 47,
+    "soru_koku": "Çocukluk çağı kanserleri radyoterapisinde yan etkisi en az olan radyasyon türü aşağıdakilerden hangisidir ?",
+    "secenekler": {
+      "A": "Foton",
+      "B": "Elektron",
+      "C": "Proton",
+      "D": "Nötron",
+      "E": "Beta partikülleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 48,
+    "soru_koku": "Kanserde tarama uygulamaları ile ilgili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kolorektal kanser açısından yapılan taramada kolonoskopide polipsaptanmazsa 10 yılda bir tekrarlanması yeterlidir",
+      "B": "Kolon kanseri taramasında kullanılan gualac bazlı gizli kan testi, duyarlılığı en yüksek gayta testi olması nedeniyle 3 yılda bir yapılması önerilmektedir",
+      "C": "30 paket yıl sigara kullanım öyküsü olan 58 yaşındaki bir bireye, akciğer kanseri açısından düşük doz Toraks BT ile yıllık tarama önerilmesi doğru bir yaklaşımdır",
+      "D": "Standart riske sahip 25-40 yaş arasındaki kadınlara kendi kendine meme muayenesi ve 1-3 yılda bir klinik muayene önerilmektedir",
+      "E": "30-65 arası kadınlara 5 yılda bir HPV ve sitoloji ile serviks kanseri açısından tarama önerilmektedir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 49,
+    "soru_koku": "Allerji aşısı yapılan bir çocuk, aniden hipotonik bir şekilde yere düşüyor. Bu çocuktaki olayın vazovagal senkop mu yoksa anaflaksi mi olduğu kabaca nasıl ayırt edilir?",
+    "secenekler": {
+      "A": "Terleme durumundan",
+      "B": "Kalp tope atımından",
+      "C": "Sistolik tansiyon değerinden",
+      "D": "Pupil açıklığından",
+      "E": "Motor gücünden"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 50,
+    "soru_koku": "Preoperatif radyoterapi hangi kanserlerde standart tedavidir?",
+    "secenekler": {
+      "A": "Mesane kanserleri",
+      "B": "Akciğer kanserleri",
+      "C": "Rektum kanserleri",
+      "D": "Rahim kanserleri",
+      "E": "Safra kesesi kanserteri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 51,
+    "soru_koku": "Aşağıdakilerden hangisi Selektif IgE eksikliği ile ilgili öncelikli görülebilen klinik bir prezentasyon değildir?",
+    "secenekler": {
+      "A": "Akut pankreatit",
+      "B": "Lenfoma",
+      "C": "Non-Atopik astım",
+      "D": "Oto-Immün astım ürtiker",
+      "E": "Hashimoto tiroiditi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 52,
+    "soru_koku": "Polen alerjisi olduğu bilinen bir hastada analjezik olarak öncelikle hangisini tercih edersiniz?",
+    "secenekler": {
+      "A": "Parasetamol",
+      "B": "Ibuprofen",
+      "C": "Ketoprofen",
+      "D": "Naproksen sodyum",
+      "E": "Metamizol"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 53,
+    "soru_koku": "Çocuklarda baş muayenesinde aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Çocuklarda ön fontanel en geç 6. ayda kapanır",
+      "B": "Fontanel bombeliği akla menenjit infeksiyonunu getirmelidir çökme görülebilir",
+      "C": "Dehidratasyonda on fontanelde",
+      "D": "Raşitizmde fontaneller geç kapanır",
+      "E": "Kraniyosinostoz fontanellerin erken kapanmasına neden olur"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 54,
+    "soru_koku": "Vital bulguların değerlendirilmesi ile ligili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Yetişkin bir bireyde nabız sayısının dakikada 60' in altında olmasına \"bradipne\" denir.",
+      "B": "Aksiller yolla vücut ısısı ölçümü yapılacaksa koltuk altının terli olmamasına dikkat edilmelidir.",
+      "C": "Tansiyon ölçümü sırasında sistolik ve diyastolik kan basıncını belirlemek için sırasıyla Korotkoff faz I ve faz V sesleri kullanılır.",
+      "D": "Solunumun derinliğinin artmasına \"hiperpne\" denir.",
+      "E": "Tansiyon ölçümü için açılmış damar yolu bulunmayan kol tercih edilmelidir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 55,
+    "soru_koku": "Ek gıdaya yeni başlanan 7 aylık kız çocuk beslenme sonrasında aniden dudaklan şişerek bilinç kaybına uğramıştır. Bu olguda en olası tanınız nedir?",
+    "secenekler": {
+      "A": "Herediter anjloödem",
+      "B": "Hışıltı çocuk",
+      "C": "Anafilaksi",
+      "D": "Atopik dermatit",
+      "E": "Akut ürtiker"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 56,
+    "soru_koku": "Aşağıdakilerden hangisi ön fontanelde geç kapanmaya neden olan hastalıklardan biri değildir?",
+    "secenekler": {
+      "A": "Raşitizm",
+      "B": "Down Sendromu",
+      "C": "Hipertiroidi",
+      "D": "İntrakraniyal basınç artışı",
+      "E": "Hidrosefali"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 57,
+    "soru_koku": "Baş boyun muayenesi sırasında saptayabileceğimiz aşağıda verilmiş olan \"bulgu-hastalık eşleştirmelerinden hangisi uygun değildir?",
+    "secenekler": {
+      "A": "Trismus-Tetanoz",
+      "B": "Asian yüzü- Lepra",
+      "C": "Enoftalmus-Basedow Graves hastalığı",
+      "D": "Semer burun- Konjenital sifiliz",
+      "E": "Aydede görünümlü yüz- Cushing hastalığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 58,
+    "soru_koku": "Aşağıdakilerden hangisi çocukta genetik hastalık düşündüren bulgulardan biri değildir?",
+    "secenekler": {
+      "A": "Hipertelorizm",
+      "B": "Eksoftalmus",
+      "C": "Düşük ense saç çizgisi",
+      "D": "Yüksek damak",
+      "E": "Düşük kulak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 59,
+    "soru_koku": "Hangisinde temas sonrası profilakside aşı veya immünglobulin etkili değildir?",
+    "secenekler": {
+      "A": "Hepatit A",
+      "B": "Hepatit B",
+      "C": "Kabakulak",
+      "D": "Kızamık",
+      "E": "Kızamıkçık"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 60,
+    "soru_koku": "Aşağıdakilerden hangisi enfeksiyon hastalıklarının tanısında kullanılan İndirekt tanı yöntemidir?",
+    "secenekler": {
+      "A": "Boyalı mikroskobik inceleme",
+      "B": "In vitro kültür",
+      "C": "Hücre kültürü",
+      "D": "Enzim immun assay!",
+      "E": "Polimeraz zincir reaksiyonu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 61,
+    "soru_koku": "Aşağıdaki klinik örneklerden hangisi laboratuvara gönderilmesinin gecikmesi durumunda buzdolabında bekletilmelidir?",
+    "secenekler": {
+      "A": "İdrar",
+      "B": "Kan",
+      "C": "Beyin omurilik sıvısı",
+      "D": "Üretra akıntısı",
+      "E": "Kemik iliği"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 62,
+    "soru_koku": "Artrus reaksiyonu hangi tip duyarlılık sonrası oluşur?",
+    "secenekler": {
+      "A": "Tip 1 aşırı duyarlılık",
+      "B": "Tip 2 aşırı duyarlılık",
+      "C": "Tip 3 aşın duyarlılık",
+      "D": "Tip 4 aşırı duyarlılık",
+      "E": "Tip 5 aşırı duyarlılık"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 63,
+    "soru_koku": "Mikrobiyal karsinogenez ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "HPV, onkojenik bir DNA virüsüdür.",
+      "B": "HPV, serviks kanserinin gelişiminden sorumludur.",
+      "C": "Hepatit B ve hepatit C enfeksiyonu rol oynar. hepatosellüler karsinomunun gelişiminde",
+      "D": "Epstein Barr virüsü doğrudan onkojenik değildir. Polikional B hücre proliferasyonuna neden olur.",
+      "E": "HPV'nin E6 proteini retinoblastom proteinine bağlanarak bu proteinin degradasyonunu uyarır."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 64,
+    "soru_koku": "CD94 aşağıdaki immun sistem hücrelerinin hangisinin işlevlerinde yer alan bir moleküldür?",
+    "secenekler": {
+      "A": "CD4+ T-lenfosit",
+      "B": "CD8+ T-lenfosit",
+      "C": "NK hücresi",
+      "D": "Dendritik hücre",
+      "E": "B-lenfosit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 65,
+    "soru_koku": "Mast hücrelerinin granülleri metakromatik boyalarla boyanırlar. Aşağıdakilerden hangisi metakromatik bir boyadır?",
+    "secenekler": {
+      "A": "Giemsa",
+      "B": "Periodik asit-Schiff (PAS)",
+      "C": "Hematoksilen",
+      "D": "Kongo kırmızısı",
+      "E": "Eosin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 66,
+    "soru_koku": "Ağır metallerden kurşun ve kurşun toksisitesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kurşun sindirim sistemi ya da akciğerler ile vücuda alır.",
+      "B": "Emilen kurşunun büyük bölümü yumuşak dokuda birikir.",
+      "C": "Yenidoğan ve bebekler kurşun toksisitesine daha duyarlıdır.",
+      "D": "Kemikteki kurşun birikimi epifizde radyoopak birikimler şeklinde görülür",
+      "E": "Kurşun vücuttan böbrekler yoluyla atılır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 67,
+    "soru_koku": "Uzun süre diyalize giren hastalarda hangi tip amiloid birikimi olur?",
+    "secenekler": {
+      "A": "B2 mikroglobulin",
+      "B": "Transtyhretin",
+      "C": "Atrial natriüretik faktör",
+      "D": "AL (hafif zincir) protein",
+      "E": "SAA (Serum amilold associatet) protein"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 68,
+    "soru_koku": "Aşağıdaki malignitelerden hangisi hiperkalsemi yapmaz",
+    "secenekler": {
+      "A": "T hücrell lösemi",
+      "B": "akciğerin skuamoz hücreli karsinomu",
+      "C": "pankreas kanseri",
+      "D": "böbrek kanseri",
+      "E": "meme kanseri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 69,
+    "soru_koku": "Tip I aşırı duyarlılık reaksiyonundan sorumlu olan mast hücresinde bulunan mediatörlerden hangisi düz kasların kasılmasında en etkili olandır?",
+    "secenekler": {
+      "A": "Lökotrien B4",
+      "B": "Histamin",
+      "C": "Prostaglandin D2",
+      "D": "PAF",
+      "E": "Heparin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 70,
+    "soru_koku": "Doğrudan etkili karsinojenlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kansere neden olabilmeleri için metabolik dönüşüme gereksinim göstermezler.",
+      "B": "Siklofosfamid, klorambusil gibi anti-kanser ilaçlar doğrudan etkili karsinojenlerdir.",
+      "C": "Genellikle zayıf karsinojenlerdir.",
+      "D": "Polisiklik ve heterosiklik aromatik hidrokarbonlar doğrudan etkili karsinojenlerdir.",
+      "E": "Alkiileyici ajanlar doğrudan etkili karsinojenlerdir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 71,
+    "soru_koku": "Immun denetimden kaçmak için tümörün kendi yüzeyinde ekspresyonunu artırdığı reseptör molekül hangisidir?",
+    "secenekler": {
+      "A": "PD1",
+      "B": "PDL1",
+      "C": "TCR",
+      "D": "B27",
+      "E": "CTLA4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 72,
+    "soru_koku": "Aşağıdakilerden hangisi 'loss of function' lle kanser gelişimine neden olur?",
+    "secenekler": {
+      "A": "apoptozis ilişkili genler",
+      "B": "tümör baskılayıcı genler",
+      "C": "DNA onarım",
+      "D": "genleri protoonkogenler",
+      "E": "hücre büyümesi ilişkili genler"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 73,
+    "soru_koku": "Hangisi kanser gelişiminde rol oynayan faktörlerden biri değildir?",
+    "secenekler": {
+      "A": "sigara",
+      "B": "kilo kaybı",
+      "C": "alkol",
+      "D": "enfeksiyöz ajanlar",
+      "E": "diyet"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 74,
+    "soru_koku": "İmmün sistemin işleyişiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Defensinler sadece Immun sistem hucrelerince üretilen moleküllerdir",
+      "B": "Lenfositler en öndeki savunma hattının önemil hücreleridir",
+      "C": "Kazanılmış immunite yalnızca mikroorganizmalara karşı görev yapar",
+      "D": "Cephe gerisindeki asıl güç fagositlerdir",
+      "E": "Kompleman molekulleri Jogal (Innate immunitenin bir elemanıdır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 75,
+    "soru_koku": "Aşağıdakilerden hangisi karaciğerde alkolü asetaldehite metabolize eden temel enzimdir?",
+    "secenekler": {
+      "A": "Sitokrom P-450 enzim sistemi",
+      "B": "Katalaz",
+      "C": "Alkol dehidrogenaz",
+      "D": "Aldehit dehidrogenaz",
+      "E": "CYP2E1"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 76,
+    "soru_koku": "İndirekt etkili karsinojenlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Çoğu, sitokrom P-450'ye bağımlı mono-oksigenazlarla metaboliza edilir.",
+      "B": "Indirekt etkili karsinojenteri metabolize eden enzimleri kodlayan genlerin aktiviteleri bireyler arasında farklılık göstermez.",
+      "C": "Çoğu kanserojen indirekt etkilidir",
+      "D": "Güçlü karsinojendirier",
+      "E": "Aflatoksin B1 Indirekt etkili karsinojendir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 77,
+    "soru_koku": "Epigenetik ile ilgili hangisi doğrudur?",
+    "secenekler": {
+      "A": "DNA baz diziliminde nokta mutasyonu görülür",
+      "B": "Oluşan değişiklik yavru hücrelere aktanimaz",
+      "C": "Histon modifikasyonları nedeniyle oluşabilir",
+      "D": "Epigenetik tedaviler günümüzde aktif olarak kanser tedavisinde kullanılmaktadır.",
+      "E": "DNA'ya asetil grubu eklenmesiyle oluşabilir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 78,
+    "soru_koku": "Hangisi tümörün oluşturduğu antijenlerden birt değildir?",
+    "secenekler": {
+      "A": "Onkofetal antijenlar",
+      "B": "Driver mutasyonların ürettiği antijenier",
+      "C": "Onkojenik viral antijenlar",
+      "D": "Normal hücresel proteinlerin aberan üretimi",
+      "E": "Onkojenik bakteri antijenleri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 79,
+    "soru_koku": "35 yaşında kadın hastanın önkolundaki 0,5 cmlik lezyonun kesitlerinde yüzeye doğru parmaksı çıkıntılarla karakterize benign lezyon görülmüştür. En olası tanınız nedir?",
+    "secenekler": {
+      "A": "Adenom",
+      "B": "Polip",
+      "C": "Papiller kist",
+      "D": "Papillom",
+      "E": "Kistadenom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 80,
+    "soru_koku": "CD4+ T-lenfositlerin yönlendirdiği tip IV aşırı duyarlılık sonucu tam olarak oluşmuş bir granülomda aşağıdaki unsurların hangisinin bulunması en az beklenir?",
+    "secenekler": {
+      "A": "Eosinofiller",
+      "B": "Histiositler",
+      "C": "Nekroz",
+      "D": "Epitelold histiositier",
+      "E": "T-lenfositler"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 81,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi yalnızca tümör supresör genleri içermektedir?",
+    "secenekler": {
+      "A": "p53, ALK, SMAD2",
+      "B": "EGFR, Rb, APC",
+      "C": "PTCH1, NF1, p53",
+      "D": "SMAD2, NRAS, JAK2",
+      "E": "p53, Rb, NOTCH1"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 82,
+    "soru_koku": "Epitelde hücrelerin düzensiz bir dağılım göstermesine ne ad verilir?",
+    "secenekler": {
+      "A": "pleomorfizm",
+      "B": "polarite kaybı",
+      "C": "atipik mitoz",
+      "D": "anormal nükleer morfoloji",
+      "E": "nekroz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 83,
+    "soru_koku": "HLA allellerinin hastalıklar ile ilişkisinde bilinen HLA-B27 ile ilişkili hastalık aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Çölyak Hastalığı",
+      "B": "Ankillozan Spondillt",
+      "C": "Multible Skleroz",
+      "D": "Romatoid Artrit",
+      "E": "Hemokromatozis"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 84,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Malign tümörler yavaş büyüyebilir",
+      "B": "Kitledeki hızlı büyüme malignite göstergesi sayılabilir",
+      "C": "Benign tümörler her zaman yavaş büyür",
+      "D": "Malign tümörde büyüme hızı diferansiasyon ile ilişkilidir",
+      "E": "Büyüme hızı benign ve malign ayrımı için kesin bir gösterge değildir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 85,
+    "soru_koku": "Sitozolde inflamazom adlı protein kompleksinin oluşumunda sensör olarak rol oynayarak akut yangı yanıtının gelişmesini sağlayan reseptör moleküller aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Toll-benzeri reseptörler",
+      "B": "RIG-benzeri reseptörler",
+      "C": "NOD-benzeri reseptörler",
+      "D": "Mannoz reseptörleri",
+      "E": "C-tipi lektin reseptörleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 86,
+    "soru_koku": "Aşağıdakilerden moleküllerden hangisi kazanılmış (adaptif) bağışıklığın unsurlarından biridir?",
+    "secenekler": {
+      "A": "Defensinler",
+      "B": "Tip-1 interferon",
+      "C": "C-reaktif protein",
+      "D": "C3b",
+      "E": "IgM"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 87,
+    "soru_koku": "Tümörün patolojik incelemesinde kullanılan immunohistokimya yöntemi aşağıdakilerden kaç tanesi için uygulanır? 1-Tümörün nedenini saptamak 2-Tümörün tipini belirleyip tanısını koymak 3-Tümörün prognozunu öngörmek 4-Tümörün tedavisini belirlemek 5-Metastatik odağın primerini saptamak 6-Olası metastazları önceden saptayabilmek",
+    "secenekler": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "5",
+      "E": "3"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 88,
+    "soru_koku": "Mesane kanserinde amplifikasyona uğrayan protoonkogen hangisidir?",
+    "secenekler": {
+      "A": "HER2",
+      "B": "ALK1",
+      "C": "EGFR2",
+      "D": "FGFR3",
+      "E": "BRAF"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 89,
+    "soru_koku": "Aşağıdaki şıklardan hangisindeki eşleştirme doğrudur? a-malign tümör b-yeni oluşum c-kitle d-tümör billmi 1-Kanser 2-Tümör 3-Onkoloji 4-Neoplazi",
+    "secenekler": {
+      "A": "1a 2b 3c 4d",
+      "B": "1c 2a 3d 4b",
+      "C": "1a 2c 3d 4b",
+      "D": "1c 2b 3a 4d",
+      "E": "1b 2a 3c 4d"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 90,
+    "soru_koku": "Mekanik travma ile ilgili aşağıdaki tanımlamalardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "Delinme yarası kesici aletle oluşan, yara dudaklarının temiz ve düzgün olduğu kesilerdir.",
+      "B": "İnsizyon; delici aletlerle ya da ateşli silahlarla oluşan giriş- çıkış deliği şeklindeki yaralardır.",
+      "C": "Kontüzyon; Aşırı gerilmeyle deride oluşan düzensiz yırtıklardır.",
+      "D": "Laserasyon; künt travmayla genellikle doku bütünlüğü bozulmadan oluşan intertisyel kanamadır.",
+      "E": "Abrazyon; güç kullanma ya da sürtünmeyle epidermisin yüzeyinin soyulmasıdır."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 91,
+    "soru_koku": "Aşağıdaki immun gelişmiştir? yetmezlik sendromlarının hangisinde T-hücre immunitesi",
+    "secenekler": {
+      "A": "SCID",
+      "B": "AIDS",
+      "C": "DIGeorge Sendromu",
+      "D": "Çıplak lenfosit sendromu",
+      "E": "X'e bağlı agammaglobulinemi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 92,
+    "soru_koku": "Aşağıdakilerden hangsi self toleransı kıran mekanizmalardan biri değildir?",
+    "secenekler": {
+      "A": "Poliklonal lenfosit aktivasyonu",
+      "B": "Süpresör/helper T-hücre işlevlerinde dengesizlik",
+      "C": "Sekestre bir antijenin ortaya çıkması",
+      "D": "Genetik faktörler",
+      "E": "Bireylerin kendi antijeûlerine karşı yanıtsız olması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 93,
+    "soru_koku": "Malign tümör ve en sık metastaz yaptığı organ eşleştirmelerinden hangisi en doğrudur?",
+    "secenekler": {
+      "A": "Prostat",
+      "B": "Akciğer karsinomu-beyin karsinomu-sürrenal",
+      "C": "Prostat karsinomu-böbrek",
+      "D": "Kolon karsinomu-akciğer",
+      "E": "Akciğer karsinomu-karaciğer"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 94,
+    "soru_koku": "Aşağıdakilerden hangisinin varlığında prognozun en kötü olmasmı bekleriz?",
+    "secenekler": {
+      "A": "İyi diferansiye karsinom",
+      "B": "benign tümör",
+      "C": "az diferansiye karsinom",
+      "D": "karsinoma insitu",
+      "E": "Indiferansiye karsinom"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 95,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olduğunu belirten seçeneği işaretleyiniz. ( )2018 Türkiye Nüfus Sağlık Araştırması'na göre doğumdan sonraki ilk bir saatte bebeklerin üçte biri emzirilmemiştir. ()2018 Türkiye Nüfus Sağlık Araştırması'na göre Ilk 2 ayda sadece anne sütü alan bebeklerin oranı %59'dur ( )2018 Türkiye Nüfus Sağlık Araştırması'na göre 4-5. ayda sadece anne sütü alan bebeklerin oranı %14'dür. ( )Olgun süt doğumdan sonra 10. günden sonra salgılanan süttür.",
+    "secenekler": {
+      "A": "YYDD",
+      "B": "DDDD",
+      "C": "YDYY",
+      "D": "DDDY",
+      "E": "DYYY"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 96,
+    "soru_koku": "Aşağıdaki İfadelerin doğru ya da yanlış olduğunu belirten seçeneği işaretleyiniz. () Dünyada 0-5 yaş çocuklarda beslenme sorunları içinde zayıflık en fazla görülen sorundur. () 5 yaş altı ölümlerin yaklaşık olarak yarısı kötü beslenme ile ilişkilidir. () çocuk obezitesi özellikle düşük-orta gelirli ülkelerde artmaktadır. ( )2018 Türkiye Nüfus Sağlık Araştırmasına göre 0-5 yaş grubunda beslenme bozuklukları kapsamında bodurluk en çok görülen sorundur.",
+    "secenekler": {
+      "A": "DYYD",
+      "B": "DDDD",
+      "C": "YDYD",
+      "D": "DDYY",
+      "E": "YDDY"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 97,
+    "soru_koku": "Aşağıda kanserle ilişkili ifadelerden doğru olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Kanser görülme sıklığı yaşla beraber arttığı için Dünyada kanser vakalarının büyük bölümü, yaşlı oranı yüksek olan gelişmiş ülkelerdedir.",
+      "B": "Kanserde taramalar belirtisi olan kişilere, erken tam ise hedef nüfusa sağlanan hizmettir.",
+      "C": "Serviks kanseri taramalarında 25 yaşın altındaki ve 65 yaş üstündeki kadınların taranması önerilmez.",
+      "D": "Türkiye kanser insidansı dünya ortalaması ile karşılaştırıldığında, kadınlarda daha yüksek, erkeklerde ise dünya ortalamasının altındadır.",
+      "E": "Kadın kanserleri içinde mortalitesi en yüksek olan meme kanseridir."
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdaki ifadelerin doğru ya da yanlış olarak belirtildiği seçeneği işaretleyiniz. ( )Aşı takvimine en son eklenen aşı suçiçeği aşısıdır. ()Primer bağışıklaması yapılan tüm yetişkinlere Td 10 yılda bir yapumalıdır. ( )6 yaş üzeri hiç aşılanmamış çocuklara BCG aşısı yapılır. ()Ülkemizde çocuk felcinde son olgu 1998 yılında saptanmış, Avrupa bölgesi 2002 yılında pollodan arınmış bölge ilan edilmiştir.",
+    "secenekler": {
+      "A": "YDYD",
+      "B": "DYYD",
+      "C": "YYDY",
+      "D": "DDYD",
+      "E": "YYDD"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 99,
+    "soru_koku": "Aşağıdakı ifadelerin doğru ya da yanlış olarak belirtildiği seçeneği İşaretleyiniz. ()Ülkemizde çocuklarda aşı reddi oranı Türkiye Nüfus Sağlık Araştırması 2008-2013 verilerine göre %85 oranında artış göstermiştir. ( )Aşılanmamış kız çocuklarının oranı erkek çocukların iki katı daha fazladır. ()Ülkemizde rotavirus, HPV ve meningokok aşıları Dünya Sağlık Örgütünün önerisiyle ulusal aşı takviminde yer almaktadır. ( )12 ayını tamamlayan çocuklar aşı programma göre 13 hastalığa karşı aşılanmaktadır. ( ) 6 ayını tamamlayan bir çocuğun 3 doz hepatit, 2 doz pnomokok, 1 doz orai polio, 1 doz BCG,ve 3 doz karma aşı olması gerekir.",
+    "secenekler": {
+      "A": "DDDYY",
+      "B": "DDYYD",
+      "C": "DYDYY",
+      "D": "YYDDY",
+      "E": "YDYYD"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 100,
+    "soru_koku": "Aşağıda kanser taramaları ile ilgili ifadelerin doğru (D) ya da yanlış (Y) olarak belirtilen seçeneği işaretleyiniz. ( )Prostat kanseri dünyada erkeklerde en sık görülen ikinci kanserdir ve DSÖ tarama programını önermektedir. ( )40 yaşında mamografi ile taramaya başlanması ve 69 yaşına kadar her 2 yılda 1 mamografi ile tarama yapılmasını önermektedir. ()Ülkemizde fırsatçı ve toplum tabanlı meme kanseri taramalarının kapsayıcılık oranı %60 civarındadır. () Ülkemizde mammografi taramalarının çok büyük bir kısmı Kanser Erken Teşhis ve Tarama Merkezlerinde (KETEM) yapılmaktadır.",
+    "secenekler": {
+      "A": "YDYD",
+      "B": "YDYY",
+      "C": "DYYD",
+      "D": "DDYY",
+      "E": "YYDD gibi"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": "Tümör hücrelerinin orijin bölgelerinden ayrılarak vücuttaki diğer bölgelere hareketi aşağıdaki proteinlerden hangisinin aktivitesi ile gerçekleşir?",
+    "secenekler": {
+      "A": "Laminin",
+      "B": "Proteoglikanlar",
+      "C": "Elastin",
+      "D": "Metallaoproteinazlar",
+      "E": "Kollajenler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": "Tiroit kanserlerinde operasyon sonrası rekürrens tespiti için aşağıdaki tümör belirteçlerinden hangisi tercih edilmelidir?",
+    "secenekler": {
+      "A": "Alfafetoprotein",
+      "B": "Tiroglobulin",
+      "C": "Karsiyoembiryojenik antijen",
+      "D": "Her2/neu",
+      "E": "Ca10-9"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": "Tümör belirteçleri arasında yer alan CA15.3 ve CA27.29 aşağıdaki hangi organ kanseri tedavisinin izlenmesi ve prognozunun takibinde belirteç olarak kabul edilir?",
+    "secenekler": {
+      "A": "Tiroid kanseri",
+      "B": "Pankreas kanseri",
+      "C": "Over kanseri",
+      "D": "Meme kanseri",
+      "E": "Kolorektal kanserler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": "İdrar yolları transisyonel hücreli karsinom varlığında aşağıdaki tümör belirteçlerinden hangisi hastaların idrar örneklerinde saptanabilir?",
+    "secenekler": {
+      "A": "DUPAN-2",
+      "B": "CA50",
+      "C": "Nükleer matriks proteini 22",
+      "D": "Beta 2 mikroglobulin",
+      "E": "IL2 reseptörü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": "DNA replikasyonu kromozom çiftlenmesi RNA ve protein sentezinin olduğu hücre siklusu evresi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "G1",
+      "B": "S",
+      "C": "G2",
+      "D": "M",
+      "E": "G0"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": "Aşağıdaki parametrelerden hangisinin plevral sıvıdaki ölçülen düzeyi ile plazmadaki düzeyi eşit kabul edilir?",
+    "secenekler": {
+      "A": "Protein",
+      "B": "Glukoz",
+      "C": "Ph",
+      "D": "LDH",
+      "E": "Amilaz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": "Monoklonal protein varlığını araştırmak için aşağıdaki yöntemlerden hangisi en değerli bilgi verir?",
+    "secenekler": {
+      "A": "Serumda total protein, albumin ve globulin düzeylerini otoanalizörde tayini",
+      "B": "Serum Protein elektroforezi",
+      "C": "24 saatlik idrar analizi",
+      "D": "Flow sitometri",
+      "E": "Vücut sıvılarında LDH tayini"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Belli bir alerjenle karşılamadan dakikalar içerisinde çıkan semptomlardan hangisi anafilaksi tanısı için gerekli değildir?",
+    "secenekler": {
+      "A": "Sistolik kan basıncının 90 mmHg altına inmesi",
+      "B": "Bronkospazma alt semptomlar",
+      "C": "Kaşıntı, kızarıklık, kabarıklık gibi deri lezyonları",
+      "D": "Karın ağrısı, İshal gibi gastro-intestinal bulgular",
+      "E": "Anüri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Ülkemizde renal replasman (son evre böbrek yetersizliğinde uygulanan) tedavilerle ilgili aşağıdaki seçeneklerden kaçı doğrudur? (1)Ülkemizde son evre böbrek yetersizlikli olguların ağırlıklı tedavi yöntemi hemodiyalizdir. (2) Transplantasyon en kaliteli yaşam düzeyi sağlayan tedavi yöntemidir. (3) Periton diyalizi de bir tedavi yöntemi olarak göz önünde bulundurulmalıdır. (4) Birinci yıl geçtikten sonra en ekonomik tedavi böbrek en ekonomik naklidir. (5) Ülkemizde kadaverik (beyin ölümü gerçekleşmiş verici) böbrek nakli ağırlıklı olarak uygulanan böbrek nakli yöntemidir.",
+    "secenekler": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Gazlı gangrende en sık etken olan klostridiyum türü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Clostridium septicum",
+      "B": "Clostridium perfiringens",
+      "C": "Clostridium novyl",
+      "D": "Clostrdium histolyticum",
+      "E": "Clostrdium difficile"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıdakilerden hangisi iyonlaştırıcı radyasyon tiplerinden değildir?",
+    "secenekler": {
+      "A": "X ışınları",
+      "B": "Gama ışınları",
+      "C": "Alfa parçacığı",
+      "D": "UV ışın",
+      "E": "B parçacığı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Deterministik etki ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Latent dönem uzundur",
+      "B": "Eşik doz yüksektir",
+      "C": "Doz hızı etkiyi arttırır",
+      "D": "Etki şiddeti doz ile artar",
+      "E": "Hücre ölümüne neden olur"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Kloramfenikol için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Kloramfenikol' ün bakterisidal etkisi yoktur",
+      "B": "Bakterinin ribozomal 50S altbirimine reverzibl olarak bağlanarak protein sentezini inhibe eder",
+      "C": "Karaciğer yetmezliğinde doz ayarlaması gerekmez",
+      "D": "Fenitoin ve barbüratlar ,kloramfenikolün kan düzeyini yükseltirler",
+      "E": "Asetaminofen, kloramfenikolün aktivasyonunu hızlandırır"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "Intestinal amebiazis tedavisinde oral yoldan kullanılan aminoglikozid antibiyotik aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Paromomisin",
+      "B": "Gentamisin",
+      "C": "Amikasin",
+      "D": "Kanamisin",
+      "E": "Netilmisin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "Aşağıdakilerden hangisi myelotoksik kanser ilaçlarının neden olduğu nötropeni tedavisi için kullanılır?",
+    "secenekler": {
+      "A": "Aldeslökin",
+      "B": "Filgrastim",
+      "C": "Levamizol",
+      "D": "Thalidomid",
+      "E": "Glatiramer asetat"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "Aşağıdaki antiviral ilaçlardan hangisi hiperglisemi ile birlikte dislipidemi yapar?",
+    "secenekler": {
+      "A": "Amantadin",
+      "B": "Oseltamivir",
+      "C": "Foskarnet sodyum",
+      "D": "Gansiklovir",
+      "E": "Indinavir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "Tedaviye uyumundan şüphe ettiğiniz, Penisiline alerjisi olan ve Gonore tanısı koyduğunuz hastanızın tedavisinde aşağıdaki antibiyotiklerden hangisini tercih edersiniz?",
+    "secenekler": {
+      "A": "Ampisilin",
+      "B": "Klindamisin",
+      "C": "Neomisin",
+      "D": "Azitromisin",
+      "E": "Nalidiksik asid"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Bakteriodes fragilis'in neden olduğu karın içi abse tedavisinde kullanılan ve bakteriyel protein sentezini İnhibe ederek etki gösteren antibiyotik aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Klindamisin",
+      "B": "Prokain penisilin",
+      "C": "Vankomisin",
+      "D": "ofloksasin",
+      "E": "Ampisilin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Orta derecede böbrek yetmezliği olan bir hastada aşağıdaki antibiyotiklerden hangisinin dozunu mutlaka ayarlamak gerekir?",
+    "secenekler": {
+      "A": "Kloramfenikol",
+      "B": "Azitromisin",
+      "C": "Gentamisin",
+      "D": "Doksisiklin",
+      "E": "Moksifloksasin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Perioperatif Cerrahi profilakside en çok tercih edilen ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kloramfenikol",
+      "B": "Eritromisin",
+      "C": "Sefuroksim",
+      "D": "Sefazolin",
+      "E": "Nafsilin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Nörolojij problemi olan bir hastada geniş spektrumlu ve betalaktamlara en dayanıklı antibiyotik kullanmak isterseniz en uygun tercih hangisidir?",
+    "secenekler": {
+      "A": "Sefoksitin",
+      "B": "Meropenem",
+      "C": "Seftriakson",
+      "D": "Koamoksilav",
+      "E": "Amikasin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "Çocuk bir hastada Sefuroksim ve ko amoksilav'a dirençli H.influenza bağlı bir enfeksiyonun tedavisinde aşağıdakilerden hangisini kullanılmalıdır?",
+    "secenekler": {
+      "A": "Sefiksim",
+      "B": "Sefradin",
+      "C": "levofloksasin",
+      "D": "Sefsulodin",
+      "E": "Siprofloksasin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "Çocukluk çağında wheezy child (hışıltılı çocuk) demek için çocuğun geçirmesi gereken en az hışıltı atak sayısı ne olmalıdır",
+    "secenekler": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Öksürük reseptörü aşağıdakı yapılardan hangisidir?",
+    "secenekler": {
+      "A": "Myelinize C fiber sinir ucu",
+      "B": "Germe duyarlı serbest sinir ucu",
+      "C": "Non myelinize A fiber",
+      "D": "Non myelinize C fiber",
+      "E": "Non myelinize B fiber"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdakilerden hangisi çocuklarda kistik fibroizis için en vurgulayıcı bulgudur?",
+    "secenekler": {
+      "A": "Yenidoğanda pömontoraks",
+      "B": "Prodüktif öksürük",
+      "C": "Metalik öksürük",
+      "D": "Taşipne",
+      "E": "Üst interkostal çekilmeler"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "Aşağıdaki sitokinlerden hangisi alerjik enflamasyon yatkınlığında etken değildir?",
+    "secenekler": {
+      "A": "IL-13",
+      "B": "IL-4",
+      "C": "IL-9",
+      "D": "IL-12",
+      "E": "IL-5"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "Aşağıdakilerden hangisi patolojik yenidoğan muayene bulgusudur?",
+    "secenekler": {
+      "A": "Baş geliş bebeklerde kalça ve dizler fleksiyon Postüründedir.",
+      "B": "Yenidoğan bebeğin tonusu hipotoniktir.",
+      "C": "Doğumdan sonra ilk 24 saat içinde akrosiyanoz gözlenebilir.",
+      "D": "Sağlıklı ve Isısı muhafaza edilmiş bebeğin rengi kırmızımsı pembedir.",
+      "E": "Postmatür bebeklerde kuru cilt gözlenebilir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "Alerjik hastalıkların patogenezinde sorumlu olan T helper (yardımcı T) lenfosit tipi hücre tipi hangisidir?",
+    "secenekler": {
+      "A": "Th1",
+      "B": "Th2",
+      "C": "Th3",
+      "D": "Th17",
+      "E": "Th23"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisinde İmmün yetmezlikle birlikte parathormon yetmezliği vardır?",
+    "secenekler": {
+      "A": "Bruton hastalığı",
+      "B": "Common Variable İmmün Yetmezlik",
+      "C": "Selektif IgA eksikliği",
+      "D": "Di George Sendromu",
+      "E": "Selektif IgE eksikliği"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Aşağıdaki ilaçlardan hangileri sıklıkla non-IgE aracılı immunolojik ilaç reaksiyonuna sebep olabilir?",
+    "secenekler": {
+      "A": "Penisilin",
+      "B": "İnsülin",
+      "C": "L-Asparaginaz",
+      "D": "Sefalosporin",
+      "E": "Asetil Salisilik Asit"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "Aşağıdakilerden hangisi en sık nazal polip görülme sıklığına sahip hasta grubudur?",
+    "secenekler": {
+      "A": "Samter sendromu (AERD/NERD)",
+      "B": "Alerjik rinit",
+      "C": "Alerjik sinüzit",
+      "D": "Alerjik astım",
+      "E": "Eosinofilik astım"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdakilerden hangisi 0-14 yaş arası çocuklarda en sık görülen solid tümördür?",
+    "secenekler": {
+      "A": "Wilms tümörü",
+      "B": "Santral sinir sistemi tümörleri",
+      "C": "Nöroblastoma",
+      "D": "Germ Hücreli tümörler",
+      "E": "Rabdomyosarkoma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdakilerden hangisi ön fontanelde geç kapanmaya neden olan hastalıklardan biri değildir?",
+    "secenekler": {
+      "A": "Raşitizm",
+      "B": "Down Sendromu",
+      "C": "Mipertiroidi",
+      "D": "Intrakraniyal basınç artışı",
+      "E": "Hidrosefali"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "I-Tansiyon ölçümü için açılmış damar yolu bulunan kol tercih edilmelidir. II-Sistolik ve diyastolik kan basıncını belirlemek için faz I ve faz V Korotkoff sesleri kullanılmalıdır. III- Bir yetişkinde solunum sayısının dakikada 20 den fazla olmasına \"bradipne\" denir. Vital bulguların ölçümü ile ilgili yukarıda verilen bilgilerden hangisi veya hangileri doğrudur",
+    "secenekler": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I,II",
+      "D": "II,III",
+      "E": "Yalnız III"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Baş boyun muayenesi sırasında saptanabilecek bulgularla ilgili verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kira kırmızısı renkte dudak karbonmonoksit zehirlenmesinin bir bulgusudur.",
+      "B": "Basedow Graves hastalığında ekzoftalmi görülebilen bir bulgudur.",
+      "C": "Aslan yüzü görünümü Lepralı hastalarda görülebilen bir bulgudur.",
+      "D": "Akromegali hastalarında gözlenebilen çenede büyümeye \"pitozis\" denir.",
+      "E": "Aydede yüz ve ensede bufalo hörgücü görünümü Cushing sendromunda gözlenebilen bulgulardandır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Aşağıdakilerden hangisi geniş fontanel nedenlerinden biri değildir?",
+    "secenekler": {
+      "A": "Hipertiroidi",
+      "B": "Rickets",
+      "C": "Hidrosefali",
+      "D": "Intrakraniyal basınç artışı",
+      "E": "Down sendromu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Aşağıdaki kemoterapi ajanlardan hangisi ile hastalarda yan etki olarak nörotoksisite gelişmesi beklenmez?",
+    "secenekler": {
+      "A": "Vinkristin",
+      "B": "Paklitaksel",
+      "C": "Dosetaksel",
+      "D": "Karboplatin",
+      "E": "Okzaliplatin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "Kanserde tarama uygulamaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "50 yaş üzeri, 20 paket/yıldan fazla sigara tüketen, ek risk faktörü olmayan kişilere akciğer kanseri açısından düşük doz tomografi ile tarama önerilmemektedir.",
+      "B": "40 yaşından itibaren tüm kadınlarda meme kanseri Açısından rutin mammografi taraması yapılmalıdır.",
+      "C": "HPV aşısı yapılan kadınlarda serviks kanseri açısından tarama yapmaya gerek yoktur.",
+      "D": "Son iki HPV ve Pap-smear testi negatif çıkan kadınlarda",
+      "E": "65 yaş üstünde pozitif çıkma riski daha azdır."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Aşağıdaki hangisi antimetabolit grubu kemoterapi ajanlarından değildir?",
+    "secenekler": {
+      "A": "Vinorelbin",
+      "B": "Metotreksat",
+      "C": "5-Florourasil",
+      "D": "Gemsitabin",
+      "E": "Sitarabin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Sol akciğer üst lobda tümöral lezyonu bulunan Evre 4 akciğer kanserli hasta L3 vertebrada ağrılı kemik metastazı nedeniyle opere edilmiş RT-İçin başvuran hastaya radyoterapi hangi amaçla uygulanır?",
+    "secenekler": {
+      "A": "Küratif amaçla",
+      "B": "Yara iyileşmesini sağlamak amacıyla",
+      "C": "Palyatif amaçla",
+      "D": "Kemoterapinin etkisini arttırmak amacıyla",
+      "E": "Sağ kalımını arttırmak amacıyla"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Oligometastatik kanser hastalarında oligometastatik beyin metastazlarının tedavisinde, tercih edilmesi gereken radyoterapi tekniği hangisidir?",
+    "secenekler": {
+      "A": "Brakiterapi",
+      "B": "Üç boyutlu radyoterapi",
+      "C": "Nötron terapi",
+      "D": "Stereotaktik radyoterapi",
+      "E": "Yoğunluk ayarlı radyoterapi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Artrus reaksiyonu hangi tip duyarlılık sonrası oluşur?",
+    "secenekler": {
+      "A": "Tip 1 aşırı duyarlılık",
+      "B": "Tip 2 aşırı duyarlılık",
+      "C": "Tip 3 aşırı duyarlılık",
+      "D": "Tip 4 aşırı duyarlılık",
+      "E": "Tip 5 aşırı duyarlılık"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Kan yolu ile bulaşan enfeksiyonlardan hangisinde temas sonrası profilaksi etkili değildir?",
+    "secenekler": {
+      "A": "Hepatit A",
+      "B": "Hepatit B",
+      "C": "Hepatit C",
+      "D": "Kırım Kongo Kanamalı Ateşi",
+      "E": "HIV"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "Aşağıdaki mikrobiyolojik tanı yöntemlerinden hangisi etken mikroorganizmanın nükleik asidinin çoğaltılarak saptanması temeline dayanır?",
+    "secenekler": {
+      "A": "MALDI-TOF",
+      "B": "ELISA",
+      "C": "DFA",
+      "D": "Prob hibridizasyon",
+      "E": "POR"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "Bakteriyolojik kültür için zamanında gönderilemeyen idrar örnekleri hangi koşullarda saklanmalıdır?",
+    "secenekler": {
+      "A": "Oda ısısında",
+      "B": "derecede",
+      "C": "derecede",
+      "D": "-20 derecede",
+      "E": "-80 derecede"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "Aşağıdaki moleküllerden hangisi \"natural-killer\" (NK) hücrelerinin inhibitör reseptörüdür?",
+    "secenekler": {
+      "A": "CD30",
+      "B": "CD68",
+      "C": "NKG2D/CD94",
+      "D": "CD16",
+      "E": "CD117"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "CD4+ T-lenfositlerin yönlendirdiği tip IV aşını duyarlılık sonucu tam olarak oluşmuş bir granülomda aşağıdaki unsurların hangisinin bulunması en az beklenir?",
+    "secenekler": {
+      "A": "Eosinofiller",
+      "B": "Histiositler",
+      "C": "Nekroz",
+      "D": "Epiteloid histiositler",
+      "E": "T-lenfositler B-lenfositlerin özelliklerini ve işlevlerini belirten"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "aşağıdaki İfadelerden yanlış olan hangisidir?",
+    "secenekler": {
+      "A": "Sıvısal bağışıklığın esas hücreleridir",
+      "B": "Kemik iliği kökenli olup periferik lenfoid dokuda prolifere olurlar",
+      "C": "Tanıtıcı moleküllerinden biri CD21'dir",
+      "D": "Lenf düğümünde kortikal alanın hakim hücreleridir",
+      "E": "Mutlaka Ig gen yeniden düzenlenimi gösterirler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "CD4+ T-lenfositin CD40 ligandında mutasyonun sorumlu tutulduğu immün yetmezlik hastalığı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Izole IgA yetmezliği",
+      "B": "X'e bağlı agammaglobulinemi",
+      "C": "Hiper-IgM sendromu",
+      "D": "Wiscott-Aldrich Sendromu",
+      "E": "Çıplak lenfosit sendromu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisi esas olarak tip II aşırı duyarlılık sonucu gelişmektedir?",
+    "secenekler": {
+      "A": "Poststreptokoksik glomerulonefrit",
+      "B": "Goodpasture Sendromu",
+      "C": "Esansiyel trombositemi",
+      "D": "Poliarteritis nodosa",
+      "E": "Inflamatuar barsak hastalığı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Organ naklinde graftın reddedilmemesi için uygulanan Immunosupresyonda kullanılan siklosporinler ve FK 506, aşağıdaki sitokinlerin hangisinin aktivasyonunu engelleyerek T-hücre immunitesini baskı altına alır?",
+    "secenekler": {
+      "A": "Interferon gamma",
+      "B": "IL-4",
+      "C": "TNF-alfa",
+      "D": "IL-2",
+      "E": "IL – 17"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Aşağıdaki immün yetmezlik sendromlarının hangisinin gen nakliyle tedavisinde komplikasyon olarak lösemiler gelişebilir?",
+    "secenekler": {
+      "A": "şiddetli kombine immün yetmezlik (SCID)",
+      "B": "Izole IgA yetmezliği",
+      "C": "DiGeorge Sendromu",
+      "D": "X'e bağlı agammaglobulinemi",
+      "E": "Hiper IgM sendromu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Monoklonal B-hücre proliferasyonları sonucu gelişebilen amiloidoz türü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "AL amiloidoz",
+      "B": "AA amiloidoz",
+      "C": "Senil serebral amiloidoz",
+      "D": "Endokrin amiloidoz",
+      "E": "Sistemik senil amiloidoz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Mast hücrelerinin granülleri metakromatik boyalarla boyanırlar. Aşağıdakilerden hangisi metakromatik bir boyadır?",
+    "secenekler": {
+      "A": "Giemsa",
+      "B": "Periodik asit-Schiff (PAS)",
+      "C": "Hematoksilen",
+      "D": "Kongo kırmızısı",
+      "E": "Eosin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "CD4+ T-lenfositin B lenfositi antikor üretmek üzere uyarabilmesini sağlayan molekül hangisidir?",
+    "secenekler": {
+      "A": "CD40 Ligand",
+      "B": "CD25",
+      "C": "CD28",
+      "D": "TCR",
+      "E": "CD3"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "Aşağıdaki tümör adlandırmalarından hangisi malign olduğu halde benign adlandırılmış tümörlere örnek değildir?",
+    "secenekler": {
+      "A": "Koristom",
+      "B": "Seminom",
+      "C": "Melanom",
+      "D": "Lenfoma",
+      "E": "Disgerminom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "Tümörlerde diferansiyasyon kavramı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "İyi diferansiye tümörler az diferansiye tümörlere göre daha kötü prognozludur.",
+      "B": "Tümör, köken aldığı døkuya ne kadar benziyorsa o kadar iyi diferansedir.",
+      "C": "Anaplastik tümörler genellikle küçük hücrelidir.",
+      "D": "Malign tümörler iyi diferansiye olamazlar.",
+      "E": "Evre I tümörler her zaman az diferansiyedir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "Aşağıdakilerden hangisi metastaz yapmadığı düşünülen malign tümörlere örnektir?",
+    "secenekler": {
+      "A": "Plemorfik adenom",
+      "B": "Seminom",
+      "C": "Nöroblastom",
+      "D": "Derinin bazal hücreli karsinomu",
+      "E": "İyi diferansiye skuamöz hücreli"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağıdakilerden hangisi bulunduğu organda kansere zemin hazırlayan öncül lezyonlardan değildir?",
+    "secenekler": {
+      "A": "Servikal displazi",
+      "B": "Karaciğer sirozu",
+      "C": "Endometrial hiperplazi",
+      "D": "Benign prostat hiperplazisi",
+      "E": "Lökoplaki"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "Tümör anjiogenezi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "AA Anjlogenezi inhibe eden ilaçlar özellikle erken evrede Kullanılırlar ve kür sağlarlar.",
+      "B": "p53 trombospondin ekspresyonunu arttırır,",
+      "C": "Anjiogenik maddelerin üretimi tümör hücreleri yanı sıra stromal hücreler ve yangi hücrelerinden de sağlanır.",
+      "D": "Tümörün kan damarlarındaki endotel hücreleri klonal değildir.",
+      "E": "In situ tümörler anjiogenik faktörler üretmezler."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Yüksek miktarda kan almasına karşın aşağıdaki organlardan hangisinde metastaz az görülür?",
+    "secenekler": {
+      "A": "iskelet kası",
+      "B": "karaciğer",
+      "C": "böbrekler",
+      "D": "sürrenal bezi",
+      "E": "beyin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "İmmün sistemimiz en çok (temel mekanizma) hangi hücreleriyle tümör hücrelerini öldürmeye çalışır?",
+    "secenekler": {
+      "A": "CD4 T lenfositler",
+      "B": "Sitotoksik CD8 T lenfositler",
+      "C": "Th T lenfositler",
+      "D": "Histiyositler",
+      "E": "B lenfositler"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "Endemik tip Burkitt lenfomada hangi virüs ve hangi moleküler değişiklik patogenezde önemlidir?",
+    "secenekler": {
+      "A": "HPV-p53",
+      "B": "CMV-Rb",
+      "C": "EBV-bcl-2",
+      "D": "EBV-c-myc",
+      "E": "HPV-siklinD"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "Aşağıdakilerden hangisi kusma ile karakterli yeme bozukluğudur?",
+    "secenekler": {
+      "A": "Marasmus",
+      "B": "Bulimia",
+      "C": "Anoreksia Nervosa",
+      "D": "Kwashiorkor",
+      "E": "Obesite"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "Desmoplastik stromadan zengin bir tümör ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Renal hücreli karsinom için tipiktir.",
+      "B": "Lenfomalarda sık görülür.",
+      "C": "Parankimal hücrelerin aşırı proliferasyonuyla oluşur.",
+      "D": "Tümör yumuşak palpe edilir.",
+      "E": "Meme kanserleri sıklıkla desmoplastiktir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Larinks epitelinden köken alan, yüzeye doğru parmaksı çıkıntılar oluşturan ve stromada da invaziv neoplastik hücrelerin izlendiği malign tümöre ne ad verilir?",
+    "secenekler": {
+      "A": "Adenokarsinoemn",
+      "B": "Skuamöz papillom",
+      "C": "Skuamöz polip",
+      "D": "Papiller tip Skuamöz hücreli karsinom",
+      "E": "Papiller kistadenom ler kistadenom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Aşağıdaki hangi gen grubundaki fonksiyon arttırıcı mutasyon tümör gelişimine katkıda bulunmaz?",
+    "secenekler": {
+      "A": "Büyüme faktör reseptör genleri",
+      "B": "DNA onarım genleri",
+      "C": "Sinyal iletim yolaklarında görevli genler",
+      "D": "c-myc gibi transkripsiyon faktörleri",
+      "E": "Büyüme faktör genleri"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "Aşağıdaki hangi kanser tipi KRAS mutasyonlarının en sık görüldüğü kanserlerdendir?",
+    "secenekler": {
+      "A": "Renal hücreli karsinom",
+      "B": "Malign melanom",
+      "C": "Lenfoma",
+      "D": "Kolon",
+      "E": "Burkitt lenfoma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "Aşağıdakilerden hangisi P53 geninin görevlerinden değildir?",
+    "secenekler": {
+      "A": "DNA onarım genlerini aktifler.",
+      "B": "Apoptozis indükleyici genleri aktive eder.",
+      "C": "Hücre siklusunu yürütücü genleri indükler.",
+      "D": "Siklin bağımlı kinaz inhibitörü genini aktive eder.",
+      "E": "bax ve PUMA gibi genleri aktive eder."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "Aşağıdaki tümör hücrelerinin immun sistemden kaçış mekanizmalarıyla ilgili hangisi doğrudur?",
+    "secenekler": {
+      "A": "Güçlü immunojenik tümör hücrelerinin immun sistemden kaçışı daha kolaydır.",
+      "B": "Tümör hücreleri yüzeylerinde PDL1 ekspresyonunu arttırarak İmmün sistemden kaçabilirler.",
+      "C": "İmmün sistemi güçlendirici moleküller eksprese ederek immun sistemden kaçabilirler.",
+      "D": "CTLA-4 inhibtörleri kanserlerin progresyonuna neden olur.",
+      "E": "MHC ekspresyonlarını arttırarak immun sitemden kaçabilirler."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Displazinin tanımı hangi seçenekte doğru verilmiştir?",
+    "secenekler": {
+      "A": "Bir epitelin yerini başka bir epitelin alması ve hücrelerin çok sayıda atipik mitoz göstermesi",
+      "B": "Epiteli tam kat tutan nükleer irileşme",
+      "C": "Bazal membranı aşmayan ve epiteli tam kat tutmayan Kalabalıklaşma, nükleer atipi, organizasyon kusuru olması",
+      "D": "Epitelin atipi ile belirgin kalınlaşması ve bozuk bir bazal membran yapısının olması",
+      "E": "Bazal membranın hemen altında küçük yuva tarzı invaziv odaklar olması"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "Aşağıdaki karsinojen-organ kanseri ikililerinden hangisinde bilinen güçlü bir ilişki saptanmamıştır?",
+    "secenekler": {
+      "A": "Benzopiren-Akciğer",
+      "B": "HPV-Serviks",
+      "C": "İyonize radyasyon-Kolon",
+      "D": "Aflatoksin B1- Karaciğer",
+      "E": "Nitritler Mide"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "Kimyasal ajanlarla oluşan kanserlerde en çok mutasyon hedefi olan 2 gen hangi seçenekte tam ve doğru verilmiştir?",
+    "secenekler": {
+      "A": "p53 ve ras",
+      "B": "p53 ve Rb",
+      "C": "Rb ve histonlar",
+      "D": "ras ve c-myc",
+      "E": "bcl-2 ve p53"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Aşağıdaki organ tümörlerinde uygulanan hangi immunohistokimyasal inceleme hedef tedaviyi belirlemek için yaygın olarak kullanılmaktadır?",
+    "secenekler": {
+      "A": "Prostat kanserinde PSA ekspresyonu",
+      "B": "Epitelyal tümörlerde sitokeratin ekspresyonu",
+      "C": "Burkitt lenfomada Ki67 pozitifliği",
+      "D": "Meme kanserinde c-erb-B2 (EGFR) ekspresyonu",
+      "E": "\"Mantle\" hücreli lenfomada siklin D1 pozitifliği"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "Aşağıdakilerden hangisi tümörün köken aldığı organda çevreye invazyonunu tanımlayan göstergedir?",
+    "secenekler": {
+      "A": "Diferansiyasyonu",
+      "B": "Metastaz yapması",
+      "C": "T evresi",
+      "D": "Kan damarlarında tümör embolisi olması",
+      "E": "N evresi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Özellikle atık pillerin neden olduğu zehirlenmede etken madde aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Civa",
+      "B": "Kurşun",
+      "C": "Arsenik",
+      "D": "Ozon",
+      "E": "Radyasyon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "Radyasyonun dokulardaki etkileriyle ilgili hangisi doğrudur?",
+    "secenekler": {
+      "A": "Proliferasyonu yüksek olan dokular daha fazla etkilenir.",
+      "B": "Vaskülarizasyonu iyi dokular daha az etkilenir.",
+      "C": "Tek seferde verilen yüksek doz aralıklı verilen düşük dozlardan daha az zararlıdır.",
+      "D": "Endotel hücreleri dayanıklı olduklarından radyasyondan etkilenmezler.",
+      "E": "Erken dönemde değişiklik oluşturmamışsa etkisi bir daha herhangi bir doku değişikliği görülmez."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "Anne sütüyle ilgili ifadelerin doğru veya yanlış olduklarını gösteren seçeneği işaretleyiniz. () Ülkemizde yeni doğanların ilk saatte emzirilmeleri konusunda bir sorun yoktur. () Olgun süt altıncı haftadan sonra salgılanan anne sütüdür. () Kolostrumun protein içeriği fazladır. () Ülkemizde doğumdan sonraki ilk günde bebeklerin 30'una anne sütüne hiç başlanmamıştır. () Sadece anne sütü alan bebek oranı 2013 TNSA'ya göre 0-1ayda %58 düzeyindedir.",
+    "secenekler": {
+      "A": "YYYDY",
+      "B": "DDYDD",
+      "C": "YYDDD",
+      "D": "YDYYY",
+      "E": "DYYDD"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "Bağışıklama ile ilgili ifadelerden doğru olan seçeneği işaretleyiniz () Doz aralıklarının önerilenden uzun olması sonuçta oluşacak antikor konsantrasyonunu azaltır. () Prematür bebeklere immun sistemleri tam gelişmediği için bölünmüş aşı dozları uygulanır () Ülkemizde beşli aşı DaBT-IPA-HIB dışında oral polio aşısının bağışıklama takviminde yer almasının nedeni Polio Eradikasyon Programı yürütülmesi nedeniyledir ()Difteri yaşam boyu bağışıklık bırakan bir aşıdır ()Aşılar bebeklere bağışıklık sisteminin gelişmesi tamamlandıktan sonra uygulanmalıdır.",
+    "secenekler": {
+      "A": "DDYYD",
+      "B": "YDYDD",
+      "C": "DDYYY",
+      "D": "DYDYY",
+      "E": "YYDYY"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "17 SORU EKSİK Şu anda ülkemizde yürütülmekte olan ulusal bağışıklama programına göre 12 ayını bitirmiş bir bebeğin tam aşılı olması için yapılmış olması gereken aşıları ve dozlarını doğru olarak gösteren seçeneği İşaretleyiniz.",
+    "secenekler": {
+      "A": "Hep B 3 doz, BCG 1 doz, DaBT-IPA-Hib 3 doz KKK 2 doz, OPA (oral polio aşısı) 2 dozKPA 3doz+rapel",
+      "B": "Hep B 3 doz, BCG 1 doz, DaBT-IPA-Hib 3 doz, KKK 1 doz, OPA (oral polio aşısı) 1 doz, KPA Zdoz+rapel, su çiçeği 1 doz",
+      "C": "Hep B 3 doz, BCG 2 doz, DaBT-IPA-Hib 3 doz, KKK 2 doz, OPA (oral polio aşısı) 1 dozKPA 3doz+rapel, suçiçeği 2 doz",
+      "D": "Hep B 3 doz, BCG 1 doz, DaBT-IPA-Hib 2 doz, KKK 2 doz, OPA (oral polio asısı) 3 dozKPA",
+      "E": "-"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Beslenme ile ilgili seçeneklerden yanlış olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Dünyada 5 yaş altı çoğularda beslenme açısından en çok görülen sorun zayıflıktır.",
+      "B": "Dünyada 5 yaş altı ölümlerin nedeninin yarısı kötü beslenme ile ilişkilidir.",
+      "C": "Çocukların uzun bir süredir yeterli ve dengeli beslenmediğinin göstergesi yaşa göre boy ölçütüdür.",
+      "D": "Ülkemizde 5 yaş altı çocuklarda düşük kiloluluk 2018 TNSA'ya göre %2 düzeyindedir",
+      "E": "Ülkemizde 5yaş altı çocuklarda şişmanlık oranı 2018 TNSA'ya göre %8'dir."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "Aşağıda kanserle ilişkili ifadelerden doğru olanı işaretleyiniz.",
+    "secenekler": {
+      "A": "Kanser görülme sıklığı yaşla beraber arttığı için Dünyada kanser vakalarının büyük bölümü, yaşlı oranı yüksek olan gelişmiş ülkelerdedir.",
+      "B": "Kanserde taramalar belirtisi olan kişilere, erken tanı ise hedef nüfusa sağlanan hizmettir.",
+      "C": "Serviks kanseri taramalarında 25 yaşın altındaki ve 65 vas ustündeki kadınların taranması önerilmez.",
+      "D": "Türkiye kanser insidansı dünya ortalaması ile karşılaştırıldığında, kadınlarda daha yüksektir.",
+      "E": "-"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "Aşağıda kanser taramaları ile ilgili ifadelerin doğru (D) ya da yanlış (Y) olarak belirtilen seçeneği İşaretleyiniz. () Prostat kanseri dünyada erkeklerde en sık görülen () İkinci kanserdir ve DSÖ tarama programını önermektedir. () 40 yaşında mamografi ile taramaya başlanması ve 69 Yaşına kadar her 2 yılda 1 mamografi ile tarama yapılmasını önermektedir. () ÜIkemizde fırsatçı ve toplum tabanlı meme kanseri taramalarının kapsayıcılık oranı %60 civarındadır. () Ülkemizde mamografi taramalarının çok büyük bir Kısmı Kanser Erken Teşhis ve Tarama Merkezlerinde (KETEM) yapılmaktadır.",
+    "secenekler": {
+      "A": "YDYD",
+      "B": "YDYY",
+      "C": "YDDY",
+      "D": "DDYY",
+      "E": "DDYD"
     },
     "cevap": "B"
   }

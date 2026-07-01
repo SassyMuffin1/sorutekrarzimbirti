@@ -2598,5 +2598,2605 @@
       "E": "Tau (MAP-2)"
     },
     "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 1,
+    "soru_koku": "Alkol ölçümü için aşağıdakilerden hangisi kan alımı sırasında mutlaka uyulması gereken bir kuraldır?",
+    "secenekler": {
+      "A": "alkol dışı bir dezenfektan kullanmak",
+      "B": "hastanın ızasım /imzasımı almak",
+      "C": "ön kol dışı bir bölgeden kan almak",
+      "D": "serum talalmış koldan kan almak",
+      "E": "hastayı yatırarak kan almak"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 2,
+    "soru_koku": "Anmelerin hamile kalmadan 3 ay önce başlayıp hamiliğin ilk üç ayında günde 0.4 mg kullandığı folik asid vitamini hangi doğumsal hastalığı önler?",
+    "secenekler": {
+      "A": "Down sendromu",
+      "B": "Turner sendromu",
+      "C": "Kleinefelter sendromu",
+      "D": "Nöral tüp defektleri",
+      "E": "Cushing Sendromu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 3,
+    "soru_koku": "Alkol metabolizmasında karaciğerdeki İkinci sıradaki enzim aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Alkol dehidrogenaz",
+      "B": "aldehid dehidrogenaz",
+      "C": "Tiamin oksidaz",
+      "D": "glikoz 6 fosfat dehidrogenaz",
+      "E": "HMGCoa redüktaz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 4,
+    "soru_koku": ", Hava ile temas sonucu idrarın renginin koyu kahverengi olması, deride siyah renkli pigment birikimi ve homogentisik asid oksidaz defekti ile karakterize amino asid metabolizma defekti hangisidir?",
+    "secenekler": {
+      "A": "alkaptonüri",
+      "B": "histidinüri",
+      "C": "homosisteinemi",
+      "D": "fenil ketonüri",
+      "E": "glisinemi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 5,
+    "soru_koku": "Fenilketonüri (PKU) hastalığında yetersiz çalışan enzim aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Fenil Alanin Hidroksilaz",
+      "B": "Dihidrobiopterin redüktaz",
+      "C": "Hidroksifenil pirüvik asid (HPA) oksidaz",
+      "D": "Hompogentisik asid (HA) oksidaz",
+      "E": "Sistatyonin sentaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 6,
+    "soru_koku": "Tip 3 diyabet insülin rezistansı ve hiperinsulineminin beyindeki insülini azaltarak ve insulini yıkan enzimlerdeki regülasyonun bozulması olarak tarif edilmektedir. Tip 3 diyabet ile ilişkilendirilen SSS hastalığı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Alzheimer",
+      "B": "Multiple sikleroz",
+      "C": "Depresyon",
+      "D": "Feoromositoma",
+      "E": "Subaraknoid kanama"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 7,
+    "soru_koku": "Epileptik nöbet ile nonepileptik nöbet ayırıcı tansında en yararlı tetkik nöbet aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "UMG (elektromiyografi)",
+      "B": "Kranial MR Görüntüleme",
+      "C": "EEG (Elektroensefalografi)",
+      "D": "VEP",
+      "E": "Kranial BT görüntüleme"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıdakilerden hangisi ilaç zehirlenmesi ile gelen hastaya uygulanmaz?",
+    "secenekler": {
+      "A": "Kusturma",
+      "B": "Gastrik lavaj",
+      "C": "Aktif kömür",
+      "D": "Spesifik antidot",
+      "E": "Yoğurt yedirme"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 9,
+    "soru_koku": "Hareketlerde yavaşlama, tek taraflı istirahat tremoru, mimiklerde azalma, küçük adımlarla ve öne eğik olarak yürüme kliniği olan hastada hangi tanıyı düşünürsünüz?",
+    "secenekler": {
+      "A": "Miyastenia gravis",
+      "B": "Miyopati",
+      "C": "Polinöropati",
+      "D": "Motor nöron hastalığı",
+      "E": "Parkinson hastalığı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 10,
+    "soru_koku": "30 yaşında bayan basta, ayda 2-3 kez tekrarlayan, sola lokalize, şiddetli zonklayıcı tarzda, bulantı kusmanın eşlik ettiği, fotofobi, fotofobinin zaman zaman olduğu baş ağrısı tanımlanmakta olup, ağrısının fiziksel aktivite sırasında arttığını tarif etmektedir. Bu hastada baş ağrısı tiplerinden hangisini düşünürsünüz?",
+    "secenekler": {
+      "A": "Auralı migren",
+      "B": "Aurasız migren",
+      "C": "Gerilim tipi baş ağrısı",
+      "D": "Küme tipi baş ağrısı",
+      "E": "Hipertansif baş ağrısı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıda Ilaç antiepileptik mekanizma yazılanlardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "GABA T(transaminaz) enziminin inhibitörü->Progabid",
+      "B": "T lipi Kalsiyum kanal blokörü ->Topiramat",
+      "C": "Adenozin agonistik etki ->Topiramat",
+      "D": "Na kanal inaktivasyonunu Feniloin",
+      "E": "Kainat/AMPA reseptör blokörü ->Lamotrigin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 12,
+    "soru_koku": "Aşağıdakilerden hangisi ciddi lityum toksisitesinde görülebilen semptomlardan biri değildir?",
+    "secenekler": {
+      "A": "Derin tendon reflekslerinde hiperaktivite",
+      "B": "Aritmi",
+      "C": "Konstipasyon",
+      "D": "Konvülsiyon",
+      "E": "Dizartri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 13,
+    "soru_koku": ", GABAA reseptör kompleksinde aşağıdaki İlaçlardan hangisi veya hangilerinin kendine has bağlanma yeri vardır? 1- Benzodiazepinler 2- Etanol 3-GABA 4- Fenitoin",
+    "secenekler": {
+      "A": "1 ve 3",
+      "B": "2ve4",
+      "C": "1, 2 ve 3",
+      "D": "1ive2",
+      "E": "1,2,3ve4"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 14,
+    "soru_koku": "Aşağıdakilerden hangisi Amfetaminlere ait özelliklerden biri değildir?",
+    "secenekler": {
+      "A": "Bağımlılık yapma potansiyelleri",
+      "B": "Sempatomimetik etkili olmaları",
+      "C": "Dikkat eksildiği ve hiperaktivite sendromu tedavisinde kullanılmaları",
+      "D": "Doping amacı ile suistimal edilebilmeleri",
+      "E": "İştahı artırmaları"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 15,
+    "soru_koku": "Alkolizm öyküsü olan 52 yaşındaki bir erkek konfüzyon ve deliryum tablosu fle acil servise getirilmiştir. Trunkal ataksisi ve oftalmoplejisi olduğu tespil edilmiştir. Diazepam ile birlikte aşağıdaki tedavilerden hangisinin uygulanması en doğru yaklaşımdır?",
+    "secenekler": {
+      "A": "Klordiazepoksit",
+      "B": "Disülfiram",
+      "C": "Tiamin",
+      "D": "Glukozamin",
+      "E": "Tolik asit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 16,
+    "soru_koku": "Nöroleptik ilaçların hangi yan etkilerinin tedavisi için Dantrolen kullanılır?",
+    "secenekler": {
+      "A": "Katoloni",
+      "B": "Nöroleptik malign sendrom",
+      "C": "Perioral tremor",
+      "D": "Tardif diskinezi",
+      "E": "Ortostatik hipotansiyon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 17,
+    "soru_koku": "Aşağıdakilerden hangisi ile birlikte kullanımda lityum serum düzeyi azalır?",
+    "secenekler": {
+      "A": "Klorotiazid",
+      "B": "Teofilin",
+      "C": "Spirinalakton",
+      "D": "Klorpromazin",
+      "E": "Diklofenak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 18,
+    "soru_koku": "Tiyopentalin ıv. bolus uygulamasını takiben 10-15 saniye içerisinde bilinç kaybı oluşur. Beraberinde başka bir ilaç kullanılmadı ise, hastanın şuuru birkaç dakika İçerisinde yerine gelir. Bu durum, iyopentalin hangi özelliğine bağlıdır?",
+    "secenekler": {
+      "A": "Solunum yolundan çok hızı atılır.",
+      "B": "Beyinden diğer vücut dokularına redistribüsyona uğrar,",
+      "C": "Karaciğer enzimlerince çok hızlı metabolize olur.",
+      "D": "Renal tübüler sekresyon için iyi bir substrattır.",
+      "E": "Safra yolu ile hızla atılır,"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 19,
+    "soru_koku": "Nörotransmiterler için hangisi doğrudur?",
+    "secenekler": {
+      "A": "Klor kondüktansını artırarak eksitasyon oluşturabilirler,",
+      "B": "Kalsiyum kondüktansını artırarak inhibisyon oluşturabilirler.",
+      "C": "Potasyum kondüktansını artırarak inhibisyon oluşturabilirler,",
+      "D": "Sodyum kondüktansımı artırarak inhibisyon oluşturabilirler.",
+      "E": "Yukarıdaki tüm etkileri oluşturabilirler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 20,
+    "soru_koku": "Aşağıdakilerden ilaçlardan hangisi tek başına kullanıldığında absens tedavisinde kontrendike olan bir İlaçtır?",
+    "secenekler": {
+      "A": "Diazepam",
+      "B": "Klonazepam",
+      "C": "Etosüksimid",
+      "D": "Valproik asid",
+      "E": "Fenobarbital"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 21,
+    "soru_koku": "Süksinilkolinin özellikle diyabetli hastalardaki klinik kullanımı aşağıdakilerden hangisiyle ilgilidir?",
+    "secenekler": {
+      "A": "Genetik olarak belirli bir popülasyonda salıverilmesi histamin",
+      "B": "Mide içeriğinin boşalma hızında artma",
+      "C": "Blokajın erken safhasında piridostigmin antagonizması -",
+      "D": "İntragastrik basıncın artması",
+      "E": "Nöromüsküler kavşakta asetilkolinesteraz ile metabolizma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 22,
+    "soru_koku": "Aşağıdaki anestezilerden hangisinde, uyanma döneminde, oryantasyon bozulduğu, Müzyonlar ve bazen cinsel içerikli olabilen renkli rüyaları görülme sıklığı yüksektir?",
+    "secenekler": {
+      "A": "Fentanil",
+      "B": "Tiopental",
+      "C": "Midazolam",
+      "D": "Propofol",
+      "E": "Ketamin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi nöroleptik ilaçlara bağlı gelişen Tardif Diskinezi tedavisinde kullanamamalıdır?",
+    "secenekler": {
+      "A": "Fizostigmin",
+      "B": "Baklolen",
+      "C": "Biperiden )Di",
+      "D": "Diazem",
+      "E": "Diltiazem"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 24,
+    "soru_koku": ", GABA'nın inhibitör etkisini artrarak uykusuzluk tedavisinde kullanılan, ancak antikonvülsan ve kas gevşetici etkileri olmayan, etkisi flumanezil ile antagonize edilen ilaç hangisidir?",
+    "secenekler": {
+      "A": "Eszopikdon",
+      "B": "Klordiazepoksid",
+      "C": "Ramelteon",
+      "D": "Buspiron",
+      "E": "Fenobarbital"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 25,
+    "soru_koku": "MAO salt tipini i inhibe ederek L-dopa'nın etkinliğini artıran ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Entakapon",
+      "B": "Pribedil",
+      "C": "Benserazid",
+      "D": "Rasagilin",
+      "E": "Benztropin"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 26,
+    "soru_koku": "-",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 27,
+    "soru_koku": "Aşağıdaki antiepileptiklerden hangisi Sodyum kanal inaktivasyonu yaparak etki gösterir?",
+    "secenekler": {
+      "A": "Diazepam",
+      "B": "Fenobarbital",
+      "C": "Vigabatrin",
+      "D": "Karbamazepin",
+      "E": "Felbamat"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 28,
+    "soru_koku": "Dikkat eksikliği ve enürezis nokturna tedavisinde tercih edilen antidepresan ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "imipramin",
+      "B": "Amitriptilin",
+      "C": "Huoksetin",
+      "D": "Citalopram",
+      "E": "Venlafaksin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 29,
+    "soru_koku": ", Terapötik indeksi en geniş olan antiepileptik ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Niketamid",
+      "B": "Pentilentetrazol",
+      "C": "Striknin",
+      "D": "Dokesapram",
+      "E": "Pikrotoksin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 30,
+    "soru_koku": "Presinaptik yerleşimli metabotropik reseptörlerin aktivasyonu aşağıdakilerden hangisinin girişini azaltarak inhibisyona neden olur?",
+    "secenekler": {
+      "A": "Klor",
+      "B": "Potasyum",
+      "C": "Kalsiyum",
+      "D": "Sodyum",
+      "E": "Çinko"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 31,
+    "soru_koku": "Aşağıdaki antidepresanlardan hangisi dopamin gerialım inhibitörü olup aynı zamanda parsiyer nikotin reseptör agonistidir?",
+    "secenekler": {
+      "A": "Venlafaksin",
+      "B": "Fluoksetin",
+      "C": "İmipramin",
+      "D": "Citalopram",
+      "E": "Buprapion"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi glukagon benzeri peptid 1 (GLP 1) reseptör agonistik eti ile obezite tedavisinde kullanılır?",
+    "secenekler": {
+      "A": "Liraglutid",
+      "B": "Lorcaserin",
+      "C": "Orlistat",
+      "D": "Sibutramin",
+      "E": "Fentermin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi ekstrahepatik konjugasyonla elimine edilir ve bu nedenle karaciğer disfonksiyonu olan hastalarda güvenle kullanılabilir?",
+    "secenekler": {
+      "A": "Klonazepam",
+      "B": "Diazepam",
+      "C": "Flurazepam",
+      "D": "Lorazepam",
+      "E": "Triazolam"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdakilerden hangisi antidepresan ilaçların tedavide kullanıldığı klinik durumlar arasında bulunmaz",
+    "secenekler": {
+      "A": "Jeneralize anksiyete bozulduğu",
+      "B": "Şizofreni",
+      "C": "Obsesif kompulsif bozulduk",
+      "D": "Tik tedavisi",
+      "E": "İdrar kaçırma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 35,
+    "soru_koku": "Aşağıdaki kimyasallardan hangisi, yaygın (nonspesifik) sistemlerde bulunan bir nörotransmiterdir?",
+    "secenekler": {
+      "A": "Aspartat",
+      "B": "Dopamin",
+      "C": "GABA",
+      "D": "Glisin",
+      "E": "Glutamat"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 36,
+    "soru_koku": "Aşağıdakilerden hangisi bir agonist-antagonist opioid değildir?",
+    "secenekler": {
+      "A": "Buprenorfin",
+      "B": "Naftrekson",
+      "C": "Pentazosin",
+      "D": "Nalbufin",
+      "E": "Tramadol"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 37,
+    "soru_koku": "Kokain toksisitesi ile acil servise gelen bir hastada aşağıdakilerden hangisi en az görülür?",
+    "secenekler": {
+      "A": "Aritmi",
+      "B": "Solunum yollarında konjesyon, öksürük",
+      "C": "İntrakraniyal kanama",
+      "D": "Akut hipotansiyon",
+      "E": "Akut psikotik reaksiyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 38,
+    "soru_koku": "Antipsikotik ilaçların amenore, galaktore, infertilite gibi yan etkilere neden olabilmeleri aşağıdaki reseptörlerden hangisini bloke etmelerine bağlıdır?",
+    "secenekler": {
+      "A": "Dopaminerjik",
+      "B": "Serotoninerjik",
+      "C": "Noradrenarjik",
+      "D": "Nikotinerjik",
+      "E": "Muskarinerjik"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 39,
+    "soru_koku": ", Yüksek doz lidokainin yanlışlıkla intravenöz uygulanmasının en önemli etkisi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Bronkokonstriksiyon",
+      "B": "Methemoglobinemi",
+      "C": "Nöbetler",
+      "D": "Böbrek yetmezliği",
+      "E": "Taşikardi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdakilerden hangisi migrenin kronik tedavisinde kullanılan ilaçlardan biridir? |",
+    "secenekler": {
+      "A": "Zolmitriptan",
+      "B": "Dihidroergotamin",
+      "C": "NSAJ| ilaçlar",
+      "D": "Anti emetikler",
+      "E": "Metiserjid"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 41,
+    "soru_koku": "Levodopa tedavisi sırasında gelişen aritmilerin tedavisinde aşağıdaki İlaçlardan hangisi kullanılmalıdır?",
+    "secenekler": {
+      "A": "Diltiazem",
+      "B": "Kaptopril",
+      "C": "Amiodaron",
+      "D": "Propranolol",
+      "E": "Lidokain"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 42,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi Parkinsonlu hastada siyaloreyi azaltmak için kullanılabilir?",
+    "secenekler": {
+      "A": "Biperiden",
+      "B": "Karbidopa",
+      "C": "Benserazid",
+      "D": "Levodopa",
+      "E": "Bromekriptin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 43,
+    "soru_koku": "Aşağıdakilerden hangisi morfinin preanestezik olarak kullanılma nedeni değildir?",
+    "secenekler": {
+      "A": "Sedasyon oluşturmak",
+      "B": "Öksürüğü baslolamak",
+      "C": "Ağrıyı gidermek",
+      "D": "Emezisi önlemek",
+      "E": "Kalbin iş yükünü azaltmak"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 44,
+    "soru_koku": "Aşağıdaki reseptörlerden hangisinin aktivasyonu, ikinci haberci olarak sildik adenozin monofosfat (SAMP) oluşumuna neden olur?",
+    "secenekler": {
+      "A": "Asetilkolin Mi reseptörleri",
+      "B": "GABAA reseptörleri",
+      "C": "Glutamat NMDA reseptörleri",
+      "D": "5HT-3 reseptörleri",
+      "E": "Beta1 adrenoseptörleri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 45,
+    "soru_koku": "Piramidal sistem hasrında aşağalaki nörolojik bulgulardan hangisi gözlenmez",
+    "secenekler": {
+      "A": "Spastisite",
+      "B": "DTR artma",
+      "C": "Babinski gibi patolojik refleks alınması",
+      "D": "Aşil klonus pozitifliği",
+      "E": "Koreoform hareketler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 46,
+    "soru_koku": "Aşağıdaki görüntüleme yöntemlerinden hangisi Nöroradyolojide kullanılma?",
+    "secenekler": {
+      "A": "Direk grafi",
+      "B": "Ultrasonografi",
+      "C": "Mamografi",
+      "D": "Bilgisayarb Tomografi (BT)",
+      "E": "Manyetik Rezonans Görüntüleme (MR)"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 47,
+    "soru_koku": "Hasta olan bir kişinin anlaşılma İsteğinin daha fazla olmasının en temel nedeni hangisidir?",
+    "secenekler": {
+      "A": "Çaresizlik - yetersizlik duygusu",
+      "B": "Öfke - İsyan duygusu",
+      "C": "Bir an önce ağrıdan - acıdan kurtulma isteği",
+      "D": "Hastalığım sonuçları konusundaki kaygı",
+      "E": "Hastalığın getirdiği yük"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 48,
+    "soru_koku": "Hangisi objektif tinnitus nedeni değildir?",
+    "secenekler": {
+      "A": "Persistan stapedial arter",
+      "B": "Patuolus Östaki Tüpü",
+      "C": "Palatal miyoklonus",
+      "D": "Otosklerozis",
+      "E": "İdiopati stapedial kas spazmı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 49,
+    "soru_koku": "Aşağıdakilerden hangisi depresyonda tam ölçütlerinde yer alan bir belirti değildir?",
+    "secenekler": {
+      "A": "istemli dikkatte azalma",
+      "B": "hareketlerde yavaşlama",
+      "C": "kolayca kaygılanma",
+      "D": "az eforla yorulma",
+      "E": "etkinliklerden zevk alamama"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 50,
+    "soru_koku": "Kornea refleksinin afferent ve efferent yollarından hangi kraniyal sinir sorumludur?",
+    "secenekler": {
+      "A": "Afferent2. kraniyal sinir- Efferent 3.kraniyal sinir",
+      "B": "Afferent 3. kraniyal sinir -Efferent 5.kraniyal sinir",
+      "C": "Afferent 5. kraniyal sinir -Efferent 7.kraniyal sinir",
+      "D": "Afferent 9. kraniyal sinir- Efferent 10.kraniyal sinir",
+      "E": "Afferent 9. kraniyal sinir- Efferent 10.kraniyal sinir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 51,
+    "soru_koku": "Genç bir kadın eşiyle şiddetli bir tartışma yaşar. Tartışmanın hemen ardından içinde yoğun bir bunalı (anksiyete) hisseder. O anda her iki bacağında belirgin bir güç yitimi gelişir ve ayağa kalkamaz. Ancak bu durumu pek dert ediyor gibi de görünmez. Hastaneye götürülür. Muayene ve tetkikler yapılır ancak bu duruma yol açabilecek bedensel bir hastalık saptanamaz. Yaşadığı yoğun anksiyetenin yatıştırılması için hangi bilinçdışı savunma düzeneği devreye girmiş olabilir? i",
+    "secenekler": {
+      "A": "Akla uydurma (rationalization)",
+      "B": "Yer değiştirme (displacement)",
+      "C": "Değersizleştirme (devaluation)",
+      "D": "Dışsallaştırma (externalization)",
+      "E": "Çevirme / Döndürme (conversion)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 52,
+    "soru_koku": "Horner sendromu olan bir hastada bu durumla ilişkili olarak hangi semptom ikilisi ile karşılaşılır?",
+    "secenekler": {
+      "A": "Midriyazis-Proptozis",
+      "B": "Miyozis-Plozis",
+      "C": "Anizometropi-Anhidrozis",
+      "D": "Nistagmus-Relatif afferent pupil defekti",
+      "E": "Miyopi-Vaskülopati"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 53,
+    "soru_koku": "Aşağıdakilerden hangisi manik dönem için tanı koyduran sorunlu belirtidir?",
+    "secenekler": {
+      "A": "hiperaktivite",
+      "B": "grandiyozite (büyüklük)",
+      "C": "çağrışımlarda hızlanma",
+      "D": "aşırı para harcama",
+      "E": "spontan dikkatte azalma"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 54,
+    "soru_koku": "En kısa tanımla \"vicdan duygusu gelişmemiş ve tekrar tekrar suç sayılacak ya da başkalarına zarar verecek eylemleri yineleyen bir kişi için öncelikle hangi kişilik yapısına sahip olduğu söylenebilir?",
+    "secenekler": {
+      "A": "şizoid",
+      "B": "Antisosyal",
+      "C": "Narsisistik",
+      "D": "Borderline",
+      "E": "Histrionik"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 55,
+    "soru_koku": "Kişinin; askere gitmekten ya da askeri bir görevi üstlenmekten kaçma, işten kaçma, maddi (parasal) tazminat alma, cezai takibattan yakayı kurtarma ya da ilaç elde etme gibi bir çıkar sağlama ikincil kazanç amacıyla, sağlam olmasına rağmen bilinçli ve kasıtlı olarak kendisini hasta gibi göstermesi ya da var olan hastalığımım belirtilerini abartmasına ne denir?",
+    "secenekler": {
+      "A": "Bedensel Belirti Bozukluğu",
+      "B": "Hastalık Kaygısı Bozukluğu",
+      "C": "Yapay (Düzmece, Factitious) Bozukluk",
+      "D": "Simülasyon (Temaruz, Benzetim)",
+      "E": "-"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 56,
+    "soru_koku": "Mayerson bulgusu en sak hangi hastalıkta pozitif olur?",
+    "secenekler": {
+      "A": "Miyastenia gravis",
+      "B": "ALS",
+      "C": "Parkinson hastalığı",
+      "D": "Polinöropati",
+      "E": "Nörobehçet"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 57,
+    "soru_koku": "Hangisi enfeksiyon hastalıklarıma yatkınlık açışından özel konak değildir?",
+    "secenekler": {
+      "A": "HIV ile yaşayan bireyler",
+      "B": "Kanser hastalan",
+      "C": "Diyaliz hastalan",
+      "D": "Yaşlılar",
+      "E": "Adolesanlar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 58,
+    "soru_koku": ", İntrakraniyal kalsifikasyonları saptamada en duyarlı görüntüleme yöntemi hangisidir?",
+    "secenekler": {
+      "A": "Serebral Anjiografi",
+      "B": "Sella spol grafisi",
+      "C": "Bazis krani grafisi",
+      "D": "Manyetik Rezonans Görüntüleme (MR)",
+      "E": "Bilgisayarlı Tomografisi (BT)"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 59,
+    "soru_koku": "Eldiven çorap duyu kusuru saptandığında nereye lokalize olunur?",
+    "secenekler": {
+      "A": "Korteks-beyin",
+      "B": "Periferik sinirler",
+      "C": "Kas",
+      "D": "Kavşak hastalığı",
+      "E": "Medulla spinalis"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 60,
+    "soru_koku": "Patella refleksinden sorumlu olan sinir aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "N.posterior tibialis",
+      "B": "N. femoralis",
+      "C": "N.radialis",
+      "D": "N.muskuloutanöz",
+      "E": "N.peronealis"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 61,
+    "soru_koku": "1. ve2. Motor nöron tutulumunun birlikte görüldüğü hastalık aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Motor nöron hastalığı ALS",
+      "B": "Miyastenia gravis",
+      "C": "Herediter motor nöropati",
+      "D": "Monomelik amyotrofi",
+      "E": "Parkinson hastalığı"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 62,
+    "soru_koku": "Aşağıdakilerden hangisi major depresif dönem için süre ölçütüdür?",
+    "secenekler": {
+      "A": "bir hafta",
+      "B": "iki hafta",
+      "C": "bir ay",
+      "D": "iki ay",
+      "E": "altı ay"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 63,
+    "soru_koku": "Aşağıdakilerden hangisi episodik gerilim tipi başağrısının özelliğidir? i",
+    "secenekler": {
+      "A": "Tek taraflı ağrı(Hemikrania)",
+      "B": "Süresinin 15 ile 180 dakika arasında olması",
+      "C": "Fiziksel aktivite ile ağrının kötüleşmesi",
+      "D": "Gözde yaşarma",
+      "E": "Süresinin 30 dakika ile 7 gün arasında olması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 64,
+    "soru_koku": "Travma sonrası stres bozukluğunda travmatik olayın yaşanması sirasında yaşanan dehşet, çaresizlik ve yardımsızlık gibi olumsuz duyguların sonraki dönemde olayı hatırlatan olay/haberler ile hatırlanması sırasında da aynı şiddette yaşanmasına ne denir?",
+    "secenekler": {
+      "A": "Yeniden yaşantılama",
+      "B": "Panik atağı",
+      "C": "Ağlama krizleri",
+      "D": "Varsanı",
+      "E": "Sanrı"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 65,
+    "soru_koku": "Aşağıdakilerden hangisi “empati yapabilmenin olmazsa olmaz koşullarından birisi değildir?",
+    "secenekler": {
+      "A": "Regresyon yapabilmek",
+      "B": "Rahat bir dinleme yapabilmek",
+      "C": "Gerçeği derğerlendirme yetisini askıya alabilmek",
+      "D": "Ortam koşullarının uygun olması",
+      "E": "Ruhsal olarak sağlıklı olmak"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 66,
+    "soru_koku": "Nörolojik bakı sırasında yaptığımız Rinne testi aşağıdakilerden hangi kraniyal sinir hakkında bilgi verebilir?",
+    "secenekler": {
+      "A": "V",
+      "B": "VI",
+      "C": "V",
+      "D": "VI",
+      "E": "X"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 67,
+    "soru_koku": "Hangi kranyal sinirler tad duyusundan sorumludur?",
+    "secenekler": {
+      "A": "IX",
+      "B": "VII",
+      "C": "VI-IX",
+      "D": "DX",
+      "E": "XI-XI"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 68,
+    "soru_koku": "Hangisi kas hastalığımım özelliği değildir?",
+    "secenekler": {
+      "A": "Güçsüzlük olur.",
+      "B": "İleri dönemde atrofi olur,",
+      "C": "İleri dönemde derin tendon refleksleri azalır.",
+      "D": "Rijidite olur",
+      "E": "Psödohipertrofi olur"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 69,
+    "soru_koku": "Buz testi ve yorma testi aşağıdaki Hangi hastalıkta tanıya yardımcı olarak kullanılmaktadır",
+    "secenekler": {
+      "A": "İdiopatik Parkinson Hastalığı",
+      "B": "Blefarospazm",
+      "C": "Hemifasiyal spazm",
+      "D": "Miyastenia gravis",
+      "E": "bell palsi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 70,
+    "soru_koku": "Hangisi Ani İşitme Kaybı nedenlerinden biridir?",
+    "secenekler": {
+      "A": "Buson",
+      "B": "füzyonlu otitis media",
+      "C": "Akut otitis media",
+      "D": "Otoskleroz",
+      "E": "Vestibüler Schwannoma"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 71,
+    "soru_koku": "Acil servise trafik kazası sonrası başvuran hastanın yapılan nörolojik muayenesinde bilinç uykuya meyilli olup sözel uyaranla göz açtığı, sözel uyaranla uyandırılma sonrası motor emirlere uyduğu ve sorulan sorulara anlamlı cevap verdiği saptanmıştır. Buna göre hastanın Glaskow Koma Skalası kaçtır?",
+    "secenekler": {
+      "A": "E2ZM5V4",
+      "B": "E3M6VS",
+      "C": "E3M5V6",
+      "D": "E3M4V5",
+      "E": "E2M6V4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 72,
+    "soru_koku": "Aşağıdakilerden hangisi SSS tümör radyoterapisi sonrası görülebilecek yan etkilerden biri değildir?",
+    "secenekler": {
+      "A": "Alopesi",
+      "B": "Optik Nöropati",
+      "C": "Duyma",
+      "D": "Larinks kaybı Ödemi",
+      "E": "Hafiza Problemleri"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıdakilerden hangisi bağımlılık yapıcı maddenin fiziksel bağımlılık açısından temel özelliklerinden birisidir?",
+    "secenekler": {
+      "A": "Maddeye tolerans",
+      "B": "Self-medikasyon etkisi",
+      "C": "Madde aşırı isteği",
+      "D": "Haz alma isteği",
+      "E": "Sosyalllik isteği"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 74,
+    "soru_koku": "Özel bir uyaran olmaksızın anormal olarak hissedilen spontan duyuların algılanmasına ne denir?",
+    "secenekler": {
+      "A": "Hipoestezi",
+      "B": "Analjezi",
+      "C": "Anestezi",
+      "D": "Hiperestezi",
+      "E": "Parestezi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 75,
+    "soru_koku": ", Optik sinir muayenesinde aşağıdakilerden hangisi yer almamaktadır?",
+    "secenekler": {
+      "A": "Pupilla muayenesi",
+      "B": "Görme keskinliği",
+      "C": "Göz dibi bakısı",
+      "D": "Işık refleksleri",
+      "E": "Göz hareketleri"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 76,
+    "soru_koku": "Eşlik eden hangi semptom varlığımda periferik vertigodan şüphelenilir?",
+    "secenekler": {
+      "A": "Konvülsiyon geçirme",
+      "B": "Hafıza kaybı",
+      "C": "Bilinç kaybı",
+      "D": "İşitme kaybı",
+      "E": "Bacaklarda uyuşma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 77,
+    "soru_koku": "Bell paralizisinde etkinliği en yüksek tedavi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Hiperbarik oksijen",
+      "B": "Antiviral",
+      "C": "Antienflamatuar",
+      "D": "Steroid",
+      "E": "Fizik tedavi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 78,
+    "soru_koku": "Aşağıdakilerden hangisi şizofrenin pozitif belirtilerinden biri değildir?",
+    "secenekler": {
+      "A": "Sanrı",
+      "B": "Yapısal düşünce bozukluğu",
+      "C": "Varsanı",
+      "D": "Saplantı",
+      "E": "Katatonik davranış"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 79,
+    "soru_koku": "Dikkati üzerine çekme isteği ve çabaları belirgin olan, abartılı mimik ve jestler kullanan ve adeta rol yapar gibi ilişkilerinde yapaylık ve yüzeyellik hissedilen bir kişide hangi kişilik yapısı vardır?",
+    "secenekler": {
+      "A": "Sizoid",
+      "B": "Antisosyal",
+      "C": "Narsisistik",
+      "D": "Borderline",
+      "E": "Histrionik"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 80,
+    "soru_koku": "Trigeminal sinir tarafından innerve edilmeyen kas aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "M. Temporalis",
+      "B": "M.pterygoideus lateralis",
+      "C": "M. Buccinator",
+      "D": "M. Pterygoideus medialis",
+      "E": "M.masseter"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 81,
+    "soru_koku": "Aşağıdaki mikroorganizmalardan hangisi periferik sinirler ile santral sinir sistemine ulaşarak enfeksiyon yapar?",
+    "secenekler": {
+      "A": "Poliyomiyelit virüsü",
+      "B": "Kızamık virüsü",
+      "C": "Kabakulak virüsü",
+      "D": "HIV virüsü",
+      "E": "Varisella zoster virüs"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 82,
+    "soru_koku": "Solid organ transplantasyonu yapılan hastalarda en önemli morbidite ve mortalite etkeni olan mikroorganizma hangisidir?",
+    "secenekler": {
+      "A": "-",
+      "B": "SV",
+      "C": "CMV",
+      "D": "Staphylococcus aureus",
+      "E": "Mycobacterium tuberculosis"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 83,
+    "soru_koku": "İntraabdominal abse içeriğinden yapılan Gram Boyalı preparatta gram negatif, pleomorfik, soluk boyanan basiller İzleniyor. Aşağıdakilerdden hangisi etkendir?",
+    "secenekler": {
+      "A": "Actinomyces spp",
+      "B": "Bacteroides spp",
+      "C": "Fusobacterium spp",
+      "D": "Clostridium spp",
+      "E": "Veilonella spp"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 84,
+    "soru_koku": "Kontrolsüz diyabetik bir hastada aşağıdaki enfeksiyon hastalıklarından hangisi sık görülmez?",
+    "secenekler": {
+      "A": "İdrar yolu enfeksiyonu",
+      "B": "Pnömoni",
+      "C": "Mukokutanöz maya enfeksiyonu",
+      "D": "Pseudomembranöz enterokolit",
+      "E": "Tüberküloz"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 85,
+    "soru_koku": "Botulismusda bakteri toksini hangi nörotransmiter salınımını engelleyerek etki gösterir?",
+    "secenekler": {
+      "A": "GABA",
+      "B": "Asetil kolin",
+      "C": "Serotonin",
+      "D": "Dopamin",
+      "E": "Noradrenalin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 86,
+    "soru_koku": "Aşağıdaki menenjit etkenlerinden hangisinde BOS'da hücre sayısı 1000 in üzerindedir?",
+    "secenekler": {
+      "A": "Mycobacterium tuberculosis",
+      "B": "Streptococcus pneumoniae",
+      "C": "Listeria monocytogenes",
+      "D": "Cryptococcus neoformans",
+      "E": "Enterovirüs"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 87,
+    "soru_koku": ", Aşağıdaki seçeneklerden hangisi santral sinir sisteminin konjenital bir anomalisi olan lissensefaliyi ifade eder?",
+    "secenekler": {
+      "A": "Tek ventrikül olması",
+      "B": "Tek beyin semisteri olması",
+      "C": "Girusların olmaması",
+      "D": "Olağandan çok ve küçük girusların olmasa",
+      "E": "Gelişmemiş korpus kallosum"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 88,
+    "soru_koku": "TP53 mutasyonu sonucu beyin dahil pek çok vücut bölgesinde malign tümörlerin oluşmasıyla karakterli ailesel tümör sendromu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Turcot Sendromu",
+      "B": "Li-Fraumeni Sendromu",
+      "C": "Gorlin Sendromu",
+      "D": "Cowden Sendromu",
+      "E": "Rabdoid tümör predispozisyon sendromu"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 89,
+    "soru_koku": "-",
+    "secenekler": {
+      "A": "-",
+      "B": "-",
+      "C": "-",
+      "D": "-",
+      "E": "-"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 90,
+    "soru_koku": "Periferik nöropatiye yol açan aşağıdaki patolojik durumlardan hangisi kısa dönemde yaşamı tehdit eder?",
+    "secenekler": {
+      "A": "Diabetes mellitus",
+      "B": "Tiamin yetmezliği",
+      "C": "Guillain-Barre Sendro",
+      "D": "Sarkoidoz",
+      "E": "Kurşun entoksikasyonu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 91,
+    "soru_koku": "Nöronofaji hangi hücrelere özgü bir reaksiyondur?",
+    "secenekler": {
+      "A": "Nörositler",
+      "B": "Mikroglial hücreler",
+      "C": "Astrositler",
+      "D": "Ganglion hücreleri",
+      "E": "Oligodendrositler"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 92,
+    "soru_koku": "Hamartin ve tuberin üreten genlerin mutasyonu sonucu mTOR adlı kinazın üzerindeki baskının kalkmasıyla gelişen tümör aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Schwannom",
+      "B": "Meningiom",
+      "C": "Subependimal dev hücreli astrositom",
+      "D": "Hemanjioblastom",
+      "E": "Feokromositoma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 93,
+    "soru_koku": "Gangliogliom aşağıdaki primer SSS tümör gruplarının hangisinin içinde yer alır?",
+    "secenekler": {
+      "A": "İyi sınırlı astrositik gliomlar",
+      "B": "Nöronai ve karma glial/noronal tümörler",
+      "C": "Embriyonel tümörler",
+      "D": "Pediatrik tip diffüz gliomlar",
+      "E": "Erişkin tip diffüz glilomlar"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 94,
+    "soru_koku": ", İnfarktla sonuçlanan serebrovasküler hastalıklar için aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Hipoksi iskemiye yol açar",
+      "B": "İskemiden en çok bazal ganglion nöronları etkilenir",
+      "C": "Yapay solunum cihazı kullanılması respiratör beyninin nedenidir",
+      "D": "İskemiye yol açan trombozlar en sık intrakranial arterlerde yerleşir",
+      "E": "İskemik bölgede laminer nekroz gelişebilir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 95,
+    "soru_koku": "Ependimomda en sık ve tipik olarak gözlenen rozet tipi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Flexner Wintersteiner rozetleri",
+      "B": "Ependimoblastik rozetler",
+      "C": "Homer Wright rozetleri",
+      "D": "Pineosilomatöz rozetler",
+      "E": "Perivasküler pseudorozetler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 96,
+    "soru_koku": "Biri sitoplazmada, diğer ikisi mitokondride bulunan ve sırasıyla numaralandırılan izositrat dehidrogenaz (IDI1) moleküllerinden 12 3 olarak hangisinin/hangilerinin mutasyonunun IDIH mutant astrositom gelişiminde rol oynadığı bilinmektedir?",
+    "secenekler": {
+      "A": "Yalnızca IDH-1",
+      "B": "Yalnızca IDH-2",
+      "C": "IDH-1 ve IDH-2",
+      "D": "IDH-1 ve !IDH-3",
+      "E": "Yalnızca IDH-3"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 97,
+    "soru_koku": "IDH-1 mutasyonu (4), 1p-19g koledesyonu (-) ve ATRX kaybı gözlenen (ATRX-), mitoz, nekroz ve mikrovasküler proliferasyon gözlenmeyen bir diffüz gliomun morfolojik tanısı aşağıdakilerden hangisi olmalıdır?",
+    "secenekler": {
+      "A": "Diffüz astrosilom",
+      "B": "Diffüz hemisferik gliom",
+      "C": "Oligodendrogliom",
+      "D": "Diffüz orta hat gilomu",
+      "E": "Pleomorfik ksantoastrositom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdaki meningiom tiplerinden hangisinin nüks olasılığı diğerlerinden fazladır?",
+    "secenekler": {
+      "A": "Meningotelyormatöz meningiom",
+      "B": "Psammomatöz meningiom",
+      "C": "Transisyonel meningiom",
+      "D": "Kordoid meningiom",
+      "E": "Fibröz meningiom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 99,
+    "soru_koku": "Bebek ve çocuklarda kafatası kemiklerinde herhangi bir kırığa yol açmayan bir travma sonucunda da görülebilen",
+    "secenekler": {
+      "A": "Epidural kanama",
+      "B": "İntraventriküler kanama",
+      "C": "intraparenkkimal kanama",
+      "D": "Subdural kanama",
+      "E": "Subaraknoid kanama"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 100,
+    "soru_koku": ", Alzheimer hastalığımda ortaya çıkan nörofibriler yumaklar aşağıdaki proteinlerin hangisinin hücre içi ve hücre dışı birikiminin sonucudur?",
+    "secenekler": {
+      "A": "Hamartin",
+      "B": "Nöron spesifik enolaz",
+      "C": "Sinaptofizin",
+      "D": "Nörofibromin",
+      "E": "Tau (MAP-2)"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": "Hava ile temas sonucu idrarın renginin koyu kahverengi olması, deride siyah renkli pigment birikimi ve homogentisik asid oksidaz defekti ile karakterize amino asid metabolizma defekti hangisidir?",
+    "secenekler": {
+      "A": "alkaptonüri",
+      "B": "histidinüri",
+      "C": "homosisteinemi",
+      "D": "fenil ketonüri",
+      "E": "glisinemi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": "Tip 3 diyabet insülin rezistansı ve hiperinsulineminin beyindeki insülini azaltarak ve insulini yıkan enzimlerdeki regülasyonun bozulması olarak tarif edilmektedir. Tip 3 diyabet ile ilişkilendirilen SSS hastalığı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Alzheimer",
+      "B": "Multiple sikleroz",
+      "C": "Depresyon",
+      "D": "Feokromositoma",
+      "E": "Subaraknoid kanama"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": "Alkol ölçümü için aşağıdakilerden hangisi kan alımı sırasında mutlaka uyulması gereken bir kuraldır?",
+    "secenekler": {
+      "A": "alkol dışı bir dezenfektan kullanmak",
+      "B": "hastanın rızasını /imzasını almak",
+      "C": "ön kol dışı bir bölgeden kan almak",
+      "D": "serum takılmış koldan kan almak",
+      "E": "hastayı yatırarak kan almak"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": "Hasta kişinin içimde bombalar patlıyor şeklinde tanımladığı bulgu hangi kan testi yüksekliği ile ilişkilendirilebilir?",
+    "secenekler": {
+      "A": "dopamin",
+      "B": "seratonin",
+      "C": "adrenalin/noradrenalin",
+      "D": "kortizol",
+      "E": "free testesteron"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": "Diyet ürünlerde yaygın olarak kullanılan Aspartam hangi amino asid metabolizma bozukluğu için özellikle toksik etki yaratır?",
+    "secenekler": {
+      "A": "Alkaptonüri",
+      "B": "Fenil ketonüri",
+      "C": "Histidinüri",
+      "D": "Homosisteinemi",
+      "E": "Glisinemi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": "Kronik alkol kullanımında karaciğerden trigliseridlerin hücre dışına atılamaması aşağıdaki hangi enzim inhibisyonu sonucudur?",
+    "secenekler": {
+      "A": "tubulin polimeraz",
+      "B": "alfa keto glutarat dehidrogenaz",
+      "C": "piruvat dehidrogenaz kompleksi",
+      "D": "asetil Koa sentetaz",
+      "E": "Meos sistemi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": "Epileptik nöbet ile nonepileptik nöbet ayırıcı tanısında en yararlı tetkik aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "EMG (elektromiyografi)",
+      "B": "Kranial MR Görüntüleme",
+      "C": "EEG (Elektroensefalografi)",
+      "D": "VEP",
+      "E": "Kranial BT görüntüleme"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıdakilerden hangisi intihar davranışı için risk faktörü değildir?",
+    "secenekler": {
+      "A": "Önceki intihar girişimi",
+      "B": "Ruhsal bozukluk varlığı",
+      "C": "Ailede intihar davranış öyküsü",
+      "D": "Stresli yaşam olayları",
+      "E": "Eğitim düzeyi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Gerilim tipi baş ağrısı tanı kriterlerinden olmayan hangisidir?",
+    "secenekler": {
+      "A": "Zonklayıcı tarzda",
+      "B": "Hafif ve/veya orta şiddetli",
+      "C": "Bilateral",
+      "D": "Fiziksel aktivite ile artmaz",
+      "E": "Sıkıştırıcı/basıcı tarzda ağrı vardır"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Yaşlılıkta görülen bilişsel değişiklikler için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kusurlu ve eksik hatırlama",
+      "B": "Düşüncenin içeriği, mantık ve muhakeme niteliğinde değişme",
+      "C": "Düşünce akışında yavaşlama",
+      "D": "Kavramlar arasında karşılaştırmaların artması",
+      "E": "Hesaplama, somut ve soyut kavramlarda bozulma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Aşağıdakilerden hangisi trisiklik antidepresanların farmakolojik etkilerinden değildir?",
+    "secenekler": {
+      "A": "Noradrenerjik geri alım inhibisyonu",
+      "B": "Nikotinik reseptörlerin blokaji",
+      "C": "Kardiyak Na kanallarının blokaji",
+      "D": "Alfa adrenerjik reseptör blokaji",
+      "E": "Histaminik reseptör blokaji"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Presinaptik yerleşimli metabotropik reseptörlerin aktivasyonu aşağıdakilerden hangisinin girişini azaltarak inhibisyona neden olur?",
+    "secenekler": {
+      "A": "Klor",
+      "B": "Kalsiyum",
+      "C": "Potasyum",
+      "D": "Sodyum",
+      "E": "Çinko"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdaki kimyasallardan hangisi SSS'de nörotransmiter olma kriterlerine uymamaktadır?",
+    "secenekler": {
+      "A": "Asetilkolin",
+      "B": "Dopamin",
+      "C": "P maddesi",
+      "D": "Glisin",
+      "E": "Nitrik oksid"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "Aşağıdaki kimyasallardan hangisi, yaygın (nonspesifik) sistemlerde bulunan bir nörotransmiterdir?",
+    "secenekler": {
+      "A": "Aspartat",
+      "B": "Glutamat A",
+      "C": "GABA O",
+      "D": "Glisin",
+      "E": "Dopamin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisinin genel anesteziden en az 2 hafta önce kesilmesi gerekir?",
+    "secenekler": {
+      "A": "Kombine oral kontraseptifler",
+      "B": "Oral antikoagulanlar",
+      "C": "Oral antidiyabetikler",
+      "D": "MAO inhibitörleri",
+      "E": "Lityum"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "Postoperatif kusmanın nadir ve ayılmanın hızlı olduğu sık kullanılan intravenöz anestezik aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Propofol",
+      "B": "Fentanil",
+      "C": "Ketamin",
+      "D": "Midazolam",
+      "E": "Tiopental"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "MAC (minimum anestezik konsantrasyon) değeri ile ilgili hangi ifade doğrudur?",
+    "secenekler": {
+      "A": "MAC değeri düşük anestezikler düşük potense sahiptir",
+      "B": "MAC değerleri doz yanıt eğrisinin eğimi hakkında bilgi verir",
+      "C": "Metoksifluran oldukça yüksek bir MAC değerine sahiptir",
+      "D": "Yaşlı hastalarda MAC değerleri azalır",
+      "E": "Aynı anda opioid analjezik kullanımı, inhale anestezik için MAC değerini arttırır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Yüksek doz lidokainin yanlışlıkla intravenöz uygulanmasının en önemli etkisi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Bronkokonstriksiyon",
+      "B": "Methemoglobinemi",
+      "C": "Taşikardi",
+      "D": "Böbrek yetmezliği",
+      "E": "Nöbetler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Aşağıdaki reseptörlerden hangisinin aktivasyonu, ikinci haberci olarak siklik adenozin monofosfat (sAMP) oluşumuna neden olur?",
+    "secenekler": {
+      "A": "Asetilkolin M1 reseptörleri",
+      "B": "GABAA reseptörleri",
+      "C": "Beta1 adrenoseptörleri",
+      "D": "5-HT3 reseptörleri",
+      "E": "Glutamat NMDA reseptörleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Benzodiazepin kullanımını esnasında gözlenebilecek en yaygın ilaç etkileşimi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Plazma proteinlerine bağlanmada yarışma",
+      "B": "SSS depresanı ilaçlarla aditif etki",
+      "C": "Sedatif ya da hipnotik etkisinde azalma",
+      "D": "Karaciğerde ilaç metabolize edici enzimlerin inhibisyonu",
+      "E": "Karaciğerde ilaç metabolize edici enzimlerin indüksiyonu"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Orta yaşlı erkek hasta zehirlenme bulguları ile acile başvuruyor. Hasta size arkadaşları ile birlikte \"kafa bulmak\" amacıyla kırmızı renkli bir sıvıdan yarım litre kadar içtiğini söylüyor. Görmesinin bulandığını ve sanki kar fırtınasındaymış gibi hissettiğini ifade ediyor. Soluğu formaldehid gibi kokuyor. Bu hastanın tedavisinde aşağıdakilerden hangisi anlamlı değildir?",
+    "secenekler": {
+      "A": "Gerekirse hava yolu ve solunum desteği",
+      "B": "Sodyum bikarbonat solüsyonunun infüzyonu",
+      "C": "Aktif kömür verilmesi",
+      "D": "Etil alkol verilmesi",
+      "E": "Fomepizol verilmesi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi, yakın zamanda onaylanmış bir oreksin reseptör antagonisti olup, hipnotik özelliklere sahiptir?",
+    "secenekler": {
+      "A": "Zolpidem",
+      "B": "Eszopiklon",
+      "C": "Ramelteon",
+      "D": "Tasimelteon",
+      "E": "Suvoreksant"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıdaki antidepresanlardan hangisi dopamin gerialım inhibitörü olup aynı zamanda parsiyer nikotin reseptör agonistidir?",
+    "secenekler": {
+      "A": "Venlafaksin",
+      "B": "Fluoksetin",
+      "C": "Buprapion",
+      "D": "Citalopram",
+      "E": "İmipramin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Kokain toksisitesi ile acil servise gelen bir hastada aşağıdakilerden hangisi en az görülür?",
+    "secenekler": {
+      "A": "Aritmi",
+      "B": "Solunum yollarında konjesyon, öksürük",
+      "C": "İntrakranal kanama",
+      "D": "Akut hipotansiyon",
+      "E": "Akut psikotik reaksiyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Monoaminooksidaz (MAO) inhibitörü ilaç kullanan bir hastada aşağıdaki yan etkilerden hangisinin ortaya çıkması beklenmez?",
+    "secenekler": {
+      "A": "SSS stimülasyonu",
+      "B": "Antikolinerjik etkiler",
+      "C": "Besinlerle etkileşim",
+      "D": "Seksüel disfonksiyon",
+      "E": "Nörotoksik etkiler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "GABA'nın inhibitör etkisini artırarak uykusuzluk tedavisinde kullanılan, ancak antikonvülsan ve kas gevşetici etkileri olmayan, etkisi flumazenil ile antagonize edilen ilaç hangisidir?",
+    "secenekler": {
+      "A": "Buspiron",
+      "B": "Klordiazepoksid",
+      "C": "Eszopiklon",
+      "D": "Ramelteon",
+      "E": "Fenobarbital"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "Melatonin reseptörlerine agonistik etki yaparak antidepresan etki gösteren agomelatin için en önemli yan etki aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kilo alımı",
+      "B": "Cinsel işlev bozukluğu",
+      "C": "Karaciğer enzimlerinde yükselme",
+      "D": "Böbrek fonsiyon bozukluğu",
+      "E": "Nörolojik etkiler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "Aşağıdakilerden hangisi antidepresan ilaçların tedavide kullanıldığı klinik durumlar arasında bulunmaz?",
+    "secenekler": {
+      "A": "Jeneralize anksiyete bozukluğu",
+      "B": "Şizofreni",
+      "C": "Obsesif kompulsif bozukluk",
+      "D": "Tik tedavisi",
+      "E": "İdrar kaçırma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "I. Solunum depresyonu olur II. Toplu iğne başı pupil izlenir III. Hipertansiyon olur IV. Tedavide klonidin verilir Akut opiyat zehirlenmesi ile ilgili olarak yukarıdaki seçeneklerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "I ve III",
+      "B": "Yalnız IV",
+      "C": "III ve IV",
+      "D": "II ve III",
+      "E": "I,II ve III"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Dikkat eksikliği ve enürezis nokturna tedavisinde tercih edilen antidepresan ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "İmipramin",
+      "B": "Amitriptilin",
+      "C": "Fluoksetin",
+      "D": "Citalopram",
+      "E": "Venlafaksin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "Aşağıdakilerden hangisi çocuklarda dikkat eksikliği sendromunda kullanılır?",
+    "secenekler": {
+      "A": "Teobramin",
+      "B": "Teofilin",
+      "C": "Valproat",
+      "D": "Metilfenidat",
+      "E": "Lityum karbonat"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdakilerden hangisi Lityumun etki mekanizmalarından biri değildir ?",
+    "secenekler": {
+      "A": "Nöronlarda fosfotaz inhibisyonu",
+      "B": "Nöronlarda elektrokimyasal gradienti etkilemek",
+      "C": "Dopaminerjik etkinliği artırmak",
+      "D": "Sempatik etkinliği azaltmak",
+      "E": "Serotonerjik etkinliği artırmak"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdakilerden hangisi Lityum ile birlikte kullanıldığında lityum toksisitesi görülme olasılığını artırmaz ?",
+    "secenekler": {
+      "A": "Enalapril",
+      "B": "Teofilin",
+      "C": "Hidroklorotiazid",
+      "D": "Furasemid",
+      "E": "Diklofenak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdakilerden hangisi antipsikotik ilaçların yan etkilerinden biridir ?",
+    "secenekler": {
+      "A": "Bradikardi",
+      "B": "Konstipasyon",
+      "C": "Hipertansiyon",
+      "D": "Terleme",
+      "E": "Prolaktin salgısında azalma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Aşağıdakilerden hangisi antipsikotik ilaçların etkilerinden biri değildir ?",
+    "secenekler": {
+      "A": "Öfori oluşturma",
+      "B": "Antiemetik etki",
+      "C": "Sedasyon",
+      "D": "Ağız kuruluğu",
+      "E": "Ortostatik hipotansiyon"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Şizofreni tanısı konulan 42 yaşındaki bir erkek hastaya tedavi dozunda antipsikotik bir ilaç başlanmıştır. Hastada yaklaşık 1 hafta sonra akut distonik reaksiyon geliştiği saptanmıştır. Bu hastada ortaya çıkan yan etkinin tedavisi için aşağıda verilen ilaçlardan hangisini kullanırsınız?",
+    "secenekler": {
+      "A": "Biperiden",
+      "B": "Dantrolen",
+      "C": "Atropin",
+      "D": "Diazepam",
+      "E": "Bromokriptin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Migren iğnesi olarak bilinen Galcanezumab hakkında aşağıdakilerden hangisi doğru değildir?",
+    "secenekler": {
+      "A": "5HT 1B/D reseptörlerine bağlanarak etki gösterir",
+      "B": "Ayda 1 kez subkutan enjeksiyon olarak uygulanır",
+      "C": "Ağrıyı önlemede etkilidir",
+      "D": "Uygulama yerine kızarıklık, kaşıntı ve hafif alerjik reaksiyon oluşturabilir",
+      "E": "Vücutta CGRP molekülüne bağlanır ve etkisiz hale getirir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "Aşağıdakilerden hangisi morfinin farmakolojik etkilerinden biri değildir?",
+    "secenekler": {
+      "A": "Sedasyon",
+      "B": "Safra yollarında spazm",
+      "C": "Diyare",
+      "D": "Antitussif etki",
+      "E": "Solunum depresyonu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Levodopa tedavisi sırasında gelişen aritmilerin tedavisinde aşağıdaki ilaçlardan hangisi kullanılmalıdır?",
+    "secenekler": {
+      "A": "Diltiazem",
+      "B": "Kaptopril",
+      "C": "Amiodaron",
+      "D": "Propranolol",
+      "E": "Lidokain"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi Parkinsonlu hastada siyaloreyi azaltmak için kullanılabilir?",
+    "secenekler": {
+      "A": "Levodopa",
+      "B": "Karbidopa",
+      "C": "Benserazid",
+      "D": "Biperiden",
+      "E": "Bromokriptin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Katekol-O-metil transferaz enzimini inhibe ederek L-dopa'nın etkinliğini artıran ilaç aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Entakapon",
+      "B": "Pribedil",
+      "C": "Benserazid",
+      "D": "Karbidopa",
+      "E": "Benztropin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Aşağıdakilerden ilaçlardan hangisi tek başına kullanıldığında absens tedavisinde kontrendike olan bir İlaçtır?",
+    "secenekler": {
+      "A": "Diazepam",
+      "B": "Karbamazepin",
+      "C": "Etosüksimid",
+      "D": "Valproik asid",
+      "E": "Klonazepam"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Aşağıda ilaç-antiepileptik mekanizma yazılanlardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "GABA-T(transaminaz) enziminin inhibitörü --Progabid,",
+      "B": "T tipi Kalsiyum kanal blokörü --Topiramat",
+      "C": "Adenozin agonistik etki -- Topiramat",
+      "D": "Na kanal inaktivasyonunu –Fenitoin",
+      "E": "Kainat/AMPA reseptör blokörü –Lamotrigin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "GABAA reseptör kompleksinde aşağıdaki ilaçlardan hangisi veya hangilerinin kendine has bağlanma yeri vardır? 1- Benzodiazepinler 2- Etanol 3- GABA 4- Barbiturat",
+    "secenekler": {
+      "A": "1 ve 3",
+      "B": "2 ve 4",
+      "C": "1, 2 ve 3",
+      "D": "1 ve 2",
+      "E": "1, 2, 3 ve 4"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "Normal koşullarda (acil servis haricinde) hasta- hekim ilişkisinde hastaların en öncelikli beklentisi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Tedavi olmak",
+      "B": "Anlaşıldığını hissetmek",
+      "C": "Sorunlarını rahatça anlatabilmek",
+      "D": "Ağrı-acısının bir an önce giderilmesi",
+      "E": "İyileşeceği garantisini almak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "Aşağıdaki görüntüleme yöntemlerinden hangisi Nöroradyolojide kullanılmaz?",
+    "secenekler": {
+      "A": "Direk grafi",
+      "B": "Ultrasonografi",
+      "C": "Mamografi",
+      "D": "Bilgisayarlı Tomografi (BT)",
+      "E": "Manyetik Rezonans Görüntüleme (MR)"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "İntrakranial kalsifikasyonları saptamada en duyarlı görüntüleme yöntemi hangisidir?",
+    "secenekler": {
+      "A": "Serebral Anjiografi",
+      "B": "Sella spot grafisi",
+      "C": "Bazis krani grafisi",
+      "D": "Manyetik Rezonans Görüntüleme (MR)",
+      "E": "Bilgisayarlı Tomografisi (BT)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "Yirmi yaşında trafik kazası sonrası acil servise başvuran hastanın nörolojik muayenesinde bilincinin kapalı olduğu, ağrılı uyaranla gözlerini açmadığı, ağrılı uyaranla üst extremitelerde flexör yanıt verdiği ve inleme tarzında anlaşılmaz sesler çıkardığı saptanmıştır. Bu muayene sonucuna göre hastanın Glaskow koma skalası hangisidir?",
+    "secenekler": {
+      "A": "E1M2V1",
+      "B": "E1M3V2",
+      "C": "E2M5V3",
+      "D": "E2M4V3",
+      "E": "E1M3V4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "Kornea refleksinin sırasıyla afferent ve efferent sinirleri nelerdir?",
+    "secenekler": {
+      "A": "2. kranial sinir ve 3. kranial sinir",
+      "B": "3. kranial sinir ve 2. kranial sinir",
+      "C": "7. kranial sinir ve 5. kranial sinir",
+      "D": "9. kranial sinir ve 10, kranial sinir",
+      "E": "5. kranial sinir ve 7. kranial sinir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Hareketlerde yavaşlama, tek taraflı istirahat tremoru, mimiklerde azalma, küçük adımlarla ve öne eğik olarak yürüme kliniği olan hastada hangi tanıyı düşünürsünüz? Eşlik eden nörotransmitter eksikliği hangisidir?",
+    "secenekler": {
+      "A": "Parkinson - Asetilkolin",
+      "B": "Parkinson -Dopamin",
+      "C": "Jeneralize distoni -Dopamin",
+      "D": "Normal Basınçlı Hidrosefali - Dopamin",
+      "E": "Syndenham Koresi -Dopamin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Bell paralizisi için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Antiviral öncelikli tedavi seçeneğidir",
+      "B": "Steroid kullanımın yeri yoktur",
+      "C": "İdiopatiktir",
+      "D": "Frontal bölge hariç unilateral tüm motor fonksiyonları etkilenir",
+      "E": "8. sinir paralizisidir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Piramidal sistem hasarında aşağıdaki nörolojik bulgulardan hangisi gözlenmez?",
+    "secenekler": {
+      "A": "Spastisite",
+      "B": "DTR artma",
+      "C": "Babinski gibi patolojik refleks alınması",
+      "D": "Aşil klonus pozitifliği",
+      "E": "Koreoform hareketler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Kişilik için aşağıdakilerden hangisi doğrudur? i)Kişilik büyük oranda çocukluğun ilk yıllarında şekillenir ii) Gerçekten istediğinde her insan küçük bir çabayla kişilik yapısını kolayca değiştirebilir iii) Kişilik yapısının şekillenmesinde genetik etmenlerin hiçbir rolü yoktur",
+    "secenekler": {
+      "A": "i",
+      "B": "ii",
+      "C": "iii",
+      "D": "i ve ii",
+      "E": "i, ii ve iii"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Bedenselleştirme (somatizasyon) için hangisi yanlıştır? İ)Bedenselleştirme (somatizasyon) olarak adlandırılan somatik yakınmalar bir çeşit temaruzdur. ii)Bedenselleştirme ve hipokondriyazis (hastalık hastalığı) birbirinin yerine kullanılabilen eşdeğer kavramlardır. iii) Bedenselleştirme' saptanan hastaya aklına takmazsa yakınmasının geçeceği tekrar tekrar hatırlatılmalıdır",
+    "secenekler": {
+      "A": "i",
+      "B": "ii",
+      "C": "iii",
+      "D": "i ve ii",
+      "E": "i, ii ve iii"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "SSS'nin sintigrafik görüntülenmesindeki en sık endikasyon nedir ve bu endikasyonda en sık kullanılan radyofarmasötik ile BOS kaçağı tayininde en sık kullanılan radyofarmasötik hangisidir?",
+    "secenekler": {
+      "A": "Tümör- Tc99mMIBI-TI-201",
+      "B": "Alzheimer Demans -Tc99m HMPAO- Tc99m DTPA",
+      "C": "AV malformasyon- I-131 - Tc99m DMSA",
+      "D": "Parkinson - F-18 FDG - Tc99m nanokolloid",
+      "E": "SVO-Tc99m mebrofenin - Tc99m MDP"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "Aşağıdakilerden hangisi panik bozukluğunun bir belirtisidir?",
+    "secenekler": {
+      "A": "Endişeli beklenti",
+      "B": "Beklenti anksiyetesi",
+      "C": "Yeniden yaşantılama",
+      "D": "Obsesyon",
+      "E": "Kompulsiyon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "Aşağıdakilerden hangisi şizofreninin pozitif belirtilerindendir?",
+    "secenekler": {
+      "A": "Aloji",
+      "B": "Avolisyon",
+      "C": "Katatoni",
+      "D": "Anhedoni",
+      "E": "Anerji"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "İki yaşındaki bir çocuk salıncakta yardımsız sallanmak istemekte, kendisini tutmaya çalışan annenin ellerini itmektedir. Çocuğun bu davranışı hangi gelişimsel özellikle açıklanabilir?",
+    "secenekler": {
+      "A": "Yatkınlık",
+      "B": "Özerklik",
+      "C": "Üretkenlik",
+      "D": "Özdeşim",
+      "E": "Merak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "İki buçuk yaşında bir çocuğun yemek yerken üstünü başını kirletmesinden hoşlanmayan anne, çocuğun kendi başına yemesine izin vermemekte, çocuğun kendi başına yeme ısrarı karşısında ise cezaya başvurmaktadır. Çocuğun yapmak istediği bir davranışı yapmasına izin vermeyen ve kimi davranışlarından dolayı çocuğunu cezalandıran annenin bu durumu Erikson'a göre çocukta ne türden bir kimlik özelliğinin yerleşmesine neden olabilir?",
+    "secenekler": {
+      "A": "Güvensizlik",
+      "B": "Kuşku ve utanç",
+      "C": "Suçluluk",
+      "D": "Yetersizlik",
+      "E": "Kimlik krizi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi doğru ifadeleri göstermektedir? I. Major depresyonda konuşma içeriği azalmış ve yavaşlamıştır II. Major depresyon depresif belirtilerin iki ay sürmesiyle karakterizedir III. Major depresyon hastalarının yönelimi yerindedir",
+    "secenekler": {
+      "A": "I, II, III",
+      "B": "I, III",
+      "C": "II, III",
+      "D": "II",
+      "E": "III"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi doğru ifadeleri göstermektedir? I. Aşırı enerjik hissetme bipolar bozukluk manik dönemin ana tanı koydurucu belirtisidir II. Manik dönemde spontan dikkat de istemli dikkat de artar III. Siklotimi hastalarında hipomani ve major depresif dönem görülür",
+    "secenekler": {
+      "A": "I, II, III",
+      "B": "I, II",
+      "C": "II,III",
+      "D": "II, III",
+      "E": "I"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "Aşağıdaki davranışsal bağımlılıklardan hangisi DSM-V Tanı Sınıflandırmasında bekleyen tanı, Dünya Sağlık Örgütü (DSÖ)'nün ICD-11 Tanı Sınıflandırmasında ise eklenen psikiyatrik tanı kategorisindedir?",
+    "secenekler": {
+      "A": "İş bağımlılığı",
+      "B": "Estetik-kozmetik bağımlılığı",
+      "C": "Dijital oyun bağımlılığı",
+      "D": "Alışveriş bağımlılığı",
+      "E": "Egzersiz bağımlılığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "Hangisi enfeksiyon hastalıklarına yatkınlık açısından özel konak değildir?",
+    "secenekler": {
+      "A": "HIV ile yaşayan bireyler",
+      "B": "Kanser hastaları",
+      "C": "Diyaliz hastaları",
+      "D": "Yaşlılar",
+      "E": "Adolesanlar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi genel anestezi uygulamasında kullanılmaz?",
+    "secenekler": {
+      "A": "İnhalasyon anestezikleri",
+      "B": "Opioidler",
+      "C": "Kas gevşeticiler",
+      "D": "İntravenöz anestezikler",
+      "E": "Nonsteroid antiinflamatuar ilaçlar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "Aşağıdakilerden hangisi \"travma sonrası stres bozukluğu\"nun temel belirtisidir?",
+    "secenekler": {
+      "A": "Panik atağı",
+      "B": "Endişeli beklenti",
+      "C": "Sanri",
+      "D": "Varsanı",
+      "E": "Yeniden yaşantılama"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Aşağıdaki tümörlerin hangisinde kraniospinal radyoterapi yapılmaktadır?",
+    "secenekler": {
+      "A": "Glioblastom",
+      "B": "Menengiom",
+      "C": "Pons gliomu",
+      "D": "Medulloblastom",
+      "E": "Schwannom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Hangisi subjektif tinnitus nedeni değildir?",
+    "secenekler": {
+      "A": "Vestibüler Schwannoma",
+      "B": "Aminoglikozid kullanımı",
+      "C": "Palatal myoklonus",
+      "D": "Hipertansiyon",
+      "E": "Akustik travma"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "Vertigo ile ilgili tanımlamalardan hangisi en doğrudur?",
+    "secenekler": {
+      "A": "Dengesizlik",
+      "B": "Bulantı-kusma",
+      "C": "Baş ağrısı",
+      "D": "İşitme kaybı ile tinnitusun birlikte olması",
+      "E": "Baş dönmesi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "Hangisi sensorinöral tip işitme kaybı olduğunda problemin olduğu yer değildir?",
+    "secenekler": {
+      "A": "Kohlea",
+      "B": "Nervus statoakustikus",
+      "C": "Kohlear nukleus",
+      "D": "Stapes kemiği",
+      "E": "Temporal lob"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "68 yaşında erkek hasta acil servise denge kaybı ile başvurdu. Hastanın 1 saat öncesine kadar herhangi bir şikayeti yokken aniden baş dönmesi ve dengesizliği başladığı öğrenildi. Eşlik eden bulantı ve kusma şikayeti de olan hastanın çekilen beyin tomografisinde sol serebellumda kanama ile ilgili patolojik görüntü izlenmiştir. Bu hastanın yaplan nörolojik muayenesinde aşağıdaki bulgulardan hangisini saptamayı beklemezsiniz?",
+    "secenekler": {
+      "A": "Dismetri",
+      "B": "Disdiadokinezi",
+      "C": "Nistagmus",
+      "D": "İstirahat tremoru",
+      "E": "Hipotoni"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisi hem birinci hem de ikinci motor nöronu etkileyen hastalıklara bir örnektir?",
+    "secenekler": {
+      "A": "Multiplskleroz",
+      "B": "Radikülopati",
+      "C": "Normal basınçlı hidrosefali",
+      "D": "Polimiyozit",
+      "E": "Amyotrofik lateral skleroz"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "30 yaşında kadın hasta yaklaşık 3 yıldır geceleri de olan aniden çığlık atma sonrasında başının sağa döndüğü sonrasında ellerine anormal hareketler olduğu 10-15 saniye kadar sürüp geçtiği öğrenilen şikayetler yaşadığını ifade ediyor. Kendisi olayları hatırlamadığı ailesinn ve arkadaşlarının bu şekilde anlattığını belirtiyor. Bu şikayetler sonrasında bilinç değişikliği yaşamadığını belirtiyor. Hastanın nörolojik muayenesinde herhangi bir patoloji saptanmıyor. Bu hastanın en olası ön tanısı ve etkilenen muhtemel beyin bölgesi aşağıdaki şıklardan hangisinde doğru olarak verilmiştir?",
+    "secenekler": {
+      "A": "Epilepsi / temporal bölge",
+      "B": "Epilepsi / frontal bölge",
+      "C": "Psikojenik non epileptik nöbet / frontal bölge",
+      "D": "Senkop / temporal bölge",
+      "E": "Epilepsi / oksipital bölge"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıdaki şekilde ağrı ısı duyusu etkilenmesine neden olabilecek hastalıklar sırasıyla hangi şıkta doğru olarak verilmiştir?",
+    "secenekler": {
+      "A": "Brown-Séquard sendromu / transvers miyelit",
+      "B": "Brown-Séquard sendromu / sringomiyeli",
+      "C": "Transvers miyelit / Brown-Séquard sendromu",
+      "D": "Sringomiyeli / Brown-Séquard sendromu",
+      "E": "Beyinsapi sendromları / transvers miyelit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Hangisi parkinson hastalığının bir bulgusu değildir?",
+    "secenekler": {
+      "A": "Rijidite",
+      "B": "İstirahat tremoru",
+      "C": "Spastisite",
+      "D": "Bradikinezi",
+      "E": "Postural instabilite"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "İkinci kranyal sinir patolojisini değerlendirmek için hangisini değerlendirmeye gerek yoktur?",
+    "secenekler": {
+      "A": "Direkt ışık refleksi",
+      "B": "Görme keskinliği",
+      "C": "Göz dibi bakısı",
+      "D": "Görme alanı muayenesi",
+      "E": "Yüz duyusu muayenesi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Dilin arka 1/3 lük kısmının tad duyusunu alan kranyal sinir hangisidir?",
+    "secenekler": {
+      "A": "Nervus fasiyalis",
+      "B": "Nervus hipoglossus",
+      "C": "Nervus glossofaringeus",
+      "D": "Nervus trigeminus",
+      "E": "Nervus oculomotorius"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "Nörooftalmolojik muayene ile sallanan fener testi ile bakılmaya çalışılan klinik bulgu hangisidir?",
+    "secenekler": {
+      "A": "Rölatif afferent pupil defekti",
+      "B": "Metamorfopsi",
+      "C": "Presbiyopi",
+      "D": "Anizometropi",
+      "E": "Göz Hareket kısıtlılıkları"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "Zehirlenmelerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Zehirlenme ile getirilen hastada ilk olarak bilinç durumu değerlendirilmelidir.",
+      "B": "Toksik madde insan vücuduna en sık gastrointestinal yoldan alınır.",
+      "C": "Birden fazla kişinin zehirlendiği durumlarda her bir olgunun toksik doz almış olabileceği düşünülmelidir",
+      "D": "Mental durumunda değişiklik olan veya öğürme refleksi deprese olanlarda, gastrik lavaj yapılacaksa endotrakeal tüp yerleştirildikten sonra uygulanmalıdır",
+      "E": "İntoksikasyon olgusu ile karşılaşıldığında 112 zehir danışma merkezi aranmalıdır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "Kornea refleksinin afferent ve efferent yollarından hangi kraniyal sinir sorumludur?",
+    "secenekler": {
+      "A": "Afferent 2.kraniyal sinir- Efferent 3.kraniyal sinir",
+      "B": "Afferent 3.kraniyal sinir -Efferent 5.kraniyal sinir",
+      "C": "Afferent 5.kraniyal sinir -Efferent 7.kraniyal sinir",
+      "D": "Afferent 9.kraniyal sinir-Efferent 10.kraniyal sinir",
+      "E": "Afferent 9.kraniyal sinir- Efferent 10.kraniyal sinir"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "Nörolojik bakı sırasında yaptığımız Rinne testi aşağıdakilerden hangi kraniyal sinir hakkında bilgi verebilir?",
+    "secenekler": {
+      "A": "I.KS",
+      "B": "IV.KS",
+      "C": "VI.KS",
+      "D": "VIII.KS",
+      "E": "X. KS"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Menenjit ön tanısı olan 35 yaşında erkek hastanın BOS incelemesinde; görünüm bulanık, hücre sayısı 1200 /mm3 ve PNL baskın olarak izleniyor. Olası etken aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Listeria monocytogenes",
+      "C": "Mycobacterium tuberculosis",
+      "D": "B grubu streptokok",
+      "E": "Cryptococcus neoformans"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "İnsanda kuduzun mikrobiyolojik tanısı için en güvenilir tanı yöntemi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Beyin dokusunda Negri cisimciğinin histopatolojik olarak gösterilmesi",
+      "B": "Boun saçlı derisi örneğinden RT-PCR ile virüsün nükleik asidinin gösterilmesi",
+      "C": "Serumda ELISA yöntemi ile özgül antikorların gösterilmesi",
+      "D": "Tükürükten DFA yöntemi ile viral antijenlerin gösterilmesi",
+      "E": "Serumda IFAT yöntemi ile özgül antikorların gösterilmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "Çocuk felci kuşkulu bir hastada en hızlı ve güvenilir tanı yöntemi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "BOS'un hücre kültürü",
+      "B": "BOS'da hücre tayini ve protein düzeyi",
+      "C": "Dışkı örneğinden PCR",
+      "D": "Serumda IgM aranması",
+      "E": "Kan kültürü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 84,
+    "soru_koku": "HIV/AIDS hastalarında Mycobacterium tuberculosis dışında en sık rastlanan mikobakteri türü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "M. abscessus kompleks",
+      "B": "M. fortuitum kompleks",
+      "C": "M. Kansasii",
+      "D": "M. genavense",
+      "E": "M. avium kompleks"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 85,
+    "soru_koku": "Tetanus tanısında altın standart yöntem aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Yara yeri kültürü",
+      "B": "Kanda toksinin ELISA yöntemi ile gösterilmesi",
+      "C": "Yara yeri dokusundan PCR",
+      "D": "Kandan PCR",
+      "E": "Tanı kliniktir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 86,
+    "soru_koku": "Botulismus toksini hangi mediatörün alınımı üzerine etkilidir?",
+    "secenekler": {
+      "A": "GABA ve glisin",
+      "B": "Asetil kolin",
+      "C": "Dopamin",
+      "D": "Noradrenalin",
+      "E": "Serotonin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 87,
+    "soru_koku": "Beyin-omurilik sıvısı (BOS) ile ilişkili aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "BOS'un üretim yeri araknoid granulasyonlardır",
+      "B": "Bir erişkin için bir günde üretilen BOS miktarı 150 cc kadardır",
+      "C": "Bakteriyel menejitlerde bağlantılı hidrosefali görülebilir",
+      "D": "Hidromyeli BOS'un artışına verilen isimdir",
+      "E": "BOS, III. ventrikülden IV. ventriküle Foramen Luschka aracılığı ile geçer"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 88,
+    "soru_koku": "Multipl sklerozda demyelinizan plakların dıştan gözlenebildiği santral sinir sistemi bölgesi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Temporal lob",
+      "B": "Serebellum",
+      "C": "Pons",
+      "D": "Bulbus",
+      "E": "Medulla spinalis"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 89,
+    "soru_koku": "Alzheimer hastalığında ortaya çıkan nörofibriler yumaklar aşağıdaki proteinlerin hangisinin hücre içi ve hücre dışı birikiminin sonucudur?",
+    "secenekler": {
+      "A": "Hamartin",
+      "B": "Nöron spesifik enolaz",
+      "C": "Sinaptofizin",
+      "D": "Nörofibromin",
+      "E": "Tau (MAP-2)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 90,
+    "soru_koku": "Aşağıdaki SSS tümörleri içerisinde en sık kalsifikasyon gösteren hangisidir?",
+    "secenekler": {
+      "A": "Oligodendrogliom",
+      "B": "Diffüz astrositom",
+      "C": "Medulloblastom",
+      "D": "Glioblastom",
+      "E": "Ependimom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 91,
+    "soru_koku": "İnfarktla sonuçlanan serebrovasküler hastalıklar için aşağıdaki ifadelerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Hipoksi iskemiye yol açar",
+      "B": "İskemiden en çok bazal ganglion nöronları etkilenir",
+      "C": "Yapay solunum cihazı kullanılması respiratör beyninin nedenidir",
+      "D": "İskemiye yol açan trombozlar en sık intrakranial arterlerde yerleşir",
+      "E": "İskemik bölgede laminer nekroz gelişebilir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 92,
+    "soru_koku": "S-100 proteinine yönelik immunhistokimyasal antikorların aşağıdaki sinir sistemi tümörlerinin hangisinin ayırıcı tanısında kullanılması mutlak gerekliliktir?",
+    "secenekler": {
+      "A": "Diffüz gliomlar",
+      "B": "Hemanjioblastom",
+      "C": "Meningiom",
+      "D": "Benign periferik sinir kılıfı tümörü",
+      "E": "Papiller glionöronal tümör"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 93,
+    "soru_koku": "2016 ve 2021 DSÖ sınıflamalarına göre, tek başına görülse dahi meningiomların doğrudan derece II (atipik meningiom) olarak değerlendirilmesini gerektiren histopatolojik kriter aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Artmış hücresellik",
+      "B": "Tabaka benzeri büyüme paterni",
+      "C": "Beyin invazyonu",
+      "D": "Nekroz",
+      "E": "Küçük hücrelerin varlığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 94,
+    "soru_koku": "3p'de yerleşen tümör süpresör bir genin inaktivasyonuyla geliştiği bilinen von Hippel-Lindau Sendromunda aşağıdaki tümörlerin/tümör benzeri lezyonların hangisinin görülmesi beklenmez?",
+    "secenekler": {
+      "A": "Vestibuler schwannom",
+      "B": "Hemanjioblastom",
+      "C": "Pankreatik kistler",
+      "D": "Renal hücreli karsinom",
+      "E": "Feokromositoma"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 95,
+    "soru_koku": "IDH-1 mutant, 1p-19q kodelesyonu bulunan ve ATRX kaybı göstermeyen derece II bir diffüz gliomun morfolojik tanısı aşağıdakilerden hangisi olmalıdır?",
+    "secenekler": {
+      "A": "Diffüz astrositom",
+      "B": "Anaplastik astrositom",
+      "C": "Oligodendrogliom",
+      "D": "Diffüz orta hat gliomu",
+      "E": "Anaplastik oligodendrogliom"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 96,
+    "soru_koku": "Ependimomda en sık ve tipik olarak gözlenen rozet tipi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Flexner-Wintersteiner rozetleri",
+      "B": "Ependimoblastik rozetler",
+      "C": "Homer Wright rozetleri",
+      "D": "Pineositomatöz rozetler",
+      "E": "Perivasküler pseudorozetler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 97,
+    "soru_koku": "Aşağıdaki sendromlardan hangisi bir ailesel tümör sendromudur?",
+    "secenekler": {
+      "A": "Asperger Sendromu",
+      "B": "Sjögren Sendromu",
+      "C": "Cushing Sendromu",
+      "D": "Wernicke-Korsakoff Sendromu",
+      "E": "Li-Fraumeni Sendromu"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdaki embriyoner beyin tümörleri içerisinde en iyi prognoza sahip olan hangisidir?",
+    "secenekler": {
+      "A": "Klasik medulloblastom",
+      "B": "Desmoplastik/noduler medulloblastom",
+      "C": "Yaygın nodulerite gösteren medulloblastom",
+      "D": "Santral sinir sistemi nöroblastomu",
+      "E": "Atipik teratoid rabdoid tümör"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 99,
+    "soru_koku": "Kafa tabanı kırıkları en sık hangi kafatası kemiğinin uğradığı travma sonucu görülür?",
+    "secenekler": {
+      "A": "Frontal kemik",
+      "B": "Temporal kemik",
+      "C": "Parietal kemik",
+      "D": "Oksipital kemik",
+      "E": "Zigomatik kemik"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 100,
+    "soru_koku": "Aşağıdakiler hastalıklardan hangisi bir multipl skleroz varyantıdır?",
+    "secenekler": {
+      "A": "Nöromyelitis optica",
+      "B": "Akut disemine ensefalomyelit",
+      "C": "Santral pontin myelinolizis",
+      "D": "Progresif supranukleer palsi",
+      "E": "Amyotrofik lateral skleroz"
+    },
+    "cevap": "A"
   }
 ]

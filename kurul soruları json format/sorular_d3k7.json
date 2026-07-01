@@ -99,14 +99,14 @@
       "B": "Bozulmuş glukoz toleransı",
       "C": "Diyabetes mellitus",
       "D": "Hipotiroidi",
-      "E": "Graves Hastalığı"
+      "E": "Graves Hastalığı Entegre Oturum"
     },
     "cevap": "C"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 9,
-    "soru_koku": "Entegre Oturum Aşağıdaki dermatolojik hastalıkların hangisi kaşıntıya neden olmaz?",
+    "soru_koku": "Aşağıdaki dermatolojik hastalıkların hangisi kaşıntıya neden olmaz?",
     "secenekler": {
       "A": "Yüzeyel mantar enfeksiyonu (dermatofitoz)",
       "B": "Liken planus",
@@ -1947,7 +1947,7 @@
       "D": "Kronik ve tanı konulamayan dermatitlerde, malignite şüphesi olan durumlarda mutlaka biyopsi yapılmalıdır",
       "E": "Özellikle depigmente lezyonların İncelendiği dermatoskopi, yüzeyel mikroskobik bir inceleme vöntemidir"
     },
-    "cevap": "D"
+    "cevap": "?"
   },
   {
     "yil": "2023-2024",
@@ -1960,7 +1960,7 @@
       "D": "İmpetigo",
       "E": "Kızıl"
     },
-    "cevap": "E"
+    "cevap": "A"
   },
   {
     "yil": "2023-2024",
@@ -2181,7 +2181,7 @@
       "D": "Bozulmuş glikoz toleransı",
       "E": "Gestasyonel diyabet"
     },
-    "cevap": "A"
+    "cevap": "D"
   },
   {
     "yil": "2023-2024",
@@ -2337,7 +2337,7 @@
       "D": "HER-2, ER ve PR negatif tümörler",
       "E": "HER-2 pozitif ve ER negatif tümörler"
     },
-    "cevap": "A"
+    "cevap": "D"
   },
   {
     "yil": "2023-2024",
@@ -2519,7 +2519,7 @@
       "D": "Malignite potansiyeli belirsiz paratiroid neoplazisi",
       "E": "Paratiroid karsinomu"
     },
-    "cevap": "E"
+    "cevap": "B"
   },
   {
     "yil": "2023-2024",
@@ -2550,7 +2550,7 @@
   {
     "yil": "2023-2024",
     "soru_numarasi": 97,
-    "soru_koku": "Otuz beş yaşında sağ memede areola altında 4 mm çapında bir kitlesi olan hastaya eksizyonel biopsi yapılıyor. raporunda duktus lümenine doğru gelişim gösteren bir epitelyal proliferasyondan söz ediliyor. Bu hastada aşağıdaki semptom ya da bulgulardan hangisi en olasıdır?",
+    "soru_koku": "Otuz beş yaşında sağ memede areola altında 4 mm çapında bir kitlesi olan hastaya eksizyonel biopsi yapılıyor. Patoloji raporunda duktus lümenine doğru gelişim gösteren bir epitelyal proliferasyondan söz ediliyor. Bu hastada aşağıdaki semptom ya da bulgulardan hangisi en olasıdır?",
     "secenekler": {
       "A": "Ekzema benzeri bulgu ve yakınmalar",
       "B": "Ağrı",
@@ -2596,6 +2596,2606 @@
       "C": "Direkt immunfloresan incelemede dermoepidermal bileşkede lineer IgG birikimi",
       "D": "……",
       "E": "……."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": "Aşağıdaki döküntülü hastalıklardan hangisinde deri döküntüsünde etkeni göstermek mümkündür?",
+    "secenekler": {
+      "A": "Kızıl",
+      "B": "Kızamik",
+      "C": "Suçiçeği",
+      "D": "Roseola infantum",
+      "E": "Eritema infeksiyozum"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": "Diz ve dirseklerde eritemli, beyaz renkli skuamlı plaklarla başvuran hastada öncelikli tanınız aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Liken planus",
+      "B": "Psoriasis vulgaris",
+      "C": "Sifiliz",
+      "D": "Numuler ekzema",
+      "E": "Seboreik ekzema"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": "Aşağıdakilerden hangisi amiodaron ilişkili tip 1 tirotoksikozda görülmez?",
+    "secenekler": {
+      "A": "Zeminde yatan tiroid patolojisi",
+      "B": "Tiroit kanlanmasında azalma",
+      "C": "Normal tiroglobulin değerleri",
+      "D": "Anti-TPO antikor pozitifliği",
+      "E": "İyod eksikliği olan bölgelerde sık görülmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": "Normal puberte özellikleri için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kızlarda meme gelişimi ortalama 10.9 yaş olup 8.5-13.3 yaş arasında değişir",
+      "B": "Testis volümlerinin 4 cc ye ulaşması çocukların /68'inde 11- 13 yaşları arasındadır",
+      "C": "Kızlarda pubertenin başlangıç ve bitişi arasındaki süre 3-4 yıldır",
+      "D": "Puberte süresi içinde hızlı büyüme en önemli değişikliklerden biridir",
+      "E": "Testis volümü artışı erkeklerde ortalama 9.9 yaşta başlar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": "Aşağıdaki insülin formlarından hangisi, insülin doruğu oluşturmadan en az 20 saat etki gösterir ve hipoglisemi oluşturmadan, bazal insülin düzeylerini kontrol etmeye yardımcı olur?",
+    "secenekler": {
+      "A": "İnsülin lispro",
+      "B": "Regüler insülin",
+      "C": "insülin glarjin",
+      "D": "İnsülin aspart",
+      "E": "NPH insülin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": "Çocuklarda Graves hastalığı için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Göz belirtileri ağırdır ve görme kaybına gider",
+      "B": "Ergenlik dönemindeki hastalarda puberte gecikir",
+      "C": "Hastalığın semptomlarının şiddeti tiroid hormon düzeyi ile ilişkilidir",
+      "D": "Cilt kuruluğu vardır",
+      "E": "T4 yüksekliği tanı için önemlidir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": "Tiroidektomide papiller tiroid karsinomu nükleer özellikleri olan ve mikrofollikül yapılarından oluşmuş bir lezyonda kapsül invazyonu şüphesi uyandıran çok küçük ve sadece bir alan saptanıyor. Bu alan için yapılan çok sayıda kesitte, o alanın kapsül invazyonu olmadığına kesin karar verildiğinde ve artık hiçbir şüphe kalmadığında tanınız nedir?",
+    "secenekler": {
+      "A": "Papiller tiroid karsinomu folliküler varyant",
+      "B": "Folliküler tiroid karsinomu",
+      "C": "Malignite potansiyeli belirsiz iyi diferansiye tümör",
+      "D": "Papiller benzeri nükleer özellikler gösteren noninvaziv folliküler tiroid neoplazisi",
+      "E": "Malignite potansiyeli belirsiz folliküler tümör"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi, tip 2 diabetin tedavisinde monoterapi olarak kullanıldığında, en sık olarak hipoglisemiye neden olur?",
+    "secenekler": {
+      "A": "Akarboz",
+      "B": "Miglitol",
+      "C": "Metformin",
+      "D": "Roziglitazon",
+      "E": "Gliburid"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Aşağıdakilerden hangisi NCEP-ATP III' e göre metabolik sendrom tanısı koyabilmek için kullanılan parametrelerden biri değildir?",
+    "secenekler": {
+      "A": "bel çevresi ölçümü",
+      "B": "trigliserid ölçümü",
+      "C": "vücut kitle indeksi",
+      "D": "tansiyon arteriyel ölçümü",
+      "E": "açlık kan şekeri ölçümü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Hipofiz ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Anterior hipofiz nöroektodermden gelişir.",
+      "B": "Hipofizin büyük kısmını posterior kısmi oluşturur.",
+      "C": "ADH ve oksitosin nörohipofizdeki pituisitler tarafından sentezlenir.",
+      "D": "Hipofiz bezi lateralde 7.kranial sinir ile komşuluk gösterir.",
+      "E": "Hipofiz adenomları intrakranial kitlelerin %10-15'ini oluşturur."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Kol yerleşimli 0,4 cm çapli, iyi sınırlı, kahverenkli, deriden hafif kabarık lezyon eksize ediliyor. Hastanın 20 yaşında erkek olduğu bildiriliyor. Mikroskopik olarak olağan epidermis altında uniform hücre yuvaları ve kahverenkli pigment izleniyor. Buna göre en olası tanı ve pigmentin niteliğini doğru tanımlayan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Displastik nevüs- melanin",
+      "B": "Intradermal nevüs- melanin",
+      "C": "Dermatofibrom-hemosiderin",
+      "D": "Malign melanom- melanin",
+      "E": "Dermatofibrosarkoma protuberans- hemosiderin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Tiroit \"inferno\" hangi hastalığın tipik bulgusudur?",
+    "secenekler": {
+      "A": "Kronik tiroidit",
+      "B": "Nodüler Guatr",
+      "C": "Subakut tiroidit",
+      "D": "Diffüz Guatr",
+      "E": "Graves hastalığını"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Altı bağlanan bebeklerde bez bölgesinde görülen akut irritan kontakt dermatit tablosu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Atopik dermatit",
+      "B": "Intertriginöz ekzema",
+      "C": "Diaper dermatit",
+      "D": "Seboreik dermatit",
+      "E": "Numuler dermatit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "Aşağıdakilerden hangisi akromegalinin klinik bulgularindan biri değildir?",
+    "secenekler": {
+      "A": "Karpal tunel sendromu",
+      "B": "Kardiyomiyopati",
+      "C": "Hipertansiyon",
+      "D": "Hipoglisemi",
+      "E": "Kolon polipleri"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi Conn sendromu bulgusu değildir?",
+    "secenekler": {
+      "A": "Alkaloz",
+      "B": "Hiperkalemi",
+      "C": "Normal sodyum düzeyi",
+      "D": "Kas krampları",
+      "E": "Hipertansiyon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "Subakut tiroiditi tirotoksikoza neden olan diğer durumlardan ayıran en belirgin bulgusu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Nodül",
+      "B": "Guatr",
+      "C": "Üfürüm",
+      "D": "Sıcaklık",
+      "E": "Ağrı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "I Tirozin II. İyot III. Çinko IV.Bakır Tiroid hormonu sentezi için hangileri gerekir?",
+    "secenekler": {
+      "A": "IV",
+      "B": "III",
+      "C": "III, IV",
+      "D": "I, II",
+      "E": "I, IV"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Aşağıdaki endikasyonların hangisinde Glukokortikoidler kullanılmaz?",
+    "secenekler": {
+      "A": "Astım",
+      "B": "Organ tranplantasyonunda red cevabını önlemek",
+      "C": "Romatoid artrit",
+      "D": "Diabet",
+      "E": "Addison Hastalığı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Derinin skuamöz hücreli karsinomu için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Perinöral invazyon çok nadirdir",
+      "B": "Lenf nodu metastazı yapar",
+      "C": "Tümör boyutu prognoza etki eder",
+      "D": "Tümör derinliği prognoza etki eder",
+      "E": "Güneşe açık bölgelerde daha sık yerleşir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Hangi deri kanseri en sIk görülür?",
+    "secenekler": {
+      "A": "Ekrin karsinom",
+      "B": "Skuamöz hücreli karsinom",
+      "C": "Bazal hücreli karsinom",
+      "D": "Malign melanoma",
+      "E": "Seboraik karsinom"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Aşağıdakilerden hangisi tiroide iyodür girişini inhibe ederek antitiroid etki gösterir?",
+    "secenekler": {
+      "A": "Metimazol",
+      "B": "Tiyosiyanat",
+      "C": "Propronolol",
+      "D": "Propiltiyoürasil",
+      "E": "Liyotronin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "Hipoglisemi ve buna bağlı santral sinir sistemi belirtileri (konfüzyon, stupor,bilinç kaybi) ile karakterize pankreasın en sık görülen adacık hücreli tümörü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Glukagonoma",
+      "B": "Gastrinoma",
+      "C": "Somatostatinoma",
+      "D": "İnsülinoma",
+      "E": "Vıpoma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisinde kesin tanı için direkt immunfloresan inceleme gereklidir?",
+    "secenekler": {
+      "A": "Kontakt dermatit",
+      "B": "Ürtiker",
+      "C": "Herpes virüs enfeksiyonu",
+      "D": "Dermatititis herpetiformis",
+      "E": "Liken planus"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Akkiz hipotiroidisi için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Baş ve boyuna radyasyon tedavisini takiben gelişebilir",
+      "B": "Tedavi edilmeyen vakalarda sarılık görülebilir",
+      "C": "Her hastada Evre 2 guatr mevcuttur",
+      "D": "En sik rastlanan belirtisi göbek fıtığıdır",
+      "E": "Tedavi edilmezse mental retardasyon gelişir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdakilerden hangisi, kortikosteroid tedavisi altındaki hastalara önerilmemelidir?",
+    "secenekler": {
+      "A": "Mide koruyucu tedavi",
+      "B": "İmmobilizasyon",
+      "C": "Kan basıncı takibi",
+      "D": "Tuzsuz diyet",
+      "E": "Kan şekeri takibi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "Konjenital hipotroidinin en sık sebebi hangisidir?",
+    "secenekler": {
+      "A": "Agenezi",
+      "B": "Disgenezi",
+      "C": "Annede Graves hastalığı olmasi",
+      "D": "İyot eksikliği",
+      "E": "TSH yetmezliği"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "hangisi adrenal adenomlarin tipik radyolojik özelliği değildir?",
+    "secenekler": {
+      "A": "insidental saptanmaları",
+      "B": "4cm den küçük olmaları",
+      "C": "mikroskopik yağ içermeleri",
+      "D": "kontrastsiz BT de dansitelerinin 10 HU üzerinde olması",
+      "E": "out faz MR da sinyal kaybetmeleri"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "35 yaşında kadın hasta, son 6 ayda hızla kilo verme, kalp çarpıntısı, sıcak basması, kan basıncında artış ve ellerde titreme şikayetleri ile başvuruyor. Aşağıdaki testlerden hangisinin düşük çıkması kliniği ile uyumlu olacaktır?",
+    "secenekler": {
+      "A": "TSH",
+      "B": "Free T3",
+      "C": "Free T4",
+      "D": "Ferritin",
+      "E": "Transferrin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "Aşağıdaki görüntüleme metotlarından hangisinin paratiroid bezi patolojilerinde tanısal kullanımı uygun değildir?",
+    "secenekler": {
+      "A": "Ultrasonografi",
+      "B": "4D Bilgisayarlı Tomografi",
+      "C": "Sintigrafi",
+      "D": "Manyetik Rezonans Görüntüleme",
+      "E": "Direk Grafi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Santral diyabetes insipidus laboratuvar bulguları için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Hiponatremi vardır",
+      "B": "Kraniyal görüntüleme normalse bir daha değerlendirme yapılmaz",
+      "C": "İdrar dansitesi 1010 ve üzeridir",
+      "D": "Büyüme hormonu eksikliği ile görülebilir",
+      "E": "Susuz kalmış hastada plazma osmolaritesi düşüktür"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "Suçiçeği etkeni aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Herpes simpleks virüs",
+      "B": "Varicella zoster virüs",
+      "C": "Human papilloma virüs",
+      "D": "Parvovirüs B19",
+      "E": "Rubella virüs"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "hangisi nöroendokrin pankreas tümörlerinin tipik radyolojik özelliğidir?",
+    "secenekler": {
+      "A": "Büyük boyutlu olmaları",
+      "B": "Kistik olmaları",
+      "C": "Kalisifik olmaları",
+      "D": "Arteriyel fazda kontrast tutmaları",
+      "E": "Batin ultrasonografide kolay tespit edilebilmeleri"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "48 yaşında erkek hasta yemeklerden sonra aşırı uyuklama hali, zaman zaman ağzında kuruluğu olduğunu belirtiyor. Hastanın açlık kan şekeri:105 mg/dl,Tokluk kan şekeri 150 mg/dl bulunuyor. Hastaya 75 gr OGTT yapılıyor. 75 grlık OGTT'de 0. saat 92 mg/dl, 2. Saat kan şekeri: 190 mg/dl olarak ölçülüyor. Bu hastada en olası tanı hangisidir?",
+    "secenekler": {
+      "A": "Diyabetes Mellitus",
+      "B": "Bozulmuş açlık glikozu",
+      "C": "İnsülin direnci",
+      "D": "Bozulmuş glikoz toleransı",
+      "E": "Normal"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdakilerden hangisi Tiroid Sintigrafisi endikasyonlarından biridir?",
+    "secenekler": {
+      "A": "Tükrük bezi fonksiyonlarını değerlendirmek",
+      "B": "Ektopik paratiroid adenomu araştırmak",
+      "C": "Kemik mineral yoğunluğu ölçümü",
+      "D": "Tiroidektomi sonrası bakiye doku değerlendirilmesi",
+      "E": "Özefagus transit zamanı ölçümü"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Hangisi meme kanserinin tipik bulgularından değildir?",
+    "secenekler": {
+      "A": "Koltuk altında fistül",
+      "B": "Ciltte retraksiyon",
+      "C": "Meme başında retraksiyon",
+      "D": "Ciltte satellit nodül",
+      "E": "Meme başında ülser"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Gerek ele gelen kitle yapmayabilmesi gerekse görüntüleme teknikleriyle tanısında güçlükler gösteren malign tümör aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Invaziv lobüler karsinom",
+      "B": "Medüller karsinom",
+      "C": "Tubüler karsinom",
+      "D": "Paget hastalığı +İnvaziv duktal karsinom",
+      "E": "İnvaziv duktal karsinom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Aşağıdakilerden hangisi/hangileri Propitiourasilin etki mekanizmalarındandır? I. Tiroide iyot girişinin inhibisyonu II. İyodür oksidasyonunun inhibisyonu III. İyot organifikasyonu inhibisyonu IV. T3 ve T4 salınım inhibisyonu V. Periferde T4 ün T3 e dönüşümünün inhibisyonu",
+    "secenekler": {
+      "A": "Yalnızca IV",
+      "B": "I ve II",
+      "C": "I, II ve IV",
+      "D": "II, III ve V",
+      "E": "I, II, III, IV ve V"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "53 yaşında tip 2 diabetik kadın hastada kullandığı ilaçlara bağlı olduğu düşünülen akut pankreatit atağı gelişiyor. Bu yan etkiden sorumlu ilaç büyük olasılıkla aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kanagliflozin",
+      "B": "Sitagliptin",
+      "C": "Pramlintid",
+      "D": "Ekzenatid",
+      "E": "Roziglitazon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Meme karsinomlarındaki moleküler sınıflama göz önüne alındığında aşağıdakilerden hangisinin kemoterapiye yanıtı en azdır?",
+    "secenekler": {
+      "A": "HER-2 negatif ve ER pozitif tümörler",
+      "B": "HER-2 negatif, ER+, PR- tümörler",
+      "C": "HER-2 pozitif, ER pozitif tümörler",
+      "D": "HER-2, ER ve PR negatif tümörler",
+      "E": "HER-2 pozitif ve ER negatif tümörler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Pedikülozise karşı kullanılan ilaçlardan malation için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "sistemik olarak kullanılmaz (toksisitesi yüksektir).",
+      "B": "Baş ve pubis bitinde kullanılır, pudra ve şampuan şekli de vardır",
+      "C": "Ovisidal etkisi de bulunur",
+      "D": "Böceklerde kolinesterazı reversibl inhibe eder",
+      "E": "Uvuz tedavisinde de kullanılır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Aşağıdaki testlerden hangisi diyabetes mellituslu hastaların kan şekeri regülasyonu izleminde kullanılır?",
+    "secenekler": {
+      "A": "Hemoglobin A1c",
+      "B": "İdrar glukozu",
+      "C": "İdrar lipidi",
+      "D": "Kan total lipid",
+      "E": "Fruktozamin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Hangisi dermatitis herpetiformisin özelliklerinden biri değildir?",
+    "secenekler": {
+      "A": "Gluten duyarlılığı",
+      "B": "Şiddetli kaşıntı",
+      "C": "Diz-dirsek ve gluteal bölgede lezyonlar",
+      "D": "Subepidermal bül",
+      "E": "Dermoepidermal bileşkede IgG birikimi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Otoimmun kökenli olduğu düşünülen meme lezyonu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Lobüler karsinoma in situ",
+      "B": "Memenin yağ nekrozu",
+      "C": "Granülomatőz mastit",
+      "D": "Meme absesi",
+      "E": "Meme duktus ektazisi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "Kalsiyopenik Riketsli hastalar için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Her hastada 25hidroksi D düzeyleri düşük bulunur",
+      "B": "Parathormon düzeyleri daima yüksektir",
+      "C": "Kalsiyum düzeyi her zaman düşüktür",
+      "D": "Alkalen fosfataz düzeyi normaldir",
+      "E": "Fosfor düzeyi her zaman düşük bulunur"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "34 yaşında kronik böbrek yetmezliği nedeniyle takip edilen kadın hastada bakılan kan kalsiyum seviyesi yüksek saptandı. Paratiroid görüntülemelerinde sağ alt paratiroid bezi 1 cm boyutta izlendi. Sağ alt paratiroidektomi materyalinin kesitlerinde kapsüllü ve şef hücrelerden oluşan bir lezyon görüldü ve çevrede olağan bir parankime ait kanıt izlenmedi. Bu hastada klinik ve/veya patolojik tanı aşağıdakilerden hangisi olamaz?",
+    "secenekler": {
+      "A": "Primer hiperparatiroidizm",
+      "B": "Paratiroid karsinomu",
+      "C": "Paratiroid adenomu",
+      "D": "Sekonder hiperparatiroidizm",
+      "E": "Paratiroid hiperplazisi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "MEN sendromunda görülen tümörler ile bunların sendrom dışi sporadik tümörler olarak görülmesi arasındaki farklardan yanlış olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Sporadik tümörler daha ileri yaşta görülür",
+      "B": "Sporadik tümörler tek bir organda oluşur",
+      "C": "Sporadik tümörler daha kötü prognozlu seyreder",
+      "D": "Sporadik tümörler genelde soliter kitleler oluşturur",
+      "E": "Sporadik tümörler oluştuğu organda tek bir odak şeklinde karşımıza çıkar"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi glukokortikoid ve progesteron reseptörlerinin kompetetif inhibitörü olup Cushing sendromu tedavisinde kullanılır?",
+    "secenekler": {
+      "A": "Aminoglutetimid",
+      "B": "Metirapon",
+      "C": "Mifepriston",
+      "D": "Ketakonazol",
+      "E": "Budesonid"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "Epidermiste keratinositlerin arasındaki bağların koptuğu ve hücrelerin bağımsızlaştığı 2 cm boyutlu bir lezyon için hangi tanımlama doğrudur?",
+    "secenekler": {
+      "A": "Akantotik püstül",
+      "B": "Akantotik bül",
+      "C": "Akantolitik nodül",
+      "D": "Akantolitik vezikül",
+      "E": "Akantotik vezikül"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "Palmoplantar kalınlaşma ile karakterize ekzema türü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Numuler ekzema",
+      "B": "Dishidrotik ekzema",
+      "C": "Atopik ekzema",
+      "D": "Gravitasyonel ekzema",
+      "E": "Hiperkeratozik ekzema"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdaki görüntüleme metodlarından hangisi Tiroid bezi patolojilerinde biopsi rehberliği için kullanılır?",
+    "secenekler": {
+      "A": "Bilgisayarlı Tomografi",
+      "B": "ultrasonografi",
+      "C": "Direk Grafi",
+      "D": "Manyetik Rezonans Görüntüleme",
+      "E": "Anjiografi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Aşağıdakilerden hangisi pemfigus vulgarisin özelliklerinden biri değildir?",
+    "secenekler": {
+      "A": "Oral mukozada ağrılı erozyonlar",
+      "B": "Deride büller ve erozyonlar",
+      "C": "Akantoliz",
+      "D": "Subepidermal bül",
+      "E": "Epidermiste IgG birikimi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Epidermisin bazalinde vakuolizasyon ve destrüksiyona yol açan yangısal lezyonlar aşağıdakilerden hangi grupta değerlendirilir?",
+    "secenekler": {
+      "A": "Spongiotik dermatit",
+      "B": "Psoriaziform dermatit",
+      "C": "Granülomatöz dermatit",
+      "D": "Likenoid dermatit",
+      "E": "Pannikülit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Kombine pituiterhormon eksikliği, aşağıdaki hangi transkripsyon faktörünün defektine bağlı gelişir?",
+    "secenekler": {
+      "A": "DAX1",
+      "B": "PROP1",
+      "C": "Pit-1",
+      "D": "LH3",
+      "E": "OCT4"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Oral glikoz tolerans testi uygulanan bir hastada açlık glikoz değerleri yüksek 2.saat glikoz değeri normal bulunursa hangisi doğrudur?",
+    "secenekler": {
+      "A": "Bozulmuş açlık glikozu",
+      "B": "Bozulmuş glikoz toleransı",
+      "C": "Diyabetes Mellitus",
+      "D": "Gestasyonel diyabet",
+      "E": "Böbrek yetmezliği"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "Dermatolojik muayenede doğru olanı işaretleyiniz",
+    "secenekler": {
+      "A": "Deri lezyonu muayenesi tercihen güneş ışığında veya kuvvetli sarı ışık kaynağı ile yapılmalıdır",
+      "B": "Deri yüzeyinin gözden geçirilmesi yeterli olup, lezyonun palpe edilmesine gereksinim yoktur",
+      "C": "İyi bir klinik muayene için yeterli oda ısısında hastanın bütün deri yüzeyi gözden geçirilmelidir",
+      "D": "Hastanın şikayetinin olduğu bölgenin muayenesi yeterlidir",
+      "E": "Sistemik hastalık şüphesi yoksa, sistemik muayene yapılması gerekli değildir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "En sık görülen malign meme tümörü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "İnvaziv lobüler karsinom",
+      "B": "Medüller karsinom",
+      "C": "Tubüler karsinom",
+      "D": "Paget hastalığı",
+      "E": "İnvaziv duktal karsinom"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "38 yaşında kadın hastanın tiroid ultrasonografisinde sağ lobunda 3.5 cm çaplı hipoksik bir nodül saptandı. Yapılan ince iğne aspirasyonunda folliküler neoplazi tanısı alması üzerine tiroidektomi yapıldı. Kesitlerde yuvarlak hiperkromatik nükleuslu hücrelerle karakterize mikro-makrofollikül yapıları oluşturmuş nodül görüldü. Nodülün çoğu alanda kapsüllü olduğu ve bir alanda lezyonun kapsüle doğru hafif kabarıklık yaptığı ancak kapsül boyunca tam kat tutmadığı saptandı. Bu hastada tanınız nedir?",
+    "secenekler": {
+      "A": "Folliküler adenom",
+      "B": "Folliküler karsinom",
+      "C": "Papiller tiroid karsinomu folliküler varyant",
+      "D": "Onkositik hücreli adenom",
+      "E": "Papiller benzeri nükleer özellikler gösteren noninvaziv folliküler tiroid neoplazisi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "Yalancı erken pubertenin tanısında aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Gonadotropin düzeyleri yüksektir",
+      "B": "Gonad hormonları düşüktür",
+      "C": "GnRH testine LH yanıtı yüksektir",
+      "D": "Kemik yaşı ileridir",
+      "E": "Tanı da kraniyal magnetik rezonans görüntüleme gereklidir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağidakilerden hangisi prolaktin düzeyini artırmaz?",
+    "secenekler": {
+      "A": "Uyku",
+      "B": "Hipotiroidi",
+      "C": "Metoklopramid",
+      "D": "Pergolid",
+      "E": "Verapamil"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "Endokrin pankreastaki hücre ve salgılanan hormon eşleştirmelerinden kaç tanesi doğrudur? 1) alfa hücreleri-insülin 2) D1 hücreleri-serotonin 3) PP hücreleri-VIP 4) delta hücreleri-somatostatin 5) beta hücreleri-glukagon",
+    "secenekler": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Meme kanseri taramasında geçerliliği kanıtlanan görüntüleme yöntemi hangisidir?",
+    "secenekler": {
+      "A": "Ultrasonografi",
+      "B": "Mamografi",
+      "C": "Manyetik Rezonans Görüntüleme",
+      "D": "ROLL",
+      "E": "İğne-tel işaretleme"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "BIRADS sınıflamasında kategori 2 için doğru olan tanımlama aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Benign meme lezyonu",
+      "B": "Malign meme lezyonu",
+      "C": "Yüksek olasılıkla benign meme lezyonu",
+      "D": "Yüksek olasılıkla malign meme lezyonu",
+      "E": "Histopatolojik tanı alan malign meme lezyonu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "Altmiş yaşında kadın hasta 2 aydır ağız kuruluğu, poliüri, polidipsi şikayetleri ile dahiliye polikliniğine başvuruyor. Boyu:157 cm, Kilo:96 kg tansiyon arteriyel:150/90 mmHg olarak ölçülüyor. Hastanın Açlık kan şekeri:168 mg/dl tokluk kan şekeri:220 ng/dl saptanıyor. Bu hastada aşağıdaki tetkiklerin hangisinin yapılmasına gerek yoktur?",
+    "secenekler": {
+      "A": "HbA1c",
+      "B": "Böbrek fonksiyon testleri",
+      "C": "75 gramlik OGTT",
+      "D": "Lipid paneli",
+      "E": "EKG"
+    },
+    "cevap": "?"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "Depresyon mental değişiklikler, sık böbrek taşı düşürme öyküsü ve kabızlık yakınmaları olan hastanin direk grafilerinde osteoitis fibroza sistika mevcuttu. Aşağıdakilerden hangisi bu hastada en muhtemel tanıdır?",
+    "secenekler": {
+      "A": "Hiperparatiroidi",
+      "B": "Osteoporoz",
+      "C": "Raşitizm",
+      "D": "Paget hastalığı",
+      "E": "Hipoparatiroidi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "Aşağıdakilerden hangisi hipoparatiroidide gözlenmez?",
+    "secenekler": {
+      "A": "Chvostek bulgusu",
+      "B": "Trauseau bulgusu",
+      "C": "Lentiküler Katarakt",
+      "D": "Ağız çevresinde, parmak uçlarında ayaklarda parestezi",
+      "E": "EKG' de QT kısalması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Aşağıdakilerden hangisi glukokortikoidlerin etkileri arasında değildir?",
+    "secenekler": {
+      "A": "Lipogenezin stimulasyonu",
+      "B": "Kas proteinlerinin katabolizması",
+      "C": "Kan şekeri artışı",
+      "D": "Osteoporoz",
+      "E": "İnsülin salınımının baskılanması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Uzun Süre glukokortikoid ilaç kullanan birinde aşağıdakilerden hangisi görülmez?",
+    "secenekler": {
+      "A": "Hipertansiyon",
+      "B": "Çocuklarda Büyüme geriliği",
+      "C": "Çizgili kas kitlesinde artiş",
+      "D": "Vücutta yağlanma",
+      "E": "Eozinopeni"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "Diyabet düşünülen bir hastada oral glikoz tolerans testi yapılmıştır. hastada Açlık Kan glukoz düzeyleri 0. saatte 92mg/dl, 2. saatte 175 mg/dl çıkmıştır. Hasta bulguları aşağıdakilerden hangisiyle uyumludur?",
+    "secenekler": {
+      "A": "Bozulmuş açlık glikozu",
+      "B": "Bozulmuş glikoz toleransi",
+      "C": "Gestasyonel Diyabet",
+      "D": "İnsulin resistansı",
+      "E": "Diyabet"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "Aşağıdakilerden hangisi Akromegali tedavisinde kullanılan büyüme hormonu reseptör antagonistidir?",
+    "secenekler": {
+      "A": "Pegvisomant",
+      "B": "Bromokriptin",
+      "C": "Oktreotid",
+      "D": "Mekasemin",
+      "E": "Lanreotid"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "Hipofiz adenomlarında ekspresyonları değerlendirilen transkripsiyon faktörü-hormon eşleştirmelerinden kaç tanesi patolojik tanıda bizi bir adenom tipine yönlendirir? 1) Tpit-TSH 2) ACTH-Pit1 3) SF1-ACTH 4) GH-SF1 5) Tpit-LH 6) PRL-Pit1 7) Pit1-FSH 8) LH-SF1 9) Tpit-PRL",
+    "secenekler": {
+      "A": "Hiçbiri",
+      "B": "2",
+      "C": "4",
+      "D": "6",
+      "E": "8"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Meme kanserine bağlı meme cildinde görülen lezyonlara ne ad verilir?",
+    "secenekler": {
+      "A": "Lenfatik metastaz",
+      "B": "Cilt tümörü",
+      "C": "Satellit nodül",
+      "D": "Egzema",
+      "E": "Paget hastalığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "El ve ayak bileklerinde viyole renkli papüller, yanak mukozasında beyaz renkli ağ tarzında plaklar ile başvuran hastada öncelikli tanınız hangisi olmalıdır?",
+    "secenekler": {
+      "A": "Psoriasis vulgaris",
+      "B": "Atopik ekzema",
+      "C": "Numuler ekzema",
+      "D": "Liken planus",
+      "E": "Tinea korporis"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi disülfiram benzeri reaksiyon yapan antifungal bir ilaçtır?",
+    "secenekler": {
+      "A": "Flusitozin",
+      "B": "Kaspofungin",
+      "C": "Ketokonazol",
+      "D": "Naftifin",
+      "E": "Griseofulvin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Ailesinde diyabet öyküsü olan 28 yaşında kadın hastanın hastanın vücut kitle indeksi 28 kg/m². İki kez bakılan açlık plazma glikozu 119-123 mg/dl olarak ölçülmüş. 75 grlik OGTT de 2. Saat glikoz değeri:138 mg/dL bulunuyor. Bu hastanin metabolik durumuna aşağıdakilerden hangisi uymaktadır?",
+    "secenekler": {
+      "A": "Bozulmuş açlık glikozu",
+      "B": "Diyabetes Mellitus",
+      "C": "Normal glikoz tolerans testi",
+      "D": "Bozulmus glikoz toleransi",
+      "E": "Gestasyonel diyabet"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "Büyüme hormonu için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Serbest yağ aistlerini artırır",
+      "B": "Antiinsülojenik etkilidir",
+      "C": "Etkilerini somotostatinler aracılığı ile oluşturur",
+      "D": "Pozitif nitrojen dengesi oluşturur",
+      "E": "Epifiz plaklarında kondrosit çoğalmasını stimüle eder"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Otuzbeş yaşında sağ memede areola altında 4 mm çapında bir kitlesi olan hastaya eksizyonel biyopsi yapılıyor. Patoloji raporunda duktus lümenine doğru gelişim gösteren bir epitelyal proliferasyondan söz ediliyor. Bu hastada aşağıdaki semptom ya da bulgulardan hangisi en olasıdır?",
+    "secenekler": {
+      "A": "Ekzema benzeri bulgu ve yakınmalar",
+      "B": "Ağrı",
+      "C": "Meme derisinde portakal kabuğu görünümü",
+      "D": "Kanlı meme başı akıntısı",
+      "E": "Meme başında çekilme"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "Cushing sendromunun endojen kaynaklı en sık nedeni aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Akciğer küçük hücreli karsinomu",
+      "B": "Kortikotrop adenom",
+      "C": "Adrenal kortikal adenom",
+      "D": "İatrojenik alım",
+      "E": "Adrenal kortikal hiperplazi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "Primer postmanopozal/senil osteoporozun patogenezinde rol oynayan hangisidir?",
+    "secenekler": {
+      "A": "Osteoprogenitör hücre proliferasyonu",
+      "B": "Hiperparatiroidiye bağlı kemik rezorbsiyonu",
+      "C": "Tedavide uygulanan hormon replasmanına bağlı osteoklastik aktivite artışı",
+      "D": "Östrojen eksikliğine bağlı osteoblastik aktivite artışı",
+      "E": "Östrojen eksikliğine bağlı osteoklastik aktivite artışı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "Aşağıdakilerden hangisi asemptomatik hiperparatiroidide paratiroidektomi endikasyonu değildir?",
+    "secenekler": {
+      "A": "Kreatinin klirensinin 60 ml/dk altında olması",
+      "B": "Kemik mineral yoğunluğunun lumbar vertebra, total kalça, femoral boyun ve 1/3 distal radius alanında T skorunun-2,5 SD daha düşük olması",
+      "C": "Hasta yaşının 60'tan büyük olması",
+      "D": "24 saat idrar kalsiyum atılımının >400 mg/gün",
+      "E": "Serum kalsiyum konsantrasyonunun üst limitin 1 mg/dl üzerinde olması"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "Staphylococcus aureus'un ürettiği eksfoliyatin toksin hangi klinik tablodan sorumludur?",
+    "secenekler": {
+      "A": "Kızıl",
+      "B": "Karbonkül",
+      "C": "Toksik şok sendromu",
+      "D": "Haşlanmış deri sendromu",
+      "E": "İmpetigo"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Sekonder hiperparatiroidiye bağlı Brown tümör ile ilgili doğru olan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Multipl kemik lezyonları vardır",
+      "B": "Paratiroid karsinomuna bağlı gelişir",
+      "C": "Lezyondaki hücrelerin atipisi nedeniyle osteosarkomla karışır",
+      "D": "Akut böbrek yetmezliği ile oluşur",
+      "E": "Malign transformasyon riski yüksektir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "41 yaşındaki bir kadın hastada kanser gelişme riskinin arttığını düşünmek için aşağıdakilerden hangi bulgunun saptanması gerekir?",
+    "secenekler": {
+      "A": "Atipik duktal hiperplazi",
+      "B": "Fibrozis",
+      "C": "Memenin yağ nekrozu",
+      "D": "Apokrin metaplazi",
+      "E": "Makro kistler"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "42 yaşında kadın hastaya, sol lobunda bulunan 7 cm çaplı nodül sitolojik olarak 'kuşkulu sitoloji' tanısı aldığı için total tiroidektomi yapıldı. Kesitlerde nodülün kapsüllü olduğu görüldü ve üç mikroskobik odakta kapsül invazyonu saptandı. Yapılan çok sayıda kesitte fokal alanlarda net olarak papiller tiroid karsinomu nükleer özellikleri olarak bildiğimiz kriterleri karşılamayan ama şüphe uyandıran nükleer özellikler izlendi. Bu olguda en olası tanınız nedir?",
+    "secenekler": {
+      "A": "Folliküler tiroid karsinomu",
+      "B": "Papiller tiroid karsinomu",
+      "C": "İyi diferansiye karsinom, spesifiye edilemeyen",
+      "D": "Malignite potansiyeli belirsiz folliküler tümör",
+      "E": "Malignite potansiyeli belirsiz iyi diferansiye tümör"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 84,
+    "soru_koku": "Osteoporozda kemiğin biyokimyasal belirteçleri ne kadar sürede kemikte oluşan değişiklikler hakkında bilgi verir?",
+    "secenekler": {
+      "A": "1-3 yıl",
+      "B": "1 yıl",
+      "C": "1ay",
+      "D": "1-3 ay",
+      "E": "3 ay"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 85,
+    "soru_koku": "Aşağıdaki durumlardan hangisinde ADH preperatları kullanılmaz?",
+    "secenekler": {
+      "A": "Diabetes insipitus",
+      "B": "Hemofili",
+      "C": "Antiagregan etki amacı ile",
+      "D": "Özefagus varis kanamasi",
+      "E": "Lokal anesteziklerle birlikte"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 86,
+    "soru_koku": "Aşağıdakilerden hangisinde Pautrier mikroabseleri görülür?",
+    "secenekler": {
+      "A": "Psoriazis vulgaris",
+      "B": "Diskoid lupus eritematozus",
+      "C": "Mikozis fungoides",
+      "D": "Fototoksik dermait",
+      "E": "Verruka vulgaris"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 87,
+    "soru_koku": "Aşağıdakilerden hangisi bir meme neoplazisi olarak kabul edilmez?",
+    "secenekler": {
+      "A": "Fibroadenom",
+      "B": "İntraduktal papillom",
+      "C": "Duktal hiperplazi",
+      "D": "Fillodes tümörü",
+      "E": "Memebaşı adenomu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 88,
+    "soru_koku": "Aşağıdakilerden hangisi metabolik sendrom risk faktörü değildir?",
+    "secenekler": {
+      "A": "Obezite",
+      "B": "genetik",
+      "C": "sigara kullanımı",
+      "D": "genç yaş",
+      "E": "fiziksel inaktivite"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 89,
+    "soru_koku": "Kalsiyum regülasyonunda aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Aktif D vitamini intestinal kalsiyum absorbsiyonunu arttırır",
+      "B": "Parathormon böbrekten kalsiyum reabsorbsiyonunu arttırarak serum kalsiyum düzeyini yükseltir",
+      "C": "Distal tübülüsten kalsiyum reabsorbsiyonunda aktif D vitamini de etkilidir",
+      "D": "Intestinal kalsiyum absorbsiyonunu paratiroid hormonda direk olarak arttırır",
+      "E": "Parathormon kemiklerden kalsiyum rezorbsiyonunu arttırır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 90,
+    "soru_koku": "Radyoaktif iyot uptake'nin düşük olduğu tirotoksikoz aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Toksik multinodüler guatr",
+      "B": "TSH salgılayan adenom",
+      "C": "Struma ovarii",
+      "D": "Mol hidatiform",
+      "E": "Toksik adenom"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 91,
+    "soru_koku": "Paratiroidde görülen kitle ile ilgil aşağıdakilerden kaç tanesi kesinlikle doğrudur? 1) Hücrelerde nükleer irileşmeler ve pleomorfizm varsa tani paratiroid karsinomudur 2) Tümüyle şef hücrelerden oluşur 3) Yağ hücreleri içermeyen bir lezyonun tanısı paratiroid adenomudur 4) Kapsül invazyonu varsa tanı paratiroid karsinomudur 5) Damar invazyonu varsa tani paratiroid karsinomudur",
+    "secenekler": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 92,
+    "soru_koku": "Aşağıdakilerden hangisi kemik yapım belirtecidir?",
+    "secenekler": {
+      "A": "TRAP",
+      "B": "CTX",
+      "C": "DPD",
+      "D": "PICP",
+      "E": "NTX"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 93,
+    "soru_koku": "Tip 2 Diyabetes Mellitus için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Asemptomatik dönemde de vasküler komplikasyonlar gelişebilir",
+      "B": "Doğum kilosunun etiyopatogenez de etkisi yoktur",
+      "C": "Çok az hastada başlangıçta hiperosmolar koma olur",
+      "D": "Polikistik over sendromu ile birlikteliği sıktır",
+      "E": "Hastaların akrabalarında diyabet vardır"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 94,
+    "soru_koku": "Ağız çevresinde vezikul olarak başlayıp püstülleşen bir lezyonu olan çocukta, lezyon içeriğinin mikroskobik incelemesinde gram pozitif koklar, kültürde katalaz negatif, basitrasine duyarlı beta hemolitik koloniler izleniyor. Olası etken aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Streptococcus pyogenes",
+      "B": "Streptococcus agalactia",
+      "C": "Staphylococcus aureus",
+      "D": "Staphylococcus epidermidis",
+      "E": "Streptococcus pneumoniae"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 95,
+    "soru_koku": "57 yaşında, alkolizm öyküsü olan obez tip 2 diabetik bir hasta, aşağıdakilerden hangisinin riskindeki artış nedeniyle metformin almamalıdır?",
+    "secenekler": {
+      "A": "Laktik asidoz",
+      "B": "Aşıri kilo alımı",
+      "C": "Disülfiram-benzeri reaksiyon",
+      "D": "Hipoglisemi",
+      "E": "Ciddi hepatatoksisite"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 96,
+    "soru_koku": "Aşağıdakilerden hangisi yenidoğanda glukoz kullanımında azalma veya artma gösteren geçici hipoglisemi nedenlerinden değildir?",
+    "secenekler": {
+      "A": "Fetal distres",
+      "B": "Sepsis",
+      "C": "Büyüme hormonu eksikliği",
+      "D": "Kan değişimi",
+      "E": "Eritroblastozis fetalis"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 97,
+    "soru_koku": "Çocuklarda hipertiroidi kliniği için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Defekasyon sayısı artar",
+      "B": "Sıcak intoleransı vardır",
+      "C": "Ellerde ince tremor vardır",
+      "D": "Nabız basıncı daralmıştır",
+      "E": "Oftalmopati ciddi değildir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 98,
+    "soru_koku": "Ergosterol sentezini 14'a-demetilaz enzim basamağında inhibe eden ve fungistatik etki gösteren antifungal ilaç hangisidir?",
+    "secenekler": {
+      "A": "Nistatin",
+      "B": "Amfoterisin B",
+      "C": "Flukonazol",
+      "D": "Kaspofungin",
+      "E": "Terbinafin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 99,
+    "soru_koku": "Aşağıdaki antidiyabetik ilaçlardan hangisi, polikistik over sendromu ve insulin direnci olan anovulatuvar kadınlarda fertilitenin sağlanması için de kullanılmaktadır?",
+    "secenekler": {
+      "A": "Kanagliflozin",
+      "B": "Roziglitazon",
+      "C": "Gliburid",
+      "D": "Metformin",
+      "E": "Ekzenatid"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 100,
+    "soru_koku": "İdrar kortizol düzeyi ölçümüne ilişkin aşağıdaki ifadelerden hangisi doğrudur? I. Cushing sendromu tanısında kullanılır. II. 24 saatlik idrar örneği kullanılır. III. İdrarda serbest kortizol analiz edillir.",
+    "secenekler": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "I, II ve III"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 1,
+    "soru_koku": "Kateşolaminlerin yıkılmasında hangi enzim görev alır?",
+    "secenekler": {
+      "A": "Monoaminooksidaz",
+      "B": "21 hidroksilaz",
+      "C": "Tirozin hidroksilaz",
+      "D": "Feniletanolamin N metil transferaz",
+      "E": "17 alfa hidroksilaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 2,
+    "soru_koku": "50 yaşında ev hanımı soğuğa karşı intolerans, kilo alma, cilt kuruluğu ve halsizlik şikayetleri ile başvuruyor. Aşağıdaki testlerden hangilerini istersiniz? I.TSH II.Free T3 III. Free T4 IV. Tiroglobulin",
+    "secenekler": {
+      "A": "II, IV",
+      "B": "II",
+      "C": "III",
+      "D": "I,II,III",
+      "E": "IV"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 3,
+    "soru_koku": "Diyabetes mellitus düşünülen bir olguda tanı koymak amacıyla hangi test istenir?",
+    "secenekler": {
+      "A": "İdrarda glikoz",
+      "B": "Parmak ucu kanında glikoz analizi",
+      "C": "Oral glikoz tolerans testi",
+      "D": "İdrarda albumin",
+      "E": "Fruktozamin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 4,
+    "soru_koku": "Primer hipotiroidide T5H ve serbest T4 değerleri için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Serbest T4-normal, TSH -artmış",
+      "B": "Serbest T4-düşük, TSH -artmış",
+      "C": "Serbest T4-artmış, TSH -artmış",
+      "D": "Serbest T4-normal, TSH düşük",
+      "E": "serbest T4-düşük, TSH - düşük"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 5,
+    "soru_koku": "Hangisi kemik yapım belirteçlerinden değildir?",
+    "secenekler": {
+      "A": "Kemiğe spesifik alkalen fosfataz",
+      "B": "Osteokalsin",
+      "C": "Prokollajen 1 karboksi peptid",
+      "D": "DPD",
+      "E": "Prokollaien 1aminopeptid"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 6,
+    "soru_koku": "Oral glikoz tolerans testi uygulanan bir hastada açlık glikoz değerleri yüksek 2.saat glikoz değeri normal bulunursa hangisi doğrudur?",
+    "secenekler": {
+      "A": "Bozulmuş açlık glikozu",
+      "B": "Bozulmuş glikoz toleransı",
+      "C": "Diyabetes Mellitus",
+      "D": "Gestasyonel diyabet",
+      "E": "Böbrek yetmezliği"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 7,
+    "soru_koku": "Erişkinlerde ağız yoluyla 75 gr. glukoz solüsyonu içirilmesinden önce (bazal, açlık) ve 2 saat sonra alınan kan örneklerinde glikoz düzeylerinin ölçülerek uygulanan testin adı nedir?",
+    "secenekler": {
+      "A": "Oral glikoz tolerans testi",
+      "B": "Glomerüler fitrasyon testi",
+      "C": "Hemoglobin Alc testi",
+      "D": "Fruktozamin testi",
+      "E": "HOMA indeksi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 8,
+    "soru_koku": "35 yaşında kadın hasta, son 6 ayda hızla kilo verme, kalp çarpıntısı, sıcak basması, kan basıncında artış ve ellerde titreme şikayetleri ile başvuruyor. Aşağıdaki testlerden hangisinin düşük çıkması kliniği ile uyumlu olacaktır?",
+    "secenekler": {
+      "A": "TSH",
+      "B": "Free T3",
+      "C": "Free T4",
+      "D": "Ferritin",
+      "E": "Transferrin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 9,
+    "soru_koku": "Geleneksel ve Tamamlayıcı tıp yöntemlerinden hangisinin, Tıp ve Diş Hekimlerince uygulanmasına dair yönetmeliği olan ve sağlık bakanlığınca izin verilen hangisidir?",
+    "secenekler": {
+      "A": "Homeopati",
+      "B": "Akupunktur",
+      "C": "Fitoterapi",
+      "D": "Kariopraksis",
+      "E": "Hiçbiri"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 10,
+    "soru_koku": "Boyunda şişlik nedeniyle başvuran 56 yaşındaki kadın hastanın muayenesinde sağ tiroid lobunda 2 cm'lik nodül palpe ediliyor, Laboratuvar sonuçlarında hipokrom mikrositer anemi, serbest T3: 3.6 pg/mL (ND:2.8-4.7), serbest T4: 0.83 ng/dL (ND: 0.61-1.3), TSH : 0.1 uU/mL (ND: 0,38-5.33), böbrek ve karaciğer testleri normal değerlerde saptanıyor. Hastanın olası tanısı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Otiroid hasta sendromu",
+      "B": "Multinodüler guatr",
+      "C": "Graves-Basedow hastalığı",
+      "D": "Subklinik hipotiroidi",
+      "E": "Subklinik hipertiroidi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 11,
+    "soru_koku": "Meme kitlelerinin patolojik tanısı için hangisi ilk sırada kullanılmalıdır?",
+    "secenekler": {
+      "A": "İnce iğne aspirasyon biyopsisi",
+      "B": "Kalın iğne biyopsisi",
+      "C": "İnsizyonel biyopsi",
+      "D": "Eksizyooel biyopsi",
+      "E": "Wedge biyopsi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 12,
+    "soru_koku": "Non-steroid antinflamatuar İlaç kullanımı sonrasında gövde ve ekstremitelerin proksimallerinde şiddetli kaşıntılı, eritemli ödemli papül ve plaklar ile başvuran bir hastada aşağıdaki hastalıklardan hangisi ayrrıa tanıda öncelikle akla gelmelidir?",
+    "secenekler": {
+      "A": "Psoriasis vulgaris",
+      "B": "Liken planus",
+      "C": "Ürtiker",
+      "D": "Yüzeyel mantar enfeksiyonu",
+      "E": "Suçiçeği"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdakilerden hangisi GnRh analoglarının tedavide kullanılma endikasyonlarından biri değildir?",
+    "secenekler": {
+      "A": "Prostat kanseri",
+      "B": "Erken puberte tedavisi",
+      "C": "Ovulasyon indüksiyonu",
+      "D": "Üst GİS kanamalarının durdurulması",
+      "E": "Endometriozis tedavisi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 14,
+    "soru_koku": "53 yaşında tip 2 diabetik kadın kullandığı ilaçlara bağlı olduğu düşünülen akut pankreatît atağı gelişiyor. Bu yan etkiden sorumlu ilaç büyük olasılıkla hangisidir?",
+    "secenekler": {
+      "A": "Kanagliflozin",
+      "B": "Ekzenatid",
+      "C": "Pramlintid",
+      "D": "Sitagliptin",
+      "E": "Roziglltazon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 15,
+    "soru_koku": "Aşağıdakilerden hangisi insülinin önemli bir etkisidir?",
+    "secenekler": {
+      "A": "Hücrelere glukoz transportunda artış",
+      "B": "Aminoasitlerin glukoza dönüşümünde artış",
+      "C": "Glukoneogenezde artış",
+      "D": "Lipoprotein lipazın inhibisyonu",
+      "E": "Glikojenolizin uyarılması"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 16,
+    "soru_koku": "32 yaşındaki tip 1 diabetik kadın hasta,uzun dönem prognozunu iyileştirmek için, diabetinin sıkı kontrol edilmesini istemektedir. Rejimlerden hangisi en uygundur?",
+    "secenekler": {
+      "A": "İnsülin lispro, insülin aspart karışımının sabah injeksiyonu",
+      "B": "Regüler insülin ve insülin glarjin karışımının akşam injeksiyonları",
+      "C": "İnsülin glarjinin sabah enjeksiyonları ve yemek zamanları insulin lispronun küçük miktarlarda enjeksiyonları ile desteklenmesi",
+      "D": "Regüler İnsüllnin sabah-akşam injeksiyonları ve yemek zamanlan küçük miktarlarda NPH insülin İle desteklenmesi",
+      "E": "NPH insülinin sabah ve regüler insülini akşam injeksiyonu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 17,
+    "soru_koku": "Akromegali tedavisinde kullanılan büyüme hormonu antagonisti aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Löprolid",
+      "B": "Ganireliks",
+      "C": "Pegvisomant",
+      "D": "Buserelln",
+      "E": "Bromokriptin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 18,
+    "soru_koku": "IGF-1 eksikliği olan büyüme geriliği olan çocuklarda aşağıdakilerden hangisi kullanılır?",
+    "secenekler": {
+      "A": "Mecasermin",
+      "B": "Octreotid",
+      "C": "Somatropin",
+      "D": "Dopamin",
+      "E": "Menotropin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 19,
+    "soru_koku": "Miksödem koması tanısı alan bir hastada tedavi seçeneğiniz aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Metamizol",
+      "B": "Levotiroksin",
+      "C": "İyodürler",
+      "D": "Liyotironin",
+      "E": "Radyoaktif iyot"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 20,
+    "soru_koku": ", Faktör Vlll düzeyini artırdığı için hemofili ve Von Willebrand hastalığı tedavisinde kullanılan ilaç hangisidir?",
+    "secenekler": {
+      "A": "Atosiban",
+      "B": "Desmopressin",
+      "C": "Demeklosiklin",
+      "D": "Tiyazid diüretikler",
+      "E": "Terlipressin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 21,
+    "soru_koku": "Hangisi endojen Insülinin salıverilmesini arttırır?",
+    "secenekler": {
+      "A": "Akarboz",
+      "B": "Pioglitazon",
+      "C": "Metformin",
+      "D": "Miglitol",
+      "E": "Sitagliptin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 22,
+    "soru_koku": "Antitiroid ilaç olarak kullanılan iyot tuzlarını kullanan hastada görülmesi beklenmeyen yan etki hangisidir?",
+    "secenekler": {
+      "A": "İlaç ateşi",
+      "B": "Deri döküntüsü",
+      "C": "Kanama bozukluğu",
+      "D": "Hipertansiyon",
+      "E": "Metalik tat"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 23,
+    "soru_koku": "Uzun süre glukokortikoid kullanan birinde ne görülmez?",
+    "secenekler": {
+      "A": "Hipertansiyon",
+      "B": "Çocuklarda Büyüme geriliği",
+      "C": "Çizgili kas kitlesinde artış",
+      "D": "Vücutta yağlanma",
+      "E": "Eozinopeni"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 24,
+    "soru_koku": "Aşağıdakilerden hangisi tedavide vazopressinin kullanıldığı bir durum değildir?",
+    "secenekler": {
+      "A": "Sirozda özofagus varis kanaması",
+      "B": "Nefrojenik diyabetes insipitus",
+      "C": "Hemofili A",
+      "D": "Beyin ameliyatında lokal vazokonstriksîyon",
+      "E": "Von willebrand hastalığı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisi glukokortikoid ve progesteron reseptörlerinin kompetetif inhibitörü olup Cushing sendromu tedavisinde kullanılır?",
+    "secenekler": {
+      "A": "Aminoglutetimid",
+      "B": "Metirapon",
+      "C": "Mifepriston",
+      "D": "Ketakonazol",
+      "E": "Budesonid"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 26,
+    "soru_koku": "Ergosterol sentezini 14a-demetilaz enzim basamağında inhibe eden ve fungistatik etki gösteren antifungal ilaç?",
+    "secenekler": {
+      "A": "Nistatin",
+      "B": "Amfoterisin B",
+      "C": "Flukonazol",
+      "D": "Kaspofungin",
+      "E": "Terbinafin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 27,
+    "soru_koku": ", Aşağıdaki ilaçlardan hangisi disülfıram benzeri reaksiyon yapan antifungal bir ilaçtır?",
+    "secenekler": {
+      "A": "Flusitozin",
+      "B": "Griseofulvin",
+      "C": "Ketokonazol",
+      "D": "Naftifin",
+      "E": "Kaspofungin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 28,
+    "soru_koku": "Pedikülozise karşı kullanılan ilaçlardan malation için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Sistemik olarak kullanılmaz (toksisitesi yüksektir).",
+      "B": "Baş,pubis bitinde kullanılır;pudra,şampuan şekli de vardır",
+      "C": "Ovisidal etkisi de bulunur",
+      "D": "Böceklerde kolinesterazı reversibl inhibe eder",
+      "E": "Uyuz tedavisinde de kullanılır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 29,
+    "soru_koku": "Kalsiyum metabolizmasını etkileyen bifosfonat grubu ilaçlar için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kemik dokusunda hidroksiapatite bağlanırlar.",
+      "B": "Osteoklastların metabolik etkilerini inhibe ederler.",
+      "C": "Kemikte uzun yıllar kalırlar.",
+      "D": "Antirezorptlf etki güçleri kalsitoninden zayıftır",
+      "E": "Oral yoldan emilimlerî oldukça iyidir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 30,
+    "soru_koku": "Teriparatid için aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Parathormonun rekombinant formudur.",
+      "B": "Tedavi süresi ömür boyudur.",
+      "C": "Osteoporozda s.c. yoldan uygulanır,",
+      "D": "Yeni kemik oluşumunu stimüle eder (Anabolizan).",
+      "E": "Hayvan çalışmalarında osteosarkoma neden olabileceği bildirilmiştir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 31,
+    "soru_koku": "Mamografik BIRADS sınıflamasında kategori 2'e uyan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Yetersiz mamogram-ek inceleme önerilir",
+      "B": "Normal mamogram- tarama önerilir",
+      "C": "Benign bulgular -tarama önerilir",
+      "D": "Olası benign bulgular; kısa süreli takip önerilir",
+      "E": "Kuşkulu bulgular; biyopsi önerilir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 32,
+    "soru_koku": "Osteoporoz tanısında en güvenilir ve en çok tercih edilen yöntem hangisidir?",
+    "secenekler": {
+      "A": "Kantitatif USG",
+      "B": "Konvansiyonel Radyografi",
+      "C": "Kantitatif BT",
+      "D": "Kemik sintigrafisi",
+      "E": "DEXA (dual energy X-ray absorptiometry)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 33,
+    "soru_koku": "Serum Ca ve PTH düzeyleri yüksek P düzeyi düşük olan hastada hangisi öncelikle düşünülmelidir?",
+    "secenekler": {
+      "A": "Hipoparatiroidi",
+      "B": "Osteomalazi",
+      "C": "Paget hastalığı",
+      "D": "Osteoporoz",
+      "E": "Primer hiperparatiroidi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 34,
+    "soru_koku": "Tiroid cerrahisi sonrası Hipoparatiroidi gelişen hastada aşağıdakilerden hangisi görülmez?",
+    "secenekler": {
+      "A": "Hipokalsemi",
+      "B": "Hiperfosfatemi",
+      "C": "Chvostek bulgusu",
+      "D": "Artmış PTH düzeyi",
+      "E": "Trousseau bulgusu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 35,
+    "soru_koku": "Yetmiş yaşında kemik ağrıları olan kan kalsiyum ve fosfor değerleri normal, alkalen fosfatazı yüksek olan kemik sintigrafisinde kafa kemiklerinde aktivitede artış saptanan hastada hangisi öncelikle düşünülmelidir?",
+    "secenekler": {
+      "A": "Osteoporoz",
+      "B": "Osteomalazi",
+      "C": "Multiple myelom",
+      "D": "Paget hastalığı",
+      "E": "Primer hiperparatiroidi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 36,
+    "soru_koku": "Altmış yaşında kadın hasta 2 aydır ağız kuruluğu,poliüri, polidipsl şikayetleri ise dahiliye polikliniğine başvuruyor. Boyu:157 cm, Kilo:96 kg tansiyon arteriyel :150/90 mmHg olarak ölçülüyor. Hastanın Açlık kan şekeri:168 mg/dl tokluk kan şekeri:220 ng/dl saptanıyor.Bu hastada aşağıdaki tetkiklerin hangisinin yapılmasına gerek yoktur?",
+    "secenekler": {
+      "A": "HbA1c",
+      "B": "Böbrek fonksiyon testleri",
+      "C": "75 gramlık OGT T",
+      "D": "Lipid paneli",
+      "E": "EKG"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 37,
+    "soru_koku": "Ailesinde diyabet öyküsü olan 28 yaşında kadın hastanın hastanın vücut kitle indeksi 28 kg/ml İki kez bakılan açlık plazma glikozu 119-123 mg/ dl olarak ölçülmüş . 75 grlık OGTT de 2. Saat glikoz değeri:138 mg/dL bulunuyor. Bu hastanın metabolik durumuna hangisi uymaktadır?",
+    "secenekler": {
+      "A": "Bozulmuş açlık glikozu",
+      "B": "Diyabetes Mellitus",
+      "C": "Normal glikoz tolerans testi",
+      "D": "Bozulmuş glikoz toleransı",
+      "E": "Gestasyonel diyabet"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 38,
+    "soru_koku": "Hangisi NCEP-ATP III'e göre metabolik sendrom tanısı koyabilmek için kullanılan parametrelerden biri değildir?",
+    "secenekler": {
+      "A": "bel çevresi ölçümü",
+      "B": "trigliserid ölçümü",
+      "C": "vücut kitle İndeksi",
+      "D": "tansiyon arteriyel ölçümü",
+      "E": "açlık kan şekeri ölçümü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 39,
+    "soru_koku": "Deri kanserleri ile ilgili hangisi doğrudur?",
+    "secenekler": {
+      "A": "En sık olarak skuamöz hücreli karsinom görülür.",
+      "B": "Bazal hücreli kanser kıl foliküllerinin dış kılıf hücrelerinden kaynaklanabilir.",
+      "C": "Skuamöz hücreli kanser hemen hemen hiç lenf düğümlerine metastaz yapmaz.",
+      "D": "Skuamöz hücreli kanser ve lokalize mallgn melanomanın prognozunda en önemli değişken tümörün çapıdır.",
+      "E": "Bazal hücreli karsinom tanısı konduğunda sentinel lenf biyopsisi yapılmalıdır."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdaki görüntüleme metodlarından hangisi Tiroid bezi patolojilerinde biopsi rehberliği için kullanılır?",
+    "secenekler": {
+      "A": "BT",
+      "B": "USG",
+      "C": "Direk Grafi",
+      "D": "MRG",
+      "E": "Anjiografi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 41,
+    "soru_koku": "45 yaşında el ve ayaklarda kalınlaşma yakınması olan kadın hastada deri hastalıklarından hangisi akla gelmelidir?",
+    "secenekler": {
+      "A": "Asteatotık ekzema",
+      "B": "Atopik ekzema",
+      "C": "Dizhidrotik ekzema",
+      "D": "Numuler ekzema",
+      "E": "Hiperkeratozik ekzema"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 42,
+    "soru_koku": "Psoriasis vulgaris sistemik tedavisinde aşağıdaki(erden hangisi tercih edilmez?",
+    "secenekler": {
+      "A": "Metotreksat",
+      "B": "Siklosporin",
+      "C": "PUVA",
+      "D": "Steroid",
+      "E": "Retinoik asit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 43,
+    "soru_koku": "Aşağıdakilerden hangisi Tiroid Sintigrafisi genel endikasyonlarından biri değildir?",
+    "secenekler": {
+      "A": "Nodüler veya diffüz guatr ayırıcı tanısı",
+      "B": "Boyun ve üst mediasten kitlelerinin İncelenmesi",
+      "C": "Ektopik tiroid dokusu araştırması",
+      "D": "Cerrahi sonrası bakiye doku değerlendirilmesi",
+      "E": "Tiroid kanseri tanısı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 44,
+    "soru_koku": "Hangisi Cushing sendromunda bulunan bulgu değildir?",
+    "secenekler": {
+      "A": "Trunkal obezite",
+      "B": "Hirşutizm",
+      "C": "Vitiligo",
+      "D": "Yara iyileşmesinde gecikme",
+      "E": "Akne"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 45,
+    "soru_koku": "Kırk iki yaşında erkek hasta baş ağrısı, halsizlik, noktüri, polidipsi ile başvuruyor. Hastanın tansiyonu 175/100 mmHg, Na: 150 mEq/L, K:2.2 mEq/L,postprandlal 2. saat kan şekeri 139 mm/dl bulunuyor. Bu hastada en olası tanı için hangisinin öncelikle yapılması yararlıdır?",
+    "secenekler": {
+      "A": "75 gram glukozlu OGTT",
+      "B": "24 saatlik idrarda serbest kortizol düzeyi ölçümü",
+      "C": "FSH -LH -testosteron düzeyi ölçümü",
+      "D": "Plazma aldosteron düzeyl/plazma renin aktivitesi ölçümü",
+      "E": "24 saatlik idrarda VMA ölçümü"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 46,
+    "soru_koku": ", Addison hastalığında bulgulardan hangisi gözlenmez?",
+    "secenekler": {
+      "A": "Hipoglisemi",
+      "B": "Hiperpotasemi",
+      "C": "Hiponatremi",
+      "D": "Eozinofili",
+      "E": "Lenfopeni"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 47,
+    "soru_koku": "Subakut tiroiditî, tirotoksikoza neden olabilen diğer sebeplerden ayıran en belirgin tiroid fizik muayene bulgusu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Guatr",
+      "B": "Ağrı",
+      "C": "Üfürüm",
+      "D": "Nodul",
+      "E": "Sıcaklık"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 48,
+    "soru_koku": "Otuz beş yaşında kadın hasta sinirlilik, kilo kaybı ve çarpıntı yakınmaları ile başvuruyor. Ölçülen TSH düzeyi 0,01 uU/mL (ND: 0.38-5.33 uU/mL) olması nedeniyle Tc-99m perteknetat tiroid sıntigrafisi ve radyoaktif iyot (1-131) tiroid tutulum testi yapılıyor. Sonuçlan verilen sintigrafîk bulguların hangisi, hastada Graves-Basedow hastalığı tanısını düşündürür? (Sonuçlar Tc-99m -T 131 verilmiştir)",
+    "secenekler": {
+      "A": "Hiperaktif - Artmış tutulum",
+      "B": "Hiperaktif - Azalmış tutulum",
+      "C": "Suprese - Artmış tutulum",
+      "D": "Suprese - Azalmış tutulum",
+      "E": "Hiperaktif - Normal tutulum"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 49,
+    "soru_koku": "Cushing sendromuna neden olan ektopik ACTH salgılayan tümör Ele hipofizer ACTH salgılayan adenomun ayırıcı tanısında yöntemlerden hangisi en duyarlıdır?",
+    "secenekler": {
+      "A": "Bazal ACTH düzeyi ölçümü",
+      "B": "Düşük doz doksametazon supresyon testi",
+      "C": "Hipofiz MRG",
+      "D": "CRH stimülasyon testi",
+      "E": "İnferior petrozal vonoz örnekleme"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 50,
+    "soru_koku": "Poliüri ve polidipsi nedeni ile başvuran 32 yaşındaki hastada plazma osmolaritesi 308 mosm/L,İdrar osmolaritesi 95 mosm/L olarak tespit ediliyor.Su kısıtlama ve desmopressin testlerine cevap alınamıyor. Bu hastada en olası tanı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Psikojenik polidipsi",
+      "B": "Uygunsuz ADH sekresyonu sendromu",
+      "C": "Nefrojenik diabetes Insipidus",
+      "D": "Serebral tuz kaybı sendromu",
+      "E": "Santral diabetes insipidus"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 51,
+    "soru_koku": "Yöntemlerden hangisi ele gelmeyen meme lezyonlarının ameliyat öncesinde işaretlenmesi için kullanılmaz?",
+    "secenekler": {
+      "A": "ROLL (Radyoaktif madde ile)",
+      "B": "İğne tel sistemi",
+      "C": "Kesici iğne (tru-cut) biyopsi",
+      "D": "Cilt izdüşümü",
+      "E": "İntraoperatif ultrasonografi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 52,
+    "soru_koku": "Endemik guatr sınıflamasında Grade 1 b için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Uzaktan görülebilir",
+      "B": "Nodülü olan tüm hastalan İçerir",
+      "C": "Baş normal pozisyonda iken kolayca görülebilir",
+      "D": "Baş kaldırılmış pozisyonda iken görülmez",
+      "E": "Tiroid bezi palpabl değildir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 53,
+    "soru_koku": "Hangisi hipertiroidi olan çocuklarda görülmez?",
+    "secenekler": {
+      "A": "İleri kemik yaşı",
+      "B": "Gecikmiş ergenlik",
+      "C": "Büyüme hızlanması",
+      "D": "Soğuk intoleransı",
+      "E": "Kilo kaybı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 54,
+    "soru_koku": "NeonataI diyabet için hangisi doğrudur?",
+    "secenekler": {
+      "A": "Yenidoğanda diyabet gelişimi tüm hastalar için kötü prognoz kriteridir",
+      "B": "Akantozîs nigrikans neonatal diyabetin kesin belirtilerinden biridir",
+      "C": "Geçici neonatal diy. pubertede kalıcı diyabete dönüşebilir",
+      "D": "Neonatal diyabet tüm hastalarda kalıcı olmaktadır",
+      "E": "Tüm tipleri Sensörinöral işitme kaybı ile birliktedir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 55,
+    "soru_koku": "Hangisi Tip 1 DM özelliklerinden değildir?",
+    "secenekler": {
+      "A": "Hiperglisemili hiperosmolar koma sıktır",
+      "B": "Obezîte nadirdir",
+      "C": "Akantozîs yoktur",
+      "D": "Asidozis sıktır",
+      "E": "C-peptid düzeyi düşüktür"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 56,
+    "soru_koku": "İnsülin karşıtı hormon eksikliğine bağlı hipoglisemi için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Yemekten sonra gelişen hipoglisemi vardır",
+      "B": "Asfiktik doğuma bağlı hipogliseminin nedenidir",
+      "C": "Üst solunum yolu enfeksiyonundan sonra sık görülür",
+      "D": "Hiperamnionemi ile birlikte olabilir",
+      "E": "Bu çocuklarda uzamış sarılık görülebilir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 57,
+    "soru_koku": "Hangisi yenidoğan ve süt çocukluğunda üretim azlığına bağlı kalıcı hipoglisemi nedenlerinden değildir?",
+    "secenekler": {
+      "A": "Büyüme hormonu eksikliği",
+      "B": "Adrenal yetmezlik",
+      "C": "Çoklu hipofiz hormon eksikliği",
+      "D": "Ketotik hipoglisemi",
+      "E": "Hipotiroidi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 58,
+    "soru_koku": "Büyümenin değerlendirilmesi için hangisi doğrudur?",
+    "secenekler": {
+      "A": "Boy standart sapma skoru büyüme geriliğinin en önemli göstergesidir",
+      "B": "Hedef boy bir çocuğun mutlak olacağı erişkin boyunu gösterir",
+      "C": "Anlık belirlenen yaşa ve cinse göre boy persantilleri çocuğun nasıl büyüdüğü ile İlgili yol göstericidir",
+      "D": "Tahmini erişkin boy kemik yaşına göre hesaplanır",
+      "E": "Büyüme standartları her ülke için aynıdır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 59,
+    "soru_koku": ", Prematür telarş için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Överlerde folliküller gelişmemiştir",
+      "B": "Kemik yaşı kronolojik yaştan geridir",
+      "C": "İlk 2 yaşta sıktır",
+      "D": "Prematür telarşlı kızlarda erken puberte gelişmez",
+      "E": "Kıllanma ile birliktedir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 60,
+    "soru_koku": "D vitamini eksikliğine bağlı Rikets varlığında, hangisi Evre-III Rikets laboratuar bulgusu değildir?",
+    "secenekler": {
+      "A": "Alkalen fosfataz yüksekliği",
+      "B": "Normal serum fosfor düzeyi",
+      "C": "Yüksek parathormon düzeyi",
+      "D": "Yüksek 1,25(OH )D düzeyi",
+      "E": "Düşük kalsiyum düzeyi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 61,
+    "soru_koku": "Gecikmiş puberte için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Erkeklerde 14 yaş olmasına rağmen testis volümlerinin 4 ml'in altında olması",
+      "B": "Kızlarda meme gelişimi başlamasından 5 yıl geçmesine rağmen menarş olmaması",
+      "C": "Kronik hastalıklar santral gecikmiş puberte nedenlerinden biridir",
+      "D": "Bazal LH düzeylerinin 0.5, FSH düzeylerinin 0,9 olması geçici hîpogonadotropîzmi gösterir",
+      "E": "Testis volümlerinin gelişmeye başlamasına karşın yaşa uygun boyutta olmaması durumun geçici olduğunu gösterir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 62,
+    "soru_koku": "Hangisi pankreas nöroendokrin tümör özelliği değildir?",
+    "secenekler": {
+      "A": "1 cm den küçük olmaları",
+      "B": "BT de sadece arteriyel fazda saptanabilmeleri",
+      "C": "Ultrasonografide kolay saptanmaları",
+      "D": "Çoğunun hiperfonksiyone olmaları",
+      "E": "Solid olmaları"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 63,
+    "soru_koku": "Adrenal adenomalar için hangisi yanlıştır",
+    "secenekler": {
+      "A": "Çoğu insidental saptanır",
+      "B": "BT de 10 HU dansite altındadırlar",
+      "C": "MR da outfaz imajlarda belirgin sinyal kaybederler",
+      "D": "Çoğu benign ve kistiktir",
+      "E": "Tipik olarak intrasellüler yağ içerirler"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 64,
+    "soru_koku": "\"Spiküler çıkıntı'' ne demektir?",
+    "secenekler": {
+      "A": "Tümörün doku içine ışınsal tarzda ilerlemesidir.",
+      "B": "Tümörün nodul tarzda yeni kitle doğurmasıdır",
+      "C": "Lenfositlerin tümör hücresine doğru uzattığı bacaklardır",
+      "D": "Meme kanseri hücrelerinde görülen özel organellerdir",
+      "E": "Kemoterapi sonrasında tümör hücresinin görüntüsüdür."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 65,
+    "soru_koku": ", Büllöz pemfigoid ile İlgili olarak hangisi doğrudur?",
+    "secenekler": {
+      "A": "Mukoza tutuluşu yoktur",
+      "B": "Deride gergin büller görülür",
+      "C": "Büller intraepidermaldir",
+      "D": "Nikolski fenomeni pozitiftir",
+      "E": "Sitolojide akantolitik hücreler görülür"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 66,
+    "soru_koku": "Adrenal feokromasitomalar için hangisi",
+    "secenekler": {
+      "A": "%10 kuralı geçerlidir",
+      "B": "Görüntülemenin bukelamunu olarak adlandırılırlar",
+      "C": "Biyopsi İle tanı konulur",
+      "D": "MIBG sintigrafisi tanıda yararlıdır",
+      "E": "Heterojen iç yapıda olurlar"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 67,
+    "soru_koku": "Aşağıdakilerden hangisi skabiyez için doğrudur?",
+    "secenekler": {
+      "A": "Etkeni pedikülustur",
+      "B": "Erkekler hastalık yapar",
+      "C": "Çoğalması için 20 gün gereklidir",
+      "D": "Stratum korneumda tüneller açar",
+      "E": "Oda ısısında yatakta 3 hafta yaşar"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 68,
+    "soru_koku": "Hangisi derinin viral hastalıklarından birisi değildir?",
+    "secenekler": {
+      "A": "Herpes simpleks",
+      "B": "Herpes zoster",
+      "C": "Molluskum pendulum",
+      "D": "Ektima kontagiozum",
+      "E": "Molluskum kontagiozum"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 69,
+    "soru_koku": "Aşağıdakilerden hangisi skabiyez için doğrudur?",
+    "secenekler": {
+      "A": "Etkeni pedikulustur",
+      "B": "Erkekler hastalık yapar",
+      "C": "Çoğalması için 20 gün gerekir",
+      "D": "Oda ısısında yatakla 3 hafta yaşar",
+      "E": "Stratum komeumda tüneller açar"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 70,
+    "soru_koku": "Hangisi pedikülozis pubis için yanlıştır?",
+    "secenekler": {
+      "A": "Etkeni pitirus pubisdir",
+      "B": "Etken kirpiklere de yerleşir",
+      "C": "%95 oranında cinsel ilişki ile geçer",
+      "D": "Vücut dışında 10 günde ölür",
+      "E": "Bulaş giysi,yatak takımı,havluyla olur"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 71,
+    "soru_koku": "Haşlanmış deri sendromundan sorumlu toksin hangisi?",
+    "secenekler": {
+      "A": "Eksfoliyatin",
+      "B": "Pirojenik ekzotoksin A",
+      "C": "Pirojenik ekzotoksin A,B,C",
+      "D": "M1, M3 protein",
+      "E": "DNAaz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 72,
+    "soru_koku": "Impetlgonun mikrobiyolojik tanısında aşağıdaki yöntemlerden hangisi kullanılır?",
+    "secenekler": {
+      "A": "Kültür",
+      "B": "PCR",
+      "C": "ELISA",
+      "D": "DFA",
+      "E": "IFAT"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 73,
+    "soru_koku": "Döküntülü enfeksiyon hastalıklarından hangisinde derideki lezyonlarda etken mikroorganizma bulunmaz?",
+    "secenekler": {
+      "A": "Tifo",
+      "B": "Suçiçeği",
+      "C": "Siğil",
+      "D": "Zona zoster",
+      "E": "Kızamık"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 74,
+    "soru_koku": "El ayak ağız hastalığının etkeni hangisidir?",
+    "secenekler": {
+      "A": "Pox virüs",
+      "B": "HSV",
+      "C": "Coxsackie virüs",
+      "D": "Parvo virüs",
+      "E": "Echo virus"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 75,
+    "soru_koku": "Yapılan tiroid ultrasonografisinde sol lobda 1.5 cm çaplı nodül saptanan 42 yaşındaki erkek hastanın tiroid aspirasyon sonucunun kuşkulu sitoloji olarak raporlanması üzerine olguya sol lobektomi yapılmıştır. Cerrahi materyalin kesitlerinde follikül yapıları oluşturmuş,buzlu cam nükleusa sahip, intranükleer inklüzyonlar ve psammom cisimleri içeren tümör görülmüştür.Bu hastada en olası tanınız nedir?",
+    "secenekler": {
+      "A": "Papiller tiroid karsinomu-Tall cell varyant",
+      "B": "Folliküler karsinom",
+      "C": "Papiller tiroid karsinomu-Folliküler varyant",
+      "D": "Folliküler adenom",
+      "E": "Papilter tiroid karsınomu-Mikrokarsinom"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 76,
+    "soru_koku": "30 yaşında erkek hastada sağ adrenalde izlenen 2 cm çaplı iyi sınırlı, kesit yüzü parlak sarı renkli kitlenin mikroskopisinde adrenal korteksin olağan hücreleriyle karakterize lezyon görülmüştür. Mitoz ve nekroz İzlenmeyen tümörde en olası tanınız hangisidir ?",
+    "secenekler": {
+      "A": "Adrenal kist",
+      "B": "Adrenal kortikal adenom",
+      "C": "Feokromositoma",
+      "D": "Adrenal kortikal karsinom",
+      "E": "Adrenal myelolipom"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 77,
+    "soru_koku": "Paratlroldektomi materyalinden elde edilen kesitlerde paratiroid adenotnu ve paratiroid hfperplazlsl ayırıcı tanısı yapabilmek İçin aşağıdaki seçeneklerden hangisi adenom tanısı lehine kullanılabilir?",
+    "secenekler": {
+      "A": "Adenomun kadınlarda daha fazla görülmesi",
+      "B": "Adenomun multipl bezde görülmesi",
+      "C": "Adenomun benign olması",
+      "D": "Adenomun yağ hücresi içermesi",
+      "E": "Adenomun kapsüllü olması"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 78,
+    "soru_koku": "Hipoparatiroidizmin en sık nedeni hangisidir?",
+    "secenekler": {
+      "A": "İatrojenik",
+      "B": "Paratiroid bezinin konjenital yokluğu",
+      "C": "Geçici neonatal hipoparatiroidi",
+      "D": "İdiopatlk hipoparatiroidi",
+      "E": "Familial İzole hipoparatiroidizm"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 79,
+    "soru_koku": "Hipoglisemi ve buna bağlı santral sinir sistemi belirtileri (konfüzyon, stupor, bilinç kaybı) ile karakterize pankreasın en sık görülen adacık hücreli tümörü hangisidir?",
+    "secenekler": {
+      "A": "Glukagonoma",
+      "B": "Gastrinoma",
+      "C": "Somatostatinoma",
+      "D": "İnsülinoma",
+      "E": "VlPoma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 80,
+    "soru_koku": "40 yaşında kadın hastaya ait tiroidektomi materyalinin kesit yüzünde izlenen 2.5 cm çaplı lezyonun mikroskobiside folliküler bir neoplazi görülmüştür. Verilen kriterlerden kaç tanesi bu hastadaki nodülde folliküler adenom ile folliküler karsinom ayrımım yapabilmek için tek başına yeterlidir? I-Nekroz varlığı II-Damar invazyonu olması III-Mitoz sayısının 10'dan fazla olması IV-Lezyonun Hurthle hücrelerinden oluşması V-Ki/67 proliferasyon indeksinin yüksek olması VI-Belirgin nükleer pleomorfizm içermesi VII-Kapsül invazyonu içermesi IX-Papiller nükleer özelliklere sahip olması X-Psammom cismi içermesi",
+    "secenekler": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 81,
+    "soru_koku": "Graves Hastalığı için tanımlamalardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "Genelde 20 40 yaşlarında ve erkeklerde görülür",
+      "B": "Klinik bulguları hipertiroidi, oftalmopati ve dermopatidir",
+      "C": "Tiroidektominin makroskobisinde dominant nodül izlenir",
+      "D": "Hastanın preoperatif tedavi alması morfolojiyi etkilemez",
+      "E": "Mikroskobik kesitlerde Hurthle hücresi görülmesi tipiktir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 82,
+    "soru_koku": "35 yaşında kadın hastada saptanan 3,2 cm çaplı tiroid nodülünün kesitleri iri-oval nükleuslu, nükleer membranları düzensiz, nükleer yarıklar ve inklüzyonlar içeren hücrelerle karakterizedir ve papiller yapılar İzlenmiştir. Bu yapılara skuamöz metaplazi alanları ve belirgin fibrozisin eşlik ettiği görülmüştür. Tanımlanan tümör papiller tiroid karsinomunun hangi varyantını tanımlamaktadır?",
+    "secenekler": {
+      "A": "Difüz sklerozan varyant",
+      "B": "Tall-cell varyant",
+      "C": "Folliküler varyant",
+      "D": "Klasik varyant",
+      "E": "Mikrokarsinom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 83,
+    "soru_koku": "Cushîng sendromunun endojen kaynaklı en sık nedeni?",
+    "secenekler": {
+      "A": "Akciğer küçük hücreli karsinomu",
+      "B": "Kortikotrop adenom",
+      "C": "Adrenal kortikal adenom",
+      "D": "İatrojenik alım",
+      "E": "Adrenal kortikal hiperplazi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 84,
+    "soru_koku": "GH ile diffüz stoplazmik boyanma ve CAM5.2 ile fibroz cisimcik boyanması yapan adenom hangisidir?",
+    "secenekler": {
+      "A": "Yoğun granüllü laktotrop adenoma",
+      "B": "Yoğun granüllü somatotrop adenom",
+      "C": "Seyrek granüllü laktotrop adenom",
+      "D": "Seyrek granüllü somatotrop adenom",
+      "E": "Kortikotrop adenom"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 85,
+    "soru_koku": "Hangisi sınır maligniteli meme tümörü kabul edilir?",
+    "secenekler": {
+      "A": "Fibroadenom",
+      "B": "İntraduktal papillom",
+      "C": "Duktal hiperplazi",
+      "D": "Fillodes tümörü",
+      "E": "Meme başı adenomu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 86,
+    "soru_koku": "Periareoler duktuslarda genişlemeyle kendini gösteren lezyon hangisidir?",
+    "secenekler": {
+      "A": "Duktal hiperplazi",
+      "B": "Meme duktus ektazisi",
+      "C": "Apokrin metaplazi",
+      "D": "Adenozis",
+      "E": "Papillom"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 87,
+    "soru_koku": "Memenin otoimmun etyolojili olduğu düşünülen lezyonu hangisidir ?",
+    "secenekler": {
+      "A": "Apokrin metaplazi",
+      "B": "Memenin yağ nekrozu",
+      "C": "Meme absesi",
+      "D": "Granülomatöz mastit",
+      "E": "Meme duktus ektazisi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 88,
+    "soru_koku": "Meme kanseriyle ilgili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Diferansiye tümörlerin prognozu daha İyidir",
+      "B": "Meme kanseri gebelikte hızlı büyür",
+      "C": "Prognozu belirleyen en önemli ölçüt evredir",
+      "D": "Paget hastalığında kemik metastazı sıktır.",
+      "E": "Invaziv duktal karsinom en sık görülen histolojik tiptir"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 89,
+    "soru_koku": "Sol meme üst-dış kadranda hareket ettirilebilen, sınırları keskin bir kitlesi bulunan 25 yaşındaki bir kadın hastaya eksizyonel biyopsi yapılıyor. Çapı 1,4 cm, iyi sınırlı hatta kapsüllü olan kauçuk sertliğindeki doku örneğinin kesit yüzünde yarıklanmalar izleniyor. Bu bulgular ışığında en olası tanı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Memenin müsinöz karsinomu",
+      "B": "Modüller karsinom",
+      "C": "İnvaziv duktal karsinom",
+      "D": "Lobüler karslnoma in situ",
+      "E": "Fibroadenom"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 90,
+    "soru_koku": "Otuzbeş yaşında sağ memede areola altında 4 mm çapında bir kitlesi olan hastaya eksizyonel biopsi yapılıyor. Patoloji raporunda duktus lümenine doğru gelişim gösteren bir epitelyal praliferasyondan söz ediliyor . Bu hastada aşağıdakilerden hangisi en olasıdır durumdur?",
+    "secenekler": {
+      "A": "İntraduktal papillom",
+      "B": "Atipik duktal hiperplazi",
+      "C": "Meme duktus ektazisi",
+      "D": "Tubuler karsinom",
+      "E": "Fillodes tümörü"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 91,
+    "soru_koku": "Meme karsinomlarının moleküler sınıflaması yapıldığında en sık görülen kombinasyon hangisidir?",
+    "secenekler": {
+      "A": "ER (+), PR (+), c-erb-B2 (+)",
+      "B": "ER (+), PR (+), c-erb-B2 (-}",
+      "C": "ER (-), PR (-),c-erb-B2 (-}",
+      "D": "ER (-), PR (-),c-erb-B2 (+)",
+      "E": "ER (+), PR (-}, c-erb-B2 (-)"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 92,
+    "soru_koku": "Ellerde kaşıntılı kırmızılıklar şikayetiyle başvuran hasta, öyküsünde bahçede çalışırken yeni bir eldiven giydiğini ve sonrasında eldivenin dokunduğu lokalizasyonda lezyonların geliştiğini söylüyor. Alınan biopslde hangi bulgu beklenir?",
+    "secenekler": {
+      "A": "Epidermiste spongioz",
+      "B": "Epidermiste intraepidermal akantoliz",
+      "C": "Epidermiste bazal tabaka destrüksiyonu",
+      "D": "Dermiste granülomlar",
+      "E": "Dermiste kolIagen dejenerasyonu"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 93,
+    "soru_koku": "92A Primer postmanopozal/senil osteoporozun patogenezinde rol oynayan hangisidir?",
+    "secenekler": {
+      "A": "Östrojen eksikliğine bağlı artmış osteoblastik aktivite",
+      "B": "Hiperparatiroidiye bağlı kemik rezorbsiyonu",
+      "C": "Aşırı östrojen salınımına bağlı osteoklastik aktivite artışı",
+      "D": "İmmobilizasyon",
+      "E": "Tedavide uygulanan hormon replasmanına bağlı osteoklastik aktivite artışı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 94,
+    "soru_koku": "Hangisinin malign melanoma dönüşme riski yüksektir?",
+    "secenekler": {
+      "A": "Ailesel displastik nevüs sendromu",
+      "B": "Junctional nevüs",
+      "C": "Kompaund nevüs",
+      "D": "İntradermal nevüs",
+      "E": "Solar lentigo"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 95,
+    "soru_koku": "Akantolitîk subepidermal bül saptanan hastalık hangisi?",
+    "secenekler": {
+      "A": "Büllöz pemfigoid",
+      "B": "İlaca bağlı toksik dermatit",
+      "C": "Kontakt dermatit",
+      "D": "Dermatitis herpetiformis",
+      "E": "Pemfigus vulgaris"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 96,
+    "soru_koku": "Pürülan materyal içeren, 0,3 cm çaplı deriden kabarık lezyondan alınan biopslde bu lezyonun periferindekî epidermisin kalınlaştığı görülüyor. Bu bulguları tanımlayan terimler hangi seçenekte doğru olarak verilmiştir?",
+    "secenekler": {
+      "A": "Püstül- Hipergranüloz",
+      "B": "Vezikül- Akantoz",
+      "C": "Püstül- Akantoz",
+      "D": "Vezikül- Akantoliz",
+      "E": "Püstül- Akantoliz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 97,
+    "soru_koku": "Skuamöz hücreli karsinomun etyolojisinde rolü olmayan etken hangisidir?",
+    "secenekler": {
+      "A": "Ultraviyole ışınlar",
+      "B": "Yanık skarı",
+      "C": "HSV",
+      "D": "HPV",
+      "E": "Osteomyelit sinüsleri"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdakilerden hangisi malign melanomda kötü prognostik özelliklerden değildir?",
+    "secenekler": {
+      "A": "Ülser",
+      "B": "Pagetoid yayılım",
+      "C": "Tümör çevresindeki lenfositlk yanıt",
+      "D": "Milimetrekaredeki mitoz sayısı",
+      "E": "Lenfovasküler Invazyon"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 99,
+    "soru_koku": "Hangisi epidermisten köken alan bir lezyon değildir?",
+    "secenekler": {
+      "A": "Bazal hücreli Ca",
+      "B": "Bowen hastalığı",
+      "C": "Verruka vulgarls",
+      "D": "Solar keratoz",
+      "E": "MerkeI hücreli Ca"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2021-2022",
+    "soru_numarasi": 100,
+    "soru_koku": "Hipofiz hakkında seçeneklerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Posterior hipofiz hücresine pitüisit adı verilir",
+      "B": "ADH ve oksitosin, anterior hipofizden salgılanır",
+      "C": "GH salgılayan hücreler asidofilik ya da bazofîlik karakterde olabilir",
+      "D": "Mammosomatotrop adenomlar, hem laktotrop hem de somatotrop adenomların salgıladıkları hormonları salgılarlar",
+      "E": "Anterior hipofiz epitelyal orijinli olup bezin büyük kısmını oluşturur"
     },
     "cevap": "B"
   }

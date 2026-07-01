@@ -1042,10 +1042,10 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 81,
-    "soru_koku": "",
+    "soru_koku": "B-hücreli lenfomalardan Burkitt lenfoma t(8;14), folliküler lenfoma t(14;18) ve manşon hücreli (\"mantle cell\") lenfoma t(11;14) sonucu gelişirler. Bu translokasyonların üçünde de ortak olan 14. kromozomda sağlıklı bir kişide hangi gen yer alır?",
     "secenekler": {
-      "B": "hücreli lenfomalardan Burkitt lenfoma t(8;14), folliküler lenfoma t(14;18) ve manşon hücreli (\"mantle cell\") lenfoma t(11;14) sonucu gelişirler. Bu translokasyonların üçünde de ortak olan 14. kromozomda sağlıklı bir kişide hangi gen yer alır?",
-      "A": "Myc B) Bcl-2",
+      "A": "Myc",
+      "B": "Bcl-2",
       "C": "Siklin-D1",
       "D": "Bcl-1",
       "E": "IgH"
@@ -1100,14 +1100,14 @@
       "B": "Lenfoplasmasitoid lenfoma",
       "C": "Manşon hücreli (\"Mantle cell\") lenfoma",
       "D": "MALT'ın marginal zon lenfoması",
-      "E": "İmmünoproliferatif ince barsak hastalığı"
+      "E": "İmmünoproliferatif ince barsak hastalığı (IPSID)"
     },
     "cevap": "D"
   },
   {
     "yil": "2025-2026",
     "soru_numarasi": 86,
-    "soru_koku": "(IPSID) Aşağıdakilerden hangisi distrofin geninde mutasyona bağlı gelişir?",
+    "soru_koku": "Aşağıdakilerden hangisi distrofin geninde mutasyona bağlı gelişir?",
     "secenekler": {
       "A": "Dermatomyozit",
       "B": "İnklüzyon body myoziti",
@@ -1161,8 +1161,8 @@
     "soru_numarasi": 90,
     "soru_koku": "CD20(+)/Pax5(+)/CD5(+)/bcl-2(+)/ Siklin D1(+) bir non-Hodgkin lenfomanın aşağıdakilerden hangisi olması beklenir?",
     "secenekler": {
-      "A": "Diffüz büyük",
-      "B": "hücreli lenfoma B) Küçük lenfositik lenfoma/kronik lenfositik lösemi",
+      "A": "Diffüz büyük B-hücreli lenfoma",
+      "B": "Küçük lenfositik lenfoma/kronik lenfositik lösemi",
       "C": "Manşon hücreli (\"mantle cell\") lenfoma",
       "D": "Marginal zon lenfoma",
       "E": "Folliküler lenfoma"
@@ -1237,10 +1237,10 @@
   {
     "yil": "2025-2026",
     "soru_numarasi": 96,
-    "soru_koku": "Hans algoritmasına göre aktive",
+    "soru_koku": "Hans algoritmasına göre aktive B-hücre (germinal merkez dışı) kökenli bir diffüz büyük B-hücreli lenfomayı aşağıdaki kongigurasyonlardan hangisi belirler?",
     "secenekler": {
-      "B": "hücre (germinal merkez dışı) kökenli bir diffüz büyük B-hücreli lenfomayı aşağıdaki kongigurasyonlardan hangisi belirler?",
-      "A": "CD10 (-)/bcl-6 (+)/MUM-1 (+) B) CD10 (+)/bcl-6 (+)/MUM-1 (-)",
+      "A": "CD10 (-)/bcl-6 (+)/MUM-1 (+)",
+      "B": "CD10 (+)/bcl-6 (+)/MUM-1 (-)",
       "C": "CD10 (+)/bcl-6 (-)/MUM-1 (+)",
       "D": "CD10 (+)/bcl-6 (-)/MUM-1 (-)",
       "E": "CD10 (+)/bcl-6 (+)/MUM-1 (+)"
@@ -1291,8 +1291,8 @@
     "soru_numarasi": 100,
     "soru_koku": "Aşağıdakilerden hangisi Hodgkin lenfomanın özelliği değildir?",
     "secenekler": {
-      "A": "Sık görülen",
-      "B": "semptomları B) Sık ekstranodal tutulum",
+      "A": "Sık görülen B-semptomları",
+      "B": "Sık ekstranodal tutulum",
       "C": "Süreklilik gösteren yayılım",
       "D": "Nadir kemik iliği tutulumu",
       "E": "Nadir Waldeyer halkası tutulumu"
@@ -1424,7 +1424,7 @@
       "A": "RF",
       "B": "ANCA",
       "C": "AMA",
-      "D": "Anti-LKM",
+      "D": "Anti-LKM Farmakoloji",
       "E": "Anti kardiyolipin"
     },
     "cevap": "A"
@@ -2152,7 +2152,7 @@
       "A": "Psöriatik artrit",
       "B": "Sistemik lupus eritematozus",
       "C": "Romatoid artrit",
-      "D": "Reaktif artrit",
+      "D": "Reaktif artrit Mikrobiyoloji",
       "E": "Dermatomiyozit"
     },
     "cevap": "E"
@@ -2264,10 +2264,10 @@
   {
     "yil": "2024-2025",
     "soru_numarasi": 75,
-    "soru_koku": "Aslında bir T-hücre belirleyicisi olup aberan ekspresyon göstermesiyle bazı",
+    "soru_koku": "Aslında bir T-hücre belirleyicisi olup aberan ekspresyon göstermesiyle bazı B-hücreli non- Hodgkin lenfomaların ayırıcı tanısında sık olarak kullanılan belirleyici aşağıdakilerden hangisidir?",
     "secenekler": {
-      "B": "hücreli non- Hodgkin lenfomaların ayırıcı tanısında sık olarak kullanılan belirleyici aşağıdakilerden hangisidir?",
-      "A": "CD2 B) CD3",
+      "A": "CD2",
+      "B": "CD3",
       "C": "CD4",
       "D": "CD5",
       "E": "CD8"
@@ -2322,14 +2322,14 @@
       "B": "Epiteloid histiyositler ve kazeifikasyon nekrozu içeren granülomlar",
       "C": "Desmin ile pozitif boyanan plemorfik hücre tabakaları",
       "D": "Atipik hücreleri saran dantel benzeri osteoid",
-      "E": "Pansitokeratin ile pozitif boyanan atipik epitelial adalar"
+      "E": "Pansitokeratin ile pozitif boyanan atipik"
     },
     "cevap": "E"
   },
   {
     "yil": "2024-2025",
     "soru_numarasi": 80,
-    "soru_koku": "t(14;18) translokasyonu sonucu geliştiği bilinen non-Hodgkin lenfoma aşağıdakilerden hangisidir?",
+    "soru_koku": "epitelial adalar t(14;18) translokasyonu sonucu geliştiği bilinen non-Hodgkin lenfoma aşağıdakilerden hangisidir?",
     "secenekler": {
       "A": "Burkitt lenfoma",
       "B": "Folliküler lenfoma",
@@ -2342,10 +2342,10 @@
   {
     "yil": "2024-2025",
     "soru_numarasi": 81,
-    "soru_koku": "Reaktif bir lenf düğümünde aşağıdakilerden hangisi germinal merkez",
+    "soru_koku": "Reaktif bir lenf düğümünde aşağıdakilerden hangisi germinal merkez B-hücre belirteci olarak kullanılır?",
     "secenekler": {
-      "B": "hücre belirteci olarak kullanılır?",
-      "A": "CD5 B) CD10",
+      "A": "CD5",
+      "B": "CD10",
       "C": "bcl-2",
       "D": "TdT",
       "E": "CD15"
@@ -2491,7 +2491,7 @@
       "B": "En önemli prognostik etken evredir",
       "C": "HRS hücreleri CD20 ve CD30 (+)'tirler",
       "D": "Enfeksiyoz mononukleoz geçirmiş kişilerde HL gelişme olasılığı normal populasyondan yüksektir",
-      "E": "Tedavi komplikasyonu olarak non-Hodgkin lenfomalar (NHL) gelişebilir"
+      "E": "Tedavi komplikasyonu olarak non- Hodgkin lenfomalar (NHL) gelişebilir"
     },
     "cevap": "C"
   },
@@ -2598,5 +2598,2605 @@
       "E": "AML M4 (myelomonositer lösemi)"
     },
     "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 1,
+    "soru_koku": "Aşağıdakilerden hangisi mikrositik aneminin nedeninin araştırılmasında kullanılan yardımcı testlerden biri değildir?",
+    "secenekler": {
+      "A": "Serbest eritrosit protoporfirini",
+      "B": "Hemoglobin elektroforezi",
+      "C": "Transferrin saturasyonu",
+      "D": "Kemik İliği biyopsisi",
+      "E": "Serum solubl transferrin reseptörü"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 2,
+    "soru_koku": "Hemoglobin elektroforezinde MBA, Hb F ve Hb S bantları görüldüğünde olası ön tanınız ne olur?",
+    "secenekler": {
+      "A": "Orak hücreli anemi taşıyıcısı",
+      "B": "Orak hücreli anemi taşıyıcısı çocuk",
+      "C": "Orak hücreli anemi hastası",
+      "D": "normal çocuk",
+      "E": "normal erişkin"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 3,
+    "soru_koku": "Megaloblastik anemi tanısında yapılan kan folik asit ölçümleri ile ilgili olarak aşağıda verilen şıklardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "Numune hemolizli olabilir",
+      "B": "Numune olarak EDTA'lı plazma kullanılır",
+      "C": "Numuneler ışığa dayanıklıdır",
+      "D": "interferanstan etkilenmez",
+      "E": "RBC folat ölçümlerinde heparin veya EDTA'lı tam kan kullanılır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 4,
+    "soru_koku": "Aşağıdaki maddelerden hangisi metabolik yolda daha üst bir basamaktaki enzimi baskılayarak hem siklooksigenaz hem lipooksigenaz yoluna etkilidir?",
+    "secenekler": {
+      "A": "Nonsteroid antienflematuarlar",
+      "B": "Kortikosteroidler",
+      "C": "Aspirin",
+      "D": "Zileuton",
+      "E": "Zafirlukast"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 5,
+    "soru_koku": "W3.2 sodyum sitrat içeren vakumlu mavi kapaklı tüplere alınan örnekte aşağıda yer alan hangi analitin değerini analiz edebilirsiniz?",
+    "secenekler": {
+      "A": "Eritrosit",
+      "B": "Faktör B",
+      "C": "17 OH progesteron",
+      "D": "Homosistein",
+      "E": "Trombosit"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 6,
+    "soru_koku": "INR (International Normalized Ratio) tanımı ve klinikte kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Protrombin zaman oranıdır.",
+      "B": "Teorik olarak INR, ISI değeri 1 olan WHO primer referans tromboplastini kullanıldığında elde edilecek plan PT(Protrombin zamanı) sonucudur.",
+      "C": "ISI değeri, bir tromboplastinin duyarlılığını uluslararası referans tromboplastininki ile karşılaştırır.",
+      "D": "Hemostazisi değerlendirmek için kullanılabilir",
+      "E": "Laboratuvarlar arası varyasyonu engellemek için hastanın PT'sinin matematiksel bir dönüşümüdür"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 7,
+    "soru_koku": "Kırık sonrası avasküler nekroz görülme olasılığı en sık olan kemik hangisidi?",
+    "secenekler": {
+      "A": "Skafoid",
+      "B": "Distal radius",
+      "C": "Femur başı va boynu",
+      "D": "Talus boynu ve gövdesi",
+      "E": "Proksimal humerus"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 8,
+    "soru_koku": "Aşağıdakilerden hangisi lenfadenit düşündüren bulgulardan biri değildir?",
+    "secenekler": {
+      "A": "Lenf nodunun üzerindeki ciltte hiperemi",
+      "B": "Lenf nodunun hareketli oluşu",
+      "C": "Lenf nodumun flüktüasyon vermesi",
+      "D": "Lenf nodu çapının 2,5cm den büyük olması",
+      "E": "Lenf nodunun ağrılı olması"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 9,
+    "soru_koku": "Ateşli silah yaralanması ile acil servise başvuran 38 yaşımda kadın hastada yapılan fizik muayenesine distal nabızlar palpable, 14 cm lik kruris anteriorunda açık yara, flap gereksinimi olmadan kemik dokusu örtümü sağlanıyor ise açık kırık tiplerinden hangisine uyar?",
+    "secenekler": {
+      "A": "tip1",
+      "B": "tip2",
+      "C": "tip3b",
+      "D": "tip3c",
+      "E": "tip3a"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 10,
+    "soru_koku": "Aşağıdakilerden hangisi Romatoid Artrit tanılı bir hastada tedavi takibinde kullanılan parametrelerden değildir?",
+    "secenekler": {
+      "A": "Şiş eklem sayısı",
+      "B": "Hassas eklem sayısı",
+      "C": "Romatoid Faktör düzey!",
+      "D": "Sedimantasyon düzeyi",
+      "E": "CRP düzeyi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 11,
+    "soru_koku": "Parenteral Demir Tedavisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "IV. Vell.M. verilebilen preparatları vardır,",
+      "B": "Aynı anda hem oral hem de parenteral demir tedavisi uygulanabilir.",
+      "C": "inflamatuvar barsak hastalığının varlığı parenteral demir tedavisi endikasyonlarındandır.",
+      "D": "Kullanımlarıyla anaflaktik reaksiyon gelişebilir.",
+      "E": "L.M. enjeksiyonda lokal ağrı ve iltihabi reaksiyon gelişebilir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 12,
+    "soru_koku": "Düşük Molekül Ağırlıklı Heparinlerin, Heparinden farkı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "A Hi bağlanması",
+      "B": "Trombine bağlanmaması",
+      "C": "Trombositlerde, trombosit agregasyonunu önlemesi",
+      "D": "Paradoksik olarak tromboz yapması",
+      "E": "Prostosikdini nötralize etmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 13,
+    "soru_koku": "NSAJ ilaçların aşağıdaki hastalıklardan hangisinde tanımlanmış endikasyonu vardır?",
+    "secenekler": {
+      "A": "Patent Ductus arteriosus",
+      "B": "supraventriküler aritmi",
+      "C": "Hipertansiyon",
+      "D": "Tip 2 diyabet",
+      "E": "Kalp yetmezliği"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 14,
+    "soru_koku": ", Aspirin trombosit agregasyonu önlemek amaçla kullanılacak ise hangi dozda verilmelidir?",
+    "secenekler": {
+      "A": "50 mg",
+      "B": "100 mg",
+      "C": "500 mg",
+      "D": "1000 mg",
+      "E": "1500 mg"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 15,
+    "soru_koku": "Alteplaz kullanan bir hastada beklenen en ciddi yan etki hangisidir?",
+    "secenekler": {
+      "A": "intraserebral kanama",
+      "B": "Hipertansiyon",
+      "C": "Hematüri",
+      "D": "Böbrek Yetmezliği",
+      "E": "Akut pankreatit"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 16,
+    "soru_koku": "Parasetamol günlük olarak hangi dozun üzerinde kullanıldığında karaciğer toksisitesine neden olabilir?",
+    "secenekler": {
+      "A": "500",
+      "B": "750",
+      "C": "1200",
+      "D": "1500",
+      "E": "2000"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 17,
+    "soru_koku": "P2Y12 reseptörü bloke ederek etki gösteren oral antitrombositik ilaç hangisidir?",
+    "secenekler": {
+      "A": "Aspirin",
+      "B": "Dipiridamol",
+      "C": "Dekstran 40",
+      "D": "Epoprostenal",
+      "E": "Klopidogrel"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 18,
+    "soru_koku": "Aşağıdakilerden hangisi direkt faktör Xa inbbitörüdür?",
+    "secenekler": {
+      "A": "Heparin",
+      "B": "Düşük Molekül Ağırlıklı Heparinler",
+      "C": "Fondaparinuks",
+      "D": "Hirudin",
+      "E": "Rivaroksaban"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 19,
+    "soru_koku": "Aşağıdakilerden hangisi Oral Demir Tedavisinde kullanılan preparatlardan biri değildir?",
+    "secenekler": {
+      "A": "Ferröz sülfat",
+      "B": "Ferrüz fumarat",
+      "C": "Ferraz glukonat",
+      "D": "Demir dekstran",
+      "E": "Demir sülfat heptahidrat"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 20,
+    "soru_koku": "Nonsteroid antiinflamatuar ilaç kullanımına bağlı gastrit gelişen 20 yaşındaki kadın hastaya misoprostol reçete edilmeden önce aşağıdaki testlerden hangisi yapılmalıdır?",
+    "secenekler": {
+      "A": "Baryumlu üzefagus grafisi",
+      "B": "Tam kan sayımı",
+      "C": "Rektosigmoidoskobi",
+      "D": "Gaitada gizli kan",
+      "E": "Gebelik testi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 21,
+    "soru_koku": "Gebe bir kadında ateş düşürmek ve analjezik etki isteniyorsa hangisi en güvenilirdir?",
+    "secenekler": {
+      "A": "Aspirin",
+      "B": "Parasetamol",
+      "C": "Naproksen",
+      "D": "indometasin",
+      "E": "ibubrufen"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 22,
+    "soru_koku": "Elkozonlod türevi-etki eşleştirmelerinden yanlış olan aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "PGFalfa-bronkokonstriksiyon",
+      "B": "PGEZ, hiperaljezi",
+      "C": "LTB4-kemotaksis",
+      "D": "PG2İ-antiadezyon",
+      "E": "TXAZ-antiagregasyon"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 23,
+    "soru_koku": "30 Aşağıdakilerden hangisi hücre membranındaki araşidonik - asidten serbest oksijen radikallerinin etkisiyle ye nonenzimatik mekanizma ile oluşur?",
+    "secenekler": {
+      "A": "Prostoglandinler",
+      "B": "İsoproston",
+      "C": "Lökotrienier",
+      "D": "Lipoksinler",
+      "E": "tromboksanlar"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 24,
+    "soru_koku": "Fallot tetralojisi gibi bazı konjenital kalp hastalıklarında düzeltici cerrahi uygulamaya kadar geçen sürede ductus arterİozusun açık kalması için aşağıdakilerden hangisi kullanılır?",
+    "secenekler": {
+      "A": "Alprostadil",
+      "B": "Karboprest",
+      "C": "Epeprostenol",
+      "D": "floprost",
+      "E": "Dinopreston"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 25,
+    "soru_koku": "Aşağıdakilerden hangisi veya hangilerinin trombosit agregasyonu Üzerinde etkisi yoktur? i, Aspirin II. Paracetamol li. Naproksen IV. Metamizol",
+    "secenekler": {
+      "A": "I ve II",
+      "B": "Sadece II",
+      "C": "II ve IV",
+      "D": "Sadece I",
+      "E": "I, II, III"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 26,
+    "soru_koku": "Varfarin kullanan bir hastada, analjezik olarak aşağıdakilerden hangisi tercih edilmelidir?",
+    "secenekler": {
+      "A": "Naproksen",
+      "B": "ibuprofen",
+      "C": "Aspirin",
+      "D": "Proksikam",
+      "E": "Ketorolak"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 27,
+    "soru_koku": "Hangisi replantasyon kontrendikasyonu değildir?",
+    "secenekler": {
+      "A": "Çoklu parmak yaralanmaları",
+      "B": "Hayati tehlike mevcudiyeti",
+      "C": "Postop. 3 ay süre ile sigara kabul etmeyen hasta içmemeyi kabul etmeyen hasta",
+      "D": "Kendine zarar veren psikiyatrik hasta",
+      "E": "Ciddi crush ya da avülsiyonlar"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 28,
+    "soru_koku": "Kemik yapıların direk grafi ile değerlendirilmesi için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Temel yöntemdir",
+      "B": "Duyarlılığı yüksektir",
+      "C": "Uzaysal çözünürlüğü yüksektir",
+      "D": "Özgüllüğü yükseltir",
+      "E": "Değerlendirmede ilk basamaktır"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 29,
+    "soru_koku": ", Lomber disk hernisi ile ilgili hangisi yanlıştır",
+    "secenekler": {
+      "A": "En sık 35-45 yaş görülür",
+      "B": "Siyatalji en sık bulgu",
+      "C": "Uzun süreli oturma şikayetler artar",
+      "D": "En sık L4-15 va L5-S1 (9690)",
+      "E": "Hastaların (9690) cerrahi olarak tedavi edilir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 30,
+    "soru_koku": "Dissemine Intravasküler Koagülasyon (DIK) tanısı için hangisi doğrudur?",
+    "secenekler": {
+      "A": "D-Dimer de azalma beklenir.",
+      "B": "Trombositlerde artma beklenir.",
+      "C": "PT ve APTT'de bir değişiklik beklenmez.",
+      "D": "Kreatininde artma tanı kriteridir.",
+      "E": "Fibrinojende düşme beklenir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 31,
+    "soru_koku": ", Aşağıdaki histokimyasal boyalardan hangisi kemik iliğinde demir boyanmasında kullanılır?",
+    "secenekler": {
+      "A": "Wright",
+      "B": "Prusya mavisi",
+      "C": "Krezil viyole",
+      "D": "TRAP boyası",
+      "E": "Kongo kırmızısı"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 32,
+    "soru_koku": "Aşağıdakı hastalıkların hangisi kemik iliğinde bol granüllü myeloid seri hücreleri mevcut ikan periferik kanda pansitopeni görülür?",
+    "secenekler": {
+      "A": "Akut promiyelositer lösemi",
+      "B": "Kronik myeloid lösemi",
+      "C": "Prolenfositik lösemi",
+      "D": "Akut myelomonositer lösami",
+      "E": "Mantle cell lenfoma, lösemik faz"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdakilerden hangisi visseral ağrının tipik özelliklerinden değildir?",
+    "secenekler": {
+      "A": "İç organ işlev bozukluğundan kaynaklanır.",
+      "B": "Yansıyan ağrı olarak ortaya çıkabilir.",
+      "C": "Abartılı otonomik refleksler ve daha büyük emosyonel özellikler ile ilişkili olma eğilimindedir.",
+      "D": "Tipik olarak \"keskin veya yanma” olarak tanımlanır.",
+      "E": "Nosiseptörler tarafından algılanır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 34,
+    "soru_koku": "Aşağıdakilerden hangisi eritrosit sedimentasyon hızı (ESR)'nı azaltan bir durumdur?",
+    "secenekler": {
+      "A": "Gebelik",
+      "B": "Megaloblastik anemi",
+      "C": "Numune tüpünün uzun süre güneşe maruz kalması",
+      "D": "Temporal arterit",
+      "E": "Hipofibrinojenemi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 35,
+    "soru_koku": "Aşağıdaki semptomlardan hangisi İnflamatuar kökenli patolojiyi gösterir?",
+    "secenekler": {
+      "A": "Eklamda krepitasyon",
+      "B": "Eklemde şişlik",
+      "C": "Eklemde cilt altı damarlarda görünürlük",
+      "D": "Hareketle ağrılarda artış olması",
+      "E": "Eklemde hareketsizliliğe bağlı kısa süreli tutukluk"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 36,
+    "soru_koku": ", Aşağıdakı fizik bakı testlerinden hangisi kalça bölgesi patolojisini gösterir?",
+    "secenekler": {
+      "A": "Trendelenburg",
+      "B": "Adson",
+      "C": "Schober",
+      "D": "Menisküs muayene testi",
+      "E": "Düz bacak kaldırma testi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 37,
+    "soru_koku": ", Aşağıdakilarden hangisi uzun kemik kırıklarındaki yer değiştirme tiplerinden .biri değildir?",
+    "secenekler": {
+      "A": "impaksiyon",
+      "B": "Açılanma",
+      "C": "Rotasyon",
+      "D": "Ekspansiyon",
+      "E": "Kısalma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 38,
+    "soru_koku": ", Kemik iliği ve periferik kan yayma (PY) incelemesi ile ilgili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Periferik yaymada eritrositlerin renklerinin farklı olmasına poikilositoz denir",
+      "B": "Retikülositler parlak krezil mavisi (brilliant cresyl blue) boyası ile değerlendirilir.",
+      "C": "Periferik yayma, Giemsa veya Wright boyası ile boyanarak değerlendirilir,",
+      "D": "Kemik iliği biyopsi işlemi krista iliaca posterior superior ve anterior superiordan yapılabilir.",
+      "E": "Kemik iliği Prusya mavisi ile boyanarak demir deposu değerlendirilebilir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 39,
+    "soru_koku": "Hangisi diz İçi hematom sebeplerinden değlidir?",
+    "secenekler": {
+      "A": "Eklem İçi kırıklar",
+      "B": "Periferik menisküs yırtıkları",
+      "C": "Patella çıkığı",
+      "D": "Ön çapraz bağ yırtılması",
+      "E": "Gastroknemius medial başı rüptürü"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdaki Miyelositer seri hücrelerinin hangisinde ilk olarak spesifik (sekonder) granüller oluşmaya başlar?",
+    "secenekler": {
+      "A": "Miyeloblast",
+      "B": "Promiyelosit",
+      "C": "Miyelosit",
+      "D": "Metamiyalosit",
+      "E": "Çomak (Stab)"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 41,
+    "soru_koku": "Aşağıdakilerden hangisi inflamatuar eklem bulguları için doğru değildir.",
+    "secenekler": {
+      "A": "Eklemde lokalize ısı artışı olabilir",
+      "B": "Eklem hareketleri kısıtlanır",
+      "C": "Eklem bölgesinde renk değişikliği olabilir",
+      "D": "Ağrı özellikle öğleden sonraları artış gösteren karakterdedir",
+      "E": "Eklemde deformite yapabilir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 42,
+    "soru_koku": "40 yaşımda kadım hasta özellikle sağ el bileğinden başlayıp ilk 3 parmağa doğru yayılan elektrik çarpması, uyuşma, karıncalanma şeklinde ağrıdan yakınmaktadır. Aşağıdaki ağrı tiplerinden hangisi hastanın tanımladığı ağrı türüyle uyumludur?",
+    "secenekler": {
+      "A": "Visseral",
+      "B": "Somatik",
+      "C": "Periferal Nöropatik",
+      "D": "Santral Nöropatik",
+      "E": "Nosiseptif"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 43,
+    "soru_koku": "Eritrosit sedimentasyon hızı (ESR) ile ilgili'olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "İnflamasyonu gösteren nonspesifik bir testtir,",
+      "B": "Hastalıkların progresyon ve remisyon dönemlerinin takibinde kullanılabilir.",
+      "C": "Şikâyeti olmayan hastada tarama amaçlı kullanımı uygundur.",
+      "D": "Milimetre/saat olarak ifade edilir;",
+      "E": "Üst sınırları ırk, yaş ve cinsiyete göre değişir."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 44,
+    "soru_koku": "Periost reaksiyonu tiplerinden hangisi bening süreçlerle ilişkilidir?",
+    "secenekler": {
+      "A": "Lameller",
+      "B": "Spiküler",
+      "C": "Codman üçgeni",
+      "D": "Solid",
+      "E": "Sunburst patern"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 45,
+    "soru_koku": "Diz içindeki bağları en iyi gösteren görüntüleme yöntemi hangisidir?",
+    "secenekler": {
+      "A": "Direkt Grafi",
+      "B": "Manyetik Rezonans Görüntüleme",
+      "C": "Bilgisayarlı Tomografi",
+      "D": "Sintigrafi",
+      "E": "Floroskopi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 46,
+    "soru_koku": "Hemostazla ilgili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Karaciğer hastalığında protrombin zamanı ve aktive parsiyel tromboplastin zamanı uzayabilir.",
+      "B": "Faktör Xlll eksikliğinde aktive parsiyel tromboplastin zamanı uzar.",
+      "C": "Sekonder hemostazda fibrin tıkacı oluşur.",
+      "D": "Von Willebrand faktör eksikliğinde kanama zamanı uzayabilir,",
+      "E": "Protein C., Protein S antikoagülan özellikte proteinlerdir"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 47,
+    "soru_koku": "Malign kas iskelet sistemi tümörlerine cerrahi yaklaşımda hangi yöntem kullanılmalıdır?",
+    "secenekler": {
+      "A": "Sadece marjinal",
+      "B": "Sadece radikal",
+      "C": "İntralazyonel ve geniş RE?",
+      "D": "Radikal ve geniş",
+      "E": "Radikal, geniş ve marjinal"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 48,
+    "soru_koku": "Oral aft ile başvuran hastada hangi romatolojik hastalık ön planda düşünülmelidir?",
+    "secenekler": {
+      "A": "Ailesel Akdeniz Ateşi",
+      "B": "Behçet",
+      "C": "Romatoid Artrit",
+      "D": "Sistemik Sklerozis",
+      "E": "Miyozit"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 49,
+    "soru_koku": "Myopati düşünülen bir hastanım kas hasarı semptomları aşağıdakilerden hangisinde yanlıştır?",
+    "secenekler": {
+      "A": "Fasikülasyon",
+      "B": "Kramp",
+      "C": "Myotoni",
+      "D": "Sensoryel ataksi",
+      "E": "Egzersiz İntoleransı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 50,
+    "soru_koku": "40 yaşında erkek hasta dirseğinin dış kısmında ağrı ile geliyor. Şikayetlerinin yavaş başladığını, giderek arttığımı artık sürahi dahi kaldıramadığını ifade ediyor. Yaptığınız muayenede dirence karşı al bileği ekstansiyonu sırasında dirsek dış kısmında şiddetli ağrı gelişmektedir. Dirsek hareketleri ve röntgenleri normal olan hasta İçin aşağıdaki tanılardan hangisi en uygundur?",
+    "secenekler": {
+      "A": "Kubital tünel sendromu (ulnar sinir sıkışması)",
+      "B": "Olekranon bursiti",
+      "C": "Dirsek çıkığı",
+      "D": "Lateral epikondilit",
+      "E": "Medial epikondilit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 51,
+    "soru_koku": "Omuz çıkığı için hangisi yanlıştır?",
+    "secenekler": {
+      "A": "En sık çıkan eklemimizdir",
+      "B": "Sıklıkla öne ve aşağıya çıkık olur",
+      "C": "Eklem sınırları bozulmuştur",
+      "D": "Temel tedavi cerrahidir",
+      "E": "Redüksiyon sonrası velpeau bandaj uygulanır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 52,
+    "soru_koku": "Kan ve kemik iliği hücreleriyle ilişkili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kemik İliğinden köken alan T hücre Öncülleri timusta olgunlaşırlar",
+      "B": "Eritropoietin, eritroid hücrelerin hem çoğalmasını hem farklılaşmasını sağlar.",
+      "C": "Miyaloblast promyelosite, promyelosit da myelosite dönüşerek olgunlaşır.",
+      "D": "Eritroid serinin öncü hücresi olan bazofilik eritroblast proeritroblasta dönüşerek olgunlaşır.",
+      "E": "Retikülosit, nukleus içermeyen, ancak kalıntı RNA iplikçikleri taşıyan eritrosit öncülü hücredir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 53,
+    "soru_koku": "Aşağıdaki ilaçların hangisi FUT3 mutasyonu olan akut lösemi tedavisinde kullanılır?",
+    "secenekler": {
+      "A": "İmatinib",
+      "B": "İbrutinib",
+      "C": "Ruxolitinib",
+      "D": "Dasatinib",
+      "E": "Midastorin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 54,
+    "soru_koku": "Lökosit sayısı 20000/mikroit olan 30 yaşındaki bayan hastanın periferik yaymasında 9685 nötrofil mevcut. Hastada aşağıdakilerden hangisinin olma ihtimali an düşüktür?",
+    "secenekler": {
+      "A": "Steroid kullanırı",
+      "B": "Splenektomi sonrası",
+      "C": "Enfeksiyoz mononükleozis",
+      "D": "Mide Kanaması",
+      "E": "Kronik hemoliz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 55,
+    "soru_koku": "Kök hücre ve kök hücre tedavileri ite ilişkili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kök hücre nakli tedavisi malign olmayan hastalıklarda da uygulanan bir tedavi yöntemidir.",
+      "B": "Otolog kök hücre naklinde amaç, hastaya normalde verilenden daha yüksek doz kemoterapi vererek hastalığın bertaraf edilmesinin sağlanmasıdır.",
+      "C": "Kök hücreler dolaşıma verildikten sonra kemik İliğine yerleşme (homing) özelliği olan hücrelerdir.",
+      "D": "Yetişkin kök hücrelerle tedavi embriyonik kök hücrelerin aksine atik sorun oluşturmaz.",
+      "E": "Kordon kanından elde edilen kök hücrelerin yaşayabilme yetenekleri düşüktür"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 56,
+    "soru_koku": ", Kan ve kan hücreleri ile ilişkili olarak hangisi doğrudur?",
+    "secenekler": {
+      "A": "Plazmanın 9670 su, 9615 proteinlerden oluşur, kalanı elektrolit, aminoasit ve diğer besinlerdir,",
+      "B": "Dolaşımda yaşam süresi en uzun kan hücreler lökositlerdir.",
+      "C": "Trombositopeni, trombosit sayısının 100 000/mm3 un altında olması olarak tanımlanır,",
+      "D": "Lenfosit sayısının 4000/mm3 ün Üzerinde olması lenfositoz olarak İsimlendirilir",
+      "E": "Periferik kanda en az oranda görülen hücre eozinofil olup parazitik enfeksiyonlarda savunma görevi üstlenirler."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 57,
+    "soru_koku": "Aşağıdaki “periferik yayma bulgusu-yaygın görüldüğü klinik durum eşleşmelerinden yanlış olan hangisidir?",
+    "secenekler": {
+      "A": "Sferosit-Hemolitik anemi",
+      "B": "Hedef hücre (target cell)- Thalassemi",
+      "C": "Polikromazi-Hemolitik anemi",
+      "D": "Kalem hücresi (pencil cell) ve eliptosit-Vitamin B12 eksikliği",
+      "E": "Fragmante eritrosit (şistosit)-Yaygın damar İçi pıhtılaşma"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 58,
+    "soru_koku": ", 3 gündür devam eden ve sağ ayak bileğini tutan ağrı ve şişlik şikayeti ile başvuran hastadaki klinik aşağıdakilerden hangisine uyar?",
+    "secenekler": {
+      "A": "Kronik artrit",
+      "B": "Migratuar artrit",
+      "C": "Akut artrit",
+      "D": "Kronik artralji",
+      "E": "Reaktif artrit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağıdakilerden hangisi mekanik vasıflı ağrının özelliklerindendir?",
+    "secenekler": {
+      "A": "Gece ağrısı olması",
+      "B": "Bir saatten Uzun süren sabah tutukluğu olması",
+      "C": "Hareketle artan tarzda ağrı",
+      "D": "40 yaşından sonra başlangıç göstermesi",
+      "E": "Sinsi başlangıç göstermesi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 60,
+    "soru_koku": "Aşağıda verilen endikasyonlardan hangisi kemik sintigrafisine ait değildir?",
+    "secenekler": {
+      "A": "Kemik mineral yoğunluğunun ölçülmesi",
+      "B": "Komik metastazlarının gösterilmesi",
+      "C": "Ağrılı kemik protezlerinin değerlendirilmesi",
+      "D": "Kemik tümörlerinin değerlendirilmesi",
+      "E": "Kemik enfeksiyonlarının değerlendirilmesi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 61,
+    "soru_koku": "Aşağıdaki Hemolitik anemilerin hangisinde hemoliz doğuştan kazandan bir hastalık değildir?",
+    "secenekler": {
+      "A": "Herediter sferositoz",
+      "B": "Glukoz 6 fosfataz dehidrogenaz eksikliği",
+      "C": "Talasemi beta",
+      "D": "Paroksismal noktumal hemoglobinüri",
+      "E": "Talasemi alfa"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 62,
+    "soru_koku": "Aşağıdakı boyalardan hangisi kronik myelositer |ösemide hücreleri boyamaz. Hücrelerin boyayı alması azdır veya hiç görülmez?",
+    "secenekler": {
+      "A": "Giemsa",
+      "B": "Myeloperoksidaz",
+      "C": "PAS",
+      "D": "Alkalen fosfataz",
+      "E": "Sudan black"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 63,
+    "soru_koku": "Histamin ve heparin içermesi nedeni ile alerjik reaksiyonların başlamasında sorumlu olan bağ dokusu hücresi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Eozinofil",
+      "B": "Mast hücresi",
+      "C": "Plazma hücresi",
+      "D": "Fibroblast",
+      "E": "Makrofaj"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 64,
+    "soru_koku": "Lakosit, lenfosit ve nötrofiller ile ilgili verilen bilgilerden hangisi yanlıştır ?",
+    "secenekler": {
+      "A": "Lenfopenik hastalarda İmmun yetmezlik araştırılmalıdır",
+      "B": "Geçici lökopeninin ve akut nötropeninin en sık nedeni enfeksiyon ve ilaçlardır.",
+      "C": "Lökosit sayısının 4000/mmf/altında olması lökopeni olarak tanımlanır.",
+      "D": "Malnütrisyon ve B12 eksikliği lökopeniye neden olabilir",
+      "E": "Nötropeninin bir aydan uzun sürmesi kronik nötropeni olarak adlandırılır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 65,
+    "soru_koku": "Kanama diatezi ile ilgili, verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Cilt altı kanamalarda, kanamanım boyutu 2-10 mm ise, purpura olarak isimlendirirler.",
+      "B": "Koagülasyon testleri için hasta kanı EDTA li tüpe alınır.",
+      "C": "Hemofili A erkek çocuklarda görülür.",
+      "D": "Hemogram ve periferik yayma primer hemostazı değerlendiren testlerdir.",
+      "E": "Hamartroz sıklıkla koagulasyon bozukluklarının bir bulgusudur."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 66,
+    "soru_koku": "Eklemin cerrahi olarak hareketinin sınırlandırılması ya da dondurulmasına ne ad verilir?",
+    "secenekler": {
+      "A": "Artroz",
+      "B": "Ankiloz",
+      "C": "Artrodez",
+      "D": "Artrotomi",
+      "E": "Artroskopi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 67,
+    "soru_koku": "Kırım Kongo kanamalı ateş hastalığın vektörü hangisidir?",
+    "secenekler": {
+      "A": "Meyve yarasaları",
+      "B": "Aedes aegypti tür sivrisinek",
+      "C": "Hyalomma cins kene",
+      "D": "Misk sıçan",
+      "E": "Primat"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 68,
+    "soru_koku": "Aşağıdakilerden hangisi Bruselloz tanısında kullanılan aglütinasyon testidir?",
+    "secenekler": {
+      "A": "Standart tüp aglütinasyon testi",
+      "B": "Grubel vidal testi",
+      "C": "Paul Bunnel testi",
+      "D": "immunblot",
+      "E": "Mono plus testi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 69,
+    "soru_koku": "Aşağıdakilerden hangisi viral hemorajik ateşin ortak özelliği değildir?",
+    "secenekler": {
+      "A": "Zarflı virüsler",
+      "B": "Doğal rezervarları insan",
+      "C": "Ateş",
+      "D": "Diffüz vasküler sistem hasarı",
+      "E": "Hemoraji"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 70,
+    "soru_koku": "Hangisi ülkemizde kan transfüzyonu öncesi rutin tarama programında olan testlerden değildir?",
+    "secenekler": {
+      "A": "HBsAg",
+      "B": "Anti HBC",
+      "C": "Anti HCV",
+      "D": "Anti HIV 1,2",
+      "E": "Sifiliz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 71,
+    "soru_koku": "Aşağıdakilerden hangisi osteosarkom tanısı koymada mutlaka görülmesi beklenen mikroskopik özelliklerdendir?",
+    "secenekler": {
+      "A": "Osteoid üretimi",
+      "B": "Küçük yuvarlak hücreler",
+      "C": "Multinükleer dev hücreler",
+      "D": "Kanla dolu kistler",
+      "E": "Damar invazyonu"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 72,
+    "soru_koku": "Pyojenik osteomyelitin en yaygın etkeni nedir?",
+    "secenekler": {
+      "A": "Mycobacterium tuberculosis",
+      "B": "Mucormycosis",
+      "C": "Staphilococcus aureys",
+      "D": "Haemophilus influenza",
+      "E": "Escherichia coli"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 73,
+    "soru_koku": "Aşağıdakilerden hangisi folliküler tipte reaktif lenfoid hiperplazinin bir özelliği değildir?",
+    "secenekler": {
+      "A": "Sinus endotelinde çarpıcı hiperplazi",
+      "B": "Genişlemiş follikül yapıları",
+      "C": "Parakortikal alanda immunoblast proliferasyonu",
+      "D": "Germinal merkezlerde çok sayıda \"tingible body makrofajlar",
+      "E": "Germinal merkezlerde çeşitli gelişim asamasında olan B lenfositler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 74,
+    "soru_koku": ", t(15:17) translokasyonu sonucu gelişen lösemi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Akut myelositer İösemi (AML) M3",
+      "B": "AML M2",
+      "C": "AML M4",
+      "D": "Kronik myelositer lösemi",
+      "E": "Kronik myelomonositer lösemi B-lenfoblastik lösemi/lenfomada pozitif olması beklenmeyen"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 75,
+    "soru_koku": "belirteç hangisidir?",
+    "secenekler": {
+      "A": "cD10",
+      "B": "CD99",
+      "C": "CD?",
+      "D": "Pax-5",
+      "E": "TOT"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 76,
+    "soru_koku": ", Yirmibeş yaşında erkek hastanın sağ kaş lateralinde yaklaşık 2 yıldır bulunan 2 cm çaplı, mobil, yumuşak kitlenin eksizyon materyali kapsüllü, lobüle, parlak sarı renkli lezyondan oluşmaktadır En olası tanı nedir?",
+    "secenekler": {
+      "A": "Mikroid liposarkom",
+      "B": "Lelomyom",
+      "C": "Yağ nekrozu",
+      "D": "Lipom",
+      "E": "Osteom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 77,
+    "soru_koku": "Aşağıdakilerden hangisi dalağın gerçek kistleriyle ilgili olarak doğrudur?",
+    "secenekler": {
+      "A": "Ekinokok ile oluşurlar",
+      "B": "İleri yaş hastalarda daha sıktır",
+      "C": "Dalağın rüptürüyle oluşurlar",
+      "D": "Lenfomalarında görülürler",
+      "E": "Kistin iç yüzü epitelle döşelidir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 78,
+    "soru_koku": "Aşağıdakilerden hangisinde maligniteye dönüşme riski yoktur?",
+    "secenekler": {
+      "A": "Osteokondromatozis",
+      "B": "Meduller avasküler nekroz",
+      "C": "Paget hastalığı",
+      "D": "Osteoid osteom",
+      "E": "Enkondromatozis"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 79,
+    "soru_koku": "T-lenfoblastik lösemi/lenfomada ekspresyonu beklenmeyen belirteç hangisidir?",
+    "secenekler": {
+      "A": "cD2",
+      "B": "CD34",
+      "C": "Terminal deoksinukleotidaz",
+      "D": "Myeloperoksidaz",
+      "E": "CD117"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 80,
+    "soru_koku": "EWSRI-FL11 füzyon geni aşağıdakilerden hangisinin tanısal moleküler patolojik belirteci olarak kabul edilmektedir?",
+    "secenekler": {
+      "A": "Osteosarkom",
+      "B": "Ewing sarkomu",
+      "C": "Kemiğin dev hücreli tümörü",
+      "D": "Sinovyal sarkom",
+      "E": "Rabdomyosarkom"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 81,
+    "soru_koku": "Aşağıdaki hastalıklar ve patogenez eşleşmelerinden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Osteogenezis imperfekta- Tip | kollagen sentezinde bozukluk",
+      "B": "Akondroplazi- Membranöz kemikleşme Akondropla yetersizliği",
+      "C": "Albers-Schönberg hastalığı Osteoklast aktivitesinde aşırı artış",
+      "D": "Kraniorahişizis- Büyüme kıkırdağında düzensiz proliferasyon",
+      "E": "Osteopetrozis- Tip | kollagende aşırı üretim"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 82,
+    "soru_koku": "Aşağıdakilerden hangisi köken aldığı öncü hücreler açısından diğerlerinden farklıdır?",
+    "secenekler": {
+      "A": "Kortikal kemikteki osteosit",
+      "B": "Spongioz kemikteki osteosit",
+      "C": "Kemik trabekülü çevresindeki osteoblast",
+      "D": "Kemik trabekülü çevresindeki osteoklast",
+      "E": "Kırık onarım dokusundaki osteoblast"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 83,
+    "soru_koku": "Timomalarla ilgili aşağıdaki hangi seçenek yanlıştır?",
+    "secenekler": {
+      "A": "Genelde büyük kitle oluştururlar",
+      "B": "Histolojik görüntü değişkendir",
+      "C": "Timositlerin tümörüdür",
+      "D": "İnvazyon çok önemli bir prognostik göstergedir",
+      "E": "Sıklıkla 40 yaşın üstünde görülürler."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 84,
+    "soru_koku": "Aşağıdakilerden hangisi romatoid artritte görülen bir bulgu değildir?",
+    "secenekler": {
+      "A": "Sinovyal proliferasyon",
+      "B": "Kondrosit proliferasyonu",
+      "C": "Pannus gelişimi",
+      "D": "Lenfoid follikül gelişimi",
+      "E": "Plazma hücrelerinden zengin yangısal lifiltrat"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 85,
+    "soru_koku": "Kink nedeniyle acil servise başvuran 32 yaşında kadın hastanın radyolojik görüntülemelerinde radius distal ucunda epifiz yerleşimli, korteksi destrükte eden 3 cm çaplı litik lezyon görülüyor. i Hastanın aynı bölgeden daha önce de benzer nitelikte bir lezyon nedeniyle opere olduğu öğreniliyor. En olası tanı nedir?",
+    "secenekler": {
+      "A": "Osteokondrom",
+      "B": "Kondrosarkom",
+      "C": "Osteosarkom",
+      "D": "Kemiğin dev hücreli tümörü",
+      "E": "Kronik osteomyelit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 86,
+    "soru_koku": "Aşağıdaki hastalıklardan hangisinde eklem kıkırdağı etkilenir?",
+    "secenekler": {
+      "A": "Osteoartrit",
+      "B": "Subkondral avasküler nekroz",
+      "C": "Akondroplari",
+      "D": "Enkondrom",
+      "E": "Osteokondrom"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 87,
+    "soru_koku": "Plazma hücrelerinden köken alan ya da plazma hücre diferansiyasyonu gösteren neoplastik hastalıklardan aşağıdakilerden hangisi göreceli iyi prognozlu tiptir?",
+    "secenekler": {
+      "A": "Plazma hücreli myelom",
+      "B": "Smoldering myelom",
+      "C": "Plazmablastik myelom",
+      "D": "Plazma hücreli |ösemi",
+      "E": "Plazmablastik lenfoma"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 88,
+    "soru_koku": "Serumda M komponenti ne demektir?",
+    "secenekler": {
+      "A": "IgM yüksekliği",
+      "B": "IgM düşüklüğü",
+      "C": "Plazma hücrelerinin neoplastik olması",
+      "D": "Monoklonal ig üretimi",
+      "E": "Kanda metastaza ilişkin saptanması belirleyicilerin"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 89,
+    "soru_koku": "Kırık onarımında oluşan kemik kallus ile ilgili olarak doğru seçenek hangisidir?",
+    "secenekler": {
+      "A": "Birinci haftanın sonunda gelişmiş olur",
+      "B": "Lameller kemik niteliğindedir",
+      "C": "Hyalin kıkırdak morfolojisindedir",
+      "D": "Hematomun organizasyonundan hemen sonra gelişir",
+      "E": "Kırık onarımının son basamağıdır"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 90,
+    "soru_koku": "İskelet kast biopsisi ile ilgili olarak doğru seçenek hangisidir?",
+    "secenekler": {
+      "A": "Biopsi 2690'lık etil aikol içerisinde gönderilmelidir",
+      "B": "Biopsi 410'luk formaldehit içerisinde gönderilmelidir",
+      "C": "Biopsi havada kurutularak gönderilmelidir",
+      "D": "Biopsiden hazırlanan imprint yaymalar enzim histokimya boyanmalarında kullanılır",
+      "E": "Biopsiler rutin doku takibine sokulmadan frozen kesitler hazırlanır"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 91,
+    "soru_koku": "Aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Fetal iskelette keçemsi kemik bulunmaz",
+      "B": "Matür İskelette keçemsi kemik bulunmaz",
+      "C": "Enkondral kemikleşmede keçemsi kemik bulunmaz",
+      "D": "Membranöz kemikleşmede keçemsi kemik bulunmaz",
+      "E": "Kırık alanında keçemsi kemik bulunmaz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 92,
+    "soru_koku": "73 yaşında erkek hastaya kemik ağrıları nedeniyle çekilen radyolojik İncelemelerinde yaygın litik lezyonlar saptanıyor. Aşağıdakı hangi seçenekte en olası 2 hastalık birlikte verilmiştir?",
+    "secenekler": {
+      "A": "Kronik lenfositik lösemi- Hairy cell lösemi",
+      "B": "Metastaz- Osteosarkom",
+      "C": "Osteoporoz-Diffüz büyük B hücreli lenfoma",
+      "D": "Plazma hücreli myelom-Metastaz",
+      "E": "Osteomatozis- Akut lenfoblastik lösemi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 93,
+    "soru_koku": "Konsültasyon amacıyla gönderilmiş hematoksilen eozin boyalı preparatlarda iğsi hücreli malign mezenkimal tümör saptanıyor. Aşağıdakilerden hangisi bu lezyonun prognozunu belirlemede kullanılacak kriterlerden biri değildir?",
+    "secenekler": {
+      "A": "Nekroz varlığı",
+      "B": "Nekrozun yaygınlığı",
+      "C": "Kollagen üretimi",
+      "D": "Hücre diferansiyasyonu",
+      "E": "Mitoz sayısı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 94,
+    "soru_koku": "Hodgkin/Reed-Stanberg (HRS) hücreleri ve eşlik eden yangı hücreleri için aşağıdaki İfadelerin hangisi doğrudur?",
+    "secenekler": {
+      "A": "Laküner hücreler en sık mikst selüler varyantta görülür",
+      "B": "Lenfositik/histiositik hücreler en sık nodüler lenfosit predominant tipte görülür",
+      "C": "Eosinofiller en sık nodüler sklerozan varyantta görülür",
+      "D": "Lenfositten zengin varyantta diagnostik Reed-Stenberg hücreleri boldur",
+      "E": "Sinsitiyal noduler sklerozan varyantta laküner Reed-Stenberg hücreleri azdır"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 95,
+    "soru_koku": "8. ve 14. kromozomlarda translokasyon sonucu geliştiği bilinen non-Hodgkin lenfoma aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Burkitt lenfoma",
+      "B": "Folliküler lenfoma",
+      "C": "Manşon hücreli (mantle cell) lenfoma",
+      "D": "Marginal zon lenfoma",
+      "E": "Küçük lenfositik lenfoma"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 96,
+    "soru_koku": "60 yaşında erkek hastada saptanan multipl lenf düğümlerinin birinden yapılan eksizyonel biopsi düşük orta dereceli bir non- hodgkin lenfomayı (NHL) yansıtmaktadır. Ayırıcı tanı için uygulanan ilk immunohistokimyasal panelde CD20, CDS ve b c1-2 pozitiftir. Ek çalışmalarda ayırıcı tanı için aşağıdaki belirleyicilerin hangisinin kullanılması mutlak gereklidir?",
+    "secenekler": {
+      "A": "Bci-6",
+      "B": "CD10",
+      "C": "Siklin DI",
+      "D": "ALK",
+      "E": "CD30"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 97,
+    "soru_koku": ", Diffüz büyük B-hücreli lenfoma, NOS'da aktive B-hücre kökenini (germinal merkez dışi subtipini) belirleyen immunhisto- kimyasal panel aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "bcl-6 (4), CD10(4), MUM1 (4)",
+      "B": "bel-6 (-), CD10(4), MUM1 (4)",
+      "C": "hcl -6(4), CD10(-), MUMI (4)",
+      "D": "bel-6 (4), CD10(4), MUMİ (4)",
+      "E": "bcl-6 (-), CD10(4), MUMI (-)"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 98,
+    "soru_koku": "Aşağıdaki mikroorganizmalardan hangisi lenf düğümlerinde kendine özgü reaktif bir patern oluşmasına yol açar?",
+    "secenekler": {
+      "A": "E. koli",
+      "B": "Vibrio kolera",
+      "C": "Gardnerella vaginalis",
+      "D": "Toksoplazma",
+      "E": "B-hemolitik streptokok"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 99,
+    "soru_koku": ", Pott hastalığını tanımlayan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Pyojenik osteomyelitte kortikal abse oluşumu",
+      "B": "Çene kemiklerini tutan sklerozan osteomyelit",
+      "C": "Omurgayı tutan mikobakteriyel osteomyelit",
+      "D": "Sifilizde görülen periostit",
+      "E": "Fistülize kronik osteomyelit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2023-2024",
+    "soru_numarasi": 100,
+    "soru_koku": "Aşağıdaki dendritik hücre tiplerinden hangisi kemik iliği kökenli değildir?",
+    "secenekler": {
+      "A": "Mast hücreleri",
+      "B": "İnterminata dendritik hücreler",
+      "C": "İntrafolliküler dendritik hücreler",
+      "D": "interdijita dendritik hücreler",
+      "E": "Plazmasitoid dendritik hücreler"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 1,
+    "soru_koku": "Mikrositer hipokrom anemide demir eksikliği anemisi ile hemoglobinopati ayırıcı tanısında kullanılan en yararlı iki test aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "RBC-RDW",
+      "B": "MCH-MCV",
+      "C": "RBC-MCH",
+      "D": "MCH-RDW",
+      "E": "RBC-MCV"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 2,
+    "soru_koku": "Karışık anemilerin tanısında aşağıdaki laboratuvar bulgularından hangisini değerlendirmek esastır?",
+    "secenekler": {
+      "A": "Serum demir ölçümü",
+      "B": "MCV",
+      "C": "MCH",
+      "D": "Periferik yayma",
+      "E": "MCHC"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 3,
+    "soru_koku": "Aneminin laboratuvar tanısında ilk olarak hangi tam kan sayım parametreleri değerlendirilir?",
+    "secenekler": {
+      "A": "Eritrosit sayısı-MCV-hematokrit",
+      "B": "Eritrosit sayısı-hematokrit-retikülosit sayısı",
+      "C": "Eritrosit sayısı-nemoglobin-MCH",
+      "D": "Eritrosit sayısı-RDV-hemotokrit",
+      "E": "Eritrosit sayısı-hnemoglobin-hematokrit"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 4,
+    "soru_koku": "Megaloblastik anemi tanısında yapılan kan folik asit ölçümleri ile ilgili olarak aşağıda verilen şıklardan hangisi doğrudur?",
+    "secenekler": {
+      "A": "Numune hemolizli olabilir",
+      "B": "Numune olarak EDTA' li plazma kullanılır",
+      "C": "Numuneler ışığa dayanıklıdır",
+      "D": "İnterferanstan etkilenmez",
+      "E": "RBC folat ölçümlerinde heparin veya EDTA' li tam kan kullanılır."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 5,
+    "soru_koku": "Aşağıdaki maddelerden hangisi metabolik yolda daha üst bir basamaktaki enzimi baskılayarak hem siklooksigenaz hem lipooksigenaz yoluna etkilidir?",
+    "secenekler": {
+      "A": "Nonsteroid antienflematuarlar",
+      "B": "Kortikosteroidler",
+      "C": "Aspirin",
+      "D": "Zileuton",
+      "E": "Zafirlukast"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 6,
+    "soru_koku": "INR (Internationel Normalized Ratio) ile ilgili olarak aşağıda verilen tanımlamalardan doğru olanlar hangi şıkta verilmiştir? I. INR, Protrombin zaman oranıdır. Il. INR, sadece oral antikoagulan tedavi takibi için kullanılır II. Arzu edilen INR değeri tedavi edilen hastalığa bağlı olarak değişmez. IV.INR testinin her hasta için bir kez bakılması yeterlidir V. INR testinin sonucunun uzaması, koagulasyonun yavaş gerçekleştiğini gösterir.",
+    "secenekler": {
+      "A": "LIl ve V",
+      "B": "İL, II ve IV",
+      "C": "II, IV ve V",
+      "D": "Ili ve V",
+      "E": "IV ve V"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 7,
+    "soru_koku": "Aşağıdakilerden hangisi lenfadenit düşündüren bulgulardan biri değildir?",
+    "secenekler": {
+      "A": "Lenf nodunun üzerindeki ciltte hiperemi",
+      "B": "Lenf nodunun hareketli oluşu",
+      "C": "Lenf nodunun flüktüasyon vermesi",
+      "D": "Lenf nodu çapının 2,5cm den büyük olması",
+      "E": "Lenf nodunun ağrılı olması"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 8,
+    "soru_koku": "Trafik kazası sonrasında acile getirilen hastanın femur alt ucunda kırık olduğu ve kırık uçlarından birinin cildi delmiş ve çıplak gözle görülür şekilde açıkta olduğu saptanmıştır. Bu kırık için aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Bu bir patolojik kırıktır",
+      "B": "Bu bir parçalı kırıktır",
+      "C": "Bu bir yaş ağaç kırığıdır",
+      "D": "Bu kırıkta enfeksiyon riski yüksektir",
+      "E": "Bu kırıkta uçların birleştirilmesi mümkün olmayacağından protez gereklidir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 9,
+    "soru_koku": "Yolda yürürken hafif bir yak burkulması sonrasında şiddetli ağrı ve ayağının üstüne basamama şikayetleriyle acile başvuran 57 yaşındaki kadın hastanın radyolojik görüntülemesinde femur boynunda kırık ve multipl litik lezyonlar saptanıyor. Bu durumda ilk düşünülmesi gereken öne tanı nedir?",
+    "secenekler": {
+      "A": "Osteoporotik multipl kırık",
+      "B": "Travmatik multipl kırık",
+      "C": "Osteosarkom",
+      "D": "Metastatik tümör",
+      "E": "Kondrosarkom"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 10,
+    "soru_koku": "Aşağıdakilerden hangisi romatoid artrtitli bri hastada hastalık aktivasyonu ve tedaviye cevabı takip etmek için kullanılır?",
+    "secenekler": {
+      "A": "Anti- Cyclic citrullinated peptide (anti-CCP)",
+      "B": "Eritrosit sedimentasyon hızı (ESH)",
+      "C": "Romatoid faktör (RF)",
+      "D": "Anti nükleer antikor (ANA)",
+      "E": "Anti vimetin antikoru"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 11,
+    "soru_koku": "Parenteral Demir Tedavisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "İ.V. ve İ.M. verilebilen preparatları vardır.",
+      "B": "Kullanımlarıyla anaflaktik reaksiyon gelişebilir.",
+      "C": "İnflamatuvar barsak hastalığının varlığı parenteral demir tedavisi endikasyonlarındandır.",
+      "D": "Aynı anda hem oral hem de parenteral demir tedavisi uygulanabilir.",
+      "E": "İ.M. enjeksiyonda lokal ağrı ve iltihabi reaksiyon gelişebilir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 12,
+    "soru_koku": "Aşağıdakilerden hangisi indirekt faktör Xa inhibitörüdür?",
+    "secenekler": {
+      "A": "Hirudin",
+      "B": "Lepirudin",
+      "C": "Bivalirudin",
+      "D": "Fondaparinuks",
+      "E": "Düşük Molekül Ağırlıklı Heparinler"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 13,
+    "soru_koku": "Aşağıdakilerden hangisi oral yoldan kullanılan direkt trombin inhibitörüdür?",
+    "secenekler": {
+      "A": "Apixaban",
+      "B": "Düşük Molekül Ağırlıklı Heparinler",
+      "C": "Rivaroksaban",
+      "D": "Fenindion",
+      "E": "Dabigatran"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 14,
+    "soru_koku": "CysLT1 reseptörlerinin kompetitif antagonisti hangisidir?",
+    "secenekler": {
+      "A": "Mepakrin",
+      "B": "Pinan",
+      "C": "Zafirlukast",
+      "D": "Zilöton",
+      "E": "Sulfasalazin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 15,
+    "soru_koku": "COX-2 'e karşı potensi daha COX1 e göre daha yüksek olmayan NSA! ilaç hangisidir?",
+    "secenekler": {
+      "A": "Naproksen",
+      "B": "Nimesulid",
+      "C": "Diklofenak",
+      "D": "Etodolak",
+      "E": "Meloksikam"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 16,
+    "soru_koku": "İndometasin kullanan bir hastada en sık görülen yan etki hangisidir?",
+    "secenekler": {
+      "A": "Epilepsi",
+      "B": "Aplastik anemi",
+      "C": "Halüsinasyon",
+      "D": "Uyuşukluk",
+      "E": "Başağrısı"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 17,
+    "soru_koku": "Gebe bir kadında ateş düşürmek ve analjezik etki isteniyorsa hangisi en güvenilirdir?",
+    "secenekler": {
+      "A": "Metamizol",
+      "B": "Parasetamol",
+      "C": "Naproksen",
+      "D": "Indometasin",
+      "E": "Ibubrufen"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 18,
+    "soru_koku": "Aspirin trombosit agregasyonu önlemek amaçla kullanılacak ise hangi dozda verilmelidir?",
+    "secenekler": {
+      "A": "81",
+      "B": "375",
+      "C": "400",
+      "D": "500",
+      "E": "660"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 19,
+    "soru_koku": "Aşağıdakilerden hangisi veya hangilerinin trombosit agregasyonu üzerinde etkisi yoktur? I. Aspirin Il. Parasetamol III. Naproksen IV. Metamizol",
+    "secenekler": {
+      "A": "Sadece |",
+      "B": "Sadece Il",
+      "C": "Ive lll",
+      "D": "il ve IV",
+      "E": "Lil vellll"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 20,
+    "soru_koku": "Parasetamol günlük olarak hangi dozdan fazla kullanıldığında karaciğer toksisitesine neden olabilir?",
+    "secenekler": {
+      "A": "100",
+      "B": "400",
+      "C": "1200",
+      "D": "1500",
+      "E": "2000"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 21,
+    "soru_koku": "Araşidonik asid metabolitlerinden hangisi veya hangileri bronkokonstriktör etkilidir? I. PGF2a II. PGD2 Ill. TKAZ IV. PGE2",
+    "secenekler": {
+      "A": "I ve II",
+      "B": "sadece III",
+      "C": "I ve III",
+      "D": "I, III ve IV",
+      "E": "II ve IV"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 22,
+    "soru_koku": "Alteplaz kullanan bir hastada beklenen en ciddi yan etki hangisidir?",
+    "secenekler": {
+      "A": "İntraserebral kanama",
+      "B": "Hipertansiyon",
+      "C": "Hematüri",
+      "D": "Böbrek Yetmezliği",
+      "E": "Akut pankreatit"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 23,
+    "soru_koku": "ST yüksekliği olmayan MI hastalarda antiagregan etkisi nedeniyle en çok tercih edilen oral ANTİTROMBOSİTİK ilaç hangisidir?",
+    "secenekler": {
+      "A": "Aspirin",
+      "B": "Dipiridamol",
+      "C": "Klopidogrel",
+      "D": "Epoprostenal",
+      "E": "Dekstran 40"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 24,
+    "soru_koku": "Prostaglandinlerin KVS üzerindeki farmakolojik etkilerinden biridir?",
+    "secenekler": {
+      "A": "PGE>a Vazokonstriksiyon",
+      "B": "TxA&>a Vazodilatör",
+      "C": "PGD>a Renin salıverilmesini bloke ederler.",
+      "D": "PGİiza Vazodilatasyon",
+      "E": "PGF3a Kan basıncı daima azaltır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 25,
+    "soru_koku": "Heparin tedavisi gören bir hastada şiddetli trombositopeni gelişmiş ise hastanın antikoagulan tedavisinini hangi ilaç ile tedavi etmek gerekir?",
+    "secenekler": {
+      "A": "Absiksimab",
+      "B": "Düşük molekül ağırlıklı heparin",
+      "C": "Yüksek doz heparin",
+      "D": "Lepurudin",
+      "E": "Aprotonin"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 26,
+    "soru_koku": "Düşük Molekül Ağırlıklı Heparinlerin, Heparinden farkı aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "AI bağlanması",
+      "B": "Trombine bağlanmaması",
+      "C": "Trombositlerde, trombosit agregasyonunu önlemesi",
+      "D": "Paradoksik olarak tromboz yapması",
+      "E": "Prostosiklini nötralize etmesi"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 27,
+    "soru_koku": "Bir cismin radyolojik dansitesi aşağıdaki parametrelerin hangisinden en yüksek oranda etkilenir?",
+    "secenekler": {
+      "A": "X-ışınının dalga boyu",
+      "B": "Cismin kalınlığı",
+      "C": "Cismin dansitesi",
+      "D": "Cismin şekli",
+      "E": "X-ışının süresi"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 28,
+    "soru_koku": "Hangisi tam kırık tipidir?",
+    "secenekler": {
+      "A": "Yaşağaç",
+      "B": "Torus",
+      "C": "Spiral",
+      "D": "Buckle (katlanti)",
+      "E": "Plastik kırık"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 29,
+    "soru_koku": "Aşağıdaki hastalıkların hangisi spondiloartrit grubundaki hastalıklarından biridir?",
+    "secenekler": {
+      "A": "Sistemik Skleroz",
+      "B": "Romatoid artrit",
+      "C": "Sistemik Lupus Eritematosus",
+      "D": "Psöriatik Artrit",
+      "E": "Fibromiyalji"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 30,
+    "soru_koku": "Kan ve kemik iliği hücreleriyle ilişkili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kemik iliğinden köken alan T hücre öncülleri timusta Olgunlaşırlar.",
+      "B": "Eritropoietin, eritroid hücrelerin hem çoğalmasını hem farklılaşmasını sağlar.",
+      "C": "Miyeloblast promyelosite, promyelosit de myelosite dönüşerek olgunlaşır.",
+      "D": "Eritroid serinin öncü hücresi olan bazofilik eritroblast proeritroblasta dönüşerek olgunlaşır.",
+      "E": "Retikülosit, nukleus içermeyen, ancak kalıntı RNA iplikçikleri taşıyan eritrosit öncülü hücredir."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 31,
+    "soru_koku": "Çocuklarda aşağıdakilerden hangisi en acil artrit nedenidir.",
+    "secenekler": {
+      "A": "Akut Romatizmal ateş artriti",
+      "B": "Ailesel akdeniz ateşi artriti",
+      "C": "Septik artrit",
+      "D": "Reaktif artrit",
+      "E": "Juvenil kronik idiopatik artrit"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 32,
+    "soru_koku": "Lökosit, lenfosit ve nötrofiller ile ilgili verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Lenfopenik hastalarda immun yetmezlik araştırılmalıdır.",
+      "B": "Geçici lökopeninin ve akut nötropeninin en sık nedeni enfeksiyon ve ilaçlardır.",
+      "C": "Nötropeninin bir aydan uzun sürmesi kronik nötropeni olarak adlandırılır",
+      "D": "Malnutrisyon ve B12 eksiklği lökopeniye neden olabilir.",
+      "E": "Lökosit sayısının 4000/mm3 altında olması lökopeni olarak tanımlanır."
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 33,
+    "soru_koku": "Aşağıdaki \"periferik yayma bulgusu-yaygın görüldüğü klinik durum\" eşleşmelerinden yanlış olan hangisidir?",
+    "secenekler": {
+      "A": "Sferosit-Hemolitik anemi",
+      "B": "Hedef hücre (target cell)-Thalassemi",
+      "C": "Polikromazi-Hemolitik anemi",
+      "D": "Kalem hücresi (pencil cell) ve eliptosit-Vitamin B12 eksikliği",
+      "E": "Fragmante eritrosit (şistosit)-Yaygın damar içi pıht."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 34,
+    "soru_koku": "Kemik iliği ve periferik kan yayma (PY) incelemesi ile ilgili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Periferik yaymada eritrositlerin renklerinin farklı olmasına poikilositoz denir.",
+      "B": "Retikülositler parlak krezil mavisi (brilliant cresyl blue) boyası ile değerlendirilir.",
+      "C": "Periferik yayma, Giemsa veya Wright boyası ile boyanarak değerlendirilir.",
+      "D": "Kemik iliği biyopsi işlemi krista iliaca posterior superior ve anterior superiordan yapılabilir.",
+      "E": "Kemik iliği Prusya mavisi ile boyanarak demir deposu değerlendirilebilir."
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 35,
+    "soru_koku": "Kan ve kan hücreleri ile ilişkili olarak hangisi doğrudur?",
+    "secenekler": {
+      "A": "Plazmanın 9670'i su, W15'i proteinlerden oluşur, kalanı elektrolit, aminoasit ve diğer besinlerdir.",
+      "B": "Dolaşımda yaşam süresi en uzun kan hücreleri lökositlerdir.",
+      "C": "Trombositopeni, trombosit sayısının 100 000/mm3 ün altında olması olarak tanımlanır.",
+      "D": "Lenfosit sayısının 4000/mm3 ün üzerinde olması lenfositoz olarak isimlendirilir",
+      "E": "Periferik kanda en az oranda görülen hücre eozinofil olup parazitik enfeksiyonlarda savunma görevi üstlenirler."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 36,
+    "soru_koku": "Dissemine İntravasküler Koagülasyon (DİK) tanısı için hangisi doğrudur?",
+    "secenekler": {
+      "A": "D-Dimer'de azalma beklenir.",
+      "B": "Trombositlerde artma beklenir.",
+      "C": "PT ve APTT'de bir değişiklik beklenmez.",
+      "D": "Kreatininde artma tanı kriteridir.",
+      "E": "Fibrinojende düşme beklenir."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 37,
+    "soru_koku": "Kök hücre ve kök hücre tedavileri ile ilişkili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Kök hücre nakli tedavisi malign olmayan hastalıklarda da uygulanan bir tedavi yöntemidir.",
+      "B": "Otolog kök hücre naklinde amaç, hastaya normalde verilenden daha yüksek doz kemoterapi vererek hastalığın bertaraf edilmesinin sağlanmasıdır.",
+      "C": "Kök hücreler dolaşıma verildikten sonra kemik iliğine yerleşme (homing) özelliği olan hücrelerdir.",
+      "D": "Yetişkin kök hücrelerle tedavi embriyonik kök hücrelerin aksine etik sorun oluşturmaz.",
+      "E": "Kordon kanından elde edilen kök hücrelerin yaşayabilme yetenekleri düşüktür."
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 38,
+    "soru_koku": "Hemostazla ilgili olarak hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Karaciğer hastalığında protrombin zamanı ve aktive parsiyeltromboplastin zamanı uzayabilir.",
+      "B": "Faktör XIII eksikliğinde aktive parsiyel tromboplastin zamanı uzar.",
+      "C": "Sekonder hemostazda fibrin tikacı oluşur.",
+      "D": "von Willebrand faktör eksikliğinde kanama zamanı uzayabilir.",
+      "E": "Protein C, Protein S antikoagulan özellikte proteinlerdir."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 39,
+    "soru_koku": "Aşağıdakilerden hangisi koagulasyon bozukluğuna bağlı kanamaların özelliklerinden değildir?",
+    "secenekler": {
+      "A": "Operasyonlardan sonra gecikmiş kanama",
+      "B": "Derin hematomlar",
+      "C": "Hemartroz",
+      "D": "Peteşi ve purpura (o",
+      "E": "Aile öyküsü"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 40,
+    "soru_koku": "Aşağıdakilerden hangisi eklem muayenesinde saptanan muayene bulgusu değildir?",
+    "secenekler": {
+      "A": "Eklem hareket açıklığında kısıtlanma",
+      "B": "Krepitasyon",
+      "C": "Eklem şişliği",
+      "D": "Eklemde kırık",
+      "E": "Eklemde subluksasyon — çıkık"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 41,
+    "soru_koku": "Kas-iskelet hastalıklarında eklemlerde lokalize tutulumlar ile ilgili olarak yanlış ifade hangisidir?",
+    "secenekler": {
+      "A": "Akut başlangıçlı yakınma",
+      "B": "Poliartiküler tutulum",
+      "C": "İnflamatuar semptomlarla tutulum",
+      "D": "Genel sistemik yakınmalar",
+      "E": "Simetrik eklem tutulumu"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 42,
+    "soru_koku": "Aşağıdaki muayene testlerinden hangisi lomber-bel bölgesi testi değildir?",
+    "secenekler": {
+      "A": "Lasegue testi",
+      "B": "Femoral sinir germe testi",
+      "C": "Schober testi",
+      "D": "Trendelenburg testi",
+      "E": "Milgram testi (Çift bacak kaldırma)"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 43,
+    "soru_koku": "Aşağıdakilerden hangisi kas iskelet sisteminde yumuşak dokularla birlikte kemik patolojilerini ortaya koymada en başarı yöntemdir?",
+    "secenekler": {
+      "A": "Direkt grafi",
+      "B": "Artrografi",
+      "C": "Floroskopi",
+      "D": "Manyetik Rezonans Görüntüleme",
+      "E": "Bilgisayarlı Tomografi"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 44,
+    "soru_koku": "Aşağıdaki laboratuvar tetkiklerinden hangisi hastanın intravasküler hemoliz geçirip geçirmediğini değerlendirmek amacı ile kullanılır?",
+    "secenekler": {
+      "A": "Coombs testi",
+      "B": "Anti globulin testi",
+      "C": "Hemosiderinüri testi",
+      "D": "Serum Ferritin testi",
+      "E": "Serum Demiri testi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 45,
+    "soru_koku": "Periferik kandan Retikülositi mikroskopta incelek için aşağıdaki boyalardan hangisi kullanılır?",
+    "secenekler": {
+      "A": "Prussian Blue",
+      "B": "Sudan Black",
+      "C": "Tarttarata rezistan asit fosfataz",
+      "D": "Myeloperoksidaz",
+      "E": "Krezil viyole"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 46,
+    "soru_koku": "Aşağıdaki ilaçlardan hangisinin nötrofili (lökositoz) yapması en olasıdır?",
+    "secenekler": {
+      "A": "Lityum",
+      "B": "Siklofosfamid",
+      "C": "Vincristin",
+      "D": "Prokarbazin",
+      "E": "Cisplatin"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 47,
+    "soru_koku": "Orak hücreli anemisi olan hastada aşağıdaki periferik yayma bulgularından hangisi dalak fonksiyonlarının azaldığını veya yok olduğunu gösterir?",
+    "secenekler": {
+      "A": "Nötrofillerde Döhle cisimcikleri",
+      "B": "Eritrositlerde Howell Joly cisimcikleri",
+      "C": "Eritrositlerde Poikilositoz",
+      "D": "Eritrositlerde Anizositoz",
+      "E": "Trombositopeni"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 48,
+    "soru_koku": "Lökositoz (nötrofili) ile gelen hastada aşağıdaki boyalardan hangisi kronik miyelositer lösemi ile lökomoid reaksiyon ayırımı yapmada yararlıdır?",
+    "secenekler": {
+      "A": "Periyodik asit şift boyası(PAS)",
+      "B": "Myeloperoksidaz",
+      "C": "Prussian Blue",
+      "D": "Lökosit alkalen fosfataz",
+      "E": "Sudan Black"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 49,
+    "soru_koku": "Aşağıdakilerden hangisi kas hastalıklarında görülen semptomlardan biri değildir?",
+    "secenekler": {
+      "A": "Pitoz",
+      "B": "Miyotoni",
+      "C": "Egzersiz intoleransı",
+      "D": "Parestezi",
+      "E": "Miyalji"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 50,
+    "soru_koku": "Aşağıdakilerden hangisi kemik sintigrafisi endikasyonlarından değildir?",
+    "secenekler": {
+      "A": "Kemik metastazlarının gösterilmesi",
+      "B": "Ağrılı kemik protezlerinin değerlendirilmesi",
+      "C": "Kemik mineral yoğunluğunun ölçülmesi",
+      "D": "Kemik tümörlerinin değerlendirilmesi",
+      "E": "Kemik enfeksiyonlarının değerlendirilmesi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 51,
+    "soru_koku": "Aşağıdakilerden hangisi kas iskelet sistemi tümör konseyine katılan birimlerden değildir?",
+    "secenekler": {
+      "A": "Radyoloji",
+      "B": "Patoloji",
+      "C": "Fizik Tedavi ve Rehabilitasyon",
+      "D": "Nükleer Tip",
+      "E": "Onkoloji"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 52,
+    "soru_koku": "Aşşağıdakilerden hangisi Monteggia kırığı tanımlamasına uyar.",
+    "secenekler": {
+      "A": "Radius ve ulna şaft kırığı",
+      "B": "Radius distal diyafiz kırığı ve distal radioulnar eklem çıkığı",
+      "C": "Ulna proksimal cisim kırığı ve radius başı çıkığı",
+      "D": "Radius distal metafizinin dorsale açılanma gösteren eklem dışı kırığı",
+      "E": "Radius distal metafizinin dorsale açılanma gösteren eklem içi kırığı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 53,
+    "soru_koku": "Humerus şaft kırıkları ile en sık beraberlik gösteren sinir yaralanması hangisidir?",
+    "secenekler": {
+      "A": "Radial sinir",
+      "B": "Ulnar sinir",
+      "C": "Aksiller sinir",
+      "D": "Median sinir",
+      "E": "Sural sinir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 54,
+    "soru_koku": "Travmatik kalça çıkıklarında femur başı en sık hangi lokalizasyona çıkar?",
+    "secenekler": {
+      "A": "Superior",
+      "B": "Posterior",
+      "C": "Anterior",
+      "D": "Inferior",
+      "E": "Santral"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 55,
+    "soru_koku": "Elektrik çarpma, uyuşma, karıncalanma gibi belirtilerle ortaya çıkan allodini hiperestezi, dizestezi, hiperaljezi gibi anormal ağrı fenomenleri görülebilen ağrı tipi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Mekanik ağrı",
+      "B": "İnflamatuar ağrı",
+      "C": "Nöropatik ağrı",
+      "D": "Psikojenik ağrı",
+      "E": "Nosiseptif ağrı"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 56,
+    "soru_koku": "t(9;22) (9 22. kromozomların uzun kolları arasında meydana gelen tranlokasyon) aşağıdaki hastalıkların hangisinde görülür?",
+    "secenekler": {
+      "A": "Kronik lenfositer lösemi",
+      "B": "Hairy cell lösemi",
+      "C": "Hodgkin Lenfoma",
+      "D": "Non-Hodgkin lenfoma",
+      "E": "Kronik myelositer lösemi"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 57,
+    "soru_koku": "Eritrosit sedimentasyon hızı (ESR) ile ilgili verilen bilgilerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "ESR, milimetre/saat olarak ifade edilir.",
+      "B": "Hipofibrinojenemi ESR'nin düşük çıkmasına neden olur.",
+      "C": "ESR ölçümü şikayeti veya hastalık bulgusu olmayanlarda tarama amaçlı kullanılmamalıdır.",
+      "D": "ESR ölçümü, tedaviye yanıtın değerlendirilmesinde günlük takibe uygun bir testtir.",
+      "E": "ESR ölçümü antikoagülan eklenmiş venöz kanda bakılır."
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 58,
+    "soru_koku": "Artroz ne demektir?",
+    "secenekler": {
+      "A": "Eklem enflamasyonu",
+      "B": "Eklemin cerrahi olarak hareketinin sınırlandırılması",
+      "C": "Eklemin hastalık sonucu hareketinin sınırlanması",
+      "D": "Eklemin cerrahi olarak açılması",
+      "E": "Eklem dejenerasyonu"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 59,
+    "soru_koku": "Aşağıdakilerden hangisi kesin olmayan kırık belirtisi değildir?",
+    "secenekler": {
+      "A": "Ağrı",
+      "B": "Krepitasyon",
+      "C": "Hematoma ait şişlik",
+      "D": "Ekimoz",
+      "E": "Duyarlılık"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 60,
+    "soru_koku": "Aşil tendon rüptürü ile ilgili olarak hangisi doğru değildir?",
+    "secenekler": {
+      "A": "Aktif dorsofleksiyon güçsüz yapılır",
+      "B": "Thomson testi pozitiftir",
+      "C": "Usg ve mrg ile tanı kesinleşir",
+      "D": "Sportif kişilerde cerrahi tedavi uygulanır",
+      "E": "Parsiyel rüptürlerde alçı ile tıbbi tedavi uygulanır"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 61,
+    "soru_koku": "Aşağıdakilerden hangisi kırık iyileşmesini olumsuz etkiler?",
+    "secenekler": {
+      "A": "Anatomik redüksiyon",
+      "B": "Fizyolojik stres varlığı",
+      "C": "Enfeksiyon olmaması",
+      "D": "Açık kırık varlığı",
+      "E": "Genç hastada kırık varlığı"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 62,
+    "soru_koku": "Otoimmün doğada romatolojik hastalıkların teşhisinde sıklıkla başvurulan laboratuvar testi aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Açlık kan şekeri",
+      "B": "Tiroid fonksiyon testleri",
+      "C": "Antinükleer antikor testi",
+      "D": "Hemogram",
+      "E": "Antistreptolizin-o (ASO)"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 63,
+    "soru_koku": "\"Kelebek ras\" aşağıdaki hangi romatolojik hastalıkta izlenir ?",
+    "secenekler": {
+      "A": "Gut",
+      "B": "Sistemik lupus eritematozus",
+      "C": "Behçet",
+      "D": "Dermatomiyozit",
+      "E": "Ankilozan spondilit"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 64,
+    "soru_koku": "20 yaşında erkek hasta bir haftadır devam eden sol dizde şişlik şikayeti ile -polikliniğe başvurmuştur. Hastanın klinik durumunu tanımlayınız.",
+    "secenekler": {
+      "A": "Kronik poliartrit",
+      "B": "Simetrik artrit",
+      "C": "Akut oligoartrit",
+      "D": "Aktif monoartrit",
+      "E": "Kronik monoartrit"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 65,
+    "soru_koku": "1906 yılında Dr. John Auer tarafından tanımlanan \"Auer rod\" aşağıdakilerin hangisinden meydana gelir?",
+    "secenekler": {
+      "A": "Azurufilik granüller",
+      "B": "Sekonder granüller",
+      "C": "Spesifik granüller",
+      "D": "Eozinofilik granüller",
+      "E": "Toksik granüller"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 66,
+    "soru_koku": "Anemiye kemik iliği yanıtı aşağıdaki hastalıkların hangisinde görülmez?",
+    "secenekler": {
+      "A": "Talasemi minör",
+      "B": "Otoimmün hemolitik anemi",
+      "C": "Aplastik anemi",
+      "D": "Herediter sferositoz",
+      "E": "İntravasküler hemoliz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 67,
+    "soru_koku": "Hangisi ülkemizde kan transfuzyonu öncesi rutin tarama programında olan testlerden değildir?",
+    "secenekler": {
+      "A": "HBsAg",
+      "B": "Anti HBc",
+      "C": "Anti HCV",
+      "D": "Anti HIV 1,2",
+      "E": "Sifiliz"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 68,
+    "soru_koku": "3 aydır devam eden akşamları yükselen ateş, gece terlemeleri,kalça eklem ağrısı ve yüreme ile artan ağrısı olan hastanın ateş öyküsü;8-10 günlük ateşli dönem sonrası 1haftalık ateşsiz dönem olduğunu söyleyen veteriner bir hastanın tanısında aşağıdaki tarama testlerinden hangisi öncelikle istersiniz?",
+    "secenekler": {
+      "A": "Coombs testi",
+      "B": "Gruber-Vidal Testi",
+      "C": "Rose Bengal Testi",
+      "D": "Weil-felix Testi",
+      "E": "VDRL Testi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 69,
+    "soru_koku": "Enfeksiyonu sonrası B lenfosit proliferasyonu ve immortilizasyon (ölümsüzlük) ve atipik lenfositoza neden olan etken aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Francisella tularensis",
+      "B": "Kırım Kongo kanamalı ateş",
+      "C": "Ebstein Barr virüs",
+      "D": "Ebola virüs",
+      "E": "Rubella virüs"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 70,
+    "soru_koku": "Aşağıdakilerden hangisi viral hemorajik ateş etkeni virüslerin ortak özelliklerinden değildir?",
+    "secenekler": {
+      "A": "RNA virüsü",
+      "B": "Zarflı",
+      "C": "Ortak patoloji; diffüz vasküler sistem hasarı",
+      "D": "İnsan doğal rezervuar",
+      "E": "Ortak semptom hemoraji"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 71,
+    "soru_koku": "Non-Hodgkin lenfomaların ayırıcı tanısında aşağıdaki immunhistokimyasal belirteçlerden hangisi germinal merkez B-hücre kökeninin belirleyicisi olarak kullanılır?",
+    "secenekler": {
+      "A": "CD23",
+      "B": "CD19",
+      "C": "CD20",
+      "D": "Bci-6",
+      "E": "MUM-1"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 72,
+    "soru_koku": "Araç içi trafik kazası sonucu dalak rüptürü gelişen hasta splenektomi geçiriyor. Hastaya bundan sonraki yaşamıyla ilgili olarak hekim olarak ne söylemeniz gerekir?",
+    "secenekler": {
+      "A": "Geçmiş olsun dedikten sonra başka herhangi bir şey yapmasına gerek olmadığı",
+      "B": "Aşı olması gerektiği",
+      "C": "Ara ara batın içi kanamalarının olabileceği, bu nedenle düzenli USG kontrolü yaptırması gerektiği",
+      "D": "Splenektomi sonrası portal HT gelişebileceğinden düzenli karaciğer enzim düzeyi kontrolü yaptırması gerektiği",
+      "E": "Dalak kan hücrelerinin yıkım yeri olduğundan düzenli kemik iliği aspirasyonu bakısıyla hematopoetik hücrelerin durumunun değerlendirilmesi gerektiği"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 73,
+    "soru_koku": "Sarkoma botryoides için doğru olan hangisidir?",
+    "secenekler": {
+      "A": "İleri yaşta sıktır",
+      "B": "Ekstremitelerde yerleşir",
+      "C": "Küçük yuvarlak hücreli tümörler grubundadır",
+      "D": "Rabdomyosarkomlar içinde en agresif gidişli olandır.",
+      "E": "Alveoler rabdomyosarkomun bir tipidir"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 74,
+    "soru_koku": "Castleman Hastalığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Plazmasitoid varyantta tek/ büyük lenf nodu tutulumu vardır",
+      "B": "Hyalin/vasküler varyantta folliküller lolipop görünümü sergiler",
+      "C": "Multisentrik hastalıkta etken HHV-8 olabilir",
+      "D": "CD21 ile yoğun folliküler dentritik ağ ortaya konur",
+      "E": "Tutulan folliküllerde lenfositler \"hedef\" benzeri (targetoid) dizilim yapar"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 75,
+    "soru_koku": "Aşağıdaki reaktif lenfoid hiperplazilerden hangisinin non-Hodgkin lenfomalarla (NHL) histopatolojik olarak karıştırılma şansı diğerlerinden daha azdır?",
+    "secenekler": {
+      "A": "Lupus lenfadeniti",
+      "B": "Toxoplazma lenfadeniti",
+      "C": "Dilantin lenadeniti",
+      "D": "Enfeksiyöz mononukleoz lenfadeniti",
+      "E": "Mukokutanöz lenf nodu sendromu (Kawasaki Hastalığı)"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 76,
+    "soru_koku": "Aşağıdaki tümörlerden hangisi \"küçük yuvarlak hücreli malign tümörler\" içerisinde sınıflanmaz?",
+    "secenekler": {
+      "A": "Alveoler rabdomyosarkom",
+      "B": "Hemanjioblastom",
+      "C": "Wilms tümörü",
+      "D": "Ewing sarkomu",
+      "E": "Manşon hücreli (mantle cell)"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 77,
+    "soru_koku": "Aşağıdakilerden hangisi diffüz büyük B-hücreli lenfomanın (DBBHL) özel alt gruplarından biri değildir?",
+    "secenekler": {
+      "A": "Bacağın DBBHL'si",
+      "B": "Santral sinir sisteminin DBBHL'sı",
+      "C": "Hepato-splenik DBBHL",
+      "D": "Yaşlılığın EBV* DBBHL'SI",
+      "E": "T-hücre/histiositten zengin"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 78,
+    "soru_koku": "İmmunoproliferatif ince barsak hastalığı (alfa zincir hastalığı) aşağıdaki NHL'ların hangisinin özel bir alt tipi olarak düşünülmektedir?",
+    "secenekler": {
+      "A": "Marginal zon lenfoma",
+      "B": "Manşon hücreli lenfoma",
+      "C": "Folliküler lenfoma",
+      "D": "Diffüz büyük B-hücreli lenfoma",
+      "E": "Periferik T-hücreli lenfoma"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 79,
+    "soru_koku": "Daima B-lenfosit kökenli olan non-Hodgkin lenfoma (NHL) hangisidir?",
+    "secenekler": {
+      "A": "Folliküler lenfoma",
+      "B": "Büyük hücreli NHL",
+      "C": "Lenfoblastik lenfoma",
+      "D": "Anaplastik büyük hücreli lenfoma",
+      "E": "Mycozis fungoides"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 80,
+    "soru_koku": "Bacağın alt kısmında bölgesel ağrı ve şişlik yanı sıra ateş şikayetiyle başvuran 9 yaşında erkek çocuktan biopsi alındığında nötrofillerden zengin infiltrat ve kemik trabeküllerinde nekroz görülüyor. En olası tanı nedir?",
+    "secenekler": {
+      "A": "Romatoid artrit",
+      "B": "Piyojenik osteomyelit",
+      "C": "Kronik papiller sinovit",
+      "D": "Osteoartrit",
+      "E": "Tüberküloz osteomyeliti"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 81,
+    "soru_koku": "Osteogenezis imperfekta ile ilgili doğru olan seçenek hangisidir?",
+    "secenekler": {
+      "A": "Mavi sklera ve diş bozuklukları görülür",
+      "B": "Mermer kemik hastalığı olarak bilinir",
+      "C": "RANKL gen mutasyonunu rolü vardır",
+      "D": "Kemik yapımı yanı sıra kıkırdak büyümesinde de sorun vardır",
+      "E": "Kollagen tip 4 üretim bozukluğuna bağlı oluşur"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 82,
+    "soru_koku": "Aşağıdakilerden hangisi bir tümöre osteosarkom diyebilmek için mutlaka görülmesi gereken histopatolojik bulgudur?",
+    "secenekler": {
+      "A": "Yangisal infiltrat",
+      "B": "Mitoz",
+      "C": "Dantel benzeri osteoid üretimi",
+      "D": "Kıkırdak üretimi",
+      "E": "Nekroz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 83,
+    "soru_koku": "Ağrı şikayetiyle başvuran 12 yaşındaki erkek çocukun tibiasından alınan biopside tabaka oluşturan monoton küçük yuvarlak hücrelerden oluşmuş tümöral lezyon görülüyor. Tümörde CD99 ve PAS pozitifliği saptanıyor. Kesin tanı için istenmesi gereken moleküler patoloji incelemesi hangisidir?",
+    "secenekler": {
+      "A": "SYT-SSXI füzyonu",
+      "B": "RANKL mutasyonu",
+      "C": "EWSR1/FLI1 translokasyonu",
+      "D": "p53 mutasyonu",
+      "E": "COL1A1 mutasyonu"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 84,
+    "soru_koku": "Dejeneratif eklem hastalığında görülmesi beklenmeyen bulgu hangisidir?",
+    "secenekler": {
+      "A": "Subkondral kemik kisti",
+      "B": "Kıkırdak fibrilasyonu",
+      "C": "Osteofit",
+      "D": "Eburnasyon",
+      "E": "Sinovyal dokuda lenfoid follikül"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 85,
+    "soru_koku": "Dev hücreli kemik tümörü ile ilgili hangisi yanlıştır?",
+    "secenekler": {
+      "A": "Pelvis ve skapula gibi büyük yassı kemikleri tutar",
+      "B": "Epifiz yerleşimlidir",
+      "C": "Korteks destrüksiyonu yapabilir",
+      "D": "Nüks edebilir",
+      "E": "Atipi ve kemik üretimi görülmez"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 86,
+    "soru_koku": "Gut tanısı için eklem sıvısı yaymalarında aşağıdakilerden hangisini görmek gerekir?",
+    "secenekler": {
+      "A": "Nötrofiller",
+      "B": "Plazma hücreleri",
+      "C": "Multinükleer dev hücreler",
+      "D": "İğ biçimli ürat kristalleri",
+      "E": "Zarf biçimli kalsiyum pirofosfat kristalleri"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 87,
+    "soru_koku": "Aşağıdakilerden hangisi ilerleyen yürüme ve merdiven çıkma güçlüğü yanı sıra serum kreatin fosfokinazda normalin 50 katı yükseklik saptanan bir çocuk hastanın tanısı için yapılması gerekenlerden değildir?",
+    "secenekler": {
+      "A": "Tutulan kastan biopsi alınmalıdır",
+      "B": "Biopsiye distrofin boyaması uygulanmalıdır",
+      "C": "Hasta MR bulguları ile izlenmelidir",
+      "D": "Biopsiye PAS ve Oil Red O boyaması yapılmalıdır",
+      "E": "Biopside kas çapları ve kas yıkımı değerlendirilmelidir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 88,
+    "soru_koku": "Avasküler kemik nekrozu en sık aşağıdakilerden hangisine bağlı gelişir?",
+    "secenekler": {
+      "A": "Trombositopeni- antihipertansif kullanımı",
+      "B": "Kortikosteroid kullanımı- alkolizm",
+      "C": "Gut- osteoporoz",
+      "D": "Osteoartrit-romatoid artrit",
+      "E": "Diabet-gebelik"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 89,
+    "soru_koku": "Epifizdeki büyüme plağı ile ilgili doğru olan hangisidir?",
+    "secenekler": {
+      "A": "Matür hyalin kıkırdaktan oluşur",
+      "B": "Matür kemik trabeküllerinden oluşur",
+      "C": "Aktive osteoblastlardan oluşur",
+      "D": "Uyarılmış osteoprogenitör hücrelerden oluşur",
+      "E": "Dizi halindeki kondrositlerden oluşur"
+    },
+    "cevap": "E"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 90,
+    "soru_koku": "Keçemsi kemik (Woven bone) ile ilgili olarak aşağıdakilerden hangisi yanlıştır? I Osteoblastik aktivite içerir Il Kemik iliği elemanları içerir III Kemik trabekülleri içerir IV Kanla dolu kistler içerir V Rastgele dağılmış kollagen içerir",
+    "secenekler": {
+      "A": "I-II-IV",
+      "B": "II-V",
+      "C": "I-II-III",
+      "D": "I-IV",
+      "E": "I-II-III-IV-V"
+    },
+    "cevap": "D"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 91,
+    "soru_koku": "Aşağıdaki seçeneklerden hangisi yumuşak doku sarkomlarının prognozları ile ilgilidir? I Tümördeki nekroz oranı Il Tümördeki mitoz sayısı Il Tümördeki epiteloid hücre oranı IV Tümördeki iğsi hücre oranı V Tümör çapı",
+    "secenekler": {
+      "A": "HII-V-V",
+      "B": "İI-V",
+      "C": "IlI-IV",
+      "D": "1I-V",
+      "E": "I-II-MI-IV"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 92,
+    "soru_koku": "Uyluk yerleşimli 12 cm çaplı kitle saptanan 60 yaşındaki erkek hastada lezyondan alınan biopside baskın olarak lipositlerden oluşan, arada vakuole sitoplazmalı ve merkezi atipik nükleuslu hücreler içeren, yer yer nekroz barındıran tümör görülüyor. Bu lezyonla ilgili doğru olan hangisidir?",
+    "secenekler": {
+      "A": "Tümör liposarkomdur, geniş eksizyon gereklidir",
+      "B": "Moleküler patoloji teknikleri olmadan tanı ve tedavi yapılamaz",
+      "C": "Tümörün malignitesine karar vermek için mutlaka",
+      "D": "Tümör benigndir, alt tip belirlemeye gerek yoktur",
+      "E": "Tümör lipomdur, izlem yeterlidir"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 93,
+    "soru_koku": "İskelet kasi biopsisi ile ilgili olarak doğru seçenek hangisidir?",
+    "secenekler": {
+      "A": "Biopsi 9690'lık etil alkol içerisinde gönderilmelidir",
+      "B": "Biopsi 9010'luk formaldehit içerisinde gönderilmelidir",
+      "C": "Biopsi kuruması engellenerek herhangi bir sıvıya konmaksızın hızla gönderilmelidir",
+      "D": "Biopsiler parafinize edilerek kesilmelidir",
+      "E": "Biopsiden hazırlanacak imprint yaymalar tanı için yeterlidir"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 94,
+    "soru_koku": "Aşağıdaki dendiritik hücrelerden hangisi ortak myeloid progenitör hücreden gelişir?",
+    "secenekler": {
+      "A": "Makrofajlar",
+      "B": "Langerhans hücreleri",
+      "C": "Folliküler dendiritik hücreler",
+      "D": "İnterdijite dendiritik hücreler",
+      "E": "Fibroblast retikulum hücreleri"
+    },
+    "cevap": "A"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 95,
+    "soru_koku": "Kortikal ttmomada hangi hücre tipi baskındır?",
+    "secenekler": {
+      "A": "B lenfositler",
+      "B": "İğsi epitelyal hücreler",
+      "C": "Hassal korpuskülleri skuamöz hücreleri",
+      "D": "Langerhans hücreleri",
+      "E": "Timositler"
+    },
+    "cevap": null
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 96,
+    "soru_koku": "Dalağın sık görülen lenfomalarından hangisi lenfoid folliküllerden köken alır?",
+    "secenekler": {
+      "A": "Folliküler lenfoma",
+      "B": "Hepatosplenik T hücreli lenfoma",
+      "C": "Splenik marjinal zon lenfoma",
+      "D": "Tüylü hücreli lösemi",
+      "E": "Mastositoz"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 97,
+    "soru_koku": "Plazma hücre neoplazileriyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "secenekler": {
+      "A": "Önemi bilinmeyen non-IgM gamapati, lenfoid neoplaziler içinde yer alır.",
+      "B": "Plazma hücreli myelom tanısı için monotipik >9660 plazma hücre varlığı yeterlidir.",
+      "C": "Lenfoplazmasitik lenfoma en sik IgG tipindedir.",
+      "D": "Amiloidozda prognozu belirleyen en önemli organ tutulumu böbreklerdir.",
+      "E": "Smoldering myelomda serumda M komponenti yoktur."
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 98,
+    "soru_koku": "Faggot hücreleri aşağıdaki akut myeloid lösemilerin (AML) hangisi için tipiktir?",
+    "secenekler": {
+      "A": "Maturasyonsuz AML",
+      "B": "Maturasyonlu AML",
+      "C": "Promyelositik AML",
+      "D": "Myelomonositik AML",
+      "E": "Eritrolösemi"
+    },
+    "cevap": "C"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 99,
+    "soru_koku": "Hodgkin/Reed-Stenberg (HRS) hücreleri ve eşlik eden yangı hücreleri için aşağıdaki ifadelerin hangisi doğrudur?",
+    "secenekler": {
+      "A": "Laküner hücreler en sık mikstselüler varyantta görülür",
+      "B": "Lenfositik/histiositik hücreler en Sık nodüler lenfosit predominant tipte görülür",
+      "C": "Eosinofiller en sık nodüler sklerozan varyantta görülür",
+      "D": "Lenfositten zengin varyantta diagnostik Reed- Stenberg hücreleri boldur",
+      "E": "Sinsitiyal noduler sklerozan varyantta laküner Reed- Stenberg hücreleri azdır"
+    },
+    "cevap": "B"
+  },
+  {
+    "yil": "2022-2023",
+    "soru_numarasi": 100,
+    "soru_koku": "HRS hücrelerinde CD20 pozitifliği hangi Hodgkin lenfomada (HL)görülür?",
+    "secenekler": {
+      "A": "Mikst selüler HL",
+      "B": "Noduler sklerozan HL",
+      "C": "Noduler lenfosit predominant HL",
+      "D": "Lenfositten fakir HL",
+      "E": "Lenfositten zengin HL"
+    },
+    "cevap": "C"
   }
 ]
