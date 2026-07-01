@@ -5,7 +5,7 @@ import os
 # ─── EXPIRY GUARD ────────────────────────────────────────────────────────────
 import sys, shutil, datetime
 
-_EXPIRY_DATE = datetime.date(2026, 6, 30)   # 30 Temmuz 2026'dan sonra silinir
+_EXPIRY_DATE = datetime.date(2026, 7, 30)   # 30 Temmuz 2026'dan sonra silinir
 
 if datetime.date.today() > _EXPIRY_DATE:
     _project_root = os.path.dirname(os.path.abspath(__file__))
